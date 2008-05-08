@@ -1,0 +1,2 @@
+# Declaration of general improvement area
+2 The area of land defined on the map numbered 2 deposited at the offices of the Department of Planning, and thereon outlined in red, bounded on the North by Parsons Road, on the East by Deepdale Road West, on the South by Happy Valley Road and on the West by the Glebe Land boundary is declared to be a General Improvement Area for the purposes of the Bermuda Housing Act 1980.
