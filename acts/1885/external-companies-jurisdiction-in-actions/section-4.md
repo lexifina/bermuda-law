@@ -1,0 +1,2 @@
+# Ascertainment of assets
+4 After any judgment or decree is given, or any order is made, in any suit against the defendant company, the Supreme Court, or a Judge in Chambers, may cause the agents or managers of the company to be examined from time to time on oath before the Court or a Judge concerning the assets or property of the company in Bermuda; and the Court or Judge may make such order therein as to justice may pertain, and such order may, if the Court or Judge so orders, be enforced against any agent or manager personally.

@@ -1,0 +1,2 @@
+# Appeal from judge in chambers
+5 From every order of any Judge in Chambers made under this Act there shall always lie an appeal to the Supreme Court; and the Court shall have power, by any special or general order, to direct how such appeal shall be conducted, and also shall have power on any such appeal to vary or rescind the order appealed against, or to make such other order in the matter as the Court thinks fit.
