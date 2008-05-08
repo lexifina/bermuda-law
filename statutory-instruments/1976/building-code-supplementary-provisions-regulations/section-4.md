@@ -1,0 +1,2 @@
+# Further information
+4 Where plans have been submitted, or are deemed to have been submitted, to the Minister under these regulations, the Minister may by a direction in writing under his hand require the person submitting the plans to submit such further information, plans or drawings as may be specified in the direction and may withhold his certificate under regulation 5 until such time as the information, plans or drawings are submitted.
