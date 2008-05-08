@@ -1,0 +1,4 @@
+# Chapter of the Cathedral of Bermuda
+9 (1) On the 8th March, 1975, the Chapter of the Cathedral of Bermuda shall cease to be a body corporate.
+(2) The persons who immediately before the 8th March, 1975 are members of the Chapter of the Cathedral of Bermuda shall, on that date, continue to be members of the said Chapter until their successors are appointed, elected or take office in accordance with the canons and regulations for the time being in force respecting the same.
+(3) All real and personal estate whatsoever which, immediately before the 8th March, 1975, is vested in the body corporate known as the Chapter of the Cathedral of Bermuda shall, on the 8th March, 1975, vest without further assurance in the Cathedral Vestry for the purposes of the Cathedral of Bermuda or subject to the trusts (if any) upon which the same were theretofore held.
