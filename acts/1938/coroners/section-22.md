@@ -1,0 +1,9 @@
+# Application to Supreme Court by Attorney-General
+22 (1) If the Supreme Court, upon application made by or on behalf of the Attorney-General, is satisfied either —
+(a) that a Coroner refuses or neglects to hold an inquest which ought to be held touching a death; or
+(b) where an inquest touching a death has been held by the Coroner, that by reason of fraud, rejection of evidence, irregularity of proceedings, insufficiency of inquiry, or otherwise, it is necessary or desirable in the interests of justice that another inquest should be held,
+then the Supreme Court may order an inquest to be held touching such death, and may, if the Court thinks just, order the Coroner to pay such costs of and incidental to the application as to the Court seems just; and where an inquest has been already held the Court may quash the verdict on that inquest.
+(2) The Supreme Court may order that such inquest shall be held either by the same Coroner or by any other Coroner.
+(3) At any such inquest it shall not be necessary, unless the Supreme Court otherwise orders, to view the body, or to state that the inquest is taken on view of the body unless it is so taken.
+(4) The Supreme Court shall not quash any verdict merely for defect in form, but the Court may order the Registrar to amend any defect in the verdict or inquisition and any variance occurring between such verdict and the evidence offered in proof thereof, if the Court is of opinion that such defect or variance is not material to the merits of the case.
+(5) Without prejudice to the generality of the foregoing provisions of this section, the powers of the Supreme Court under the said provisions shall extend to and may be exercised where the Court is satisfied that by reason of the discovery of new facts or new evidence it is necessary or desirable in the interests of justice that an inquisition on an inquest previously held should be quashed, and that another inquest should be held.

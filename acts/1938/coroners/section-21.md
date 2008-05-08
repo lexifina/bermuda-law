@@ -1,0 +1,7 @@
+# Procedure where inquest adjourned to Supreme Court
+21 (1) Where an inquest has been adjourned to the Supreme Court, the Coroner shall forward a notice to that effect to the Registrar, with the depositions or written notes of the evidence taken by the Coroner on such inquest and the names of the jurors constituting the jury, and a judge shall as soon as may be fix a day for the adjourned inquest to be held before the Supreme Court.
+(2) jurors who served on such inquest shall be summoned to attend the adjourned inquest in such manner as a judge may direct and such jurors shall attend accordingly.
+(3) A judge may in respect of an adjourned inquest, direct that any witness shall be summoned to attend such inquest to give evidence on oath touching the same.
+(4) Any juror or witness not attending, after having been duly summoned, shall be liable to such fine not exceeding $720 as the Supreme Court may impose, so, however, that the Court shall have power to remit the whole or any part of such fine on being satisfied that the absence of such juror or witness was occasioned by reasonable cause.
+(5) At the adjourned inquest the judge composing the Court shall, after the taking of further evidence (if any) as aforesaid, charge the jury with respect to the evidence and the law applicable thereto, and the jury shall then consider their verdict.
+(6) If after two hours deliberation a majority of at least three-fourths of the jury do not agree on the verdict the judge composing the Court may at any time direct the jury to be discharged without giving a verdict.
