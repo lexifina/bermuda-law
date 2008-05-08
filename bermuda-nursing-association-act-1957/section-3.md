@@ -1,0 +1,2 @@
+# Limited liability of members
+3 The liability of each member of the Association for the debts or other legal obligations of the Association shall be limited to the amount (if any) for the time being owing by him to the Association by way of subscription or otherwise, except with respect to any debt or legal obligation of the Association for which such member has already agreed to be responsible, either alone or in conjunction with any other person; and the property and assets of the Association shall be liable for its debts and obligations,
