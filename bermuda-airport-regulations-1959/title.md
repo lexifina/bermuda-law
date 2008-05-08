@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+SR&O 12/1959
+BERMUDA AIRPORT REGULATIONS 1959
+[made under section 6 of the Civil Airports Act 1949 [title 23 item 1]
