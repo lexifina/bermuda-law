@@ -1,0 +1,2 @@
+# Minimum area of land for each animal grazed
+3 Subject to regulation 4 each animal kept shall be allowed not less than 1,000 square yards of land on which to move freely about and where more than one animal is kept within defined limits the area within those limits shall contain not less than 1,000 square yards of land upon which the animals can freely move about in respect of each animal kept therein.

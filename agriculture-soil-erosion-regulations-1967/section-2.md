@@ -1,0 +1,3 @@
+# Grazing of livestock
+2 No person shall keep or cause or permit any other person to keep animals otherwise than in accordance with these Regulations or in accordance with a permit issued under regulation 4:
+Provided that where animals are kept on an area which is defined in a licence issued to a zero grazing unit in accordance with the Agriculture (Control of Animal Diseases) Regulations 1947 [title 25 item 1(d)], and such keeping is in accordance with the terms of such licence and those Regulations, the person keeping such animals or causing or permitting such keeping shall be deemed to act in compliance with these Regulations.
