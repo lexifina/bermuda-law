@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+SR&O 46/1973
+CONTRIBUTORY PENSIONS (EXCEPTION FROM LIABILITY FOR CONTRIBUTIONS) REGULATIONS 1973
+[made under section 38 of the Contributory Pensions Act 1970 [title 18 item 7] and brought into operation on 6 August 1973]
