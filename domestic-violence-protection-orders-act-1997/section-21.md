@@ -1,0 +1,3 @@
+# Protection of respondent in certain circumstances
+21 (1) Where an agreement, including a mortgage or a lease of premises, provides that, if a respondent ceases to reside in his place of residence, a person (an "affected person") may take action that would be prejudicial to the interests of the respondent or a protected person, the affected person is not entitled to take that action if the respondent ceases to reside in his place of residence in obedience to a protection order.
+(2) Where the court is satisfied that an agreement referred to in subsection (1) exists in relation to a respondent, the court shall at the time of making a protection order direct the clerk to send a notice in the prescribed form to the affected person.
