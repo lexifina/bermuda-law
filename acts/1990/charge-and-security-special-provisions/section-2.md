@@ -1,0 +1,2 @@
+# Charge created or security given valid and enforceable
+2 Any charge purportedly created, or any security purportedly given, by a creditor in favour of a debtor over a debt due or to become due to that creditor from that debtor, for the purpose of securing any obligation of that creditor to that debtor, shall be valid and enforceable by that debtor to the same extent as if the charge had been created or security given, as the case may be, over that debt in favour of a person other than that debtor.
