@@ -1,0 +1,2 @@
+## SCHEDULE
+ALL THAT parcel of land containing One decimal point four one (1.41) hectares (or 3.48 acres) be the same more or less situate at Devon Springs in Devonshire Parish in the Islands of Bermuda bounded on the NORTH and EAST by a roadway known as St. Brendan's Lane on the SOUTHEAST by other land in the ownership of the Crown and on the SOUTHWEST by various pieces of land in private ownership and being the parcel of land outlined in red on Ordnance Map designated DWG No, 3/12/121 which may be inspected at the office of the Bermuda Housing Corporation.
