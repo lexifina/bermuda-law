@@ -1,0 +1,5 @@
+# Offences on board ship belonging to specified State
+1 Where an offence is alleged to have been committed on board any ship by the master or a member of the crew and the ship belongs to a State specified in the Schedule to this Order, proceedings for the offence shall not be instituted otherwise than at the request or with the consent of a consular officer of that State; unless—
+(a) the offence is alleged to have been committed by or against a person who is a citizen of the United Kingdom and Colonies or is otherwise comprised in the definition of "national of the receiving State" in section 1(2) of the Consular Relations Act 1971, or against a person other than the master or a member of the crew; or
+(b) the offence is one involving the tranquillity or safety of a port, or the law relating to safety of life at sea, public health, oil pollution, wireless telegraphy, immigration or customs; or
+(c) the offence is one comprised in the definition of "grave crime" in section 1(2) of the Consular Relations Act 1971.
