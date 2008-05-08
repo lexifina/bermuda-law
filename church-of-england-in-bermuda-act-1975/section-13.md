@@ -1,0 +1,2 @@
+# Powers of ecclesiastical corporations; acquisition, holding and disposal of personal property
+13 Each ecclesiastical corporation shall have power to acquire by purchase or exchange or by gift or bequest to such ecclesiastical corporation, personal property and to hold and administer the same for the use and benefit and for the purposes of such corporation or for or in trust for the promotion of Christian knowledge or for any lawful, religious, educational, charitable or benevolent purpose or object and to sell, exchange, mortgage or otherwise dispose of any such property.
