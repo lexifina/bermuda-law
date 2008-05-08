@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+BR 23/1987
+THE FIRE SERVICES (VOLUNTEER FIRE OFFICERS) (REMUNERATION AND ALLOWANCES) REGULATIONS 1987
+[made under section 17(1) of the Fire Services Act [title 10 item 15] and brought into operation on 5 June 1987]
