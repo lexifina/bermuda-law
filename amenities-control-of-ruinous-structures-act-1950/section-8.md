@@ -1,0 +1,3 @@
+# Default power in relation to section 7
+8 Without prejudice to section 7, where any requirement in a screening order or in a clearance order is not complied with within the time specified therein, the Minister may himself execute any or all of the work specified in the order; and any expenses incurred by the Minister in so doing shall, without limit of amount, be recoverable by the Minister from the person on whom the order was served before a court of summary jurisdiction in the manner provided in the Magistrates Act 1948 [title 8 item 15], for the recovery of a debt or liquidated demand.
+9 [repealed by 1987:24]
