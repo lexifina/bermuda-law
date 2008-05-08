@@ -1,0 +1,4 @@
+# Antenna and buildings
+42 (1) A licensee of a station in the Services shall ensure that the antenna and supporting structures are designed to be adequate for the loading specified by the Minister and are painted, lit and maintained responsible for Civil Aviation.
+(2) An antenna which crosses above or is liable to fall upon or to be blown onto any overhead utility wire or apparatus shall be guarded by the licensee to the reasonable satisfaction of the owner of such utility wire or apparatus concerned.
+(3) The issue of a licence or permit by the Minister shall not relieve the applicant of the necessity of obtaining planning permission for the construction of any works, buildings, antennae or other installations in accordance with the provisions of the Development and Planning Act 1974 [title 20 item 1] or any other relevant legislation regarding land development and planning.

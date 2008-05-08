@@ -1,0 +1,4 @@
+# Access to stations
+27 (1) A licensee shall not permit or suffer any unauthorized person to have access to the apparatus comprised in his station.
+(2) Each station shall be so installed and protected that it is not accessible to or capable of operation by individuals other than those duly authorized by and under the control of the licensee.
+(3) Provisions authorizing unattended operation of a repeater station or an automatic radionavigation station in certain circumstances, shall not be construed to change or diminish in any respect the responsibility of a licensee to maintain control over such station (including all transmitter units thereof), or for the proper functioning and operation of such station and its transmitter units in accordance with the terms of the licence or permit of such station, the Act and these Regulations.

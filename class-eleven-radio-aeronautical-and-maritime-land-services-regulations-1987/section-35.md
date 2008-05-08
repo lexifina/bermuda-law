@@ -1,0 +1,3 @@
+# Posting of station and operator licence permit or certificate
+35 (1) A licence or permit for a station in the Services other than an unattended station and any other instrument of station authorization, including the operators' certificate of competence, or a clearly legible photocopy thereof, shall be posted in a conspicuous place and in such a manner that all terms are visible at the place that the Minister considers to be the principal control point of the transmitter.
+(2) Posting of any other instruments of station authorization shall be done by affixing them to the wall at the posting location, or by enclosing them in a binder or folder which is retained at the posting location so that the documents will be readily available and easily accessible.
