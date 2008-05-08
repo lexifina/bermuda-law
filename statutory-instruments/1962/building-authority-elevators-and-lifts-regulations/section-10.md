@@ -1,0 +1,2 @@
+# Power of entry
+10 Any member of the Building Authority or an officer duly appointed by the Building Authority may, without the leave of the owner or occupier, enter upon any building or premises at all reasonable times for the purpose of ascertaining whether such building or premises contains an elevator or portable lift and, generally, for ascertaining whether these Regulations are being duly observed.
