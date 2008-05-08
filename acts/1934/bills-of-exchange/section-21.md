@@ -1,0 +1,4 @@
+# Capacity of parties
+21 (1) Capacity to incur liability as a party to a bill is coextensive with capacity to contract:
+Provided that nothing in this section shall enable a corporation to make itself liable as a drawer, acceptor, or indorser, of a bill unless it is competent to the corporation to do so under the law for the time being in force relating to corporations.
+(2) Where a bill is drawn or indorsed by an infant, minor, or corporation having no capacity or power to incur liability on a bill, the drawing or indorsement entitles the holder to receive payment of the bill, and to enforce it against any other party thereto.
