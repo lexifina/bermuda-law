@@ -1,0 +1,2 @@
+# Pruning or destruction of plant
+4 An Inspector shall have the power to prune or destroy diseased, infected or healthy plants if in his opinion it is necessary to prevent the occurrence, or increase of a plant disease or pest or its spread into adjoining land, but grants by way of compensation may be made by Government to persons if healthy plants are necessarily destroyed in the exercise of this power.
