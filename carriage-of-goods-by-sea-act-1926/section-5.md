@@ -1,0 +1,2 @@
+# Savings
+5 Nothing in this Act shall affect the operation of sections 446 to 450 both inclusive and sections 502 and 503 of the Act of the Parliament of the United Kingdom entitled the Merchant Shipping Act 1894, as amended by any other subsequent Act of the Parliament of the United Kingdom, or the operation of any other Act of the parliament of the United Kingdom for the time being in force limiting the liability of owners of sea-going ships.
