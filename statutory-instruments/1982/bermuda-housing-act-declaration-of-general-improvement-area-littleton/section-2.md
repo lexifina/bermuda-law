@@ -1,0 +1,2 @@
+# Declaration of general improvement area
+2 The area of land defined on the map numbered 4 deposited at the offices of the Department of Planning and thereon outlined in red, bounded on the North by the boundary of the City of Hamilton, on the West by land formerly of the Railway Right of Way, on the East by Cedar Avenue and on the South in part by land owned by Harold Darrell and in part by land owned by Clarence Corbin, is declared to be a General Improvement Area for the purposes of the Bermuda Housing Act 1980.
