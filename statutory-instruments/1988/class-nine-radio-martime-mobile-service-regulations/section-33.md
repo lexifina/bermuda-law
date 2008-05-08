@@ -1,0 +1,2 @@
+# Adjustment of equipment
+33 The transmitting equipment of each ship station on board a Bermudian vessel shall be operated, tuned, and adjusted so that there will be no radiation of emissions outside the authorized frequency band that causes harmful interference or is capable of causing harmful interference to the service of any other station. Any spurious emissions including radio frequency harmonics and audio frequency harmonics. shall be maintained at the lowest practicable level.

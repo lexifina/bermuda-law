@@ -1,0 +1,2 @@
+# Posting of licence
+25 The licence, provisional licence or permit together with any notices of variation served on the licensee in writing by virtue of regulation 12, a copy of the Act and of these Regulations, and the documents listed in the international Radio Regulations as required to be carried on board a vessel of the category to which the vessel belongs, shall be carried on board a Bermudian vessel in the radio room.

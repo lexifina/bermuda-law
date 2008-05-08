@@ -1,0 +1,3 @@
+# Compliance with licence or permit
+20 (1) The licensee shall ensure that persons operating the ship station shall observe the terms, provisions and limitations of the licence, provisional licence or permit at all times.
+(2) Except as may be regulated by law or international agreement the service of each ship station shall at all times be under the supreme control of the master, who shall require that each operator of such station comply with the international Radio Regulations and that the station for which the operator is responsible is also used at all times in accordance with these Regulations.
