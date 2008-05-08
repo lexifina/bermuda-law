@@ -1,0 +1,8 @@
+# Grant of licence or permit
+8 (1) A licence or permit may be granted by the Minister in accordance with the Act to a body corporate entitled to carry on business in Bermuda under the Companies Act 1981 [title 17 item 5], or to an individual resident in Bermuda who is over the age of eighteen years and who may engage in gainful occupation in Bermuda under the Bermuda Immigration and Protection Act 1956 [title 5 item 16]:
+Provided that—
+(a) a licence or permit shall not be granted for a public station in the aeronautical or maritime mobile services unless there is a valid public telecommunication service licence for such aeronautical or maritime mobile service;
+(b) the station for which a licence or permit is requested is approved in accordance with regulation 36 or 37; and
+(c) the transmitting apparatus is capable of transmitting only on the frequencies mentioned in the licence or permit and on no other frequencies unless the Minister determines otherwise.
+(2) A permit may be granted by the Minister to a Government Department or Government Board authorizing the operation of a station in the Services.
+(3) If the Telecommunications Inspector considers that the operation of a station in the Services for which a licence or permit is sought might cause harmful interference he may recommend to the Minister that a permit be granted to the applicant to operate such station on a temporary basis for the purposes of carrying out such tests as the Telecommunications Inspector may deem necessary with such other persons, if any, that the Inspector may deem appropriate. The Minister may withhold the grant of a licence or permit until the Inspector is satisfied that the station can be operated without risk of harmful interference.

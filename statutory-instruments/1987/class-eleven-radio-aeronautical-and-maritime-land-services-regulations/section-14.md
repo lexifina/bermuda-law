@@ -1,0 +1,4 @@
+# Operators
+14 (1) A station in the Services shall be operated only by persons authorized by the licensee in writing in that behalf and the licensee shall not permit or suffer it to be operated by any other person.
+(2) Each manned station in the Services, except for a manned limited coast station transmitting on frequencies above 30 MHz, shall be operated only by a person holding a certificate of competence for the appropriate category of station issued by or recognized by the Minister.
+(3) A licensee shall ensure that persons on duty in a station in the Services for which he holds the licence or permit are qualified in accordance with paragraph (2) and have sufficient experience with the particular station to enable them to operate it efficiently in accordance with the terms of the licence or permit.
