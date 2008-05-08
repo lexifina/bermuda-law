@@ -1,0 +1,2 @@
+# Governor may order payment of claims
+2 The Governor may from time to time after such appropriation order the payment of any claim in respect of such casual revenues which upon legal, equitable or moral grounds is established by any person to the satisfaction of the Governor and thereupon the Minister of Finance (hereinafter referred to as "the Minister") may issue his warrant to the Accountant General for payment of the claim out of the general revenue of the Government.
