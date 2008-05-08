@@ -1,0 +1,2 @@
+# Area under plant quarantine
+8 No potatoes shall be permitted to be imported into Bermuda from any area which is under plant quarantine, unless each consignment is accompanied by a certificate from a duly recognized government authority that such potatoes are free from black wart or other serious plant disease or plant pest; and each package shall have plainly marked thereon, or on a label affixed thereon, the number of the certificate under which it is so certified.
