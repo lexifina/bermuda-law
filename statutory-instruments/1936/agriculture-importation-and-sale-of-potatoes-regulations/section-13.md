@@ -1,0 +1,2 @@
+# Irregular importation
+13 The Minister may require the importer of any potatoes imported with respect to which these Regulations have not been complied with to export the same within a time to be prescribed by the Minister, and the failure of the importer of export such potatoes accordingly shall constitute a contravention of these Regulations, and after such failure the Minister may direct such potatoes to be destroyed or otherwise disposed of.
