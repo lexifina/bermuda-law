@@ -1,0 +1,6 @@
+EAST END CORRECTIONAL FACILITY PRISON DECLARATION NOTICE 2001
+BR 23/2001
+THE PRISONS ACT 1979
+1979 : 24
+EAST END CORRECTIONAL FACILITY PRISON DECLARATION NOTICE 2001
+The Minister, in exercise of the power conferred upon her by section 5(4) of the Prisons Act 1979, gives the following Notice:⎯
