@@ -1,0 +1,2 @@
+# Transitional
+4 All property, assets and rights whatsoever which immediately before 24 June 1957 were vested in the body corporate known as "The Bermuda Nursing Association" existing under and by virtue of the Bermuda Nursing Home Act 1935, shall on 24 June 1957 vest in the Association as incorporated by this Act; and any legal obligations or liabilities incurred before 24 June 1957 by the Association as then constituted and remaining unsatisfied shall on 24 June 1957 devolve upon the Association as incorporated by this Act.

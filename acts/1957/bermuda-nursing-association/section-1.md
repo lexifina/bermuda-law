@@ -1,0 +1,3 @@
+[preamble and words of enactment omitted]
+# Bermuda Nursing Association continued as body corporate
+1 The present members of the Bermuda Nursing Association and all other persons who shall hereafter be duly admitted as members of the Bermuda Nursing Association, shall, during the continuance of their membership, continue to be a body corporate under the name of "The Bermuda Nursing Association" (hereinafter referred to as "the Association") with the exclusive right to use that name in Bermuda, and shall under that name have perpetual succession, with power to sue and liability to be sued in all courts, and to have and use a common seal, with power to renew, vary or change the same at pleasure.
