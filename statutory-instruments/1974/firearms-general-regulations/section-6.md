@@ -1,0 +1,9 @@
+# Ammunition licences
+6 (1) No application for an ammunition licence by an officer or servant of a licensed rifle club for ammunition required for the purposes of the club shall be entertained unless evidence to the satisfaction of the Commissioner is produced to show that such person has the authority of the club to make such application.
+(2) An ammunition licence issued to an officer or servant of a licensed rifle club may be issued subject to the condition (whether or not in addition to any other conditions) that the ammunition shall be stored in bulk by the Commissioner.
+(3) Where ammunition is stored by the Commissioner in accordance with a condition imposed under paragraph (2) —
+(a) the ammunition licence shall authorise the holder thereof to have in his possession such ammunition as may be issued to him by the Commissioner from store;
+(b) the Commissioner may refuse to issue ammunition in the interests of public safety or in excess of the amount which, in his opinion, constitutes the reasonable requirements of the club; (c) Section 34(2) of the Act applies to such ammunition while so stored.
+(4) An ammunition licence shall be issued subject to the condition (whether or not in addition to any other conditions) that no ammunition to which it relates shall be exported from Bermuda except under the authority conferred by a permit to remove in Form F 12 and subject to compliance with regulation 12.
+(5) An ammunition licence may be issued subject to the condition (whether or not in addition to any other conditions) that the ammunition to which it relates shall not be imported or purchased otherwise than through or from the holder of a firearm dealer's licence.
+(6) An ammunition licence in Form F 2 may be combined with a firearm licence in Form F 1 in such manner as the Commissioner may direct.
