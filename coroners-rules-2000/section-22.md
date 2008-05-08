@@ -1,0 +1,3 @@
+# Excusal for certain persons and discretionary excusal
+22 (1) A person summoned under section 11 of the Act shall be entitled, if he so wishes, to be excused from jury service if he is among the persons for the time being listed in the First Schedule to the Jurors Act 1971.
+(2) If any person so summoned shows to the satisfaction of the appropriate officer or of the Coroner that there is good reason why he should be excused from attending in pursuance of the summons, the appropriate officer or the Coroner may excuse him from so attending and shall do so if the reason shown is that the person is entitled under paragraph (1) to excusal.

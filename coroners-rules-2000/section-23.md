@@ -1,0 +1,2 @@
+# Discharge of summons in case of doubt as to capacity to act effectively as a juror
+23 Where it appears to the appropriate officer, in the case of a person attending in pursuance of a summons under section 11 of the Act, that on account of physical disability or insufficient understanding of English there is doubt as to his capacity to act effectively as a juror, the person may be brought before the Coroner, who shall determine whether or not he should act as a juror and, if not, shall discharge the summons.
