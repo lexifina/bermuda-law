@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+BR 79/1980
+BERMUDA HOUSING ACT (DECLARATION OF GENERAL IMPROVEMENT AREA) (CITY OF HAMILTON G.I.A. 3) ORDER 1980
+[made under section 29(1) of the Bermuda Housing Act 1980 [title 29 item 1] and brought into operation on 22 November 1980]
