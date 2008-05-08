@@ -1,0 +1,3 @@
+# Broadcasting Commissioners to be notified of intended public exhibition
+4 (1) Every person intending the public exhibition of a film shall at least two weeks before the date of the intended exhibition notify the Broadcasting Commissioners thereof together with any classification awarded to such film by a board of recognized film censors.
+(2) For the purposes of this section and section 5, "board of recognized film censors" means any body established in the United Kingdom, Canada, the United States of America or any other country outside Bermuda for the purpose of classifying films according to their suitability for public exhibition and which is recognized by the Broadcasting Commissioners as competent to do so.
