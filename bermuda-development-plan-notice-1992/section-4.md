@@ -1,0 +1,2 @@
+# Objections and representations
+4 Any objection or representation with reference to the draft Bermuda Plan 1992, may be sent in writing to the Permanent Secretary, Ministry of the Environment, Government Administration Building, Parliament Street, in the City of Hamilton, and should comply in form with the requirements of the Development and Planning (Tribunal Procedure) Rules 1992 [title 20 item 1(c)] ,stating the grounds on which such objection or representation is made, and which should reach the Ministry no later than 11 September 1992
