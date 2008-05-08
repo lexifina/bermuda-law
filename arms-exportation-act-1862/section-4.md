@@ -1,0 +1,5 @@
+# Seizure and forfeiture of ships
+4 (1) All ships, boats, carriages, and other means of conveyance, together with all horses and other animals made use of in the removal of any goods liable to forfeiture under this Act, shall be forfeited; and all goods, ships, vessels, boats, carriages and animals liable to forfeiture under this Act shall and may be seized and secured by any customs officer or by any person employed for that purpose by or with the concurrence of the Collector of Customs or other principal officer of the port, and the forfeiture of any ship or boat shall be deemed to include her tackle, apparel, and furniture.
+(2) A person who in any way hinders, opposes, molests, or obstructs any customs officer or any person so employed as aforesaid in the exercise of his office, or any person acting in his aid or assistance, commits an offence against this Act:
+Punishment on summary conviction: a fine of the level 5 amount.
+[Section 4 penalty on standard scale substituted for amount in $ by 2004:6 s.18 & Sch 2 effective 26 March 2004]
