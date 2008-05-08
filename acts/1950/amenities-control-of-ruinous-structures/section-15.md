@@ -1,0 +1,2 @@
+# Minister may do work in default
+15 The Minister may by agreement with the owner or occupier of any premises himself execute at the owner's or occupier's expense any work or other requirement which, in pursuance of this Act, the Minister has required the owner or occupier to execute or carry out; and for that purpose the Minister shall have such rights as the owner or occupier would have had if he had himself executed the work or carried out the requirements.
