@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+GN 142/1988
+BERMUDA HOUSING ACT (DECLARATION OF GENERAL IMPROVEMENT AREA) (KINGS COURT G.I.A.) ORDER 1988
+[made under section 29(1) of the Bermuda Housing Act 1980 [title 29 item 1] and brought into operation on 11 March 1988]
