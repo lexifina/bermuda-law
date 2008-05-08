@@ -1,0 +1,2 @@
+# Transmission to Privy Council of reasons given by Court or Judge
+13 The reasons given by the Court, or any of the Judges, for or against any judgment pronounced in the course of the proceedings out of which the appeal arises shall be communicated in writing by the Court or Judge to the Registrar, and shall be transmitted by the Registrar to the Registrar of the Privy Council at the same time as the Record is transmitted.

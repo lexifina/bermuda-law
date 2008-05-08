@@ -1,0 +1,2 @@
+# Preparation of Record
+6 The preparation of the Record shall be subject to the supervision of the President of the Court or such other Justice of Appeal or Judge of the Supreme Court as may be appointed by him for the purpose, and the parties may submit any disputed question arising in connection therewith to his decision; and he shall give such directions thereon as the justice of the case may require.

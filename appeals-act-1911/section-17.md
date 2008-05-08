@@ -1,0 +1,2 @@
+# Inquiry whether sufficient notice was given
+17 On an application for final leave to appeal, the Court may inquire whether notice, or sufficient notice, of the application has been given by the appellant to all parties concerned; and, if the Court is not satisfied as to the notices given, the Court may defer the grant of the final leave to appeal, or may give such other directions in the matter as, in the opinion of the Court, the justice of the case requires.

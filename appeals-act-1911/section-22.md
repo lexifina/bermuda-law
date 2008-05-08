@@ -1,0 +1,2 @@
+# Defect after despatch of record to England
+22 Where the Record, subsequent to its despatch to England, becomes defective by reason of the death, or change of status, of a party to the appeal, the Court shall, upon an application in that behalf made by any person interested, cause a certificate to be transmitted to the Registrar of the Privy Council showing who, in the opinion of the Court, is the proper person to be substituted, or entered, on the Record, in place of, or in addition to, the party who has died or undergone a change of status.
