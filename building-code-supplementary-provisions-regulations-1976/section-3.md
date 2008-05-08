@@ -1,0 +1,2 @@
+# Certain other applications deemed sufficient
+3 A person who makes application to the Development Applications Board for planning permission for any building or work, not being an application for planning permission in principle, shall be deemed also to have made application to the Minister under regulation 2 if his application is accompanied by plans which comply with the requirements of that regulation or by a sketch plan or other description of the works to be executed which the Minister deems to be sufficient compliance with regulation 2.

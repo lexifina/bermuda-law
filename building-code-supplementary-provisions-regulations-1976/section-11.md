@@ -1,0 +1,3 @@
+# Compliance with Building Code
+11 The issuing of a certificate under regulation 5 or 8 shall not authorize any contravention of the Building Code. No certificate purporting to authorize such a contravention shall be valid.
+(2) The issuing of a certificate under regulation 5 upon plans and specifications shall not prevent the Minister from thereafter requiring the amendment of such plans and specifications in order to make them conform to the Building Code or from stopping any part of the building operations which are undertaken in contravention of the Building Code or other provision of law applicable thereto.
