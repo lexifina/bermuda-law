@@ -1,0 +1,4 @@
+# Privacy of subscribers
+26 (1) A licensee of a subscription radio station shall strictly observe the privacy of subscribers.
+(2) Such licensee may disclose to the public both the number and the percentage of subscribers purchasing the service or any particular programme thereof but shall not reveal the identity of any individual subscriber except to the Minister at his request without the written authorization of the subscriber concerned.
+(3) Such licensee may maintain such records as are necessary to bill subscribers for the purchase of the subscription service or any particular programme thereof. No information about an individual subscriber maintained by the licensee for purposes of billing in such service shall be published, utilized, disseminated or disclosed in any manner to any person without the affected subscriber's prior knowledge and written consent.

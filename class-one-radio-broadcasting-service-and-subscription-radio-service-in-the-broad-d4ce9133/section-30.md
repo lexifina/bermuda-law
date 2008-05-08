@@ -1,0 +1,6 @@
+# Construction or installation of a Class One station
+30 (1) The construction or installation of any Class One radio station or its alteration, shall not be begun without a permit to construct issued by the Minister subject however to regulation 33:
+Provided that the issue of a permit by the Minister shall not relieve the applicant of the necessity of obtaining planning permission for the construction of any works, buildings, antennae or other installations in accordance with the Development and Planning Act 1974 [title 20 item 1] or any succeeding Act.
+### CLASS ONE RADIO (BROADCASTING SERVICE AND SUBSCRIPTION RADIO SERVICE IN THE BROADCASTING FREQUENCY BANDS) REGULATIONS 1987
+(2) An application for a permit to construct shall be made in writing to the Minister and shall contain full technical information concerning the proposed construction, installation or alteration.
+(3) After the works have been completed for which a permit to construct has been issued, the holder of such permit shall so inform the Minister and request that the said works be inspected by him. The Telecommunications Inspector may authorize such holder to conduct any necessary tests for the purposes of observation and/or measurements of the frequency emissions of the proposed station.

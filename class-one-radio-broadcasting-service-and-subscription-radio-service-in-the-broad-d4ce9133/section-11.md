@@ -1,0 +1,3 @@
+# Registration of transfer of licensee's shares
+11 (1) No registration of the transfer (including any transfer by operation of law) of any shares in any body corporate operating a Class One radio station or any change in beneficial ownership of such shares shall be effected without the previous consent of the Minister and, in according assent, the Minister may sanction the registration of part only of the shares comprised in any transaction for the transfer of such share.
+(2) Any registration of shares effected in contravention of this regulation shall be null and void and shall confer no voting rights or other benefits on the transferee in respect of the shares so registered.

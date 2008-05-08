@@ -1,0 +1,11 @@
+# Station engineers
+17 (1) The licensee shall appoint a station engineer to be responsible for the apparatus of such radio station who shall be a person whose technical qualifications and experience satisfy the Minister that he is capable of satisfactorily discharging such duties. The licensee shall ensure that it is possible at all times to contact the engineer or a replacement.
+(2) Where the station engineer is unavailable or unable to discharge his duties the licensee shall designate a person similarly qualified to get in the engineer's place on a temporary basis until he is available or able to discharge his duties.
+(3) The designation of the station engineer or his temporary replacement shall be in writing with a copy to the Minister; a copy shall also be posted in accordance with regulation 25. A notice shall be kept posted at the principal control point in the radio station and communicated to the Minister, indicating an address and telephone number where the station engineer or his replacement, as the case may be, can be contacted.
+(4) The station engineer is responsible for completion of the following duties and when the duties are delegated to other persons he
+### CLASS ONE RADIO (BROADCASTING SERVICE AND SUBSCRIPTION RADIO SERVICE IN THE BROADCASTING FREQUENCY BANDS) REGULATIONS 1987
+shall maintain supervisory oversight sufficient to know that each requirement has been fulfilled in a timely and correct manner—
+(a) weekly inspections and calibrations of the transmission system, required monitors, metering, and control systems; and any necessary repairs or adjustments where indicated;
+(b) equipment performance measurements, or other tests as specified in the rules or terms of the station licence or permit;
+(c) review of the station operating logs at least once each week as part of the transmission system inspections to determine if the entries are being made correctly and if the station has been operating as required by the licence or permit. Upon completion of the review, the station engineer or his designee is to make a notation in the log of any discrepancies observed and date and sign the log, initiate necessary corrective action and advise the licensee of any condition which is a repetitive problem;
+(d) entries in the maintenance log.
