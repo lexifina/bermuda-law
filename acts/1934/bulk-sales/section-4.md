@@ -1,0 +1,2 @@
+# Agreement for purchase of stock in bulk and inventory to be filed in Registry
+4 Any agreement for any sale in bulk shall be in writing and shall contain an inventory of the things so sold or to be sold and such agreement shall be filed within ten days in the Registry, and no part of the purchase price shall be paid or any promissory note or security for the said purchase price be delivered within thirty days from the execution of such agreement.
