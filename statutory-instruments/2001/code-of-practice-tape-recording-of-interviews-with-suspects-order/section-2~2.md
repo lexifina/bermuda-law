@@ -1,0 +1,3 @@
+# Recording and sealing of master tapes
+2 (1) Tape recording of interviews shall be carried out openly to instil confidence in its reliability as an impartial and accurate record of the interview.
+(2) One tape, referred to in this Code as the master tape, will be sealed before it leaves the presence of the suspect. A second tape will be used as a working copy. The master tape is either one of the tapes used in a twin or triple deck machine or the only tape used in a single deck machine. The working copy is either the second or third tape used in a twin or triple deck machine or a copy of the master tape made by a single deck machine.
