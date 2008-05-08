@@ -1,0 +1,3 @@
+# Time for payment
+5 Whenever any garnishee, being served with any writ of attachment, acknowledges to owe to the defendant more than $240, and the amount of the cause of action sworn to with the costs amounts to more than that sum, then the garnishee on giving sufficient and satisfactory security by bond to the officer shall be allowed six months for payment thereof if he desires it:
+Provided that no debt attached under this Act shall be payable to the officer serving the writ before it would have been payable if not attached; and if the time of payment is more distant than six months then security for payment of the same shall be taken accordingly.
