@@ -1,0 +1,8 @@
+# Inquiries by the Registrar
+11 (1) For the purpose of performing his functions, the Registrar may make a relevant inquiry under this section (an "inquiry") at any time.
+(2) The Registrar may either conduct an inquiry himself or appoint a person to conduct it and make a report to him.
+(3) For the purposes of an inquiry, the Registrar, or the person appointed by him to conduct the inquiry, may by order require any person (subject to the provisions of this Act)⎯
+(a) to furnish a statement in writing with respect to any matter in question at the inquiry, being a matter on which the person required has or can reasonably obtain information, or to return answers in writing to any questions or enquiries addressed to him on any such matter, and to verify any such statements or answers by affidavit;
+(b) to attend at a specified time and place and give evidence, or produce any documents in his possession, custody or power, relating to any matter in question at the inquiry.
+(4) For the purposes of an inquiry evidence may be taken on oath; and the person conducting the inquiry may administer an oath or may, instead of administering an oath, require the person examined to make and subscribe a declaration of the truth of the matters about which he is examined.
+(5) The Registrar may pay to any person the necessary expenses (not exceeding the amount of five dollars) of his attendance to give evidence or produce documents for the purpose of an inquiry; and a person need not obey an order under paragraph (b) of subsection (3) unless those expenses (but not exceeding that amount) are paid or tendered to him.
