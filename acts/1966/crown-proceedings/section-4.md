@@ -1,0 +1,6 @@
+# Industrial property
+4 (1) Where after 31 May 1966 any servant or agent of the Crown infringes a patent, or infringes a registered trade mark, or infringes any copyright or design right (including any copyright in a design subsisting under the Patents and Designs Act 1930 [title 17 item 33]) and the infringement is committed with the authority of the Crown, then, subject to this Act, civil proceedings in respect of the infringement shall lie against the Crown:
+Provided that nothing in this section or in any other provision of this Act shall affect the rights under section 12 of the Patents and Designs Act 1930 [title 17 item 33], of any officer or authority administering any department of the service of the Crown.
+(2) Save as expressly provided by this section, no proceedings shall lie against the Crown by virtue of this Act in respect of the infringement of any patent, of any registered trade mark or of any such copyright as is mentioned in subsection (1).
+[Third Schedule to 1991:39 paragraph 1(1) provides: Any reference to a trade mark in a provision to which this paragraph applies shall include a reference to a service mark and accordingly any reference to a registered trade mark includes a reference to a registered service mark.]
+[Section 4 amended by 1991:39 effective 18 June 1993, and by 2004:5 effective 8 February 2008]

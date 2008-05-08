@@ -1,0 +1,3 @@
+# Salvage claims
+8 (1) Subject to this Act, the law relating to salvage, whether of life or of property, shall apply in relation to salvage services rendered after 31 May 1966 in assisting any Crown ship or vessel, or in saving life therefrom, or in saving any cargo or apparel belonging to the Crown in the same manner as if the ship, cargo, or apparel belonged to a private person.
+(2) For the purposes of this section, the expression "Crown ship or vessel" includes a ship or vessel entrusted to a manager by the Crown in a like manner to a ship or vessel so entrusted in the circumstances set out in section 5(4).

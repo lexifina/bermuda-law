@@ -1,0 +1,7 @@
+# Nature of relief
+16 (1) In any proceedings against the Crown instituted under this Act, the court shall have power to make all such orders as it has power to make in like proceedings between subject and subject, and otherwise to give such appropriate relief as the case may require:
+Provided that—
+(a) where in any proceedings against the Crown any such relief is sought as might in proceedings between subject and subject be granted by way of injunction or specific performance, the court shall not grant an injunction or make an order for specific performance, but may in lieu thereof make an order declaratory of the rights of the parties; and
+(b) in any proceedings against the Crown for the recovery of land or other property the court shall not make an order for the recovery of the land or for the delivery of the property, but may in lieu thereof make an order declaring that the plaintiff is entitled as against the Crown to the land or property or to the possession thereof.
+(2) The court shall not in any civil proceedings grant any injunction or make any order against a servant of the Crown if the effect of granting such injunction or making such order would be to give any relief against the Crown which could not have been obtained in proceedings against the Crown.
+(3) No execution or attachment or process in the nature thereof shall be issued out of any court for enforcing payment by the Crown of any money, and no person shall be individually liable under any order for the payment by the Crown of any money.
