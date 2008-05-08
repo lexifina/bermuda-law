@@ -1,0 +1,2 @@
+# New issues after the hearing
+28 If after a hearing the Board proposes to take into consideration any new information, which was not presented at a hearing and which they consider material to their decision, they shall not come to a decision without first notifying the applicant, the Director and any person having made a representation, of the new information and affording them an opportunity of making representations thereon in writing within such time as the Board may think fit.
