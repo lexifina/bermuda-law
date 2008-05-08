@@ -1,0 +1,2 @@
+# Good faith
+82 A thing is deemed to be done in good faith, within the meaning of this Act, where it is in fact done honestly, whether it is done negligently of not.

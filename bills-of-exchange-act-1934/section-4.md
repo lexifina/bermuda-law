@@ -1,0 +1,4 @@
+# Effect where different parties to bill are the same person
+4 (1) A bill may be drawn payable to, or to the order of, the drawer; or it may be drawn payable to, or to the order of, the drawee.
+(2) Where in a bill the drawer and drawee are the same person, or where the drawee is a fictitious person or a person not having capacity to contract, the holder may treat the instrument, at his option, either as a bill of exchange or as a promissory note.
+(3) Where a banker carries on the business of banking at more branches than one, he shall, for the purposes of this section, be deemed to be an independent banker in respect of each of such branches, and a bill issued by one of such branches and payable at another branch shall be deemed to be a bill, and, if payable on demand, a cheque; and a balance at one branch may be applied in reduction of an overdrawn account at another branch without notice to the customer.

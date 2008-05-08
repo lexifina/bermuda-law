@@ -1,0 +1,2 @@
+# Funds in hands of drawee
+52 A bill, of itself, does not operate as an assignment of funds in the hands of the drawee available for the payment thereof, and the drawee of a bill who does not accept as required by this Act is not liable on the instrument.
