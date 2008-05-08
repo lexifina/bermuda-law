@@ -1,0 +1,3 @@
+# Local courts not to try offenders tried by service courts
+4 (1) Without prejudice to section 2 where a person has been tried by a service court in the exercise of the powers referred to in section 3(1), he shall not be tried for the same offence by a local court.
+(2) Where a person who has been convicted by a service court in the exercise of the said powers, is convicted by a local court for a different offence, but it appears to the local court that the conviction by the service court was wholly or partly in respect of acts or omissions in respect of which he was convicted by the local court, the local court shall have regard to the sentence of the service court.
