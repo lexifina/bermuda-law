@@ -1,0 +1,3 @@
+# Appeals
+6 (1) Any person aggrieved by any decision of the Broadcasting Commissioners to prohibit the public exhibition of any film or with regard to the award of any classification referred to in section 5 of this Act, may, by notice in writing setting out the grounds therefor, appeal to the Governor.
+(2) The Governor may confirm or vary the decision of the Broadcasting Commissioners or make such other order on the appeal as seems to him expedient and any decision given by the Governor under this subsection shall be final and conclusive and the Broadcasting Commissioners shall act in accordance with such decision.
