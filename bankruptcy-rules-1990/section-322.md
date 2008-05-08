@@ -1,0 +1,2 @@
+# Meetings of creditors to consider conduct of trustee
+322 Where the Official Receiver is of opinion that any act done by the trustee or any resolution passed by the committee of inspection should be brought to the notice of the creditors for the purpose of being reviewed or otherwise, the Official Receiver may summon a meeting of creditors to consider the act or resolution, and the expense of summoning the meeting shall be paid by the trustee out of any available assets under his control.

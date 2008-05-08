@@ -1,0 +1,2 @@
+# Proceedings if scheme is approved
+179 When a composition or scheme is approved, the Official Receiver shall, on payment of all proper costs, charges, and expenses of and incidental to the proceedings, and all fees and percentages payable to the Official Receiver, forthwith put the debtor, or the person or persons to whom under the composition or scheme the property of the debtor is to be assigned, into possession of the debtor's property.

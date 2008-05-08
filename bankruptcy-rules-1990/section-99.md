@@ -1,0 +1,7 @@
+# Costs payable out of joint and separate estates
+99 (1) Where the joint estate of co-debtors is insufficient to defray costs or charges properly incurred prior to the appointment of the trustee, the Official Receiver may —
+(a) pay or direct the trustee to pay the costs or charges out of the separate estates of the co-debtors, or one or more of them, in such proportions as he thinks fit; or
+(b) if he thinks fit, pay or direct the trustee to pay any costs or charges so incurred for any separate estate out of the joint estate or out of any other separate estate, and any part of the costs or charges so incurred for the joint estate which affects any separate estate out of that separate estate.
+(2) Where the joint estate of co-debtors is insufficient to defray any costs or charges properly incurred after the appointment of the trustee, the trustee may —
+(a) pay the costs or charges out of the separate estates of the co-debtors, or one or more of them; or
+(b) pay any costs or charges so incurred for any separate estate out of the joint estate, and any part of the costs or charges so incurred for the joint estate which affects any separate estate out of that separate estate except that no such payment shall be made without the consent of the committee of inspection of the estate out of which the payment is intended to be made, or, if the committee withhold or refuse their consent, without an order of the Court.

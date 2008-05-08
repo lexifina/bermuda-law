@@ -1,0 +1,8 @@
+# Dealings with estate by trustee and committee of inspection
+320 (1) Where a trustee carries on the business of the debtor, he shall not, without first obtaining the leave of the Court, purchase goods for the business from his employer, or from any person who is connected with the trustee in such a way that the trustee would obtain a portion of any profit arising out of the transaction.
+(2) No member of the committee of inspection shall, without first obtaining the leave of the Court, directly or indirectly, by himself or his employer, partner, clerk agent, or servant, be entitled to derive any profit from any transaction arising out of the bankruptcy, or to receive out of the estate any payment for services rendered by him in connexion with the administration of the estate, or for any goods supplied by him to the trustee for or on account of the estate.
+(3) If it appears to the Court that any payment or profit has been made contrary to the provisions of this Rule, the Court may disallow the payment or recover the profit, as the case may be, on the audit of the trustee's account.
+(4) No payment shall be allowed to a member of a committee of inspection for services rendered by him in the discharge of his duties as a member of the committee.
+(5) The Court shall not sanction any payment to a member of a committee of inspection for services rendered in connexion with the administration of the estate unless the services performed are of a special nature, and the order of the Court sanctioning a payment shall specify the nature of the services.
+(6) The cost of obtaining the leave of the Court under this Rule or Rule 319 shall be borne by the person in whose interest it is obtained and shall not be payable out of the debtor's estate.
+91Forms 159, 160

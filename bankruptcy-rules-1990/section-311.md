@@ -1,0 +1,3 @@
+# Application for release
+311 Before applying to the Court for his release, a trustee shall send notice of his intention to do so, accompanied by a summary of his receipts and payments as trustee to all creditors who have proved their debts and to the debtor except that no notice or summary shall be sent to the creditors where the application is made upon the trustee ceasing to act by reason of a composition or scheme having been approved under section 25 of the Act, however, any objection to the granting of a release shall be notified to the Court within twenty-one days of the date of the notice.88
+87Forms 57, 122 88Forms 165, 182, 183

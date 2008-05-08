@@ -1,0 +1,2 @@
+# Barrister and attorney's costs in case of debtor's petition
+84 A barrister and attorney in the matter of a bankruptcy petition presented by the debtor against himself shall, in his bill of costs, give credit for any sum or security received from the debtor as a deposit on account of the costs and expenses to be incurred in relation to the filing and prosecution of the petition, and the amount of any such deposit shall be noted by the Taxing Officer on the allocatur issued for the costs.20

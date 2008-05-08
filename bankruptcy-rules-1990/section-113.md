@@ -1,0 +1,3 @@
+# Application to set aside
+113 (1) The filing of the affidavit referred to in Rule 111 shall operate as an application to set aside the bankruptcy notice, and thereupon the Registrar shall, if he is satisfied that sufficient cause is shown, fix a time and place for hearing the application, and shall give not less than two days' notice thereof to the debtor, the creditor, and their respective barristers and attorneys, if known.26
+(2) If the application cannot be heard before the time specified in the notice for compliance with its requirements the Registrar shall extend the time, and no act of bankruptcy shall be deemed to have been committed under the notice until the application has been heard and determined.

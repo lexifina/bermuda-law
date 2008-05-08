@@ -1,0 +1,2 @@
+# Application for payment out
+344 An application under section 132 of the Act for payment out of the Consolidated Fund of any sum to which any person claims to be entitled shall be made in such form and manner as the Minister of Finance may direct, and shall (unless the Minister dispenses therewith) be supported by the affidavit of the claimant, and such further evidence as the Minister may require.

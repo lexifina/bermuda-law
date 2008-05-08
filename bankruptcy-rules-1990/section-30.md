@@ -1,0 +1,3 @@
+# Deposit in lieu of bond
+30 (1) A person required to give security may, in lieu thereof, lodge in Court a sum equal to the sum for which security is to be given or such other security as the Court may in its discretion approve and probable costs, together with a memorandum approved by the Registrar and signed by such person, his barrister and attorney, or agent, stating the conditions on which the money or security is deposited.
+(2) Upon the lodgment the Registrar shall forthwith notify the persons for whose protection the security is given that the money or such other security as the Court may in its discretion approve has been lodged in Court.

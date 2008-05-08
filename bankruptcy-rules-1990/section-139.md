@@ -1,0 +1,3 @@
+# Proof of statements in petition
+139 (1) At the hearing the Court may make a receiving order on such proof of the statements in the petition as it thinks sufficient except that where the debtor appears to show cause against the petition there shall be proved the petitioning creditor's debt, the act of bankruptcy or any other matter in respect of which the debtor has given notice of dispute.
+(2) If new evidence of any matter in dispute is given, or a witness to such matter is not present for cross-examination, and application is made for an extension of time to show cause, the Court shall, if it considers the application to be reasonable, grant such further time as it thinks fit.

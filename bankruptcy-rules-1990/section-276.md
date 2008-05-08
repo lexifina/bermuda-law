@@ -1,0 +1,4 @@
+# Duties of executor, etc
+276 (1) When an administration order has been made, the legal personal representative of the debtor shall forthwith lodge with the Official Receiver an account in duplicate of his dealings with and administration of the deceased's estate, and shall also forthwith furnish in duplicate a list of the creditors, a statement of the assets and liabilities and such other particulars of the affairs of the deceased as may be required by the Official Receiver.
+(2) Every account, list, or statement to be made under this Rule shall as far as practicable be made and verified in accordance with the practice for the time being of the Court.
+(3) The expense of preparing, making, verifying, and lodging any account, list, or statement under this Rule shall be taxed and allowed out of the estate upon production of the necessary allocatur.

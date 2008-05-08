@@ -1,0 +1,2 @@
+# Officer to act for Official Receiver
+282 In the absence of the Official Receiver to whom an estate has been assigned, a person duly authorised by the Official Receiver in writing, may by leave of the Court act on behalf of the Official Receiver and take part for him in the public examination of the debtor in any examination under section 29 of the Act and on any unopposed application to the Court.

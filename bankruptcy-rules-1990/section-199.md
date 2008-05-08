@@ -1,0 +1,4 @@
+# Order conditional on consent to judgment
+199 (1) Where the Court grants an order of discharge conditionally upon the bankrupt consenting to judgment being entered against him by the Official Receiver or the trustee for the balance, or any part of the balance, of the debts provable under the bankruptcy which is not satisfied at the date of his discharge, the order of discharge shall not be signed, completed, or delivered out until the bankrupt has given the required consent.57
+(2) The judgment shall be entered in the Court having jurisdiction in the bankruptcy in which the order of discharge is granted.
+(3) If the bankrupt does not give the required consent within one month of the making of the order the Court may, on the application of the Official Receiver or the trustee, rescind the order or make such other order as it thinks fit.

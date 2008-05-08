@@ -1,0 +1,4 @@
+## Automatic discharge
+# Consideration by the Court
+206 (1) When the Court makes an order which concludes or, under section 17 of the Act, dispenses with the public examination of a debtor, the Court shall proceed to consider whether or not to make an order under section 31(1) of the Act directing that section 31(2) of the Act shall have effect if the debtor has been or is subsequently adjudged bankrupt in the proceedings.
+(2) When the Court dispenses with the public examination of a debtor under section 16(10) of the Act it shall proceed to consider whether to make an order under section 31(1) of the Act but may, if it thinks fit, adjourn such consideration for the purpose of receiving from the Official Receiver a report as to the conduct and affairs of the debtor, including his conduct during the proceedings, and such report is prima facie evidence of the matters contained therein.
