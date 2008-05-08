@@ -1,0 +1,7 @@
+# Extension of certain rights and immunities
+6 (1) Subject to this Act or any Arrangements regarding the status of the Canadian Visiting Forces between the Government of the United Kingdom and Canada, there shall be enjoyed by the Canadian service authorities, a member or dependant the rights, privileges, immunities and exemptions as were formerly enjoyed respectively by the United States Authorities, a United States employee or his dependent under the United States Bases (Agreement) Act, 1952 [title 7 item 4], or any other law, in relation to the following matters and subject to the same restrictions, namely, import, export and other duties, taxes, licensing, registration, the carrying and possession of arms, immigration, payment of statutory fees, the use of public services and facilities, the arrest and surrender of offenders and right of audience in a local court.
+[Section 6 amended by 2002:6 s.4 & Sch 3 effective 18 June 2002]
+(2) For the purposes of subsection (1), it shall, prima facie, be proof of the terms of any Arrangements to produce—
+(a) a copy of the Gazette purporting to set forth the terms thereof; or
+(b) a document purporting to be printed under the Authority of the Government of Bermuda or of the Government of the United Kingdom and purporting to set forth the terms thereof; or
+(c) a document purporting to set forth the terms thereof and purporting to be certified as correct by the Deputy Governor.

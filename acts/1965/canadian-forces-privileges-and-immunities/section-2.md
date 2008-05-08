@@ -1,0 +1,12 @@
+# Jurisdiction
+2 (1) Subject to this section, a person charged with an offence against local law shall not be liable to be tried for that offence by a local court if at the time when the offence is alleged to have been committed he was a member or a dependent and—
+(a) in the case of a member, the alleged offence, if committed by him, arose out of and in the course of his duty as a member; or
+(b) the alleged offence is an offence against the person, and the person or, if more than one, each of the persons in relation to whom it is alleged to have been committed, was at the time thereof a member or a dependent; or
+(c) the alleged offence is an offence against property, and the whole of the property in relation to which it is alleged to have been committed (or, in a case where different parts of that property were differently owned, each part of the property) was at the time thereof the property of the Government of Canada or a member or a dependent: Provided that this section shall not apply if at the time when the offence was alleged to have been committed the alleged offender was a person not subject to the jurisdiction of a service court.
+(2) In relation to the trial of a member or a dependent at the time when the offence is alleged to have been committed, subsection (1) shall not have effect unless it is shown that the case can be dealt with under service law.
+(3) Nothing in subsection (1)—
+(a) shall prevent a person from being tried by a local court in a case where the Director of Public Prosecutions certifies, either before or in the course of the trial, that the Canadian service authorities have informed him that it is not proposed to deal with the case under service law; or
+(b) shall affect anything done or omitted in the course of a trial unless in the course thereof objection has already been made that by reason of that subsection the court is not competent to deal with the case; or
+(c) shall, after the conclusion of a trial, be treated as having affected the validity thereof if no such objection was made in the proceedings at any stage before the conclusion of the trial.
+(4) Nothing in this section shall be construed as derogating from the provisions of any other provision of law respecting the prosecution of any proceedings or requiring the consent of any authority to the prosecution thereof.
+[Section 2 subsection (3)(a) amended by 1999:8 s.2 & Sch 1 effective 1 April 1999]
