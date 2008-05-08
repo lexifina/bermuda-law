@@ -1,0 +1,2 @@
+# Nuisance and wilful obstruction
+24 No person shall on Trust Property wilfully obstruct, disturb, interrupt or annoy any other person in the proper use and enjoyment of such property or wilfully hinder, obstruct, disturb, or interrupt any Officer of the Bermuda National Trust in the exercise of his powers and duties under the Bermuda National Trust Act 1969 [title 20 item 10] or these Regulations.

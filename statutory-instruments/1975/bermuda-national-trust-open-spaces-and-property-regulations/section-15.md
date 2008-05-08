@@ -1,0 +1,2 @@
+# Noise
+15 No unauthorized person shall, in any building on Trust Property or in the open air on any Trust Property, after having been requested to desist by any person on Trust Property who is disturbed by the sound of the instrument, operate or cause or suffer to be operated any wireless set, television set, tape recorder, gramophone, amplifier or similar instrument, or operate or play upon any noisy instrument.

@@ -1,0 +1,3 @@
+# Protection of animals
+9 (1) No unauthorized person shall on Trust Property knowingly take, molest or wilfully disturb, injure, or destroy any living creature or the eggs of any living creature or spread or use any net or set or use any snare or other engine, instrument, lamp, lure or other means for the taking, injury, or destruction of any such living creature or its eggs whether in, on or above Trust Property.
+(2) No unauthorized person shall knowingly bring and leave on or in or knowingly permit to be brought onto and left on or in Trust Property any living creature in such circumstances that the same would be likely to reproduce or propagate itself or cause damage to Trust Property or plant or animal life thereon.
