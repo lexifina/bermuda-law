@@ -1,0 +1,3 @@
+# Litter and rubbish
+5 (1) No unauthorized person shall bring rubbish, scrap, or waste materials onto Trust Property for the purpose of abandoning or disposing of the same whether in the letter bins provided by the National Trust or otherwise.
+(2) No person shall leave or abandon on Trust Property except in receptacles provided for the purpose any litter, refuse, waste materials or offensive matter including (but without prejudice to the generality of the foregoing) any metal, rubber, wooden or plastic articles and containers, bottles, paper, glass, china, dead animals, scrap, rubble and road-mending materials.
