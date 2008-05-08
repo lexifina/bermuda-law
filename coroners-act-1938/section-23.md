@@ -1,0 +1,2 @@
+# Inquest after a fire
+23 Whenever any loss of life or serious injury to any person, or any destruction of or material injury to property, is occasioned by fire, or any fire gives rise to suspicion of arson, a Coroner shall have jurisdiction to inquire into the cause and circumstances of such fire, the means which were available for preventing the fire, and all matters connected therewith; and the provisions of this Act as to proceedings on inquests and otherwise shall, so far as is consistent with the tenor thereof, apply to every such inquest.

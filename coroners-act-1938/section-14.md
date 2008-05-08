@@ -1,0 +1,3 @@
+# Order for burial
+14 After view of the body by the Coroner, should he consider such a view necessary, and by the jury, should they desire such view in accordance with section 13, the Coroner may, by an order under his hand in Form B in the First Schedule, authorize the body to be buried before verdict, and before registration of the death, and deliver such order to the occupier of the house or place, or the Commissioner of Prisons, or the Medical Director of the Hospital wherein such body is lying, or other person having charge of such body, or charge of the burial thereof, as his warrant for the burial thereof, and such order shall be produced to the minister or other person conducting such burial.
+[Section 14 amended by 1998:32 effective 13 July 1998]

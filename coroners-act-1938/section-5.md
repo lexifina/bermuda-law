@@ -1,0 +1,3 @@
+# Allocation of duties by Senior Coroner
+5 (1) Subject to any directions which may be given by the Chief Justice the Senior Coroner shall allot the duties of the several Coroners in such manner as he may think expedient; and without prejudice to the generality of the foregoing provisions of this section the Senior Coroner may from time to time specify as between one and the other the matters to be dealt with for the time being by himself and by the other Coroner or Coroners.
+(2) It shall be the duty of the Senior Coroner to inform the Commissioner of Police, as may from time to time be requisite, which Coroner is, in the event of a death or of the finding of a body lying dead, for the time being to be notified in accordance with section 8.
