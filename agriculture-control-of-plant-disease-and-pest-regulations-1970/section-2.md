@@ -1,0 +1,3 @@
+# Discovery of plant disease or pest to be reported
+2 Every person who has or has had in his possession or under his charge any plant shall immediately give notice to the Director or the Inspector of the discovery of any plant disease or pest declared to be notifiable, and of any disease or pest which appears to be of recent introduction or of serious nature:
+Provided that any information given under this regulation shall not be available as evidence against the person giving the same in any prosecution under these Regulations, except in respect of an alleged failure to comply with this regulation.

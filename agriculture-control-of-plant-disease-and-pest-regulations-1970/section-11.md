@@ -1,0 +1,6 @@
+# Restriction to seeds
+11 (1) Except as provided in this paragraph, only seeds may be imported in the case of trees, species of plants used for understocks, and woody ornamental plants that are botanical species or botanical varieties and which grow true from seed. The Inspector may authorize the importation of plants rather than the seeds of the varieties specified in this paragraph whenever the importer, satisfies the Inspector, that the plants desired cannot be produced from seeds because either—
+(a) they are variations which are produced by vegetative means only; or
+(b) it is impossible or impracticable to import viable seed.
+(2) Except as provided in this paragraph all nursery stock imported shall be the youngest and smallest normal clean and healthy plants which can successfully be freed from soil about their roots, transported to Bermuda and established. The Inspector may use as a maximum criterion in enforcing this limitation the normal size of plants no more than two years of age when grown from seeds or cuttings, or having no more than two seasons growth from the bud or graft when produced by budding or grafting.
+(3) Herbaceous perennials which are usually imported in the form of root crowns or clumps may be imported only if the plants are no more than one year old.
