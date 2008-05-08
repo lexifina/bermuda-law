@@ -1,0 +1,3 @@
+[preamble and words of enactment omitted]
+# Fines to be paid to Accountant-General
+1 In all cases in which by any Act of the Legislature of Bermuda, either already passed or hereafter to be passed, any fine, forfeiture or penalty has been or may be imposed, but the Act imposing the same fails or omits to declare or enact to whom the same shall be payable, then all such fines, forfeitures and penalties, unless the Act imposing the same shall otherwise order, shall be paid to the Accountant-General to the use of Her Majesty, Her heirs and successors, for and towards the support of the Government, and as part of the Consolidated Fund.

@@ -1,0 +1,3 @@
+# Governor may remit fines
+2 In all cases in which any fine, forfeiture or penalty is or may be imposed by or under the authority of any Act of the Legislature either already passed or hereafter to be passed, the Governor shall have power to remit such fine, forfeiture or penalty either in whole or in part, and either absolutely or conditionally, whether the same is payable in whole or in part only into the Consolidated Fund or to any informer or to any other person or persons or corporation or otherwise, unless by the Act imposing or authorizing such fine, forfeiture or penalty it is otherwise ordered.
+[Amended by 1949 : 26 1952 : 11 1969 : 666 1971 : 83]
