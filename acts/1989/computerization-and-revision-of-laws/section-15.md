@@ -1,0 +1,2 @@
+# Directions for rectification of errors
+15 For the purpose of rectifying any clerical or printing error appearing in the revised edition or in any periodic update or for the purpose of rectifying, in a manner not inconsistent with his powers under this Act, any other error so appearing, the Attorney-General may from time to time, by notice published in the Gazette, give directions as to the rectification of any such error.

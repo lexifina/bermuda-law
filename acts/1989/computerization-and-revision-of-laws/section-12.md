@@ -1,0 +1,2 @@
+# Applied laws, treaties and conventions
+12 When any applied law or anything referred to in section 4(5) is included in the database it may be reproduced with such amendments as have been made thereto, and where any applied law has been applied or extended to Bermuda with modifications the provisions of that applied law may be reproduced with those modifications, but every departure from the body of the original text shall be clearly shown by notes, references, underlining, square brackets, contrasting type or other similar means.
