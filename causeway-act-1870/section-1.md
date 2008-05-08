@@ -1,0 +1,4 @@
+[preamble and words of enactment omitted]
+# Control of causeway by Minister; regulations
+1 The causeway between the Island of St. George and the Parish of Hamilton shall be and remain under the management and control of the Minister responsible for works and engineering (in this Act called "the Minister") who shall from time to time make such rules and regulations with respect to the passage of passengers, beasts and vehicles, and other things across, and of boats and vessels through and under the bridge connecting the said Island of St. George with Long Bird Island as seem to the Minister expedient; and it shall be lawful for the Minister to impose by such rules and regulations such moderate fines for the breach of any such rules and regulations as seem proper to the Minister:
+Provided that any such fine shall not exceed $144 for any single offence or $57.60 a day for any continuing offence.
