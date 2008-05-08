@@ -1,0 +1,2 @@
+# Objection to inclusion of document in Record
+8 Where in the course of the preparation of the Record one party objects to the inclusion of a document on the ground that it is unnecessary or irrelevant, and the other party nevertheless insists upon its being included, the Record, as finally printed (whether in Bermuda or in England), shall, with a view to the subsequent adjustment of the costs of and incidental to such documents, indicate in the index of papers, or otherwise, the fact that, and the part whom, the inclusion of the document was objected to.
