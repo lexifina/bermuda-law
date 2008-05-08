@@ -1,0 +1,2 @@
+# Savings of right against original shipper
+2 Nothing herein contained shall prejudice or affect any right of stoppage in transit, or any right to claim freight against the original shipper or owner, or any liability of the consignee or endorsee, by reason or in consequence of his being such consignee or endorsee, or of his receipt of the goods by reason or in consequence of such consignment or endorsement.
