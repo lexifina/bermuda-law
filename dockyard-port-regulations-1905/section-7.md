@@ -1,0 +1,2 @@
+# Vessel fouling Government moorings
+7 If at any time the anchor of any merchant or other private vessel in the Dockyard Port hooks any Government moorings, or any cables or moorings of buoys, the master of such vessel shall not proceed to unhook the anchor, but shall forthwith give notice thereof to the Queen's Harbour Master, in order that aid may be given for clearing such moorings or cables without doing damage to the moorings.
