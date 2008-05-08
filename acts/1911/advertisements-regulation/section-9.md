@@ -1,0 +1,7 @@
+# Removal of prohibited advertisements
+9 (1) Any magistrate may on the complaint of any person issue a summons requiring the owner or occupier of any land upon or over which any advertisement prohibited by this Act is placed or exhibited to appear before him and to show cause why he should not take down or remove such advertisement, and on failure of any person so summoned to appear or to show cause as aforesaid, the magistrate may order such owner or occupier as aforesaid to take down or remove such advertisement within a specified time.
+(2) In the event of his failure to comply with such order such owner or occupier commits an offence against this Act:
+Punishment on summary conviction: a fine of $720.
+(3) The magistrate may also, in the event of non-compliance with his order as aforesaid, by warrant under his hand and seal, order any police officer, with such assistance as may be deemed necessary, to enter upon such land and take down and remove such advertisement, at the expense of such owner or occupier, and the expense of any proceedings with reference to such entry, taking down, or removal may be recovered by such police officer from the owner or occupier in the manner provided by the Magistrates Act 1948 [title 8 item 15], for the recovery of a debt or liquidated demand.
+[Amended by 1912 : 24 | 1952 : 3 1937 : 23 | 1952 : 11 1948 : 25 | 1965 : 186 1949 : 26 | 1966 : 19 1951 : 68 | 1969 321] 1951 : 87
+[The Act, originally of limited duration, was continued in force indefinitely by Act No. 71 of 1930.]
