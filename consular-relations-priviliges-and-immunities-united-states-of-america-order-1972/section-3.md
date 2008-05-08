@@ -1,0 +1,2 @@
+# Extension of exemption from customs duties
+3 Paragraph 2 of Article 50 in Schedule 1 to the Act (exemption from customs duties) shall be applied in regard to members of consular posts of the United States of America as if the reference to consular employees included consular guards, messengers and drivers, and as if the words "in respect of articles imported at the time of first installation" were omitted, provided that the member concerned of the consular post satisfies the conditions set out in Article 4 of this Order.

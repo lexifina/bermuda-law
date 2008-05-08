@@ -1,0 +1,2 @@
+# Extension of exemption from dues and taxes
+1 The like exemption from dues and taxes as is accorded under Article 32 in Schedule 1 to the Consular Relations Act 1971 [title 6 item 1] (hereinafter referred to as "the Act"), to the residence of the career head of a consular post shall be extended to the residence of a consular officer, consular employee, consular guard, messenger or driver of the United States of America of which the United States of America or any person acting on its behalf is the owner or lessee.
