@@ -1,0 +1,2 @@
+# Station identification
+26 The call sign of the ship station on board a Bermudian vessel as shown in the licence, provisional licence or permit shall be used whenever it is necessary to identify the ship station. Such call sign followed by 2 digits (other than 0 or 1) shall be used to identify any of the survival craft stations. A different combination of digits shall be used in respect of each survival craft station.

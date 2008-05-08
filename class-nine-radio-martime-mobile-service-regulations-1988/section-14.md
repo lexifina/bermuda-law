@@ -1,0 +1,3 @@
+# Transfer of licence or permit or disposal
+14 (1) A licensee may not, without the prior approval in writing of the Minister, assign, transfer or otherwise dispose of his licence, provisional licence or permit to any other person.
+(2) When a licensee transfers to another person the ownership of the Bermudian vessel in respect of which his ship station licence, provisional licence or permit was granted without such vessel thereby ceasing to be a Bermudian vessel, he shall inform the Minister in writing within a reasonable time not to exceed thirty days of such transfer of ownership giving such information as the Minister may deem necessary.

@@ -1,0 +1,2 @@
+# Revocation of licence or permit
+12 Subject to section 13 of the Act, the Minister may at any time after the date of issue of a licence, provisional licence or permit revoke it or vary its terms, provisions or limitations by a notice in writing served on the licensee or by a general notice published in the Gazette addressed to all holders of licences or permits for ship stations granted by the Minister under these Regulations. Any notice given under this regulation may take effect forthwith or on such subsequent date as may be specified in the notice.

@@ -1,0 +1,2 @@
+# Distress communications
+28 A ship station on board a Bermudian vessel may use any means at its disposal to attract attention, make known its position and help in case of distress. A distress call and message, however. shall be transmitted only on the authority of the master or person responsible for the station. No person shall knowingly transmit, or cause to be transmitted, any false or fraudulent signal of distress or communication relating thereto.
