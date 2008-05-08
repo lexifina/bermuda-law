@@ -1,0 +1,6 @@
+[preamble and words of enactment omitted]
+# Actions against companies incorporated outside Bermuda
+1 (1) Companies and corporate bodies incorporated out of Bermuda, for banking, insurance or other trading purposes, and doing business in Bermuda by agents or branches, may be sued in the Supreme Court for any cause of action, legal or equitable, arising in whole or in part in Bermuda, by the name whereby they are, or purport to be, associated or incorporated, or under which they carry on business, in Bermuda.
+(2) Service of any process, pleading, rule or notice on the agent, or any one of the agents, or manager, of the company or association in Bermuda shall be deemed good and sufficient service on the company.
+(3) All such suits may be prosecuted and carried on to judgment or decree in like manner as if the defendant company were formed, or incorporated, or established in Bermuda, or had its principal place of business therein:
+Provided that in all such suits and proceedings it shall be competent to the Supreme Court to make such orders with respect to pleading and practice as the Court may deem necessary for securing the defendant company against surprise or undue haste in prosecuting the suit or other proceeding.
