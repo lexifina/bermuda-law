@@ -1,0 +1,2 @@
+# Additional documents
+6 The appellant's and Director's case shall be accompanied by a list of any documents (including maps and plans) which are not included in the record and which the appellant or Director intend to refer to or put in evidence at the inquiry or, as the case may be, submit to the Minister, and any party to the appeal shall be afforded a reasonable opportunity by the Director or appellant, as the case may be, to inspect and, where practicable, take copies of such documents.
