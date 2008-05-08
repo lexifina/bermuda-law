@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+BR 10/1982
+BERMUDA HOUSING ACT (DECLARATION OF GENERAL IMPROVEMENT AREA) ("LITTLETON" PEMBROKE PARISH G.I.A. 4) ORDER 1982
+[made under section 29(1) of the Bermuda Housing Act 1980 [title 29 item 1] and brought into operation on 19 March 1982]
