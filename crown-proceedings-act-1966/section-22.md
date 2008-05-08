@@ -1,0 +1,2 @@
+# Crown may take advantage of statutory provision although not named therein
+22 Nothing in this Act shall prejudice the right of the Crown to take advantage of any enactment although not named therein; and it is hereby declared that in any proceedings against the Crown under this Act, any enactment which could, if the proceedings were between subject and subject, be relied upon by the defendant as a defence to such proceedings, whether in whole or in part, or otherwise, may, subject to any express provision to the contrary, be so relied upon by the Crown.

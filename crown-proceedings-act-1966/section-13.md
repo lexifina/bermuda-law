@@ -1,0 +1,2 @@
+# Interpleader
+13 The Crown may obtain relief by way of interpleader proceedings, and may be made a party to such proceedings, in the same manner in which a subject may obtain relief by way of such proceedings or be made a party thereto.
