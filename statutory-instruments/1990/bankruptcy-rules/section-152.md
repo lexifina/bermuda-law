@@ -1,0 +1,2 @@
+# Official Receiver's costs where proceeds of estate insufficient
+152 If the proceeds of the estate are not sufficient for the payment of any costs necessarily incurred by the Official Receiver, in excess of the amount deposited under Rule 120, between the making of the receiving order and the conclusion of the first meeting of creditors, the Court may order such costs to be paid by the party taking the proceedings.

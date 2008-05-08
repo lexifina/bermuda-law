@@ -1,0 +1,2 @@
+# Executor de son tort
+277 Where an administration order has been made and it appears to the Court on the report of the Official Receiver that no legal personal representative exists, the account, list, and statement mentioned in Rule 276 shall be made, verified, and lodged by such person as, in the opinion of the Court on the report, has taken upon himself the administration of, or otherwise intermeddled with, the property of the deceased or any part thereof.

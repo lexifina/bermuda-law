@@ -1,0 +1,2 @@
+# Application of Rules
+2 These Rules shall, subject to the provisions of section 119 of the Act, apply to all matters arising under the Act or any previous Bankruptcy Act and to all proceedings taken in any such matter, whether commenced before or after 2 March 1990 except where it is not practicable to apply any of these Rules to any proceedings pending on 2 March 1990, the appropriate Bankruptcy Rules in force immediately before 2 March 1990 shall continue to apply to the proceedings.

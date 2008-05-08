@@ -1,0 +1,9 @@
+## Persons of unsound mind
+# Appointment of representative
+269 (1) Where it appears to the Court that any debtor, creditor or other person who may be affected by any proceeding under the Act or these Rules is a person of unsound mind not so found by inquisition (in this Rule called "the person of unsound mind"), the Court may appoint such person as it thinks fit to appear for, represent or act for and in the name of the person of unsound mind, either generally, or for the purpose of any particular application or proceeding, or in the exercise of any particular rights or powers which the person of unsound mind might have exercised if he had been of sound mind.
+(2) The Court may make the appointment —
+(a) of its own motion; or
+(b) upon application made by any person who has been duly appointed by any court to manage the affairs or property of, or to represent the person of unsound mind, or by any relative or friend of the person of unsound mind who appears to the Court to be a proper person to make the application, or by the Official Receiver.
+(3) The application may be made ex parte and without notice, but the Court may require such notice of the application as it thinks necessary to be given to the Official Receiver, trustee, petitioning creditor, person alleged to be a person of unsound mind, or any other person, and may adjourn the hearing of the application to enable the notice to be given.
+(4) The application shall be supported by an affidavit of a registered medical practitioner as to the mental condition of the person of unsound mind except that an application made by the Official Receiver may be supported by a report made by him.
+(5) Any notice served on or given to a person appointed under this Rule has the same effect as if the notice had been served on or given to the person of unsound mind.

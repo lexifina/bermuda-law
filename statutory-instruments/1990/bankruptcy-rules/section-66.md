@@ -1,0 +1,5 @@
+# Execution of warrant under section 29
+66 (1) When a person is apprehended under a warrant issued under section 29(2) of the Act, the officer apprehending him shall forthwith bring him before the Court issuing the warrant in order that he may be examined, and if he cannot immediately be brought up for examination, the officer shall deliver him into the custody of the Commissioner of Prisons mentioned in the warrant [sic], who shall receive and keep him and shall produce him before the Court as it may from time to time direct.15
+13Forms 134, 137, 138, 139, 146 14Form 136 15Form 146
+(2) After apprehending the person named in the warrant, the officer shall forthwith report to the Court the apprehension or delivery into custody, as the case may be, and apply to the Court to appoint a time for the examination of that person, and thereupon the Court shall appoint the earliest practicable day for the examination, and shall direct the Commissioner of Prisons to produce him for examination at the place and time appointed.16
+(3) Notice of the place and time appointed shall forthwith be given by the Registrar to the person who applied for the examination or warrant.

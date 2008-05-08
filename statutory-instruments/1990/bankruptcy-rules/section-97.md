@@ -1,0 +1,2 @@
+# Disallowance of costs of unnecessary petition
+97 Where a creditor's petition has been presented against the debtor and before it is heard the debtor files a petition on which a receiving order is made, no costs shall be allowed to the debtor or his barrister and attorney out of the estate, unless the Court considers that the estate has benefitted by the debtor's conduct, or that in the special circumstances costs should be allowed.

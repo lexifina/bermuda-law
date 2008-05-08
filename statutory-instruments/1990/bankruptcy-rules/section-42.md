@@ -1,0 +1,2 @@
+# Erasures, alterations etc
+42 Unless the Court otherwise orders, no affidavit shall be read or used in any proceedings if there is any interlineation, alteration or erasure in the body of the affidavit or jurat, unless the person before whom the affidavit was sworn has initialled the interlineation or alteration, and in the case of an erasure has re-written and signed or initialled in the margin of the affidavit any words or figures written on the erasure.

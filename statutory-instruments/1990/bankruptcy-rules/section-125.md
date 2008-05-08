@@ -1,0 +1,3 @@
+# Security for costs
+125 A petitioning creditor who is resident abroad, or whose estate is vested in a trustee under any law relating to bankruptcy, or against whom a petition is pending under the Act, or who has made default in payment of any costs ordered by any court to be paid by him to the debtor, may be ordered to give security for costs to the debtor.
+30Forms 12, 13

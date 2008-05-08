@@ -1,0 +1,2 @@
+# Service of creditor's petition on limited partnership
+255 A creditor's petition against a limited partnership registered as such under the Limited Partnership Act 1883 [title 17 item 24], shall, unless the Court otherwise orders, be served at the registered principal place of business of the partnership by delivering there a sealed copy of the petition to one of the general partners or to some person having at the time of service the control or management of the partnership business.

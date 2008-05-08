@@ -1,0 +1,2 @@
+# Provost Marshal's costs
+89 Where pursuant to section 44(1) of the Act, the Provost Marshal is required to deliver goods or money to the Official Receiver or the trustee, the Provost Marshal shall without delay bring in his bill of costs to be taxed by the Taxing Officer and unless the bill is brought in for taxation within one month from the date of the delivery, the Official Receiver or the trustee may decline to pay it.

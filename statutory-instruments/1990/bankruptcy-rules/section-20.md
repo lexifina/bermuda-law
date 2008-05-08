@@ -1,0 +1,3 @@
+# Notice of motion and ex parte applications
+20 (1) Where any party other than the applicant is affected by the motion, no order shall be made except with the consent of that party, or upon proof that notice of the motion and a copy of the affidavits in support thereof have been duly served upon him; however where the Court is satisfied that serious mischief may result from delay caused by proceedings in the ordinary way, it may make an order ex parte upon such terms as to costs and otherwise, and subject to such undertaking, if any, as the Court thinks just.
+(2) Any party affected by an order made ex parte may move to set it aside.

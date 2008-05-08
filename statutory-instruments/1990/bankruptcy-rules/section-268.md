@@ -1,0 +1,2 @@
+# Apportionment of trustee's remuneration
+268 Where joint and separate estates are being administered, the remuneration of the trustee in respect of the administration of the joint estate may be fixed by the creditors, or (if duly authorised) by the committee of inspection, of the joint estate and the remuneration of the trustee in respect of the administration of any separate estate may be fixed by the creditors, or (if duly authorised) by the committee of inspection, of that separate estate.

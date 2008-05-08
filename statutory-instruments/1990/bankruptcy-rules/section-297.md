@@ -1,0 +1,2 @@
+# Notice of petition or receiving order
+297 For the purpose of section 44 of the Act, notice that a petition has been presented or a receiving order made shall be in writing addressed to the Provost Marshal General or, where the execution is not in respect of a judgment of the Court, to the officer charged with the execution, and shall be delivered by hand or registered post at the office of the officer charged with the execution.

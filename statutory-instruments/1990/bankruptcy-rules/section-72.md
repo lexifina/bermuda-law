@@ -1,0 +1,2 @@
+# Service out of jurisdiction
+72 Where any process or order of the Court or other document is required by the Act or these Rules to be served on any person who is not in Bermuda, the Court may order service on him of that process or order or other document to be effected within such time and in such manner as it thinks fit, and may also require such proof of the service of that process. order or other document, as it thinks fit.

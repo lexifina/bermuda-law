@@ -1,0 +1,2 @@
+# Production of bills of exchange, etc
+244 Subject to section 69 of the Bills of Exchange Act 1934 [title 17 item 21], a bill of exchange, promissory note, or other negotiable instrument or security upon which proof has been made, shall, unless the Court on special grounds dispenses with its production, be exhibited to the trustee before payment of any dividend thereon, and the amount of dividend paid shall be endorsed on the instrument.

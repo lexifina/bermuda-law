@@ -1,0 +1,2 @@
+# Declaration of dividend
+242 Immediately after the expiration of the time fixed by these Rules for appealing against the decision of the trustee, the trustee shall proceed to declare a dividend, give notice to the Registrar who shall direct the Official Receiver to publish it in the Gazette, and send a notice of dividend to each creditor whose proof has been admitted, accompanied by a statement showing the position of the estate.74

@@ -1,0 +1,2 @@
+# Proof of posting of notice by Official Receiver or trustee
+13 Where, by any provision of the Act or these Rules, any notice is required to be sent by the Official Receiver or the trustee, the sending of the notice may be proved by a certificate by the Official Receiver who sent it or his clerk, or by an affidavit by the trustee who sent it or his barrister and attorney or the clerk of either of them, that the notice was duly posted.2
