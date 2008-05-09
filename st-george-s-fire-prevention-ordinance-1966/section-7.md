@@ -1,0 +1,2 @@
+# Entry on premises
+7 Any member or official of the Corporation, and any officer of the St. George's Fire Brigade deputed by the Corporation for that purpose, may enter in or upon any building or premises in St. George's for the purpose of ascertaining whether in the opinion of the Corporation there exists in such building or premises any condition or thing which may constitute a danger from fire or explosion to life or property.
