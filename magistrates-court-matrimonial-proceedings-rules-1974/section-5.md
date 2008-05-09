@@ -1,0 +1,2 @@
+# Reference to magistrate
+5 Where the clerk is of the opinion that a complaint is in respect of a matter not within the jurisdiction of the court or is frivolous or vexatious, the clerk shall not issue the summons but shall refer the matter to a magistrate, who shall give the clerk such direction in the matter as he may think just and it shall be the duty of the clerk to comply with any such direction.
