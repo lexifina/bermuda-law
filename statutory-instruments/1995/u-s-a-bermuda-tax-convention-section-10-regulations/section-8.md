@@ -1,0 +1,5 @@
+# Refusal of person to attend, be sworn, etc.
+8 (1) A person who, having been required under regulation 6 to attend at an examination, refuses or fails to attend or, having so attended, refuses or fails to be sworn, or to answer any question or produce any document that he is properly asked to answer or to produce, for the purpose of the examination, is guilty of an offence and may be proceeded against and, if convicted, punished, as provided in subsection (4) of section 9.
+(2) Notwithstanding paragraph (1), an examiner may apply to the Court for an order requiring a person whom the Court finds to be in breach of that paragraph to attend before the examiner, or to be sworn, or to answer a question or produce a document for the purposes of the examination, as the case may be, and the Court may make an order accordingly.
+(3) An order made under paragraph (2) may contain a direction that the person against whom the order is made shall pay any costs occasioned by his refusal or failure.
+(4) A person who wilfully disobeys a direction given to him under paragraph (3) is guilty of contempt of court.
