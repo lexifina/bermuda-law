@@ -1,0 +1,8 @@
+# Expenses
+9 (1) Subject to subsection (2), any expenses incurred by the Attorney-General for the purposes of this Act shall be defrayed out of money provided by the Legislature.
+(2) Subject to subsections (3) and (4), it shall be the duty of the Attorney-General, in the case of the transfer of a person into Bermuda under this Act, to secure the payment to him by that person, or from some other source, of the amount of any expenses incurred by him in connection with the conveyance of that person to Bermuda; and for this purpose the Attorney-General shall have the same power as in any other case where he assists the return of a person to Bermuda to require a person to give an undertaking to pay the Attorney-General the whole or any part of the amount, to enforce such an undertaking and to make such other arrangements for recovering that amount as he thinks fit.
+(3) Subsection (2) shall not apply to the extent that in any case it appears to the Attorney-General that it would be unreasonable for him to exercise any of the powers conferred by that subsection either because of the exceptional circumstances of the case or because the means of the prisoner are insufficient to meet the expenses and their recovery, whether immediately or at some future time, from the prisoner or from any other source is impracticable.
+(4) The expenses mentioned in subsections (2) and (3) shall not include⎯
+(a) any expenses of providing an escort for a person transferred into Bermuda under this Act; or
+(b) any expenses of the conveyance of such a person beyond the place at which he first arrives in Bermuda.
+(5) The Attorney-General shall pay any sums received by him by virtue of subsection (2) into the Consolidated Fund.
