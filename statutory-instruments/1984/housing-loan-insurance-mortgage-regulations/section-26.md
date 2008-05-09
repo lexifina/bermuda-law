@@ -1,0 +1,2 @@
+# Lender to sue in certain cases before making claim
+26 The Corporation has the right, before paying a claim, to require the lender to obtain a judgment against the borrower or, where there is a guarantee of the loan, against the guarantor for the amount of the debt outstanding under the mortgage or for such smaller amount as the Corporation may approve, and to assign the benefit of the judgment to the Corporation.

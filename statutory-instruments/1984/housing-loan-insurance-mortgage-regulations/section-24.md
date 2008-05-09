@@ -1,0 +1,3 @@
+# Prescription of amount of principal owing
+24 (1) The amount prescribed for the purpose of paragraph (c)(i)(aa) of subsection (1) of section 16 of the Act as the amount of the principal owing under a mortgage is the balance of the principal outstanding on the mortgage at the time of default.
+(2) The expression "time of default" in paragraph (1) means the time of the failure (being a failure by the borrower to comply with a requirement imposed upon him by the mortgage) upon which the claim is grounded or, where the claim is grounded upon more than one such failure, the time of the latest such failure.

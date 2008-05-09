@@ -1,0 +1,4 @@
+# Reduction of loan as sanction for reg. 19
+20 (1) Where an insurance policy has been issued to a lender under regulation 19 and the work is not completed to the Corporation's satisfaction by the date fixed by the Corporation pursuant to regulation 19(2)(d), the Corporation may in writing require the lender to reduce the loan by the amount of the un-advanced portion of the loan, and the maximum amount of the loan shall thereupon be the amount of the loan as so reduced.
+(2) Where a loan is reduced pursuant to paragraph (1), the Corporation shall refund any insurance premium that has been paid on the amount by which the loan has been so reduced.
+(3) A lender who is required by the Corporation under paragraph (1) to reduce a loan shall return the insurance policy to the Corporation for replacement by an insurance policy covering the loan as required to be reduced.
