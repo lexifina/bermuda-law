@@ -1,0 +1,2 @@
+# Gazette notice of sanction by Minister
+4 The Minister may, within thirty days of presentation to him by the Permanent Secretary of the scheme and the written agreement of the required percentage of frontagers, sanction the scheme, and if he sanctions the scheme, he shall, within 15 days thereafter, cause to be published in the Gazette a notice of the fact that he has sanctioned the scheme and of his intention to have lights placed on the road mentioned in the scheme.
