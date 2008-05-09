@@ -1,0 +1,3 @@
+# Abandoned vehicles
+13 (1) Where a vehicle is left in a fee car park for the period of three consecutive fee-parking days without the appropriate fee having been paid, the Corporation shall be entitled to treat the vehicle as abandoned and to dispose of it accordingly.
+(2) Where in virtue of sub-paragraph (1) the Corporation treats a vehicle left in a car park as abandoned and removes and disposes of it under that sub-paragraph, the Corporation may recover as a civil debt either from the person who brought the vehicle into the car park or from its owner the Corporation's reasonable expenses incurred in connection with the removal and disposal.
