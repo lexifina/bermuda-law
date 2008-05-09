@@ -1,0 +1,2 @@
+# No appeal lies
+27 No appeal shall lie against a refusal on the part of the Authority to grant a building permit, but while they shall always regard the furtherance of the purposes of this Act as the primary consideration in making any decision, the Authority shall not unreasonably refuse to grant a building permit, nor shall the Authority (acting in pursuance of section 23) make the grant of a building permit subject to the observance of unreasonable conditions, nor shall the Authority unreasonably revoke a building permit.

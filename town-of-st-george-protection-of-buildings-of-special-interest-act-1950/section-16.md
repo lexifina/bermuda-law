@@ -1,0 +1,8 @@
+# Payment into Supreme Court
+16 (1) Where money is paid into the Supreme Court by the Authority under section 11(2) or section 12(4), the money may on the petition of any person claiming to be entitled thereto, or of any person lawfully representing any such person, be dealt with and disposed of as the Court may think fit; and the Court in directing payment out of court of any such money may impose such terms or conditions as the Court may think proper having regard to the circumstances.
+(2) Where money paid into the Supreme Court as aforesaid does not exceed the sum of twelve hundred dollars the powers conferred upon the Court by the foregoing subsection may be exercised by the Chief Justice or by an Assistant Justice in Chambers.
+(3) In addition to the payment of money into the Supreme Court in the circumstances mentioned in subsection (1), the Authority shall pay into the Supreme Court any money payable by the Authority by way of compensation where any of the following circumstances exist—
+(a) where the person entitled to the money refuses to accept it when it is tendered to him by the Authority;
+(b) where the person entitled to the money cannot after diligent enquiry be found; or
+(c) where the person entitled to the money is under a legal disability and there is no person enabled by law to receive and give a valid discharge for the money on behalf of the person under a legal disability;
+and where money is paid into the Supreme Court in any such circumstances it shall fall to be dealt with and disposed of as if it were money paid into the Court in the circumstances mentioned in subsection (1).

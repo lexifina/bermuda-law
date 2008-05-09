@@ -1,0 +1,3 @@
+## PART II
+# Interpretation of Part II
+4 For the purposes of this Part a building shall be deemed to be altered if it is altered in such a manner as to change its external appearance; and, without prejudice to the generality of the foregoing provision, a building shall be deemed to be altered in such a manner as aforesaid if (whether there is any alteration of the main fabric or not) there is altered, moved or removed any external door, any window shutter, glass work, work of ornamentation or utility, or similar work fixture, feature or thing, being a part of or affixed to the building and in any degree affecting its external appearance.

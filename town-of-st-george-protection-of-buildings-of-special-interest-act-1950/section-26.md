@@ -1,0 +1,2 @@
+# Revocation of building permits
+26 Where the Authority have granted a building permit and it is subsequently shown to the satisfaction of the Authority that any information contained in the building application or furnished in connection therewith was inaccurate as respects any fact or circumstance which was material to the consideration by the Authority of the building application, then the Authority may revoke the permit.

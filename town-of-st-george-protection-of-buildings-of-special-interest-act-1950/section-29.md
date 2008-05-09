@@ -1,0 +1,3 @@
+# Authority may acquire land
+29 (1) The Authority may acquire by agreement any land situated within the Scheduled Area and may hold any land so acquired, and may hold any land so situated which has been acquired by them by gift or devise; and may sell, exchange, mortgage, lease or let any land acquired and held by them as aforesaid.
+(2) The Authority may hold any land situated outside the Scheduled Area which has been acquired by them by gift or devise for any period not exceeding three years, or for such longer period as the Governor may for special reasons allow, and may sell, exchange, mortgage, lease or let any land so held by them.
