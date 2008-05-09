@@ -1,0 +1,2 @@
+# Approved assets
+3 Every insurer being a Non-Resident Insurance Undertaking carrying on long-term business in Bermuda shall maintain invested in Bermuda during the currency of this Order approved assets of a value (referred to in this Order as "investment asset value") of 30% of the value of the insurer's domestic liabilities being liabilities outstanding on account of the Insurer's long-term business.
