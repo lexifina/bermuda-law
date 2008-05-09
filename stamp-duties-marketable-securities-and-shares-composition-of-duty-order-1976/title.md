@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+SR&O 29/1976
+STAMP DUTIES (MARKETABLE SECURITIES AND SHARES) (COMPOSITION OF DUTY) ORDER 1976
+[made under section 74 of the Stamp Duties Act 1976 [title 14 item 24] and brought into operation on 27 March 1976]
