@@ -1,0 +1,4 @@
+# Verdict
+8 Subject to this section, a verdict found in respect of any issue falling to be tried by a jury in a civil cause, or an assessment made by any such jury, shall be unanimous and shall be delivered by the foreman of the jury in the presence of the other members of the jury in open court:
+Provided that where, after a jury in a civil cause have been in deliberation for not less than one hour, it shall be competent for six or more of the jurors to find a verdict in respect of any issue falling to be tried by the jury, or to make an assessment, and any such verdict or assessment shall have the same force and effect as if it had been found or made unanimously by the jury:
+Provided further that the judge may, where he considers fit to do so, direct that he will not accept a majority verdict in accordance with this section before the expiration of two hours.
