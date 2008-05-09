@@ -1,0 +1,2 @@
+# Certificate
+9 Where any person makes application for planning approval to the Development Applications Board under the Development and Planning Act 1974 [title 20 item 1], in respect of development in the adjacent lands the Permanent Secretary shall, at the request of that person, or of the Board, certify to the Board in writing whether or not any permission has been granted under these Regulations for any specified development and the nature of such permission where such permission has been granted.

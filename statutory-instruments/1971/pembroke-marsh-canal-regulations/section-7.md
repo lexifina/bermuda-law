@@ -1,0 +1,2 @@
+# Planning permission required
+7 Permission to carry out development in the adjacent lands under these Regulations shall not dispense with the need to obtain permission in respect of the same development under the Development and Planning Act 1974 [title 20 item 1], nor shall permission granted under that Act dispense with the need to obtain permission for the same development under these Regulations nor authorise development prohibited by these Regulations.
