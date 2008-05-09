@@ -1,0 +1,2 @@
+# Duty to ensure compliance with the Regulations
+4 Every person who to any extent is responsible for, has control over or is engaged in any diving project to which these Regulations apply or whose acts or omissions could adversely affect the health and safety of persons engaged in any such project, shall take such measures as is reasonable for a person in his position to take to ensure that these Regulations are complied with.
