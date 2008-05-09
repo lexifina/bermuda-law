@@ -1,0 +1,2 @@
+# Operation
+12 The user or owner, as the case may be, of a pressure system shall provide appropriate instructions for the safe operation of the system and in the case of a pressure system in which steam is generated and its output is greater than one metric tonne per hour (2204 lbs. per hour) shall not later than three years after the commencement of these Regulations appoint a person with suitable training and practical experience to take charge of the system.
