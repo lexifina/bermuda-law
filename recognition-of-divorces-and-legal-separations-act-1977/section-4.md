@@ -1,0 +1,3 @@
+# Cross-proceedings and divorces following legal separations
+4 (1) Where there have been cross-proceedings, the validity of an overseas divorce or legal separation obtained either in the original proceedings or in the cross-proceedings shall be recognized if the requirements of section 3(1) or (2) are satisfied in relation to the date of the institution either of the original proceedings or of the cross-proceedings.
+(2) Where a legal separation the validity of which is entitled to recognition by virtue of section 3 or subsection (1) is converted, in the country in which it was obtained, into a divorce, the validity of the divorce shall be recognized whether or not it would itself be entitled to recognition by virtue of those provisions.
