@@ -1,0 +1,3 @@
+# Intercepting traps; inspection chambers
+22 (1) Before being connected with the street sewer the main house sewer shall be trapped by means of a sewer intercepting trap or syphon fitted with a cleansing arm provided with an airtight stopper, and such trap shall be fixed between the street sewer and an inspection chamber formed of brickwork, stone, or concrete built and rendered internally in cement to a smooth finish.
+(2) The chamber shall be provided with an airtight cover, and shall be ventilated by means of a pipe at least three inches internal diameter, carried up from the top of the chamber as a fresh air inlet and terminating with a box with a mica valve or, alternatively, with an approved type of ventilator.

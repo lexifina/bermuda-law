@@ -1,0 +1,4 @@
+# Jointing
+8 (1) Earthenware and cast iron pipes shall be carefully put together, the butt end of one pipe being forced into the socket end of the next pipe as closely as practicable, and the space between them, in case of earthenware pipes, shall be filled in with Portland cement of good quality mixed with a clean sharp sand, and the cement shall be thoroughly worked in so as to fill the whole space and to cover the joint externally.
+(2) The inside of each pipe shall be carefully wiped out so as to remove any cement that may work through the joint.
+(3) If the sewer is of cast iron, and is jointed with socket joints, the joints shall be at least two and a half inches in depth, and shall be made with molten lead or lead wool, properly caulked; and the annular space for the lead in the case of four inch pipes, shall be at least a quarter of an inch in width, and in the case of five or six inch pipes shall be at least three-eighths of an inch in width.

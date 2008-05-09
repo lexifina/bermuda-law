@@ -1,0 +1,3 @@
+# Depth
+9 (1) Where practicable all house sewers shall be laid at least twelve inches below the surface of the ground, measuring to the upper side of the pipes, and the ground shall be carefully excavated to true hanging lines and so made up that the pipes shall have a firm bearing throughout their entire length.
+(2) All four inch sewers shall be laid to a fall of at least three inches in ten feet (or one in forty) ; five inch sewers to a fall of at least three inches in twelve feet six inches (or one in fifty); and six inch sewers to a fall of at least two inches in ten feet (or one in sixty).
