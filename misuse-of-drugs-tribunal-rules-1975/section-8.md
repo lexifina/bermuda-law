@@ -1,0 +1,4 @@
+# Default of appearance
+8 (1) Where, on the date fixed for the hearing, the Attorney-General does not appear, then, whether or not the respondent appears, the tribunal shall adjourn the proceedings on such terms (if any) as it thinks fit.
+(2) Where, on the date fixed for the hearing, the respondent does not appear, it shall be the duty of the Attorney-General to satisfy the tribunal that the notice of proceedings and the notice of hearing have been served on the respondent in accordance with rule 15 and, if so satisfied the tribunal may proceed, if it thinks fit, in the absence of the respondent.
+(3) Where, on the date fixed for the hearing of an application under 6, the Attorney-General or the respondent does, or both of them do, not appear, the tribunal may make such order as it thinks fit.

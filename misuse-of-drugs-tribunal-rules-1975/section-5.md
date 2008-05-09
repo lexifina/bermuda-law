@@ -1,0 +1,5 @@
+# Inspection of documents
+5 (1) The Attorney-General shall within fourteen days after the issue of the notice of proceedings and the respondent may at any time serve on the other party a list of the documents on which he proposes to rely, and the Attorney-General and the respondent shall send to the tribunal a copy of any list served under this paragraph.
+(2) A list under paragraph (1) shall specify a reasonable period (commencing not earlier than seven days and ending not later than fourteen days after the date of the list) during which, and a reasonable place at which, the other party may inspect and take copies of the documents contained in the list.
+(3) A party shall be entitled to inspect and take copies of any document set out in the list of documents served by the other party during the period and at the place specified by such other party in his list of documents or during such period and at such place as the tribunal may direct.
+(4) Unless the tribunal otherwise directs, a party shall produce any document set out in his list of documents at the hearing of the case when called upon to do so by the other party.
