@@ -1,0 +1,5 @@
+# Erection of buildings
+3 (1) Subject to this section, it shall be lawful for the Government of the United States of America to erect and use, for any such authorized purpose as is referred to in section 1(1), any building on land acquired by the said Government in pursuance of this Act:
+Provided that nothing in this section shall be construed so as to authorize the said Government to disregard the terms and conditions of any lease or letting agreement or other contract of tenancy to which the said Government is a party.
+(2) The power conferred upon the Government of the United States of America by this section to erect and use buildings on any land acquired by the said Government shall be exercised subject to compliance with any Act or of any statutory instrument in force for the time being in relation to the development of land or to the control of building operations and applicable to all land in the area in which the land is situated.
+(3) The power conferred upon the Government of the United States of America by this section to erect buildings shall be deemed to include a power to cause or procure the erection of buildings.
