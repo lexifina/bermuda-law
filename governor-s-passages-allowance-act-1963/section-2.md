@@ -1,0 +1,3 @@
+# Grant of allowance for passages
+2 There shall be paid to His Excellency the Governor out of the Consolidated Fund an allowance towards the cost of the expenditure incurred by him on passages in respect of which he receives or is entitled to a United Kingdom passage grant, a sum equal to the excess (if any) of the total expenditure incurred by him on such passages since his term of office commenced over the total United Kingdom passage grants paid or payable to him in respect thereof:
+Provided that the total amount paid to His Excellency the Governor under this Act during his term of office shall not exceed the aggregate amount paid to him by way of United Kingdom passage grants in respect of that period.
