@@ -1,0 +1,7 @@
+# Capacity of married women
+2 Subject to this Act, a married woman shall—
+(a) be capable of acquiring, holding, and disposing of, any property; and
+(b) be capable of rendering herself, and of being rendered, liable in respect of any tort, contract, debt or obligation; and
+(c) be capable of suing and being sued, either in tort or in contract or otherwise; and
+(d) be subject to the law relating to bankruptcy and to the enforcement of judgments and orders,
+in all respects as if she were an unmarried woman.
