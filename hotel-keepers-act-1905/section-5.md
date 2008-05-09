@@ -1,0 +1,8 @@
+# Power of sale
+5 (1) The hotel keeper shall, in addition to his ordinary lien, have the right absolutely to sell and dispose by public auction of any goods which may have been deposited with him or left in his hotel, or left in the coach-house, stable, stable-yard, or other premises appurtenant or belonging thereto, where the person depositing or leaving such goods becomes indebted to the said hotel keeper either for any board or lodging, or for the keep and expenses of any horse or other animal left or standing at livery on the said premises:
+Provided that no such sale shall be made—
+(a) until after the said goods have been for the space of six weeks in the charge or custody of such hotel keeper, or in or upon such premises, without such debt having been paid or satisfied; and
+(b) unless the debt for the payment of which a sale is made is not any other or greater debt than the debt for which the goods could have been retained by the hotel keeper by his lien; and
+(c) unless at least one month before any such sale the hotel keeper has caused to be inserted in the Gazette an advertisement containing notice of such intended sale, and giving shortly a description of the goods intended to be sold, together with the name (where known) of the owner or person who deposited or left the goods.
+(2) Such hotel keeper, after having, out of the proceeds of such sale, paid himself the amount of any such debt, together with the costs and expenses of such sale, shall on demand pay to the person depositing or leaving any such goods, the surplus (if any) remaining after such sale.
+[Amended by 1951 : 58 1952 : 11.]
