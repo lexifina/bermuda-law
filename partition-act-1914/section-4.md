@@ -1,0 +1,2 @@
+# Supreme Court may allow parties interested to bid at sale
+4 On any sale under this Act the Supreme Court may, if it thinks fit, allow any of the parties interested in the land to bid at the sale on such terms as to the time and mode of payment of the purchase money, or as to setting off or accounting for the purchase money or any part thereof instead of paying the same, or as to any other matters relating to such sale, as to the Supreme Court may seem reasonable.
