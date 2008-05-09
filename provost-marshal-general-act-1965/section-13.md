@@ -1,0 +1,4 @@
+# Process to be addressed to Registrar where Provost Marshal General is a party or a witness
+13 (1) In any suit, action or other proceeding in any court to which the Provost Marshal General is a party, all writs and other process therein shall be addressed for service or execution to the Registrar of the Supreme Court.
+(2) In any suit, action or other proceeding in any court, where any writ or other process is issued requiring or compelling the appearance of the Provost Marshal General as a witness, such writ or process shall be addressed for service or execution to the Registrar of the Supreme Court.
+(3) Where any writ or process is addressed for service or execution to the Registrar of the Supreme Court, the provisions of this Act shall apply as if the Registrar of the Supreme Court were the Provost Marshal General and the said Registrar may direct a bailiff to serve or execute the same.
