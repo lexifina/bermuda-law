@@ -1,0 +1,3 @@
+# Prevention of collision
+5 (1) Subject to paragraph (2), vessels to which these Regulations apply shall comply with rules 1 to 37 of, and Annexes I to III, to the International Regulations.
+(2) Nothing in these Regulations shall be taken to require compliance by any vessel or class of vessels, which by virtue of rule 38 of the International Regulations may be exempted from compliance with any of the provisions of the said Regulations specified in paragraphs (a) to (h) inclusive of that rule, at any time when, by virtue of that rule, that vessel or class of vessels may be exempted from that provision.

@@ -1,0 +1,2 @@
+# Power to detain
+8 In any case where a ship does not comply with the requirements of these regulations, the ship shall be liable to be detained and section 242 of the Merchant Shipping Act 2002 (which relates to the detention of a ship) shall have effect in relation to the ship, subject to the modification that as if for the words "this Act" wherever they appear, there were substituted "the Merchant Shipping (Distress Signals and Prevention of Collisions) Regulations 2005".
