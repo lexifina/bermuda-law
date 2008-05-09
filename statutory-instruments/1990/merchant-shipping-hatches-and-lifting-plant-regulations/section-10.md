@@ -1,0 +1,3 @@
+# Certificate or report to be obtained
+10 (1) The employer and the master shall ensure that a certificate or report in a form approved by the Minister is obtained from within twenty-eight days following any test under regulation 7 or examination under regulation 8 and is kept in a safe place on board ship for a period of at least two years from receipt of the certificate or report of the next following test or examination.
+(2) Any approval given in pursuance of this regulation shall be in writing and shall specify the date on which it takes effect and the conditions, if any, on which it is given.

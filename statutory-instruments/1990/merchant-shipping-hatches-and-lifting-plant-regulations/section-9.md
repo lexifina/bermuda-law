@@ -1,0 +1,5 @@
+# Lighting [sic] appliance to be clearly and legibly marked
+9 (1) The employer and the master shall ensure that each lifting appliance is clearly and legibly marked with its safe working load and a means of identification.
+(2) The employer and the master shall ensure that any crane that is carried on the ship and whose safe working load varies with its operating radius is fitted with an accurate indicator, clearly visible to the driver, showing the radius of the load lifting attachment at any time and the safe working load corresponding to that radius.
+(3) The employer and the master shall ensure that each item of lifting gear is clearly and legibly marked with its safe working load and a means of identification, except where such marking is not reasonable practicable, but in such a case a safe working load shall be readily ascertainable by any user.
+(4) The employer and the master shall ensure that each item of lifting gear which weighs a significant proportion of the safe working load of any lifting appliance with which it is intended to be used is, in addition to the requirement in paragraph (3), clearly marked with its weight.
