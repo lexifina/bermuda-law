@@ -1,0 +1,2 @@
+# Right to inspect depositions and obtain copies
+8 It shall be the duty of the Registrar or of any magistrate's clerk for the time being in possession of any depositions to give to any person desiring to make an application for leave to prefer a bill of indictment against the person who was accused when the depositions were taken, a reasonable opportunity to inspect the dispositions, and, if so required by him, to supply him, with copies of the depositions or any part thereof.
