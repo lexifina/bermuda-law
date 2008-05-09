@@ -1,0 +1,7 @@
+# Application; other requirements
+6 (1) Where no proceedings have been taken under the Indictable Offences Act 1929 [title 8 item 32], the application shall state the reason why it is desired to prefer a bill without such proceedings having been taken, and (a) there shall accompany the application proofs of the evidence of the witnesses whom it is proposed to call in support of the charges; and
+(b) the application shall embody a statement that the evidence shown by the proofs will be available at the trial and that the case disclosed by the proof is, to the best of the knowledge, information and belief of the applicant, substantially a true case.
+(2) Where proceedings have been taken under the Indictable Offences Act 1929 [title 8 item 32], and the magistrate has refused to commit the accused person for trial, the application shall be accompanied by—
+(a) a copy of the depositions; and
+(b) proofs of any evidence which it is proposed to call in support of the charges so far as that evidence is not contained in the depositions,
+and the application shall embody a statement that the evidence shown by the proofs and (except so far as may be expressly stated to the contrary in the application) the evidence shown by the depositions, will be available at the trial and that the case disclosed by the depositions and proofs is, to the best of the knowledge, information and belief of the applicant, substantially a true case.
