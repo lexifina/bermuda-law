@@ -1,0 +1,3 @@
+# Precedence of paternal line over maternal line
+7 (1) None of the maternal ancestors of the person from whom the descent is to be traced, nor any of their descendants shall be capable of inheriting until all his paternal ancestors and their descendants have failed.
+(2) No female paternal ancestor of such person nor any of her descendants shall be capable of inheriting until all his male paternal ancestors and their descendants have failed, and no female maternal ancestor of such person, nor any of her descendants, shall be capable of inheriting until all his male maternal ancestors and their descendants have failed.
