@@ -1,0 +1,2 @@
+# Removal of fireworks landed in port
+8 Any fireworks landed from any ship discharging in the Port of Hamilton shall be removed beyond the limits of Hamilton within 24 hours from the time such fireworks are landed, except in any case when fireworks are imported for official purposes, when the Corporation may grant a special permit for such fireworks to be landed and stored under such conditions as the Corporation may prescribe.

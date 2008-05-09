@@ -1,0 +1,4 @@
+# Restriction on storage of kerosene
+4 (1) No person shall have, keep or store any kerosene on any premises without a licence from the Corporation.
+(2) Such licence shall prescribe the conditions under which kerosene may be kept.
+(3) The provisions of this article shall not apply to premises where not more than one barrel or one case of kerosene is kept for domestic purposes.
