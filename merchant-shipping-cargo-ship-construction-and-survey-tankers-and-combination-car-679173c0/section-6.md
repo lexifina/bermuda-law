@@ -1,0 +1,3 @@
+# Separation of cargo pump rooms from machinery spaces of Category A and cargo
+6 (1) The bulkheads and decks separating cargo pump rooms from machinery spaces of Category A shall be 'A' Class divisions of A0 standard.
+(2) Where lighting enclosures are fitted in bulkheads and decks to which paragraph (1) of this Rule refers for the purpose of illuminating the cargo pump room, such lighting enclosures shall be such that the 'A' Class integrity and gastightness of such bulkheads and decks are not impaired.

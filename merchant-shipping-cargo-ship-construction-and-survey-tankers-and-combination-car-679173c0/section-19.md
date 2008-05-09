@@ -1,0 +1,2 @@
+# Alternative construction and equipment
+19 Where these Rules require that the hull of a ship shall be constructed in a particular manner, or that particular equipment shall be provided, or that particular provisions shall be made, the Minister may allow the hull of the ship to be constructed in any other manner, or any other equipment to be provided or other provision made, if he is satisfied that such other construction, equipment or provision is at least as effective as that required by these Rules.

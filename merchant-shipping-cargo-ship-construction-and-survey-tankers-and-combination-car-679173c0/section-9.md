@@ -1,0 +1,2 @@
+# Separation of accommodation spaces from galleys, storerooms and similar spaces
+9 The boundary bulkheads separating accommodation spaces from galleys, paint rooms, lamp rooms or boatswain's stores shall be constructed of steel or other equivalent material.
