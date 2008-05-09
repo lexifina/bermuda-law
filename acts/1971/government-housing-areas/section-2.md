@@ -1,0 +1,3 @@
+# Housing area on Government or Bermuda Housing Corporation land; sanction of Legislature; declaration by Minister
+2 (1) The Minister may, with the previous sanction of the Legislature, by Order published in the Gazette, declare any land the property of the Government, or comprised within a housing estate or scheme developed, built or managed by the Corporation or to be so developed, built or managed, to be a housing area for the purposes of this Act and he may, in like manner, vary the boundaries of any area so declared.
+(2) The sanction of the Legislature referred to in the foregoing subsection may be expressed by way of resolution passed by both Houses of the Legislature approving the declaration in question and communicated to the Governor by message.
