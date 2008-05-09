@@ -1,0 +1,4 @@
+# Offences
+4 A person who operates a carriage in contravention of paragraph 3(a) or (b) is guilty of an offence and is liable to prosecution for such offence in accordance with the provisions of the Municipalities Act 1923 [title 4 item 1].
+### Written Permission
+5. Nothing herein contained shall be construed so as to prevent the Corporation giving written permission to any person including its own employees or agents to do any act which in the absence of such permission might constitute a contravention of this Ordinance and any such permission shall be good and valid authority to the holder thereof acting in accordance therewith: however in any court proceedings taken under this Ordinance the onus of proving that such permission has been granted shall lie with the person asserting that fact.
