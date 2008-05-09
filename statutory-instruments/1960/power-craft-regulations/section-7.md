@@ -1,0 +1,2 @@
+# Accident procedure
+7 In the case of a collision, accident, or other casualty involving a power-craft while being operated within the territorial waters of Bermuda, the person in charge thereof shall give his name and address, and the registered number of the power-craft to any person injured, or to the owner of any property damaged, and where injury has resulted to any person, he shall in addition report the fact to the police within twenty-four hours of the event.

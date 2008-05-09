@@ -1,0 +1,5 @@
+# Police powers
+9 (1) Where a police officer has reason to suspect that an offence in connection with the use, ownership or possession of a power-craft has been committed, he or any other police officer may—
+(a) board such power-craft and address such enquiries to the occupants thereof as he may deem necessary; or
+(b) require the owner or person in charge of such power-craft to give all information in his possession as to the name, address, description, and whereabouts of the operator and of the occupants of the power-craft at the time of the alleged offence, together with any information in his possession which may lead to the identification or apprehension of the offender.
+(2) Without prejudice to any provision of law authorizing arrest without warrant, a police officer may arrest without warrant any person operating, or within, a power-craft whom the police officer had reason to suspect of having committed an offence against these Regulations if such person on being requested to do so by the police officer, refuses to give his name and address.
