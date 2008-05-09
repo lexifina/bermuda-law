@@ -1,0 +1,4 @@
+BERMUDA 1950 : 12
+UNITED KINGDOM AND CANADA (AIR SERVICES) AGREEMENT ACT 1950
+[18 March 1950]
+[preamble and words of enactment omitted]
