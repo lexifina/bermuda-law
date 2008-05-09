@@ -1,0 +1,3 @@
+# Boundary bulkheads and decks of machinery spaces of Category A and cargo
+7 (1) Windows and side scuttles shall not be fitted in internal or external boundary bulkheads or decks of machinery spaces of Category A and cargo pump rooms including skylights to such spaces except that such windows and side scuttles may be fitted in a bulkhead between a machinery space of Category A and a control room located within the boundaries of such a space.
+(2) Skylights to machinery spaces of Category A and cargo pump rooms shall be capable of being closed and opened from outside the spaces which they serve.
