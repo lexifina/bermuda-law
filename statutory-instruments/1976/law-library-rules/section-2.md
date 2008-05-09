@@ -1,0 +1,4 @@
+# Who may use the Library
+2 (1) Subject to these Rules, any entitled person shall have access as of right to the Library at any time, provided that he shall observe the security rules instituted by the Registrar and at any time in force.
+(2) A person other than entitled person shall not have the like access as of right, but may, either generally or in any particular instance, be permitted during normal office hours access to the Library by the Registrar subject to such conditions as the Registrar may impose.
+(3) Any person's right provided for by paragraph (1), or any permission granted to a person under paragraph (2), may be revoked in the case of that person by the Registrar at any time upon the directions of the Law Library Committee, if the Committee are satisfied that the right or permission ought to be revoked on account of the behaviour of that person in the Library on any occasion or occasions.
