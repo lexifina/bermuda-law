@@ -1,0 +1,2 @@
+# Revocation of permit
+5 Where it is shown to the satisfaction of the appropriate Authority that the holder of a permit has failed to comply with any conditions contained in such permit or has failed within a reasonable time to take the necessary action in accordance with the notice served upon him under section 4, then the appropriate Authority may revoke the permit and the holder of the permit shall, within seven days of the notification to him of the revocation, remove the vending machine in respect of which the permit was issued.

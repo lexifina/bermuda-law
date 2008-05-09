@@ -1,0 +1,2 @@
+# Notice requiring renovation of vending machine
+4 Where the appropriate Authority are satisfied that a vending machine has deteriorated in its appearance or mechanical efficiency, they may serve notice on the holder of the permit issued in respect of that machine to take the necessary action to renovate the machine to the satisfaction of the appropriate Authority or, as the case may be, to correct any mechanical defects.
