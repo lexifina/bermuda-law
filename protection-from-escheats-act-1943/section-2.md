@@ -1,0 +1,4 @@
+# Validation of unauthorized instruments
+2 (1) Subject to subsections (2) and (3), where before 14 November 1943 an unauthorized instrument was executed by the then Governor in respect of any land, any power, right, indemnity or waiver which that instrument purports to confer or grant shall be deemed to have been conferred or granted in accordance with law and is hereby confirmed and validated.
+(2) Where an unauthorized instrument executed as aforesaid purports to confer on any corporation a power to acquire land after the date of the execution of the instrument, then nothing in subsection (1) shall be construed as empowering the acquisition by that corporation of any land after 13 November 1943.
+(3) Nothing in subsection (1) shall be construed so as to cure any defect in the title to any land or to confirm, validate or secure the title to any land otherwise or to any greater extent than in accordance with subsection (1).
