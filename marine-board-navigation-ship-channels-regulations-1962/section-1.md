@@ -1,0 +1,2 @@
+# Duty of master of inbound ship as to reception of signals
+1 It shall be the duty of the master of every ship, fitted with a wireless telegraphic apparatus, while proceeding through the Main Ship Channel from Five Fathom Hole to Hamilton, to make provision for the reception of wireless messages from any other ship within the territorial waters of Bermuda, relative to the position, movements and navigation of such ship.
