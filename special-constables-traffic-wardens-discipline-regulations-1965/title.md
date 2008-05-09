@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+SR&O 26/1965
+SPECIAL CONSTABLES (TRAFFIC WARDENS) (DISCIPLINE) REGULATIONS, 1965
+[made under section 23 of the Police Act 1951 [repealed] and brought into operation on 23 June 1965]

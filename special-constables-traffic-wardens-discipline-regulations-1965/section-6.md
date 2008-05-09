@@ -1,0 +1,2 @@
+# Investigation of alleged contravention
+6 The Commissioner, or any other Police Officer appointed by the Commissioner for the purpose, shall investigate any case in which it is alleged that a Traffic Warden has contravened these Regulations, and if the allegation is proved to the satisfaction of the investigating officer, the Traffic Warden shall be liable to be reprimanded and the Commissioner may recommend to the Corporation concerned that the appointment of such Traffic Warden be terminated.
