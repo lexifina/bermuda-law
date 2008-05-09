@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+SR&O 12/1968
+PUBLIC HEALTH (REGISTRATION OF HOTELS AND COMMON LODGING HOUSES) REGULATIONS 1968
+[made under section 148(3)(d) of the Public Health Act 1949 [title 11 item 1] and brought into operation on 23 March 1968]
