@@ -1,0 +1,6 @@
+# Maintenance
+6 (1) An employer shall ensure that whenever any protective clothing or equipment is carried aboard a ship for use by his employees except in so far as it is issued to employees for their individual use, it is—
+(a) properly maintained, due regard being paid to any recommendations made by the manufacturers;
+(b) regularly inspected and, where appropriate, its operation checked at intervals of not more than three months;
+(c) repaired, decontaminated or replaced as necessary; and (d) in the case of breathing apparatus specified in item 6 of the relevant MSN, inspected and its operation checked before and after use.
+(2) An employee shall ensure that any deficiencies or defects in any items of protective clothing or equipment issued to him for his individual use are reported for repair or replacement to a responsible ship's officer or any other person authorised by the employer of that employee.
