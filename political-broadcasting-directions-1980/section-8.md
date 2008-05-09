@@ -1,0 +1,3 @@
+# Broadcasts by independents, political parties and groups without membership in the House of Assembly
+8 In periods A, B and C the Broadcasting Commissioners shall consider any application for broadcasting time by any person or any intended or nominated candidate who is independent of any political party and by any political organization or group of persons which is not recognized as a party for the purpose of these Directions and shall allot such person, candidate, organization or group such time for broadcasting as they shall in their discretion consider will give such person, candidate, organization or group a fair share of broadcasting time.
+[Direction 9 substituted by BR 37/1995 effective 21 June 1995; revoked by BR 14/2003 effective 14 March 2003]
