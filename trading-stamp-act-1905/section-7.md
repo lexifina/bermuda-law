@@ -1,0 +1,8 @@
+# Savings
+7 This Act shall not apply to—
+(a) any printed ticket, coupon, label or other voucher which is placed in or on any wrapper, package or goods supplied in that condition by any merchant or manufacturer abroad to any person in Bermuda and sold by him in the like condition, where it is clearly indicated on such ticket, coupon, label or other voucher that it is redeemable in the manner indicated thereon only by such merchant or manufacturer, or on his behalf by the person selling the same;
+(b) any printed ticket, coupon, label or other voucher which is placed by any merchant or tradesman in Bermuda in or on any wrapper, package or goods supplied by him in that condition to any person who sells the same in the like condition, where it is clearly indicated on such ticket, coupon, label or other voucher that it is redeemable in the manner indicated thereon only by such merchant or tradesman;
+(c) any printed ticket, coupon, label or other voucher issued by any merchant or tradesman in his own name to a cash customer at the time of the purchase by him of any goods from such merchant or tradesman, where it is clearly indicated on such ticket, coupon, label or other voucher that it is redeemable in the manner indicated thereon only by such merchant or tradesman:
+Provided that, in any prosecution for any offence under this Act in which the defendant claims exemption under any of the provisions of this section the burden of proving such exemption shall be on the defendant.
+[The Act, originally limited duration, was continued in force indefinitely by 1911:43]
+[Amended by 1948 : 25 1952 : 3 1952 : 11]
