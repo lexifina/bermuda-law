@@ -1,0 +1,5 @@
+# Compensation when hiring not taken up
+4 (1) Where a public carriage after being hired in respect of any journey is duly made immediately available to the hirer at the time and place appointed by him, and the hirer, not having cancelled the hiring within a reasonable time before it is due to commence, refuses, or fails within a reasonable time, to avail himself of the use of the carriage—
+(a) the driver of the carriage shall be entitled to abandon the hiring; and
+(b) if the hiring is so abandoned, the hirer shall be liable to pay (in lieu of any legal charge incurred in respect of the hiring) a sum of two dollars by way of compensation to the person operating the carriage, and any such sum may, if not otherwise recovered, be recovered summarily before a court of summary jurisdiction in the manner provided by the Magistrates Act 1948 [title 8 item 15].
+(2) For the purposes of this regulation, where an employee of a hotel, guest house, club, restaurant or similar organization hires a public carriage on behalf of a guest or customer, the owner or manager of the organization shall be deemed to be the hirer of the carriage.
