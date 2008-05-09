@@ -1,0 +1,2 @@
+# Interim period
+3 Where this Act applies, the revenue bill or such part thereof as may be identified in the message from the Governor, shall for the period of four months next ensuing have effect as though the same were contained in an Act for the time being in force and shall, during such period, and subject to the provisions of this Act, have full force and effect as if it were a provision of law.
