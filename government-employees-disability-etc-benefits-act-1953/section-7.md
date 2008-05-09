@@ -1,0 +1,4 @@
+# Injury or illness arising out of employment; funeral expenses
+7 Where a Government employee dies as a result of any injury or illness arising out of his employment by Government the Governor may authorize the payment, to such person as in the opinion of the Governor has properly incurred the expenses of the funeral of such Government employee, of such sum out of monies provided by the Legislature for that purpose as the Governor considers reasonable and appropriate in the circumstances to defray or contribute towards such funeral expenses:
+### GOVERNMENT EMPLOYEES (DISABILITY ETC BENEFITS) ACT 1953
+Provided that the Governor may, where he thinks it expedient, direct the payment of any such sum as aforesaid to be made to the undertaker or any other person who has provided any services in connection with such funeral.
