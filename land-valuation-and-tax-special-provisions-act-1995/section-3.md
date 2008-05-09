@@ -1,0 +1,4 @@
+# Postponement of effective date of next revaluation
+3 (1) Notwithstanding anything to the contrary in, or done under, the 1967 Act, the date by which the quinquennial draft valuation list next due to be prepared pursuant to section 26(1) of the 1967 Act shall come into effect shall, instead of being 1 July 1995, as now appointed by law, be 1 July 1996; and, accordingly, the 1995 draft list is cancelled with effect from the time of its deposit and ceases to have effect as a quinquennial draft valuation list for any purpose.
+(2) The list first mentioned in subsection (1) is in this Act called "the new 1995 draft valuation list".
+(3) Notwithstanding the cancellation of the 1995 draft list by subsection (1), any objection that any person made under the 1967 Act to that list, unless withdrawn by him, continues valid and in force as an objection made by him to the new 1995 draft list.
