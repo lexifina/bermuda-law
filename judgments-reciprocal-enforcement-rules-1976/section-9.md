@@ -1,0 +1,3 @@
+# Notice of registration
+9 (1) Notice in writing of the registration of the judgment must be served on the judgment debtor within a reasonable time after such registration.
+(2) Such notice shall (in the absence of an order by the Judge as to the mode of service thereof) be served on the judgment debtor by personal service (with power to order substituted service or service out of the jurisdiction or both) as in the case of a Writ of Summons, but the Judge may at any stage of the proceedings authorize or direct some other mode of service and if he does so the service shall be effected in accordance with such authority or direction.

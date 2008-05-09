@@ -1,0 +1,3 @@
+# Affidavit in support
+2 (1) The application shall be supported by an affidavit of the facts exhibiting the judgment or a verified or certified or otherwise duly authenticated copy thereof and stating that to the best of the information and belief of the deponent the judgment creditor is entitled to enforce the judgment and the judgment does not fall within any of the cases in which, under section 4 of the Act, a judgment cannot properly be ordered to be registered.
+(2) The affidavit must also, so far as the deponent can, give the full name, title, trade or business and usual or last known place of abode or business of the judgment creditor and judgment debtor respectively.
