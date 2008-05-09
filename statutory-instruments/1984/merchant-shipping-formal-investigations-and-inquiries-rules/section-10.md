@@ -1,0 +1,2 @@
+# Expenses of witnesses
+10 Every person other than a public servant attending as a witness before the tribunal on behalf of the Minister shall be allowed such expenses as would be allowed to a witness attending before the Supreme Court, and in case of dispute as to the amount to be allowed, the same shall be referred to the chairman who may request the Registrar of the Supreme Court to ascertain and certify the proper amount of the expenses.

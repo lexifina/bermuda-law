@@ -1,0 +1,6 @@
+# Powers of tribunal
+8 (1) Where the tribunal is satisfied of any of the matters mentioned in section 49(a) to (c) of the Act in relation to the officer whose fitness or conduct is in issue, and if it is a matter mentioned in sub-paragraph (a) or (b) of that section, is further satisfied that it caused or contributed to the casualty, the tribunal may—
+(a) in the case of an officer issued with any certificate under section 41 of the Act, recommended the cancellation or suspension of the certificate or censure him; or
+(b) in the case of any other officer, censure him.
+(2) At the end of the formal investigation the chairman shall — (a) in cases where an officer's or seaman's certificate is recommended to be cancelled or suspended, give the decision of the tribunal concerning the certificate and a brief summary of their findings in open court; or
+(b) whether or not a certificate is in issue, make a report on the case to the Minister including his and the assessor's, or assessors' findings as to the reasons for the casualty or as to any particular matter relating thereto or as to the conduct of any person implicated therein, and their joint reasons for recommending the suspension or cancellation of any officer's certificate.
