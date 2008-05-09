@@ -1,0 +1,6 @@
+INVESTMENT BUSINESS (REPORTING ACCOUNTANTS) (FACTS AND MATTERS OF MATERIAL SIGNIFICANCE) REGULATIONS 2006
+BR 60 / 2006
+INVESTMENT BUSINESS ACT 2003
+2003 : 20
+INVESTMENT BUSINESS (REPORTING ACCOUNTANTS) (FACTS AND MATTERS OF MATERIAL SIGNIFICANCE) REGULATIONS 2006
+The Minister of Finance, in exercise of the powers conferred by section 86(1) of the Investment Business Act 2003, and after consultation with the Authority, makes the following regulations:
