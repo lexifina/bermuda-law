@@ -1,0 +1,2 @@
+# Copies of letters for court
+9 Upon receipt of a copy of an application or appeal and Notice of Hearing in accordance with the provisions of rule 6 the Commissioner shall as soon as practicable forward to the court a copy of any letters, notices, and other documents relevant to the determination, of the matters in issue including, if he thinks fit, such reasons for any decision given by him and any comment on the matter in question as he may consider appropriate.
