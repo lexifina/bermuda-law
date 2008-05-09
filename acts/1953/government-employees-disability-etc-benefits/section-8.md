@@ -1,0 +1,2 @@
+# Determination of status of government employee
+8 Where a question arises as to whether, at any time material in the circumstances, a Government employee was or was not a regular Government employee, that question shall be referred to the Governor; and the Governor may determine the matter in such manner as appears to him just and equitable, and any such determination shall be final and conclusive.
