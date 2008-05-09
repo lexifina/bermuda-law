@@ -1,0 +1,2 @@
+# Service of documents
+15 Any document required to be served under this Act on any person may be served in any manner in which a document required to be served under the Land Valuation and Tax Act 1967 [title 14 item 31] may, under the provisions of section 72 of that Act, be served on any person for the purposes of that Act; and service in that manner shall be deemed to be effective service for the purposes of this Act.
