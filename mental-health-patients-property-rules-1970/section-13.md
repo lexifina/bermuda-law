@@ -1,0 +1,2 @@
+# Representation of patient by Official Solicitor
+13 Where in any proceedings the court considers that the interests of a patient for whom a receiver has been appointed are not adequately represented by the receiver, the court may direct the Official Solicitor to act as attorney for the patient either generally in the proceedings or for any particular purpose connected with the proceedings, so however that it shall not be necessary to appoint the Official Solicitor to be receiver or guardian ad litem for the patient,

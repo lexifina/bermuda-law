@@ -1,0 +1,2 @@
+# Default by receiver
+60 Where a receiver fails to comply with any of the requirements of rule 58 or fails to pay into court or invest or otherwise deal with any money in accordance with any direction of the court, the court may disallow any remuneration which would otherwise be due to the receiver, and, if he has made default in paying into court or investing or otherwise dealing with any money, may charge him with interest thereon at the rate of $12.00 per centum per annum, or such lower rate as the court may fix, for the period of his default.

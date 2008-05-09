@@ -1,0 +1,2 @@
+# Inquiries as to documents executed by patient
+68 The court may make or cause to be made inquiries whether any person has in his possession or under his control or has any knowledge of any testamentary document executed by a patient and may direct that person to answer the inquiries on oath and to produce any such document which is in his possession or under his control and deal with it in such manner as the court may direct.

@@ -1,0 +1,2 @@
+# Where no suitable person able and willing to make application; direction by court
+11 Where in the opinion of the court an application ought to be made for the appointment or discharge of a receiver or for the exercise of any other power conferred on the court with respect to the property and affairs of a patient, and there appears to the court to be no other suitable person able and willing to make the application or the court for any other reason thinks fit, the court may direct that the application be made by an officer of the court or by the Official Solicitor.
