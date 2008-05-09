@@ -1,0 +1,6 @@
+# Confidentiality of information in register
+7 (1) The information in the register is confidential and, except as provided in this section, shall not be available for public inspection or publication.
+(2) A person whose name is entered in the register is, on written application to the Registrar, entitled to inspect the information in the register relating to him or her.
+(3) With the prior written approval of the Registrar, the information in the register may be used in the collection and publication of statistical information under the Statistics Act 2001.
+(4) A person who employs, or intends to employ, a person as a care worker is, on written application to the Registrar, entitled to inspect any information in the register relating to that person, and the person who receives the information shall treat the information as confidential.
+(5) A person who fails to treat information in the register as confidential, and an officer or employee of a corporation who authorizes, permits or concurs in such a contravention by the corporation, is guilty of an offence and on summary conviction is liable to a fine not exceeding $5,000, or to imprisonment for a period not exceeding one year, or to both such fine and imprisonment.
