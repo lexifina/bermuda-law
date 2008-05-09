@@ -1,0 +1,2 @@
+# Rules of friendly society
+2 Every society intended to be established or registered under this Act shall in its rules declare its name or style and all the intents, objects and purposes for which it is intended to be established; and by its rules shall direct all the uses and purposes to which the money subscribed shall be applied and in what proportions and under what circumstances any member or other person shall become entitled thereto; and the rules shall also define the manner in which meetings of the society are to be convened.

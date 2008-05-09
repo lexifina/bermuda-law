@@ -1,0 +1,2 @@
+# Priority of claims on estate of deceased debtor
+14 The executors, administrators, assigns or representatives of any person in whose hands or custody were monies, effects or securities of any such society shall, within forty days after demand made by the proper officer of the society, deliver over all such effects, monies or securities and pay all sums of money due to the said society which the deceased person received by virtue of his holding any office or employment in the society before any other debts are paid or satisfied.

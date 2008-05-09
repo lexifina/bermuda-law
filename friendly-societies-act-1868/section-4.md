@@ -1,0 +1,4 @@
+# Approval of rules; powers on registration
+4 (1) Every friendly society which is registered under this Act shall be subject to the provisions and entitled to the privileges of this Act.
+(2) The rules of every society seeking registration with a view to obtaining such privileges shall, before such society is registered, be submitted for approval of the Registrar; and the Registrar may disallow any rule of any such society which is, in the opinion of the Registrar, repugnant to this Act or would otherwise be improper to be allowed.
+(3) Every rule so disallowed shall, from the period of such disallowance, being notified in writing to the society, cease to have any force or validity whatsoever, any previous confirmation in case of such rule or rules having been confirmed under this Act to the contrary notwithstanding; but until any such disallowance has been made and so notified all rules so allowed as aforesaid shall be and remain in full force.

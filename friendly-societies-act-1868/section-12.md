@@ -1,0 +1,2 @@
+# Appointment of substitute
+12 Whenever the treasurer or any trustee of any registered society is out of the jurisdiction of the courts of Bermuda, or becomes of unsound mind, or dies, or it is uncertain whether he is alive, or whenever any such treasurer or trustee is absent, or refuses to convey, transfer or deliver any securities, books or papers in his custody or possession, then the society shall have power to appoint another treasurer or trustee to make such conveyance, transfer or disposition.
