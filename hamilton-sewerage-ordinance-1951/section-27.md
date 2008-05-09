@@ -1,0 +1,2 @@
+# Inspection of sewers before covering in
+27 No sewer shall be covered in until it has been inspected and approved the Corporation Inspector, and due notice shall be given by the applicant the Inspector when the sewer is ready for inspection, and if any sewer is covered in without such notice having been given, then the Corporation shall empowered to uncover the work and to recover the incidental expenses the applicant.
