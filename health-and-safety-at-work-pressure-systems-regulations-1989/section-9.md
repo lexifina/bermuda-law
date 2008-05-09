@@ -1,0 +1,3 @@
+# Action in case of serious defect
+9 (1) If the competent person carrying out an examination under the scheme of examination is of opinion that the pressure system or part of the pressure system is not safe to operate unless certain repairs have been carried out, he shall forthwith give written notification to that effect to the user and the owner of the system and shall, within twenty-eight days of the examination, send a copy to the Minister.
+(2) Where notification is served in accordance with paragraph (1), no person shall operate that pressure system (or, if the notification only is to a discrete part of the system, that part) until the notification has been complied with.
