@@ -1,0 +1,3 @@
+# Permit granting exception
+3 (1) Notwithstanding that an order has been made under section 2(1), any person who wishes to import into Bermuda or to publish in Bermuda any particular publication which would otherwise be a prohibited publication, may apply to the Governor for a permit in that behalf, and unless he is satisfied that the publication contains matter which is contrary to the public interest, the Governor shall grant such a permit and the order shall thereupon cease to have effect with respect to that particular publication.
+(2) In any case where the Governor has granted a permit under this section, a notice to that effect shall be published in the Gazette and in at least one other newspaper.
