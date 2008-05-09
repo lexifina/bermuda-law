@@ -1,0 +1,3 @@
+# Death or discharge of juror
+7 In any case where, during the hearing of a civil cause in which a jury has been duly empanelled and sworn, a juror dies, or is discharged under any provision of law from further service as a juror in that cause, the trial of the cause may, if the parties consent in writing, continue notwithstanding his death or discharge from further service as a juror:
+Provided that if any such consent is withheld, or if more than one juror dies or is discharged from further service as a juror, the remainder of the jury shall be discharged and the trial of the cause shall be started afresh with a new jury; and this Act shall have effect accordingly.
