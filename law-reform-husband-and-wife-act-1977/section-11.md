@@ -1,0 +1,4 @@
+# Abolition of husband's liability for wife's torts and antenuptial contracts, debts and obligations
+11 Subject to this Act, the husband of a married woman shall not, by reason only of his being her husband, be liable—
+(a) in respect of any tort committed by her whether before or after the marriage, or in respect of any contract entered into, or debt or obligation incurred, by her before the marriage; or
+(b) to be sued, or made a party to any legal proceedings brought, in respect of any such tort, contract, debt or obligation.
