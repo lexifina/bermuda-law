@@ -1,0 +1,2 @@
+# Emoluments of Governor's Deputy
+4 During any period when His Excellency the Governor is absent from Bermuda or is suffering from an illness which renders him incapable of performing the functions of his office, the Governor's Deputy shall be entitled to receive out of the Consolidated Fund such allowances as he would have received under the provisions of section 3 if he had been the Acting Governor of Bermuda.
