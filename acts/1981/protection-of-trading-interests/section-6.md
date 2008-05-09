@@ -1,0 +1,2 @@
+# Restriction on evidence on commission
+6 A court in Bermuda shall not make an order under any provision of law for giving effect to a request issued by or on behalf of a court or tribunal of an overseas country if it is shown that the request infringes the jurisdiction of Bermuda or is otherwise prejudicial to the sovereignty of Her Majesty in Bermuda; and a certificate signed by or on behalf of the Minister to the effect that it infringes that jurisdiction or is so prejudicial shall be conclusive evidence of that fact.
