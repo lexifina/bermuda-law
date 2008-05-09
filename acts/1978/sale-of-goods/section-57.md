@@ -1,0 +1,2 @@
+# Pledge for antecedent debt
+57 Where a mercantile agent pledges goods as security for a debt or liability due from the pledger to the pledgee before the time of the pledge, the pledgee shall acquire no further right to the goods than could have been enforced by the pledger at the time of the pledge.

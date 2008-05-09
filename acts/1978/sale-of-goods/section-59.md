@@ -1,0 +1,2 @@
+# Agreements through authorized persons
+59 For the purposes of this Part of this Act an agreement made with a mercantile agent through a clerk or other person authorized in the ordinary course of business to make contracts of sale or pledge on his behalf shall be deemed to be an agreement with the agent.

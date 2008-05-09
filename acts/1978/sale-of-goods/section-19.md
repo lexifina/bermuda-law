@@ -1,0 +1,2 @@
+# Reservation of right of disposal
+19 Where there is a contract for the sale of specific goods or where goods are subsequently appropriated to the contract, the seller may, by the terms of the contract or appropriation, reserve the right of disposal of the goods until certain conditions are fulfilled. In such case, notwithstanding the delivery of the goods to the buyer, or to a carrier or other bailee for the purpose of transmission to the buyer, the property in the goods does not pass to the buyer until the conditions imposed by the seller are fulfilled.

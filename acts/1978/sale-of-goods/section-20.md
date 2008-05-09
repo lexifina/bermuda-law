@@ -1,0 +1,3 @@
+# Delivery of bill of lading
+20 (1) Where goods are shipped, and by the bill of lading the goods are deliverable to the order of the seller or his agent, the seller is prima facie deemed to reserve the right of disposal,
+(2) Where the seller of goods draws on the buyer for the price, and transmits the bill of exchange and bill of lading to the buyer together to secure acceptance or payment of the bill of exchange, the buyer is bound to return the bill of lading if he does not honour the bill of exchange, and if he wrongfully retains the bill of lading the property in the goods does not pass to him.

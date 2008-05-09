@@ -1,0 +1,2 @@
+# Reasonable time a question of fact
+65 Where, by this Act, any reference is made to a reasonable time the question what is a reasonable time is a question of fact.
