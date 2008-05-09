@@ -1,0 +1,3 @@
+# Inspection of building operations
+24 Where a building permit has been granted and the building operation to which the permit relates is in progress any member of the Authority, or any person authorized by the Authority in that behalf, may at all reasonable times enter the land on which the building operation is being carried out and may inspect the building operation:
+Provided that the inspection of a building operation under the foregoing provision shall not of itself operate so as to excuse any failure to carry out the building operation in accordance with the terms of the building permit.

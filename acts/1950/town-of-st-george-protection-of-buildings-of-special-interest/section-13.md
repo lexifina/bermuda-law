@@ -1,0 +1,6 @@
+# Expenses
+13 (1) The expenses of carrying out any work of repair or maintenance or any work of clearing where notice has been given by the Authority under section 8, or (as the case may be) section 9 shall, whoever carries out the work or any part thereof, be borne as to one half by the Authority and as to one half by the owner or occupier (whichever is given notice) of the protected building:
+Provided that—
+(a) nothing in this section shall be construed as precluding the Authority, where they are satisfied that hardship would otherwise be caused, from paying more than one half of such expenses; and
+(b) nothing in this section shall be construed as precluding either the owner or the occupier from recovering from the other any expenses which are properly payable by the other under the terms of the tenancy or any other agreement between them.
+(2) Any sum owing to the Authority by the owner or occupier of a protected building by reason of the operation of this section shall, without limit of amount, be recoverable by the Authority from the owner or occupier before a court of summary jurisdiction in the manner provided in the Magistrates Act 1948 [title 8 item 15], for the recovery of a debt or liquidated demand.

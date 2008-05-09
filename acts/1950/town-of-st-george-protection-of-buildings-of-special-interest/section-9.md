@@ -1,0 +1,5 @@
+# Clearing of land
+9 (1) In this section "clearing", in relation to any land, includes clearing the land of weeds, undergrowth and wild vegetation, removing therefrom rubbish or derelict articles, trimming trees, bushes or grass thereon, and generally bringing the land into a decent and seemly condition.
+(2) When it appears to the Authority that the lot of land occupied or commonly enjoyed with a protected building is in need of clearing, the Authority may give notice in writing to the owner or occupier of the building notifying him that the lot of land is in need of clearing and that the Authority will proceed to carry out the work of clearing the lot of land unless the work is carried out within a period specified in the notice.
+(3) Where notice has been given as mentioned in subsection (2) and the work of clearing the lot of land is not carried out to completion within the specified period then at any time after the expiration of the specified period the Authority may carry out or complete the work of clearing.
+(4) [omitted] [spent]

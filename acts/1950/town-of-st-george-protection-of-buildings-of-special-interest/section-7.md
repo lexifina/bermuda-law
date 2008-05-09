@@ -1,0 +1,6 @@
+# Restoration of protected buildings
+7 (1) In this section "to restore", in relation to a protected building, means to carry out such work (including any work of demolition) as is necessary to restore the building as near as may be to the form in which, in the opinion of the Authority so far as they are able to judge, it was when it was originally constructed or to the form in which, in the opinion of the Authority so far as they are able to judge, it was prior to any particular alteration; and cognate expressions shall be construed accordingly.
+(2) Where it appears to the Authority that a protected building has been altered and that it is desirable, in furtherance of the purposes of this Act, to restore the building, then, subject to this section, the Authority may restore the building accordingly.
+(3) Before restoring any protected building the Authority shall give to every person who is an owner of the building at least three months' notice in writing of their intention to do so with particulars of the proposed work of restoration; and if the building is mortgaged the mortgagor shall communicate the substance of the notice as soon as may be to the mortgagee:
+Provided that the requirement as to the giving of notice as aforesaid may be dispensed with or modified with the consent of every person entitled to receive such notice.
+(4) [omitted] [spent]
