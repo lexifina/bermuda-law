@@ -1,0 +1,6 @@
+# Artistic, cultural etc. programmes
+5 (1) Every television station shall allocate not less than one fifth of daily broadcasting time between the hours of seven o'clock in the morning and six o'clock in the evening to programmes which are classified into categories "A", "C", "D", "E", "N" and "S".
+(2) Every television station shall allocate not less than one fifth of its weekly broadcasting time between the hours of six o'clock in the evening and eleven o'clock at night to programmes which are classified into categories "A", "D", "E" and "N".
+(3) Where a programme is classified into category "P.G.", the programme shall be preceded by, and where possible there shall be made at intervals during the programme, announcements in writing and sound that the programme requires that parents exercise discretion before allowing children under the age of sixteen years to view it.
+(4) Without prejudice to paragraphs (1), (2) and (3), the Commissioners may require a television station to broadcast programmes classified into categories "C", "E", "G" and "P.G." during each day at such times as the Commissioners may determine, and the television station shall so comply.
+[Regulation 5 substituted by BR 2/1994 effective 4 January 1994]
