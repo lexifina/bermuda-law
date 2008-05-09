@@ -1,0 +1,2 @@
+# Liability of Provost Marshal General
+5 All actions arising out of the acts or defaults of the Provost Marshal General the Deputy Provost Marshal General and the bailiffs in the discharge of or failure to discharge the duties of the Provost Marshal General shall be brought against the Provost Marshal General who shall be liable for the acts and defaults of the Deputy Provost Marshal General and the bailiffs in like manner as is the Sheriff of an English County for the acts or defaults of his under-Sheriff and bailiffs.
