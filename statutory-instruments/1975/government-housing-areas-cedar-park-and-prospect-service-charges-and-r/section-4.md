@@ -1,0 +1,2 @@
+# Power to cut off water supply
+4 If the charge provided for under regulation 3 is not paid within seven days after demand the Minister may cut off the supply of water to the premises and may refuse to restore the supply until all moneys owing in respect of the said charge are paid together with an additional amount of ten dollars to meet the expenses of cutting off and restoring the supply of water.
