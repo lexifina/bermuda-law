@@ -1,0 +1,2 @@
+# Performance of burial services by ministers of any church or congregation
+31 Subject to section 30 a burial service may be performed in the cemetery according to the rites of any church or congregation by any minister of any such church or congregation who is duly authorized by law to officiate in such church congregation, or recognized as such by the religious community or society to which he belongs.
