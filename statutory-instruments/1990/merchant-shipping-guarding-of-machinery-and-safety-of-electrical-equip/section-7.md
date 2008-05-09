@@ -1,0 +1,2 @@
+# Inspection and detention of a Bermuda ship
+7 Any person duly authorised by the Minister may inspect any Bermuda ship and if he is satisfied that there has been a failure to comply in relation to that ship with the requirements of these Regulations he may detain the ship until the health and safety of all employees and other persons aboard ship is secured, but shall not in the exercise of these powers detain or delay the ship unreasonably.
