@@ -1,0 +1,4 @@
+# Duration of storage in Airport Warehouse; import duties
+13 (1) Where packages of wines and spirits remain in storage in the Airport Warehouse for a period exceeding five days the dealer in those wines and spirits shall be liable to pay full import duties thereon:
+Provided that in special circumstances, and where he considers that it would be inequitable not to do so, the Collector of Customs may by notice in writing to a dealer in wines and spirits extend the period of five days mentioned as aforesaid.
+(2) Where import duties have been duly paid as aforesaid the packages of wines and spirits in respect of which the payment was made may, notwithstanding any other provision of these Regulations, be removed from the Airport Warehouse without customs supervision by or on behalf of the dealer in those wines and spirits.
