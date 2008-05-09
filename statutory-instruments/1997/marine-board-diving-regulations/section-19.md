@@ -1,0 +1,3 @@
+# Code of safe diving practice
+19 (1) The Minister shall issue a code of safe diving practice containing such provisions as the Minister considers appropriate to ensure safety and may from time to time amend such code.
+(2) A failure on the part of any person to observe any provision of the diving code shall not of itself render him liable to any proceedings; but in any proceedings under these Regulations before a court or the Examining Committee any code of practice issued under this regulation shall be admissible in evidence and if any provision of such a code appears to the Examining Committee or the court to be relevant to any question arising in the proceedings it shall be taken into account in determining that question.
