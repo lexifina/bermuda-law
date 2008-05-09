@@ -1,0 +1,2 @@
+# Minister may receive gifts for social welfare
+9 The Minister may receive all funds or gifts in kind given or bequeathed to him or to the Bermuda Social Welfare Board or to the Government, as the case may be, for purposes connected with the promotion or maintenance of social welfare, and, subject to any condition or direction imposed or given by the donor or testator, shall apply all such funds or gifts to the furtherance of such purposes in such manner as he thinks fit.
