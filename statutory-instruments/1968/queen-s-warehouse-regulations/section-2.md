@@ -1,0 +1,3 @@
+# Removal of goods to Queen's Warehouse
+2 Goods on which customs duty has not been paid and which have not been removed from the docks or from such other place at which they have been placed on arrival within five days from the date of their arrival, may by or under the direction of a customs officer be removed to and stored in a Queen's Warehouse :
+Provided that where any goods are not in the opinion of the Collector of Customs in sufficient quantity to warrant special customs supervision, they may be so removed to and stored in a Queen's Warehouse, notwithstanding that five days have not elapsed since the date of their arrival.

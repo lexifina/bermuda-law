@@ -1,0 +1,2 @@
+# Goods imported by air
+4 Goods, imported by air may be stored on arrival in a Queen's Warehouse and no storage charges as hereinafter provided shall be payable in relation to such goods stored under this regulation until five days have elapsed commencing with the day following the day on which they were first so stored, but in computing five days for the purposes of this regulation any day which is a Saturday, a Sunday or a public holiday shall not be included.
