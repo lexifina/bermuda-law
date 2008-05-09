@@ -1,0 +1,2 @@
+# Practice and procedure of Tribunal
+2 The general procedure and practice of the Tribunal shall, save as is specifically provided for by the Act or these Rules be that prevailing in the Magistrates' Court in civil cases in so far as the same is applicable and if any matter should arise which is not contemplated by either such practice and procedure or these Rules the Tribunal shall give instructions regarding the course to be pursued, which instructions shall be binding on the parties.
