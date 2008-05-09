@@ -1,0 +1,12 @@
+[preamble and words of enactment omitted]
+# Interpretation
+1 (1) In this Act—
+"land" includes any building erected on land and any estate or interest in land;
+"consular officer", used in relation to the Government of the United States of America, means any consular officer of the said Government who has been granted an exequatur or other authorization (including a provisional authorization) to act as such in Bermuda;
+"consular employee", used in relation to the Government of the United States of America, means a person (not being a consular officer) who is employed by the said Government in the consular establishment of the said Government in Bermuda for the performance of executive, administrative, clerical, technical or professional duties or as a guard or watchman or messenger or driver of a vehicle, being a person whose name has been communicated by a consular officer to the Deputy Governor; but "consular employee" does not include any person employed in domestic duties;
+"authorized purpose", used in relation to the consular establishment in Bermuda of the Government of the United States of America, means any of the following purposes, but no other purpose—
+(i) the purpose of providing office accommodation for the said consular establishment;
+(ii) the purpose of providing a residence in Bermuda for any consular officer or consular employee of the said Government; or
+(iii) any other purpose arising out of the operation of the said consular establishment, being a purpose which has been approved by the Governor, acting in his discretion.
+(2) Any provision of this Act whereby the Government of the United States of America is empowered to acquire and hold or to convey any land shall be deemed to include a provision that the said Government may acquire and hold or convey the land either in its own name or in the name of any person acting on its behalf; and any reference in this Act to the Government of the United States of America, in relation to the acquisition, holding, conveyance or leasing or letting of land, or in relation to any rights, exemptions or obligations conferred or imposed on the said Government, shall be deemed to include a reference to any person acting on behalf of the said Government for the purposes of this Act.
+(3) Except as expressly provided in this Act, nothing in this Act shall be construed so as to confer any power or right on the Government of the United States of America to acquire, hold, sell or otherwise deal in any land in Bermuda.

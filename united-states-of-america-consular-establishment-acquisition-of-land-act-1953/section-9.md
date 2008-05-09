@@ -1,0 +1,8 @@
+# Land held before 19 May 1953
+9 (1) The land acquired by the Government of the United states of America under the United States Consular Establishment (Acquisition of Land) Act 1947, and held by the said Government under the authority of that Act immediately before 19 May 1953 shall, as from 19 May 1953, be deemed to be land authorized to be held under this Act, and this Act shall have effect accordingly:
+Provided that any such land shall, so long as it is held by the Government of the United States of America, not be used for any purpose other than for the purpose of providing a residence for the United States Consular Representative, and, in particular, shall not be leased or let to any person other than the United States Consular Representative.
+(2) For the purpose of subsection (1) "the United States Consular Representative" shall have the meaning given in section 8 (3).
+(3) Without prejudice to anything in subsection (1) or (2), any lease or letting agreement entered into by the Government of the United States of America before 19 May 1953 for the acquisition of any land for any authorized purpose shall, if such lease or letting agreement was in force immediately before 19 May 1953, be deemed, notwithstanding any rule of law to the contrary, to be valid and effectual for the purposes expressed therein; and any land acquired and held under any such lease or letting agreement validated and made effectual as aforesaid shall, as from the date on which the lease or letting agreement had or has effect, be treated (subject to subsection (1)) for all purposes as if it were land acquired under section 2.
+### Repeal
+10 [omitted.]
+[Amended by 1956 : 30 1963 : 29 1970 : 109]
