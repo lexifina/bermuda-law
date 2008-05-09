@@ -1,0 +1,4 @@
+# Alteration or modification
+11 (1) Notwithstanding the provisions of these Regulations, the Minister may, in special circumstances or in respect of any particular occasion, alter or modify the application of these Regulations or any part of them to any boat or group or type of boat and in so doing may specify such conditions as he thinks necessary respecting the area of operation of, or the equipment or appliance to be carried by, the boat or group or type of boat.
+(2) Upon such alteration or modification being made pursuant to paragraph (1), these Regulations or such part of them as is specified in the alteration or modification shall apply to any boat or group or type of boat specified in the alteration or modification.
+(3) The Minister may cause to be published in the Gazette any alteration or modification made under this regulation.
