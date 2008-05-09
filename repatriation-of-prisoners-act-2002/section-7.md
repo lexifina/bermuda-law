@@ -1,0 +1,11 @@
+# Operation of warrant and retaking prisoners
+7 (1) Where a warrant has been issued under this Act the following provisions of this section shall have effect for the purposes of the warrant, except (without prejudice to section 5(4) or any enactment contained otherwise than in this Act) in relation to any time when the prisoner is required to be detained in accordance with provisions contained in the warrant by virtue of section 5(1)(c).
+(2) The prisoner shall be deemed to be in the legal custody of the Attorney-General at any time when, being in Bermuda or on board a British ship, a British aircraft or a British hovercraft, he is being taken under the warrant to or from any place, or being kept in custody under the warrant.
+(3) The Attorney-General may designate any person as a person who is for the time being authorised for the purposes of the warrant to take the prisoner to or from any place under the warrant, or to keep the prisoner in custody under the warrant.
+(4) A person authorised by or for the purposes of the warrant to take the prisoner to or from any place or to keep the prisoner in custody shall have all the powers, authority, protection and privileges of a police officer in Bermuda.
+(5) If the prisoner escapes or is unlawfully at large, he may be arrested without warrant by a police officer and taken to any place which he may be taken under the warrant under this Act.
+(6) In subsection (2)⎯
+"British aircraft" means a British-controlled aircraft within the meaning of section 92 of the Civil Aviation Act 1982 of the United Kingdom (application of criminal law to aircraft), or one of Her Majesty's aircraft;
+"British hovercraft" means a British-controlled hovercraft within the meaning of the said section 92 as applied in relation to hovercraft by virtue of provision made under the Hovercraft Act 1968, or one of Her Majesty's hovercraft; and
+"British ship" means a British ship within the meaning of the Merchant Shipping Act 1894 of the United Kingdom, or one of Her Majesty's ships;
+and in this subsection references to Her Majesty's aircraft, hovercraft or ships are references to the aircraft, hovercraft or as the case may be, ships which belong to, or are exclusively employed in the service of, Her Majesty in right of the government of the United Kingdom.
