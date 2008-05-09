@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+BR 45/1984
+PUBLIC HEALTH (COMMUNICABLE DISEASES) (ACQUIRED IMMUNE DEFICIENCY SYNDROME) ORDER 1984
+[made under section 67(1) of the Public Health Act 1949 [title 11 item 1] and brought into operation on 13 July 1984]
