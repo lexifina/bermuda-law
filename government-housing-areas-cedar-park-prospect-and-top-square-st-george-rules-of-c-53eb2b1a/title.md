@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+SR&O 14/1975
+GOVERNMENT HOUSING AREAS (CEDAR PARK, PROSPECT AND TOP SQUARE, ST. GEORGE) (RULES OF CONDUCT) REGULATIONS 1975
+[made under section 7 of the Government Housing Areas Act 1971 [title 29 item 4] and brought into operation on 22 February 1975]
