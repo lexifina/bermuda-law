@@ -1,0 +1,2 @@
+# Duty of pilot of inbound ship to as to reception of signals
+3 It shall be the duty of every pilot in charge of a ship proceeding through the Main Ship Channel from Five Fathom Hole to Hamilton, to call the attention of the master to the necessity of making provision for the reception of wireless signals from other ships relative to the position, movements and navigation of other ships in the territorial waters of Bermuda.
