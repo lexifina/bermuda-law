@@ -1,0 +1,3 @@
+# Transfer of licensed apparatus
+15 (1) It shall be unlawful for a Radio Dealer to transfer possession of any licensed apparatus to any other person, whether by way of sale or otherwise, unless that person holds a valid licence or permit to possess or use, or operate such licensed apparatus or a stock licence or permit for the same type of apparatus, granted by the Minister under the Act.
+(2) A Radio Dealer shall inform the Telecommunications Inspector in writing on a form to be supplied by the Minister of each transfer of possession of licensed apparatus giving the type, manufacturer, model and serial number of the apparatus, the name, and address of the transferee and his licence or permit number.
