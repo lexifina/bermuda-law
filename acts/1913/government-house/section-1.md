@@ -1,0 +1,4 @@
+[preamble and words of enactment omitted]
+# Letting of Government House lands
+1 (1) The Minister charged with responsibility for Works and Engineering may from time to time let or lease for any period not exceeding three years such part of the lands held with Government House as the Governor for the time being may sanction and on such terms and conditions as the Governor may approve.
+(2) Every such letting or lease shall be made by the Minister charged with responsibility for Works and Engineering by his official designation, which shall include his successor in office for the time being, and all actions, suits and other legal proceedings brought or taken with respect to any matter arising out of any such letting or lease shall be brought or taken by or against the Minister charged with responsibility for Works and Engineering by his official designation only.
