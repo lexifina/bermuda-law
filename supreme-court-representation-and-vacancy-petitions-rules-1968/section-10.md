@@ -1,0 +1,7 @@
+# Claim by unsuccessful candidate
+10 (1) Where the petition claims the seat or office for an unsuccessful candidate on the ground that he had a majority of lawful votes, every party shall, not less than seven days before the day fixed for the trial, file a list of votes which he contends were wrongly admitted or rejected, stating in respect of each such vote the grounds for his contention, and serve a copy of the list on every other party and the Attorney-General.
+(2) Where the respondent to a petition complaining of an undue election and claiming the seat or office for some other person intends to give evidence pursuant to Section 13(6) of the 1968 Act, to prove that that person was not duly elected, the respondent shall, not less than seven days before the day fixed for the trial of the petition, file a list of his objections to the election of that person on which he intends to rely and serve a copy of the list on the petitioner and the Attorney-General.
+(3) Any party to the petition may, on payment of the appropriate fee, inspect and obtain an office copy of any list filed pursuant to paragraph (3) or (4).
+(4) Except by leave of the Court—
+(a) no evidence shall be given by a party against the admission or rejection of any vote, or as to any ground of contention, which is not specified in a list filed by him pursuant to paragraph (1), and
+(b) no evidence shall be given by a respondent of any objection to a person's election which is not specified in a list filed by him pursuant to paragraph (2).
