@@ -1,0 +1,2 @@
+# Marking of goods to which registered design applied
+10 Before the delivery on sale of any goods or articles to which a registered design has been applied, the proprietor of such design shall, if such article is included in any of the Classes designated l to 12 of the First Schedule, cause each such article to be marked with the abbreviation "Rd." and the number, in figures, of the year of registration, and shall, if such article is included In either of the Classes designated 13 or 14 in the said Schedule, cause each such article to be marked with the abbreviation "REGd.".
