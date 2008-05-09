@@ -1,0 +1,2 @@
+# Inquiries and investigations into marine accidents
+17 Part XI of the Merchant Shipping Act 2002 shall apply in relation to accidents in the course of a diving project involving any submersible or supporting apparatus which is not a ship as they apply to ships as if references in those provisions, on whatever terms, to a ship or a ship's boat or activities connected therewith included references to submersible or supporting apparatus or activities connected therewith.
