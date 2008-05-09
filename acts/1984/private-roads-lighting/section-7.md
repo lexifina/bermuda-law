@@ -1,0 +1,3 @@
+# Entry upon frontage lands
+7 (1) Notwithstanding any objection to a scheme it shall be lawful for the Minister or his servants or agents, at any time after the expiration of the notice referred to in section 4, to enter upon the private road and frontage lands for the purpose of carrying out any necessary work relating to the scheme.
+(2) The Minister or his servants or agents, at any time after the publication of the notice referred to in section 6A(3), may enter upon the private road and frontage lands for the purpose of carrying out any necessary work relating to the Minister's responsibility under section 6A.
