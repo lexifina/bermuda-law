@@ -1,0 +1,2 @@
+# Exemptions
+6 The Minister may exempt any ship or description of ships from all or any of these regulations which relate to the number, position, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances if he is satisfied that compliance with such provision is either impractical or unreasonable in the case of that ship or description of ships in such terms (if any) as he may specify and may, subject to giving reasonable notice, alter or cancel any such exemption.
