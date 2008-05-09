@@ -1,0 +1,2 @@
+# Avoiding damage to buoys
+12 It shall be the duty of the master carefully to handle his ship through the ship channels so as to prevent carrying away, dragging, displacing, removing, sinking, breaking or injuring any buoy, pole or sea mark laid down or placed in the ship channels by the Minister, or other property for buoying or marking such channels or the approaches thereto or any part thereof.
