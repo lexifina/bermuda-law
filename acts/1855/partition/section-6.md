@@ -1,0 +1,2 @@
+# Dower
+6 Whenever any partition is made and completed under this Act, any inchoate right of dower of the wife of any co-tenant to whom any portion of the land is allotted in severalty, by such partition, shall attach upon such portion instead of, and as an equivalent for, any inchoate right of dower to which she might have been entitled at the time of such partition in her husband's undivided share of the land.

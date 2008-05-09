@@ -1,0 +1,5 @@
+# Supreme Court may order execution of deeds by parties
+4 (1) The Supreme Court may order all necessary parties to execute any deeds which may be requisite and proper for perfecting such partition, and where any such person to whom any such deed is tendered for execution, refuses or neglects to execute the deed, within a rea-sonable time after the deed being so tendered, the Court may order such deed to be executed by the Registrar as the attorney for such party appointed for that purpose by the Court.
+(2) Any such deed so executed shall be as effectual to all intents and purposes as if the deed had been executed personally by the party so refusing or neglecting to execute the deed.
+(3) Every such deed executed by the Registrar shall be recorded in the Registry within twelve months after his execution thereof.
+(4) Any deed so executed by the Registrar as the attorney of any married woman shall have the same validity and effect as if the vol-untary execution of the deed had been acknowledged by her before any commissioner appointed in the usual manner to take such acknowl-edgement.
