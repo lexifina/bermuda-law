@@ -1,0 +1,4 @@
+# Offences related to applications for licences, conditions attached to licences, etc.
+4 (1) If for the purposes of obtaining any licence under these Regulations any person makes any statement or furnishes any document or information which to his knowledge is false in a material particular or recklessly makes any statement or furnishes any document or information which is false in a material particular he commits an offence.
+(2) Any person who has done any act under the authority of a licence granted by the Minister under these regulations who fails to comply with any condition attached to that licence commits an offence.
+(3) No person shall be found guilty of an offence under this regulation where he proves that the condition which he failed to comply with was modified, otherwise than with his consent, by the Minister after the doing of the act authorised by the licence.
