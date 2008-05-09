@@ -1,0 +1,8 @@
+# Exceptions from recognition
+8 (1) The validity of a divorce or legal separation obtained outside Bermuda shall not be recognized in Bermuda if it was granted or obtained at a time when, according to the law of Bermuda (including its rules of private international law and the provisions of this Act), there was no subsisting marriage between the parties.
+(2) Subject to subsection (1), recognition by virtue of this Act of the validity of the divorce or legal separation obtained outside Bermuda may be refused if, and only if—
+(a) it was obtained by one spouse—
+(i) without such steps having been taken for giving notice of the proceedings to the other spouse as, having regard to the nature of the proceedings and all the circumstances, should reasonably have been taken; or
+(ii) without the other spouse having been given (for any reason other than lack of notice) such opportunity to take part in the proceedings as, having regard to the matters aforesaid, he should reasonably have been given; or
+(b) its recognition would manifestly be contrary to public policy.
+(3) Nothing in this Act shall be construed as requiring the recognition of any findings of fault made in any proceedings for divorce or separation or of any custody order, or, save as provided in section 9(3), any maintenance or other ancillary order, made in any such proceedings.
