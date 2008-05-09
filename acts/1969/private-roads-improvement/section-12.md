@@ -1,0 +1,8 @@
+# Government schemes
+12 (1) Where the Minister is of the opinion that it is desirable that roadworks should be carried out on a private road for the purpose of securing that fire fighting vehicles or appliances or ambulances or other emergency vehicles may travel without hazard or obstruction along that road, or that it is otherwise in the public interest that roadworks should be carried out thereon, he may cause a scheme to be drawn up for that purpose.
+(2) The proposed Government scheme shall be embodied in a memorandum prepared by the Permanent Secretary containing the same particulars as are required to be contained in respect of a requested scheme under section 3(2) and section 4 and section 5(1) and (2) shall apply to a Government scheme as they apply to a requested scheme.
+(3) Where a memorandum has been served on each frontager under section 5(1) the Minister shall consider any objections by any frontager to his sanctioning the scheme if objection is made within thirty days after service of the memorandum on that frontager.
+(4) Not earlier than thirty days after service of the memorandum referred to in subsection (3), the Minister may sanction the scheme contained in the memorandum, with or without modifications, which shall thereupon become a Government scheme:
+Provided that no modification shall increase the potential liability of any frontager under the Government scheme.
+(5) If the Minister sanctions a Government scheme he shall, by notice published in the Gazette, specify the date on which the scheme is to take effect.
+(6) Upon the date upon which a Government scheme takes effect the provisions of sections 6, 7, 8, 9, 10 and 11 shall apply mutatis mutandis as if such Government scheme were a requested scheme then in force.

@@ -1,0 +1,2 @@
+# Common ownership of land
+13 Where a freehold estate in possession which fronts on a private road is vested in more than one person, any request, or objection made, or approval signified, by a person or persons in whom is or are vested a moiety or more of interest in that estate shall be deemed to be the request, objection or approval, as the case may be, of all persons in whom any interest in such estate is vested.

@@ -1,0 +1,2 @@
+# Rights of successor in title to recover cost
+8 Subject to any contract to the contrary, the successor in title as frontager in relation to any frontage land or subdivision thereof who has, by virtue of section 7, become liable to pay and has paid to the Accountant General any sums owing to the Accountant General, may recover the same from his immediate predecessor in title without limitation as to amount in the manner provided by the Magistrates Act 1948 [title 8 item 15] for the recovery of a debt or liquidated demand.

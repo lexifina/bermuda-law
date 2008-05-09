@@ -1,0 +1,2 @@
+# Entry on private road to do works under requested scheme
+11 Any person engaged in carrying out any roadworks pursuant to a requested scheme, or performing any services or engaged in other activities connected therewith, may, with the express or implied permission of the Permanent Secretary, enter upon the private road specified in the requested scheme and carry out such roadworks thereon as may be necessary to give effect thereto without the authority of any other person.
