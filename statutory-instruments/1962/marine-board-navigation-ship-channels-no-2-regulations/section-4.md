@@ -1,0 +1,2 @@
+# Duty of master or pilot of outward bound ship
+4 It shall be the duty of the master or pilot of any outward bound ship, on the International Signal "WZ" being flown from Fort George Signal Station (which will indicate that an inward bound ship claims priority to enter the channel) to keep such ship off and from the channel at a safe and sufficient distance and until the inward bound ship has cleared the channel.
