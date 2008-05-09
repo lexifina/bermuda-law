@@ -1,0 +1,13 @@
+[preamble and words of enactment omitted]
+# Interpretation
+1 (1) In this Act—
+"cash price" means, in relation to the purchase of any goods, the purchase price of the goods if paid in full on or before the delivery of the goods, and includes any additional charges, that is to say, any charges for installation, transportation or other service charges, and any tax, impost or fee whatsoever payable at the time of the purchase;
+"contract of guarantee" means, in relation to any instalment-purchase agreement or hire-purchase agreement, a contract made at the request of the customer (as hereinbefore defined) to guarantee the performance of the customer's obligations under the agreement; and "guarantor" shall be construed accordingly;
+"credit price" means the total sum payable by the buyer under an instalment-purchase agreement or by the hirer under a hire-purchase agreement in order to effect the absolute purchase, free from any encumbrance, of the goods to which the agreement relates, and includes any additional charges, that is to say, any insurance premiums, interest charges, and any other charges or fees whatsoever (whether of the same kind as those before mentioned or not) additional to the cash price of the goods or attributable or incidental to the giving of credit;
+"customer" means a person who buys goods under an instalment-purchase agreement or who hires goods under a hire-purchase agreement and includes any person to whom a customer's rights or liabilities under the agreement have passed by assignment or by operation of law;
+"down payment" means payment of an instalment of the credit price of any goods, being such a payment made on or before the delivery of the goods under an instalment purchase agreement or, as the case may be, a hire-purchase agreement;
+"hire-purchase agreement" means an agreement in writing under which a person hires goods and may buy the goods upon payment in full of the credit price;
+"instalment-purchase agreement" means an agreement in writing for the purchase of goods on credit under which the credit price is payable by instalments, whether or no under the agreement the title to the goods remains in the seller until the credit price has been fully paid; and
+"trader" means a person who sells goods under an instalment-purchase agreement or who lets goods under a hire-purchase agreement and includes any person to whom a trader's rights or liabilities under the agreement have passed by assignment or by operation of law.
+(2) "agreement to which this Act applies" shall be construed in accordance with section 2.
+(3) Any reference to a payment or to a payment of any sum or price shall be deemed to be a reference to a payment in money or goods or partly in money and partly in goods.
