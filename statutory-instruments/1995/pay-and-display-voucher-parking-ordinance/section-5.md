@@ -1,0 +1,3 @@
+# Use of parking vouchers to indicate fee has been paid
+5 (1) The payment of a parking fee shall be indicated by the display on the vehicle of a valid parking voucher.
+(2) When a vehicle displaying a valid parking voucher has been left in any place in a pay parking street and that vehicle is subsequently moved to another place in a pay parking street, the same valid parking voucher may be displayed, and the expiration of the period at the subsequent or any other place in a pay parking street shall be determined as if the vehicle had been left at the subsequent or any other place in a pay parking street at the time indicated on the valid parking voucher.
