@@ -1,0 +1,2 @@
+# Ladders
+9 The employer and the master shall ensure that all ship's ladders are of good construction and sound material, of adequate strength for the purpose for which they are used, free from patent defect and properly maintained.

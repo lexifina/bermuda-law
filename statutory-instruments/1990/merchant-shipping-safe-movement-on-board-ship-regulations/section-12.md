@@ -1,0 +1,6 @@
+# Offences and penalties
+12 (1) An employer who contravenes regulation 4, 5, 6, 7, 8(1), 9 or 10 is guilty of an offence and is liable on summary conviction to a fine of two thousand dollars or on conviction on indictment to imprisonment for two years or a fine of two thousand dollars.
+(2) A master who contravenes regulation 4, 5, 6, 7, 8(1), 9 or 10 is guilty of an offence and is liable on summary conviction to a fine of one thousand dollars.
+(3) An owner who contravenes regulation 11 is guilty of an offence and is liable on summary conviction to a fine of two thousand dollars or on conviction on indictment to imprisonment for two years or a fine of two thousand dollars, or both.
+(4) It shall be a defence for a person charged in respect of a contravention of regulation 4(1), so far as it relates to access by means of a transit area referred to in regulation 5, or regulation 5 to show that the requirements of the relevant regulation were complied with so far as was reasonably practicable.
+(5) It shall be a defence for a person charged in respect of a contravention of any of these Regulations, including a person charged by virtue of regulation 13, to show that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.

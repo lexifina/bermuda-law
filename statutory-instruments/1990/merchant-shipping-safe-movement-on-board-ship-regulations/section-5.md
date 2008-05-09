@@ -1,0 +1,2 @@
+# Transit areas
+5 The employer and the master shall ensure that all deck surfaces used for transit about the ship, and all passageways, walkways and stairs, are properly maintained and kept free from materials or substances liable to cause a person to slip or fall.
