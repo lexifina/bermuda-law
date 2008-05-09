@@ -1,0 +1,2 @@
+# Issue
+3 Where under the terms of any policy of insurance relating to a specified motor car the holder of the policy of insurance is entitled to drive any motor car other than the motor car specified in the policy of insurance without contravention of the Act, the insurer shall, upon demand by the holder, complete and issue to him a further two copies of the certificate of insurance over and above the number required to be issued under regulation 2.
