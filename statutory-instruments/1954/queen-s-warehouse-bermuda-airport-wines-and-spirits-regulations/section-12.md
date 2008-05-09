@@ -1,0 +1,3 @@
+# Disposal of wines and spirits removed from Airport Warehouse
+12 All packages of wines and spirits removed from the Airport Warehouse shall be placed immediately on board the appropriate aircraft under custom supervision:
+Provided that in special circumstances, and where he considers that it would be inequitable not to do so, the Collector of Customs may authorize a dealer in wines and spirits to remove at his own cost, and under customs supervision, any packages of wines and spirits from the Airport Warehouse to the bonded warehouse from which they were transferred to the Aircraft warehouse.
