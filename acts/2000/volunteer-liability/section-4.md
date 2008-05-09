@@ -1,0 +1,2 @@
+# Services or assistance respecting endangered property
+4 Where, in respect of real or personal property in danger, a volunteer renders services or assistance to protect or preserve the endangered property, the volunteer is not liable for damage resulting to the property alleged to have been caused by an act on the part of the volunteer while rendering services or assistance, unless it is established that the damage was caused by gross negligence on the part of the volunteer.

@@ -1,0 +1,2 @@
+# Emergency services or assistance to person
+3 Where, in respect of a person who is ill, injured or unconscious as a result of an accident or other emergency, a volunteer renders services or assistance at any place, the volunteer is not liable for damages for injuries to, or the death of, that person alleged to have been caused by an act on the part of the volunteer while rendering services or assistance, unless it is established that the injuries or death were caused by gross negligence on the part of the volunteer.
