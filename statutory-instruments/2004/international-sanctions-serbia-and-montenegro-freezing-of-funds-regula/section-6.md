@@ -1,0 +1,9 @@
+# Penalties and proceedings
+6 (1) Any person found guilty of an offence under regulation 3 or 4 or under paragraph 3(b) or (c) of the Second Schedule shall be liable —
+(a) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine, or both;
+(b) on summary conviction, to imprisonment for a term not exceeding three months or to a fine not exceeding $5,000.00 or both.
+(2) Any person found guilty of an offence under paragraph 3(a) of the Second Schedule shall be liable on summary conviction to imprisonment for a term not exceeding three months or to a fine not exceeding $5,000.00 or both.
+(3) Where any body corporate is found guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(4) Summary proceedings for an offence under these Regulations being an offence alleged to have been committed outside Bermuda, may be instituted at any time not later 12 months from the date on which the person charged first enters Bermuda after committing the offence.
+(5) No proceedings for an offence under these Regulations shall be instituted in Bermuda except by or with the consent of the Director of Public Prosecutions.
+(6) Paragraph (5) shall not prevent the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of such an offence, or the remand in custody or on bail of any person charged with such an offence, notwithstanding that the necessary consent to the institution of proceedings for the offence has not been obtained.
