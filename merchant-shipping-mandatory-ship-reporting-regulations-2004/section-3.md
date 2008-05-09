@@ -1,0 +1,3 @@
+# Duty to comply with adopted ship reporting systems
+3 (1) The master of every Bermuda ship shall comply with any adopted ship reporting system which applies in relation to his ship, and he shall report to the appropriate authority specified in the system all information required in accordance with the provisions of the system.
+(2) The master of every ship which is not a Bermuda ship shall comply when in Bermuda waters, with any Bermuda adopted ship reporting systems and he shall report to the appropriate authority specified in the system all information in accordance with the provisions of the system.
