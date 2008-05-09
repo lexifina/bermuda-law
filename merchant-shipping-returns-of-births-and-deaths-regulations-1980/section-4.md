@@ -1,0 +1,5 @@
+# Returns of births and deaths
+4 (1) Any return of a birth or of a death required to be made under regulation 2 or 3 shall be made by the master of the ship as soon as practicable after (but within 6 months after) the birth or death to which it relates and—
+(a) in the case of a birth or of a death which occurs in the ship, shall be made to a superintendent or proper officer for the place where the ship is at the time of the birth or of the death, as the case may be, or at which it next calls thereafter; and
+(b) in the case of a death which occurs elsewhere than in the ship, shall be made to a superintendent or proper officer for the place where the ship is when the master first becomes aware of the death or at which it next calls thereafter.
+(2) Without prejudice to paragraph (1) and regulation 7, a return of a birth or of a death required to be made under regulation 2 or 3 which is not made within the period prescribed for the making thereof by paragraph (1) shall not be invalid by reason only that it is not made within that period.
