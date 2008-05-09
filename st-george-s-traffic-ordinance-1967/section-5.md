@@ -1,0 +1,6 @@
+# Parking
+5 No vehicle may be parked in the Town of St. George except under the conditions following—
+(a) subject to Clause 20 hereof auxiliary bicycles or cycles may be parked provided that no part thereof is more than two feet from the curb at the side of the street on which the vehicle is parked and provided also that no vehicle is already parked at that place;
+(b) motor-cycles may be parked only where there is a place for parking specifically designated for such purpose by markings on the carriage-way or by signs erected and notwithstanding (a) above auxiliary-bicycles and cycles may be parked within such specially designated places for parking although portions of such auxiliary bicycles and cycles may protrude more than two feet from the curb;
+(c) taxis (unless actually on hire) may be parked only in a taxi stand;
+(d) vehicles (other than motor-cycles and taxis not on hire) may be parked only in such places as may be specifically designated as parking places and indicated by signs erected and only for such period of time in any one place as may be specified in such signs provided always that no vehicle shall be parked or stopped so as to infringe the Road Traffic Act 1947 [title 21 item 3], or articles 8, 9, 10, 11 and 12 hereof.

@@ -1,0 +1,2 @@
+# Removal of horse drawn vehicle
+28 When a contravention of Article 26(b) of this Ordinance occurs, then, whether any proceedings arc taken against the driver or not, the vehicle in respect of which the contravention was committed may be removed by any constable, or by any Corporation employee so instructed by the Secretary of the Corporation; and the horse involved therein may be dealt with in the manner prescribed by law with respect to stray cattle.
