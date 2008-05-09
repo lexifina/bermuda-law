@@ -1,0 +1,2 @@
+# Presumption for title to property that younger survived elder
+1 In all cases where, after 3 June 1956, two or more persons have died in circumstances rendering it uncertain which of them survived the other or others, such deaths shall (subject to any order of the Supreme Court), for all purposes affecting the title to property, be presumed to have occurred in order of seniority, and accordingly the younger shall be deemed to have survived the elder.
