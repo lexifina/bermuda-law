@@ -1,0 +1,6 @@
+# Substitution of attorney
+11 (1) Where a power of attorney contains a provision referred to in section 6 and the donor of the power subsequently is without legal capacity, if it appears to any person having an interest in the real or personal property of the donor in the event of the death intestate of the donor that it is desirable in the best interests of the donor or his property to apply to the Supreme Court for an order substituting another person for the attorney named in the power of attorney, that person or any other person permitted by the Court may, during such incapacity, do so and the Court may make the order or such other order as it considers proper.
+(2) The substitution of another person for an attorney under subsection (1) shall have the like effect as the substitution of another person for a trustee under the Trustee Act 1975 [title 26 item 51].
+(3) The Attorney-General may apply under subsection (1) in the same manner as a person interested in the property of the donor.
+(4) The attorney may apply under subsection (1) in the same manner as a person interested in the property of the donor, on giving notice to all persons having an interest in the property of the donor and the Court may make such order as it sees fit in the circumstances of the case.
+[Amended by 1986 : 23]
