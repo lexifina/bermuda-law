@@ -1,0 +1,6 @@
+[words of enactment omitted]
+# Proprietors of back lots may make waterways through to canal
+1 (1) The proprietor of any lot or parcel of the Pembroke marsh lands,
+situate in the rear of any other lot or parcel thereof, which adjoins the central canal, may make and cut (at his own cost and expense) a waterway or canal of proper and sufficient width leading to the said central canal, through such front lot or parcel of land and canal as near to the division or boundary line of such parcel of land adjoining the said central canal as may be convenient and practicable.
+[The Pembroke marsh lands were described in the original section 1 of the Act (now repealed by the Pembroke Marsh Act, 1900) as follows: "The two marshes situated in the Parish of Pembroke, distinguished as the Eastern and Western Marshes and fully described in the Act of 1840". The Preamble to the Act of 1840 (last printed in Vol.1 of the Compilation of 1884 at p. 255) included a description of the Pembroke Marshes.]
+(2) In case of disagreement between the proprietors of any such parcels of land respecting such waterway, the Minister for the time being responsible for works and engineering (hereinafter referred to as "the Minister") may order and direct the same to be made as to him may seem proper.

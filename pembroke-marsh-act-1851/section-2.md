@@ -1,0 +1,2 @@
+# Drainage works for general use
+2 The sluice-gate and sea canal, with their dams, mounds, and causeways, and the experimental canal made and erected under the authority of the said Act for the encouragement of the Drainage of Marsh Lands [1837:17], and also the central canal, already made, and the tunnel or passage under the road, shall be, and remain at all times hereafter, for the use and benefit of all the proprietors of the Pembroke Marshes, in the draining of their respective parcels of the said marshes.
