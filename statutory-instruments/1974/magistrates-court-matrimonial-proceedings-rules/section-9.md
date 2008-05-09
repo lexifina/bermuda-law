@@ -1,0 +1,2 @@
+# Certificate when payments forwarded abroad
+9 A complainant for the revocation or variation of a matrimonial order under which payments fall to be made by the complainant to the defendant through the collecting officer may apply to the collecting officer for such a certificate as is mentioned in section 10(4) of the Act, and, if the facts warrant it, the collecting officer shall supply such a certificate to the complainant in form MAT 6.
