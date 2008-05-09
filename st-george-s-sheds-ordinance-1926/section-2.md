@@ -1,0 +1,2 @@
+# Management of sheds
+2 The management of all the sheds erected upon the wharves owned or controlled by the Corporation of St. George's shall, subject to the provisions of any other Ordinance with respect thereto, be entrusted to the Secretary of the Corporation, whose decision on any question referred to him shall be binding on all parties concerned, subject, however, to the right of appeal to the Corporation by any person who may consider himself aggrieved by any decision of the Secretary, in which case the decision of the Corporation shall be final.
