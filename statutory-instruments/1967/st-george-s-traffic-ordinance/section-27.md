@@ -1,0 +1,2 @@
+# Written permission from Corporation
+27 Nothing herein contained shall be construed so as to prevent the Corporation giving written permission to any person, firm or incorporated company to do any act which in the absence of such permission might constitute a contravention of Articles 9 and 12 and Article 26(a), (b) and (c) of this Ordinance; and any such permission shall be good and valid authority to the holder thereof acting in accordance therewith.
