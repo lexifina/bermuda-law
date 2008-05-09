@@ -1,0 +1,6 @@
+# Notice; parties
+5 (1) Where the Minister has caused a formal investigation to be held, he shall cause a notice, called a Notice of Investigation, to be served on any person, who, in the opinion of the Minister ought to be made a party to the proceedings; and any such person upon whom a Notice of Investigation has been served, shall be a party to the formal investigation. The Minister shall be a party to the formal investigation.
+(2) The Notice of Investigation shall contain a statement of questions which, on the information then in the possession of the Minister, he intends to raise at the formal investigation and he may by subsequent notice amend, add to or omit any of the questions specified in the Notice of Investigation.
+(3) If at any time during the preparation for the formal investigation it seems likely that at the formal investigation the conduct of any person will be in issue, the Minister shall cause that person to be notified to that effect at his last known address.
+(4) The Minister shall cause every party to the formal investigation to be notified of the time and place appointed for the formal investigation.
+(5) A notice under this rule shall be of a reasonable time having regard to all the circumstances.

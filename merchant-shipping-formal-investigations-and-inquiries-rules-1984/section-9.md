@@ -1,0 +1,2 @@
+# Assessors to sign report
+9 Each assessor shall either sign the report with or without reservations, or state in writing his dissent therefrom and his reasons for such dissent, and such reservations or dissent and reasons (if any) shall be forwarded to the Minister with the report. The Minister shall, unless in the interest of justice or otherwise in the public interest there are good reasons to the contrary, cause each party to the formal investigation to be given a copy of the whole or part of the report.

@@ -1,0 +1,3 @@
+# Appeals
+12 (1) Where the chairman and the assessor, or assessors, have jointly decided to cancel or suspend the certificate of any person or have found any person at fault, then if no application for an order for a re-hearing under rule 11 has been made or such an application has been refused that person or any other person who, having an interest in the formal investigation, has appeared at the hearing and is affected by the decision or finding, may appeal to the Supreme Court.
+(2) Any such appeal shall be conducted in accordance with any rules of court made under section 53 of the Act for the purpose of appeals to the Supreme Court.
