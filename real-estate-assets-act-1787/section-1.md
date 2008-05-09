@@ -1,0 +1,4 @@
+[words of enactment omitted]
+# Real estate liable to debts of owner
+1 The houses, lands and other hereditaments, and real estate situated or being within Bermuda belonging to any person indebted, shall be liable to and chargeable with all just debts, duties and demands of what nature or kind soever, owing by any such person to Her Majesty, or any of her subjects; and shall and may be assets for the satisfaction thereof in like manner as real estates are by the law of England liable to the satisfaction of debts due by bond or other specialty; and shall be subject to the like remedies, proceedings and process, in any court in Bermuda, for seizing, extending, selling or disposing of any such houses, lands and other hereditaments and real estate, towards the satisfaction of such debts, duties and demands, and in like manner as personal estates in Bermuda are seized, extended, sold or disposed of, for the satisfaction of debts.
+2 [repealed by 1974:4]
