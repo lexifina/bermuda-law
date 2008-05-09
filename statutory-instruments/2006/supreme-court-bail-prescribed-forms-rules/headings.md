@@ -1,0 +1,124 @@
+## LIST OF FORMS
+# Form No. | Description
+Form 1 | Record of Decision to grant Bail under section 7(1)(a) of
+the Bail Act 2005
+Form 2 | Record of Decision to withhold Bail under section 7(1)(b)
+of the Bail Act 2005
+Form 3 | Record of Time or Place (or Different Time or place) to
+Surrender to Custody under section 7(1)(c) of the Bail
+Act 2005
+Form 4 | Record of Decision to Vary Conditions of Bail under
+section 7(1)(d) and (6) of the Bail Act 2005
+Form 5 | [Does not apply to Supreme Court]
+Form 6 | Record of Reconsideration of Decision to grant Bail
+under section 9(12) of the Bail Act 2005
+SCHEDULE 2 | (Rule 3)
+## FORMS
+## Form 1 | Bail Act 2005
+## Record of Decision to Grant Bail (section 7(1)(a))
+## SURPREME COURT
+DATE:__________________
+Name of Defendant:_______________________________
+Date of Birth:___________________________
+Case No.:______________________________
+Offence(s):___________________________
+The defendant is granted bail with a duty to surrender to the custody of
+the court on ________________________ at________and any subsequent
+date and time appointed by the court.
+CONDITIONS of Bail Included: Yes/No
+(a) recognizance____________
+(b) security_________________
+(c) surety(ies)_________________
+(d) no contact with witnesses_________________
+(e) surrender travel documents_______________
+(f) submit to a curfew___________________
+(g) report to police station__________________
+(h) make self available for inquiries/reports______________
+(i) section 4(5)(murder cases)____________________________
+(j) other__________________________________
+# REASONS FOR GRANTING BAIL/ WITH CONDITIONS (sections 7(3) & (5))
+___________________________
+Puisne Judge
+## Form 2 | Bail Act 2005
+## Record of Decision to Withhold Bail (section 7(1)(b))
+## SUPREME COURT
+DATE:__________________
+Name of Defendant:_______________________________
+Date of Birth:___________________________
+Case No.:______________________________
+Offence(s):___________________________
+# Reasons For Withholding Bail (section 7(5)(a)) :
+The court is of the view that the following exceptions to bail contained in
+Schedule 1 apply:
+# Part 1, paragraph(s) -
+# Part 2, paragraph(s) -
+OTHER REASONS________________________________________________
+Accordingly, the defendant is remanded/committed in custody to the
+Supreme Court:
+Until____________________________ at _______________for:
+a. Mention
+b. Sentence
+c. Committal Proceedings
+d. Trial
+_____________________________
+Puisne Judge
+## Form 3 | Bail Act 2005
+## Record of Time or Place (or Different Time or Place) to
+## Surrender to Custody (section 7(1)(c))
+## SUPREME COURT
+DATE:__________________
+Name of Defendant:_______________________________
+Date of Birth:___________________________
+Case No.:______________________________
+Offence(s):___________________________
+# TIME/PLACE (ORIGINALLY) APPOINTED FOR SURRENDER:
+# DIFFERENT TIME / PLACE APPOINTED FOR SURRENDER
+_________________________________
+Puisne Judge
+## Form 4 | Bail Act 2005
+# Record of Decision to Vary Conditions of Bail (section 7(1)(d)
+## & (6))
+## SUPREME COURT
+DATE:__________________
+Name of Defendant:_______________________________
+Date of Birth:___________________________
+Case No.:______________________________
+Offence(s):___________________________
+The Defendant having been granted bail by the Supreme Court on
+________________________ with conditions and application having now
+been made by_______________________for variation of those conditions,
+THE
+# APPLICATION IS HEREBY:
+# REFUSED/GRANTED
+# CONDITIONS NOW VARIED TO INCLUDE:
+(a) recognizance____________
+(b) security_________________
+(c) surety(ies)_________________
+(d) no contact with witnesses_________________
+(e) surrender travel documents_______________
+(f) submit to a curfew___________________
+(g) report to police station__________________
+(h) make self available for inquiries/reports______________
+(i) section 4(5)____________________________
+(j) other__________________________________
+# REASONS FOR VARYING CONDITIONS OF BAIL (section 7(6))
+__________________________
+Puisne Judge
+## Form 6 | Bail Act 2005
+# Record of Reconsideration of Decision to Grant Bail (section
+## 9(12))
+## SUPREME COURT
+DATE:__________________
+Name of Defendant:_______________________________
+Date of Birth:___________________________
+Case No.:______________________________
+Offence(s):___________________________
+The Defendant having been granted bail by the Supreme Court on
+_______________________________ with conditions, And Application having
+now been made By the Prosecutor for Reconsideration of that Decision:
+# DECISION ON RECONSIDERATION:
+# REASON(S) (section 9 (12)):
+__________________________
+Puisne Judge
+Made this 20th day of February, 2006
+The Chief Justice
