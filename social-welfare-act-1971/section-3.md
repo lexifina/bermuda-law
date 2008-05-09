@@ -1,0 +1,7 @@
+# Minister to administer Government social welfare undertakings
+3 (1) The Minister shall administer any Government social welfare undertaking.
+(2) For the purposes of this section—
+(a) "administer" in relation to any Government social welfare undertaking, includes initiating and carrying the undertaking into effect and having the charge and management of the undertaking and of any land, buildings, articles or equipment provided for or in connection with the undertaking;
+(b) "Government social welfare undertaking" means any social welfare undertaking the expenses of the establishment and maintenance of which are defrayed wholly out of public funds; and moneys or funds which are contributed or bequeathed to the Minister or to the Government for the benefit of a social welfare undertaking shall, unless a contrary intention appears, be deemed to be public funds;
+(c) "social welfare undertaking" does not include any undertaking or measure which under any Act or law falls within the functions of any Minister other than the Minister as defined in section l but, subject as aforesaid, "social welfare undertaking" means any undertaking or measure for the promotion or maintenance of social welfare.
+(3) The Minister may, to such extent and subject to such conditions as he may determine, delegate any of his duties under this section to any persons or association of persons approved by him and subject to his directions.
