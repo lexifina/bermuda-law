@@ -1,0 +1,4 @@
+# Tax Commissioner may authorize relief from tax
+2 (1) The Tax Commissioner may authorize the total or partial exemption from payment of tax, or the deferment of liability to pay the whole or part of tax, for any tax period of any tax payer liable for the payment of tax under the Land Valuation Act 1967 [title 14 item 32] in any case where he is satisfied, having regard to the impoverished condition of the tax payer and his inability to improve his financial position significantly by reason of age, impaired health or other special circumstances, that undue hardship to that tax payer would otherwise ensue.
+(2) The provisions of the Land Valuation Act 1967 [title 14 item 32] shall be construed subject to any authorization of the Tax Commissioner issued under subsection (1).
+[Section 2 amended by 1996:15 effective by notice in the Official Gazette]

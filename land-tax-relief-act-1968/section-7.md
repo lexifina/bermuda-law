@@ -1,0 +1,4 @@
+# Any period of deferment to cease on death of tax payer
+7 Any period of deferment specified in an authorization issued under section 2 shall determine on the death of the tax payer concerned and thereupon the tax in respect of which deferment was authorized shall become immediately due and payable out of the estate of the deceased tax payer:
+Provided that where the Tax Commissioner is satisfied, having regard to the impoverished condition of the heir or devisee of the estate and his inability to improve his financial position significantly by reason of age, impaired health or other special circumstances, that undue hardship to that heir or devisee would otherwise ensue, he may authorize the total or partial exemption the tax payable up to the death of the deceased tax payer.
+[Section 7 amended by 1996:15 effective by notice in the Official Gazette]
