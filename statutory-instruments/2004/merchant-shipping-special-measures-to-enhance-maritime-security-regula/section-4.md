@@ -1,0 +1,5 @@
+# Requirements for companies and ships
+4 (1) Every company shall comply with the requirements of the ISPS Code as it applies to that company and to any ship owned by it or for which it has responsibility.
+(2) Prior to entering a port or whilst in a port within the territorial waters of Bermuda or of a Contracting State, a ship shall comply with the requirements for the security level set by the Government of Bermuda or the Contracting Government, if such security level is higher than the security level set by the Administration for that ship.
+(3) The master of a ship shall respond without undue delay to any change to a higher security level.
+(4) Where a ship is not in compliance with the requirements of these Regulations or of part A of the ISPS Code, or cannot comply with the requirements of the security level set by the Government of Bermuda or by another Contracting Government and applicable to that ship, then the master of the ship shall notify the competent authority prior to conducting any ship/port interface or prior to entry into port, whichever occurs earlier.
