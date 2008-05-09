@@ -1,0 +1,3 @@
+# Defence of common employment abolished
+4 (1) It shall not be a defence to an employer who is sued in respect of personal injuries caused by the fault of a person employed by him, that that person was at the time the injuries were caused in common employment with the person injured.
+(2) Any provision contained in a contract of service or apprenticeship, or in an agreement collateral thereto, (including a contract or agreement entered into before 29 May 1951) shall be void in so far as it would have the effect of excluding or limiting any liability of the employer in respect of personal injuries caused to the person employed or apprenticed by the fault of persons in common employment with him.
