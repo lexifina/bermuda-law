@@ -1,0 +1,6 @@
+MARINE BOARD (DECLARATION OF SPEED LIMITS FOR BOATS) (MARINERS) NOTICE 2001
+BR 80/2001
+MARINE BOARD ACT 1962
+1962 : 30
+MARINE BOARD (DECLARATION OF SPEED LIMITS FOR BOATS) (MARINERS) NOTICE 2001
+The Minister, in exercise of the powers conferred upon him by section 10(1)(a) of the Marine Board Act 1962, gives the following Notice:⎯
