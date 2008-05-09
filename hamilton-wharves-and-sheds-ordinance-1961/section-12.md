@@ -1,0 +1,5 @@
+# Exclusion from wharves
+12 (1) The Corporation may at any time refuse permission for any person, vehicle, horse, mule or other beast of draught or burden to enter the docks, wharves and sheds under its control or to remain thereon or to enter or remain on any designated part thereof.
+(2) Where vehicles are permitted to enter any dock, wharf or shed under the control of the Corporation for the purpose of loading or unloading goods or passengers they shall leave as soon as such loading or unloading is complete and shall not remain on the dock or wharf or in the shed unless expressly authorised by the Corporation so to do.
+(3) Nothing in this article shall be construed to apply to jitneys or other equipment used by stevedores for the loading or unloading of ships.
+(4) Any person who is not authorised by the Corporation to enter or to remain on the docks, wharves and sheds or any part thereof and who refuses to leave such premises on being requested to do so by any member of the Corporation or by any police officer may be ejected therefrom and may be prosecuted for an offence against the Municipalities Act 1923 [title 4 item 1].
