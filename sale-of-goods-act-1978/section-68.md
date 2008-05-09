@@ -1,0 +1,2 @@
+# Payment into court when breach of warranty alleged
+68 Where a buyer has elected to accept goods which he might have rejected and to treat a breach of contract as only giving rise to a claim for damages, he may, in an action by the seller for the price, be required in the discretion of the court to pay into court the price of the goods, or part thereof, or to give other reasonable security for the payment thereof.

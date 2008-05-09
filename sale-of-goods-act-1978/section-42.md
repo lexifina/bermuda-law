@@ -1,0 +1,6 @@
+# Termination of lien
+42 (1) The unpaid seller of goods loses his lien thereon —
+(a) when he delivers the goods to a carrier or other bailee for the purpose of transmission to the buyer without re-serving the right of disposal of the goods;
+(b) when the buyer or his agent lawfully obtains possession of the goods;
+(c) by waiver thereof.
+(2) The unpaid seller of goods, having a lien thereon, does not lose his lien by reason only that he has obtained judgment or decree for the price of the goods. Stoppage in Transitu

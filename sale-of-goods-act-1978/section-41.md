@@ -1,0 +1,2 @@
+# Part delivery
+41 Where an unpaid seller has made part delivery of the goods, he may exercise his right of lien on the remainder, unless such part delivery has been made under such circumstances as to show an agreement to waive the lien.

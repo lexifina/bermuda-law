@@ -1,0 +1,4 @@
+## The Price
+# Ascertainment of price
+8 (1) The price in a contract of sale may be fixed by the contract, or may be left to be fixed in manner thereby agreed, or may be determined by the course of dealing between the parties.
+(2) Where the price is not determined in accordance with subsection (1) the buyer must pay a reasonable price. What is a reasonable price is a question of fact dependent on the circumstances of each particular case.

@@ -1,0 +1,4 @@
+## Re-sale by Buyer or Seller
+# Effect of sub-sale or pledge by buyer
+46 Subject to the provisions of this Act, the unpaid seller's right of lien or stoppage in transitu is not affected by any sale or other disposition of the goods which the buyer may have made, unless the seller has as-sented thereto:
+Provided that where a document of title to goods has been lawfully transferred to any person as buyer or owner of the goods, and that person transfers the document to a person who takes the document in good faith and for valuable consideration, then, if such last-mentioned transfer was by way of sale the unpaid seller's right of lien or stoppage in transitu is defeated, and if such last-mentioned transfer was made by way of pledge or other disposition for value, the unpaid seller's right of lien or retention or stoppage in transitu can only be exercised subject to the rights of the transferee.
