@@ -1,0 +1,2 @@
+# Application for licence
+3 Every application for the issue or renewal of a licence shall state the approximate number of pigs which the applicant proposes to keep during the ensuing year and the location and description of the sty or sties, with particular reference to the size, construction and materials of the sty or sties, the means of drainage therefrom and the quantity of suitable water which would be readily available at all times for the cleaning of the sty or sties.
