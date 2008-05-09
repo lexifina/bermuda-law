@@ -1,0 +1,2 @@
+# Reciprocal treatment
+5 Nothing in the foregoing provisions of this Act shall be construed so as to preclude the Governor acting in his discretion from declining to accord immunities or privileges to or from withdrawing immunities or privileges from nationals or representatives of any foreign Power on the ground that the Power is failing to accord corresponding immunities or privileges to British nationals or representatives.

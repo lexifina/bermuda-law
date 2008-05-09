@@ -1,0 +1,4 @@
+# Application of Act to United Nations
+4 This Act shall in its application to the United Nations have effect subject to the following modifications, that is to say—
+(a) any reference to the governing body or any committee of the organization shall be construed as referring to the General Assembly or any council or other organ of the United Nations; and
+(b) the powers conferred by section 1(2) shall include power by Order made by the Governor acting in his discretion to confer on the judges and registrars of the International Court of Justice set up under the Charter of the United Nations, and on suitors to that Court and their agents, counsel and advocates, such immunities, privileges and facilities as may be required to give effect to any resolution of or convention approved by the General Assembly of the United Nations.
