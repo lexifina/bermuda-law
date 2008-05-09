@@ -1,0 +1,2 @@
+# Sorting and porterage of packages of tobacco
+7 All sorting of packages of tobacco in the Airport Warehouse shall, subject to such directions as may be given or supervision exercised by any customs officer for the purposes of safeguarding the revenue, be effected by or on behalf of the dealer in that tobacco; and porterage of any such packages from the Airport Warehouse to an aircraft shall, subject to the like directions and supervision, also be effected by or on behalf of such dealer.
