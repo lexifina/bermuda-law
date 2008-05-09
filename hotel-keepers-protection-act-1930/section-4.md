@@ -1,0 +1,2 @@
+# No action may be taken under section 2 or 3 on grounds of race, colour, religion, ethnic or national origin
+4 No hotel keeper shall refuse to register any person under the power contained in section 2, or refuse to admit any person under the power contained in section 3, or request any person to leave the hotel premises, by reason of that person's race, colour, religion, or ethnic or national origin and any hotel keeper who so refuses or requests commits an offence against this Act.
