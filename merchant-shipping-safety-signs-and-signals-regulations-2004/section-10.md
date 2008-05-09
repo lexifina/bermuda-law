@@ -1,0 +1,3 @@
+# Inspection and detention of a Bermuda ship
+10 (1) A relevant inspector may inspect any Bermuda ship and if he is satisfied that there has been a failure to comply in relation to that ship with the requirements of these Regulations may detain the ship until the health and safety of all workers and other persons aboard the ship are secured, but shall not in the exercise of these powers detain or delay the ship unreasonably.
+(2) Before detaining a ship under paragraph (1), the relevant inspector shall furnish the master or the person in charge of the ship with reasons why he is satisfied that the ship has not complied with the requirements of these Regulations.
