@@ -1,0 +1,2 @@
+# Penalty for contravention
+29 Any person who contravenes any of the provisions of this Ordinance commits an offence against this Ordinance and is liable to prosecution for such offence in accordance with the Municipalities Act 1923 [title 4 item 1], and the Road Traffic Act 1947 [title 21 item 3], and, where appropriate, shall be subject to the penalties specified in the Traffic Offences (Penalties) Act 1976 [title 21 item 13].

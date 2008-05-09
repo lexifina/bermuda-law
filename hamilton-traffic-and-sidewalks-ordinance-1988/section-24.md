@@ -1,0 +1,2 @@
+# Restriction of driving container truck on certain streets
+24 No container truck shall be driven on Queen Street, Burnaby Street or Parliament Street, or that part of Reid Street or Front Street west of Court Street, but nothing in this Article shall prohibit a container- truck using the street in order to gain direct access to any premises on that street for the purpose of collecting or delivering goods to those premises.
