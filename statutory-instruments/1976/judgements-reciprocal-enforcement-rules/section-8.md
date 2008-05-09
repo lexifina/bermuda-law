@@ -1,0 +1,2 @@
+# Form of Register
+8 The Register shall be arranged in alphabetical order in the surname of the judgment debtor and there shall be entered in the Register the date of the order for registration and of the registration, the name, title, trade or business of the judgment debtor and judgment creditor and the amount for which the judgment is signed, and any special directions in the order for registration as to such registration and the execution thereon, and the particulars of any execution issued thereon.
