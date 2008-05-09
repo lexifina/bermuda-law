@@ -1,0 +1,3 @@
+[preamble and words of enactment omitted]
+# Universal Postal Union Agreement
+1 The Minister may, on behalf of the Government of Bermuda, give notice of the adhesion of Bermuda to the Universal Postal Union Agreement concerning the exchange of insured letters between countries participating in the said Agreement, and in case of any loss or damage occurring in respect of any such insured letter for which the Government of Bermuda is liable, the Postmaster General may make good such loss out of any Post Office funds in his hands, or if there are no such funds available therefor, may, with the sanction of the Minister, receive the amount out of the Consolidated Fund for that purpose.
