@@ -1,0 +1,4 @@
+# Privilege
+21 (1) No proceedings, civil or criminal, shall lie against the Ombudsman or any person appointed under section 18 in respect of anything done or omitted to be done or reported or said in the performance or intended performance of their functions under this Act unless it is shown that the Ombudsman or person acted in bad faith.
+(2) Neither the Ombudsman or any person appointed under section 18 shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to their knowledge in the exercise of their functions under this Act.
+(3) Anything said or any information given or any document or thing produced by any person in the course of any investigation conducted by, or proceedings before, the Ombudsman under this Act shall be privileged in the same manner as if the investigation or proceedings were proceedings in the Court.

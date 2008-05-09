@@ -1,0 +1,6 @@
+OMBUDSMAN ACT 2004
+BERMUDA
+2004 : 32
+OMBUDSMAN ACT 2004
+Date of Assent: 17 December 2004
+Operative Date: 1 May 2005
