@@ -1,0 +1,6 @@
+# Arrest
+5 (1) Any customs officer and any police officer not below the rank of sergeant, or being duly authorized by the Collector of Customs, may stop and detain any person found carrying or removing any spirits, and may examine the spirits, and require from the person having the carriage or charge thereof a full and particular account of the names and addresses of the persons from whom and by whom they have been obtained or purchased, and the places from and to which they are being removed.
+(2) Any person who is found carrying or removing any spirits, and who does not on the request of any such customs officer or police officer forthwith give a satisfactory account of the above particulars, commits an offence against this Act:
+Punishment on summary conviction: a fine of the level 4 amount; and the spirits shall be detained and kept in safe custody until they are accounted for to the satisfaction of the Collector of Customs; and if they are not satisfactorily accounted for within fourteen days from the time of detention they shall be forfeited.
+(3) Any officer may arrest without warrant any person found committing an offence under this section.
+[Section 5 subsection (2) penalty on standard scale substituted for amount in $ by 2004:6 s.18 & Sch 2 effective 26 March 2004]
