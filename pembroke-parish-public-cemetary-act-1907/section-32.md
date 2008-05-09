@@ -1,0 +1,2 @@
+# Council may set apart and sell burial lots
+32 The Council may set apart such burial lots in the cemetery as they may think fit for the purpose of granting exclusive rights of burial therein, and they may sell either in perpetuity or for a limited time, and subject to such conditions as they think fit, the exclusive right of burial in any parts of the cemetery so set apart or the right of one or more burials therein.

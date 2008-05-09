@@ -1,0 +1,2 @@
+# Council may aside area to be consecrated as Anglican Church of Bermuda burial ground
+30 The Council may set apart, but not wall or fence off, not more than one half of the land acquired under this Act for the purpose of being consecrated as a burial ground in accordance with the rites and ceremonies of the Anglican Church of Bermuda; and in the event of such consecration as aforesaid no rites and ceremonies other than those of the Anglican Church of Bermuda shall be used in the burial of persons in such consecrated portion of the cemetery.
