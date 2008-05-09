@@ -1,0 +1,7 @@
+BERMUDA 1923 : 16
+MARRIED WOMEN'S CONVEYANCING ACT 1923
+[26 April 1923]
+WHEREAS under the Married Women's Conveyance Acts from time to time in force in Bermuda it was necessary to the validity of any deed executed by any married woman whereby the estate or interest of such married woman was conveyed to any grantee that such deed should be recorded or registered in the manner prescribed by any such Act for the time being in force:
+AND WHEREAS instances have occurred in which such recording or registration in the prescribed manner has not taken place whereby doubts in respect of certain titles to land have arisen:
+AND WHEREAS since the coming into operation of the Married Women's Property Act 1901, married women have been enabled in accordance with that Act to acquire, hold and dispose of by will or otherwise any real and personal property as their separate property as if they were femes soles and it is expedient to abolish the formalities heretofore required with respect to every married woman's conveyance and to any conveyance whereto any married woman is a party with her husband for the purpose of releasing her right of dower, or for any other purpose, as to recording, registering or acknowledging the same, and to validate any conveyances which may have been invalidated by failure to comply with such requirements, or with respect to the validity whereof doubts may be entertained:
+[words of enactment omitted]

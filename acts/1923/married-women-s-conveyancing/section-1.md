@@ -1,0 +1,5 @@
+# Married women's conveyances valid; registration immaterial
+1 Every deed or conveyance of any land in Bermuda heretofore executed by any married woman, either alone or in conjunction with her husband for any valuable consideration, is hereby declared to be as effectual for the assuring or conveying of such land to the grantee named in such deed or conveyance as if such woman had been a feme sole at the time of such execution, and whether such deed or conveyance was or was not recorded, registered or acknowledged in accordance with any Act for the time being in force in Bermuda, relating to deeds or conveyances executed by any married woman for valuable consideration.
+[this Act was brought into operation on 16 July 1923 by notice published in Gazette # 28 of 1923 and as from that day the Married Women's Conveyancing Acts, 1779, 1803, 1834, 1883, 1898 and 1920 were repealed, without effect on the validity of any deed or other instrument recorded, registered or acknowledged under any of those Acts]
+[this Act was originally entitled the Married Women's Conveyance Act 1923]
+[Amended by 1952 : 11]
