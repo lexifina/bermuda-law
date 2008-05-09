@@ -1,0 +1,10 @@
+# Restriction on enforcement of overseas judgments
+7 (1) A judgment to which this section applies shall not be registered under the Judgments (Reciprocal Enforcement) Act 1958 [title 8 item 71] and no court in Bermuda shall entertain proceedings at common law for the recovery of any sum payable under such a judgment.
+(2) This section applies to any judgment given by a court of an overseas country, being —
+(a) a judgment for multiple damages within the meaning of subsection (3);
+(b) a judgment based on a provision or rule of law specified or described in an order under subsection (4) and given after the coming into force of the order; or
+(c) a judgment on a claim for contribution in respect of damages awarded by a judgment within paragraph (a) or (b).
+(3) In subsection (2)(a) a judgment for multiple damages means a judgment for an amount arrived at by doubling, trebling or otherwise multiplying a sum assessed as compensation for the loss or damage found to have been sustained by the person in whose favour the judgment is given.
+(4) The Minister may for the purposes of subsection (2)(b) make an order in respect of any provision or rule of law which appears to him to be concerned with the prohibition or regulation of agreements, ar-rangements or practices designed to restrain, distort or restrict competition in the carrying on of business of any description or to be otherwise concerned with the promotion of such competition as aforesaid.
+(5) The power of the Minister to make orders under subsection (4) shall be subject to negative resolution procedure under the Statutory Instruments Act 1977 [title 1 item 3].
+(6) Subsection (2)(a) applies to a judgment given before 29 December 1981 as well as to a judgment given on or after that date but this section does not affect any judgment which has been registered before that date under the provisions mentioned in subsection (1) or in respect of which such proceedings as are there mentioned have been finally de-termined before that date.

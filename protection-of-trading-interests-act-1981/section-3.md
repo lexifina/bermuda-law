@@ -1,0 +1,10 @@
+# Overseas measures affecting Bermudian trading interests
+3 (1) If it appears to the Minister—
+(a) that measures have been or are proposed to be taken by or under the law of any overseas country for regulating or controlling international trade; and
+(b) that those measures, in so far as they apply or would apply to things done or to be done outside the territorial jurisdiction of that country by persons carrying on business in the United Kingdom or in Bermuda, are damag-ing or threaten to damage the trading interests of Bermuda, or of the United Kingdom,
+the Minister may by order direct that this section shall apply to those measures either generally or in their application to such cases as may be specified in the order.
+(2) The Minister may by order make provision for requiring, or enabling the Minister to require, a person in Bermuda who carries on business there to give notice to the Minister of any requirement or prohibition imposed or threatened to be imposed on that person pursuant to any measures in so far as this section applies to them by virtue of an order under subsection (1).
+(3) The Minister may give to any person in Bermuda who carries on business there such directions for prohibiting compliance with any such requirement or prohibition as aforesaid as he considers appropriate for avoiding damage to the trading interests of the United Kingdom or of Bermuda.
+(4) The power of the Minister to make orders under subsection (1) or (2) shall be subject to negative resolution procedure under the Statutory Instruments Act 1977 [title 1 item 3].
+(5) Directions under subsection (3) may be either general or special and may prohibit compliance with any requirement or prohibition either absolutely or in such cases or subject to such conditions as to consent or otherwise as may be specified in the directions; and general directions under that subsection shall be published in such manner as appears to the Minister to be appropriate.
+(6) In this section "trade" includes any activity carried on in the course of a business of any description and "trading interests" shall be construed accordingly.
