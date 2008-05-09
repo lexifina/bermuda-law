@@ -1,0 +1,2 @@
+# Liability of owner and occupier
+10 Where any development takes place in contravention of these Regulations or of any condition imposed in accordance herewith the owner and occupier of the land on which the contravention takes place shall be deemed to be responsible therefor and shall be liable to be prosecuted accordingly in accordance with section 10 of the Pembroke Marsh Canal Act 1969 [title 19 item 14].

@@ -1,0 +1,3 @@
+# Storm water not to be deposited without written authority
+1 (1) No person shall deposit, or cause or permit to be deposited, any storm water in the Canal or construct or cause or permit to be constructed any works whereby storm water might reasonably be expected to be deposited in the Canal except under and in accordance with written authority of the Permanent Secretary for the Department of Works and Engineering (hereinafter referred to as "the Permanent Secretary").
+(2) Any such authority as is specified in paragraph (1) may be given for such period and subject to such conditions and restrictions as the Permanent Secretary may in each case impose.
