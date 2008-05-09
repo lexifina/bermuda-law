@@ -1,0 +1,7 @@
+# Compensation and enforcement of detention
+15 (1) If it appears that there was not reasonable and probable cause for the detention of a ship under these Regulations, the Government is liable to pay to the owner of the ship his costs of and incidental to the detention of the ship and also compensation for any loss or damage sustained by him by reason of the detention.
+(2) Where under these Regulations a ship is to be or may be detained, any person duly authorised by the Minister for the purpose may detain the ship, and if—
+(a) after the ship is detained; or
+(b) after notice of an order for the detention of the ship has been served on the master, the ship proceeds or attempts to proceed to sea before it is duly released, the master of the ship and also the owner, and any person who sends the ship to sea, if the owner or such person is party or privy to the offence, shall each be guilty of an offence and be liable on summary conviction to a fine of one thousand dollars.
+(3) Where a ship so proceeding to sea takes to sea when on board thereof in the execution of his duty any person duly authorised to detain the ship, the owner and the master of the ship shall each be liable to pay all expenses of and incidental to the duly authorised person being so taken to sea and shall also be guilty of an offence and liable on summary conviction to a fine of five hundred dollars.
+(4) Where under these Regulations a ship is to be detained, the Registrar of Shipping shall refuse a clearance to that ship.

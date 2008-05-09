@@ -1,0 +1,2 @@
+# Use of protective clothing
+8 No person shall require an employee to start in a ship a work process referred to in regulation 4 unless the appropriate clothing or equipment specified in or in accordance with that regulation is in good condition and working order and is being worn or used by the employee carrying out the work process and by any other employee who is subject to a reasonably foreseeable risk from that work process.

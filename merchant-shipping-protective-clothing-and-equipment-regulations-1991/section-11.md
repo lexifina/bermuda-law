@@ -1,0 +1,2 @@
+# Act or default of some other person
+11 Where an offence under any of these Regulations is committed, or would have been committed except for the operation of regulation 10(3), by any person due to the act or default of some other person, that other person is guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
