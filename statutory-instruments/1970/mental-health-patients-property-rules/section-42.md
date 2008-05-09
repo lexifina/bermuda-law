@@ -1,0 +1,3 @@
+# Remuneration of receiver
+42 Where a receiver is appointed for a patient, the court may, during the receivership, allow the receiver remuneration for his services at such amount or at such rate as the court considers reasonable and proper, and any remuneration so allowed shall constitute a debt due to the receiver from the patient and his estate.
+(2) No request by a receiver to have the sum payable for his remuneration fixed after the death or recovery of the patient shall be entertained unless the court has during the receivership directed that remuneration be allowed and the request is made within six years from the date of the receiver's discharge.

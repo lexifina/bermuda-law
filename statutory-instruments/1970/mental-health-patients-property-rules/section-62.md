@@ -1,0 +1,5 @@
+# Final accounts
+62 (1) On the discharge of a receiver, or on the death or recovery of a patient for whom a receiver has been appointed, the court shall take and pass the accounts of the receiver from the foot of his last account or, if no account of his has previously been passed, from the date of his appointment, unless in the opinion of the court the taking and passing of such accounts may properly be dispensed with.
+(2) If a balance is found due from the receiver or his estate, he or his personal representatives, as the case may be, shall pay it into court or otherwise deal with it as the court may direct.
+(3) If a balance is found due to a receiver or his estate, it shall be paid to him or his personal representatives, as the case may be, by the patient or out of the patient's estate.
+(4) On payment of any balance found due from the receiver, or if no balance is found due from him or the passing of his accounts has been dispensed with under paragraph (1), the security of the receiver shall, unless the court otherwise directs, be discharged.

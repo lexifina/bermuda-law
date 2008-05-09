@@ -1,0 +1,2 @@
+# Summary orders in small cases
+6 Where it appears to the court that the property of a patient does not exceed $1200.00 in value, the court may, if no originating application has been issued, make an order in a summary manner directing one of its officers or some other fit and proper person to deal with the said property, or any part thereof, in any manner authorised by the Act and specified in the order.
