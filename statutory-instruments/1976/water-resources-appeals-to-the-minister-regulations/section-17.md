@@ -1,0 +1,3 @@
+# Procedure after close of inquiry
+17 If, after the close of the inquiry, the appointed person proposes to take into consideration any new evidence or any new issue of fact which was not raised at the inquiry and which he considers material to his decision, he shall not come to a decision without first notifying the appellant, the Environmental Engineer and any party to the appeal who appeared at the inquiry of the substance of the new evidence or of the new issue of fact and affording them an opportunity of making representations thereon in writing within such time, being a time reasonable in the circumstances, as he may think fit.
+[regulation 17 amended by 1998:19 effective 18 June 1998]
