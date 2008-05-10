@@ -1,0 +1,2 @@
+# Saving for private and semi-private treatment
+3 Where a workman elects to receive private or semi-private treatment, nothing in these Regulations or in section 34 of the Workmen's Compensation Act 1965 [title 18 item 3] shall preclude the Bermuda Hospitals Board or any concerned medical practitioner from recovering from such workman any fees or charges in respect of that hospital or medical treatment at the prevailing scale for private or, as the case may be, semi-private treatment.
