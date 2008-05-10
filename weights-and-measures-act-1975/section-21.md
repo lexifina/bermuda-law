@@ -1,0 +1,4 @@
+# Minister may prohibit non-metric devices
+21 (1) The Minister may, by order published in the Gazette, specify any industry, trade, professional or commercial activity to be an industry, trade, professional or commercial activity in which all devices indicating in units other than metric units shall be converted to indicate in metric units within such period as may be specified in the order.
+(2) An order under subsection (1) may specify a date after which the possession or use of any device which does not indicate in metric units shall in that industry, trade or activity be unlawful.
+(3) Where the Minister is satisfied that suitable arrangements have been made for ultimate compliance with an order under this section he may, on the application of any person, grant an exemption from compliance with the order for such period and subject to such conditions as he may determine.
