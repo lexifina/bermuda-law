@@ -1,0 +1,3 @@
+# Minister’s attendance at coordination meetings
+11 (1) The Minister or his representatives may, at the request of the satellite network operator or of another administration, or if the Minister thinks it necessary, attend any coordination meeting and the costs of his attendance shall be paid by the satellite network operator.
+(2) Nothing in these regulations shall in any way prejudice the rights of the appropriate authorities in the United Kingdom to attend coordination meetings at their discretion, and the costs of such attendance shall be borne by the satellite network operator in accordance with the policies and procedures of those authorities as are in force at the time.

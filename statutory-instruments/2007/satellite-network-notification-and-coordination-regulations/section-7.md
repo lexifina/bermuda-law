@@ -1,0 +1,2 @@
+# Submission of proposal to appropriate authorities
+7 After issuing a certificate to a satellite network operator under regulation 6, the Minister shall submit a copy of the certificate and of the information submitted by the operator under regulation 5 to the appropriate authorities in the United Kingdom and shall ask those authorities to submit the information provided under regulation 5(1)(k) to the ITU.
