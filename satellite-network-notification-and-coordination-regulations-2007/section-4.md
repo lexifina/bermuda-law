@@ -1,0 +1,3 @@
+# Requirement for licence
+4 (1) No satellite network operator may establish or maintain a space station as part of a satellite network without a licence granted by the Minister as required by section 9 of the Act.
+(2) A licence referred to in regulation 18 shall only permit the establishment and maintenance of the space station to which that licence refers, and, according to the circumstances of each satellite network, additional forms of authorisation are necessary for conducting activities in outer space, including the launch and operation of the satellite, and for the establishment, maintenance and operation of any co-operating earth stations.

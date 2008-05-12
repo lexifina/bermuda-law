@@ -1,0 +1,3 @@
+# Submission of Minister’s proposal
+8 (1) The Minister may submit a proposal for a satellite network project for filing with the ITU, including a proposal respecting a satellite network allotted to Bermuda by the ITU, whether or not a satellite network operator has first applied for a certificate of compliance to carry out the satellite network project.
+(2) When preparing such a proposal for submission to the appropriate authorities in the United Kingdom, the Minister shall have due regard to the requirements of regulation 5, and such information as may be required by the appropriate authorities in the United Kingdom.
