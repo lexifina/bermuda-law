@@ -1,0 +1,2 @@
+# Failure to supply documents
+6 If it appears to the arbitrators that any party to the proceedings has failed to send a copy of any document required under these Rules to be sent to any other party or to the Chairman, the arbitrators may direct that a copy of the document shall be sent as may be necessary and that further hearing of the proceedings be adjourned on such terms as the arbitrators may determine.
