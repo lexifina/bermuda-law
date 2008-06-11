@@ -1,0 +1,4 @@
+# Fees for witnesses; forfeiture of deposit
+16 (1) A witness for the Crown at any inquest under this Act shall be entitled to receive out of the Consolidated Fund, upon the certificate of the Provost Marshal General, a sum equal to the allowance such a witness would receive if attending a civil suit in the Supreme Court.
+(2) A person summoned to attend as a witness for any claimant at any inquest under this Act may, at the time of his attendance, apply to the Provost Marshal General for a direction that a sum equal to the allowance such a witness would receive if attending a civil suit in the Supreme Court be paid by the party at whose instance the summons is issued; and upon any such direction being given that sum shall constitute a debt owed by that party to that witness,
+(3) The Governor may order a deposit made by any claimant under section 2, or such part thereof as the Governor sees fit, to be forfeit to the Crown.

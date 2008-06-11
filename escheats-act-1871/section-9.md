@@ -1,0 +1,2 @@
+# Form of inquisition and return
+9 The form of inquisition and the finding of the jury on any inquest of escheat shall be in the form set forth in Form F in the First Schedule, or as near thereto as the circumstances admit, and such inquisition and finding shall be returned immediately thereafter under the signature of the Provost Marshal General and the jurors into the office of the Secretary to the Cabinet and be there recorded.

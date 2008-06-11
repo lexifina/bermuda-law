@@ -1,0 +1,2 @@
+# Second inquiry
+11 If the finding on any inquest under this Act is against the Crown it shall nevertheless be lawful for the Provost Marshal General to issue another precept for a second inquiry under the order and sanction of the Supreme Court on application made for that purpose which order the Supreme Court may give or withhold at its discretion; and if such order is obtained the like proceedings shall be had as are hereinbefore mentioned.
