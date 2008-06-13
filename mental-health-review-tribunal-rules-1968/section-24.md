@@ -1,0 +1,5 @@
+# Procedure
+24 (1) Subject to this rule, any person who has received notice of the hearing may appear and take such part in the proceedings as the Tribunal think proper.
+(2) The Tribunal shall give an opportunity to the applicant to address the Tribunal, to give evidence and call witnesses; and the Medical Director, and with the permission of the Tribunal any other person, may put questions to the applicant or to any witness called by him or on his behalf
+(3) The Tribunal shall give the Medical Director and any other person notified of the hearing under rule 21 an opportunity to address them, to give evidence and to call witnesses and may permit any other person whom they think fit to do so; and the applicant and the Medical Director, and with the permission of the Tribunal any other person, may put questions to any person giving evidence before the Tribunal.
+(4) Where the patient is the applicant or is called as a witness, the Tribunal may, if they consider it desirable in the interests of the patient's health to do, interview the patient or take his evidence in private or in any manner they think appropriate.

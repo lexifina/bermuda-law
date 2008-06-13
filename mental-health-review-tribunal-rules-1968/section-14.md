@@ -1,0 +1,3 @@
+# Evidence
+14 (1) For the purpose of obtaining information, the Tribunal may take evidence on oath and subpoena any witness to appear before them or to produce documents, and the president of the Tribunal shall accordingly have the powers of an arbitrator under sections 20(3) and 25 of the Arbitration Act 1986 [title 8 item 75], and the powers of a party to a submission under an arbitration agreement under section 20(4) of the Arbitration Act 1986, but no person shall be compelled to give any evidence or produce any document which he could not be compelled to give or produce on the trial of an action.
+(2) The Tribunal may receive in evidence any document or information notwithstanding that such document or information would be inadmissible in a court of law.

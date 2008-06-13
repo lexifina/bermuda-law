@@ -1,0 +1,2 @@
+# Medical examination
+11 The Medical member of the Tribunal appointed to consider the application shall, or where there is more than one medical member the medical members may and one shall, examine the patient or take such other steps as he or they consider necessary to form an opinion of the patient's mental condition; and for this purpose the patient may be seen in private and his medical records examined.

@@ -1,0 +1,3 @@
+# Adjournment for further information
+25 (1) Where it appears to the Tribunal that it is desirable to obtain further information on any point, the Tribunal may adjourn for the information to be obtained in such manner as they may direct or for the applicant or any other person concerned to produce the information.
+(2) Where after such adjournment the Tribunal consider that a resumed hearing is desirable or where a resumed hearing is requested by the applicant or the Medical Director, not less than seven days' notice thereof (or such shorter notice as all persons concerned may agree) shall be given to the applicant, to the Medical Director and to any other person who was notified of the hearing under the provision of rule 21 and who appeared at the previous hearing.

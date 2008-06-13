@@ -1,0 +1,9 @@
+## PART VI
+# Decisions
+26 (1) The decision of the majority of the members of the Tribunal appointed to consider an application shall be the decision of the Tribunal and in the event of an equality of votes the president of the Tribunal shall have a second or casting vote.
+(2) The decision of the Tribunal on the application shall be recorded in Form 204 of Court Forms and signed by the president.
+(3) The decision of the Tribunal shall be communicated in writing within seven days to the applicant, the Medical Director, the patient (where he is not the applicant) and to such other persons as the Tribunal may direct, and the Tribunal shall at the same time inform the applicant and the Medical Director of their right to request reasons for the decision in accordance with paragraph (5) of this rule:
+Provided that where the Tribunal consider that it would not be desirable to communicate their decision in writing to the patient (where he is not the applicant) it shall be communicated to him in such manner as the Tribunal think appropriate.
+(4) The reasons for the Tribunal's decision shall be recorded in Form 205 of Court Forms and signed by the president.
+(5) The applicant and the Medical Director may, within three weeks after receiving notice in writing of the decision, request the Tribunal to give their reasons, and the Tribunal shall comply with any such request except where they consider that it would be undesirable to do so in the interests of the patient or for other special reasons.
+(6) Subject to this rule, the Tribunal may, where they think it proper to do so, prohibit the publication of the text or a summary of the whole or part of their decision or of their reasons, or direct that the text or summary may be published only to such persons and on such conditions as they may prescribe.
