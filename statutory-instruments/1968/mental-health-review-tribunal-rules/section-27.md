@@ -1,0 +1,2 @@
+# Disposal of proceedings
+27 Where an application or reference has not been disposed of by the members of the Tribunal appointed for the purpose and the Chairman of the Tribunal is of opinion that it is not practicable or not possible without undue delay for the consideration of the application or reference to be completed by those members, he shall make arrangements for it to be disposed of by other members of the Tribunal.
