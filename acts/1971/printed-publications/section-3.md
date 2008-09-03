@@ -1,0 +1,12 @@
+## PART II
+PROVISIONS APPLICABLE TO BOOKS GENERALLY
+# Publisher's imprint
+3 (1) Every book printed or published in Bermuda shall bear an imprint in legible type showing the name and surname, occupation and place of abode or business address of its printer and publisher and also a true description of the house or building wherein it is actually printed and published respectively and the year of publication, and, in the case of a newspaper, the name and place of abode or business address of the proprietor thereof.
+(2) Where under subsection (1) a book is required to bear an imprint showing the name, surname and occupation of any person it shall be sufficient—
+(a) in the case of a partnership to show the name, surname and occupation of every partner (or, if there are more than five, not less than five responsible representative partners) who is not a special partner for the purposes of the Limited Partnership Act 1883 [title 17 item 24];
+(b) in the case of a body corporate to show its full corporate style and the place of incorporation;
+(c) in the case of an unincorporated association of persons to show the name, surname and occupation of every member for the time being of the committee of management or who is otherwise vested with the management of the association or, if there are more than five such members, not less than five responsible representative members of the committee of management or, as the case may be, of those who are otherwise vested with the management of the association.
+(3) In the case of a newspaper the imprint referred to in subsection (1) shall be in some prominent place in such newspaper and in every supplement issued therewith and such supplement and such newspaper shall also contain at some place within it the day of the week and month on which it is published.
+(4) Every person who prints, publishes, distributes or who causes to be printed, published or distributed, any book printed or published in Bermuda whereon the several particulars required to be printed under this section are not set forth, or are falsely set forth, commits an offence:
+Punishment on summary conviction: imprisonment for 6 months or a fine of $500 or both such imprisonment and fine.
+(5) Where a person is charged with distributing or causing to be distributed any book in contravention of subsection (4) such book shall be deemed to be both printed and published in Bermuda until and unless the contrary is established.
