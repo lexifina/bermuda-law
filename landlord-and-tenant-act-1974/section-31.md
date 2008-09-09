@@ -1,0 +1,2 @@
+# Preferential claim for rent on bankruptcy of tenant
+31 Notwithstanding any statutory provision as to priority of debts and claims in bankruptcy, the amount of rent in arrear for a period not exceeding six months preceding the date on which a tenant is adjudicated bankrupt shall be paid in priority to all other debts except debts preferred under section 30(1) of the Bankruptcy Act 1876 (which deals with rates and taxes and wages or salary of any clerk or servant).
