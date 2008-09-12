@@ -1,0 +1,4 @@
+# Measurements
+27 (1) Measurements made to demonstrate that a System does, in fact, comply with the provisions of any subscription radio service licence issued under these Regulations, shall be made under conditions which reflect system performance during normal operations.
+(2) When it may be necessary to remove the television signal normally carried on a WC channel in order to facilitate a performance measurement, it will be permissible to disconnect the antenna which serves the channel under measurement and to substitute therefor a matching resistance termination. Other antennas and inputs should remain connected and normal signal levels should be maintained on other channels.
+(3) The Minister may require such additional tests as may be necessary to ensure satisfactory service to a subscriber to demonstrate system performance or may specify the use of different test procedures.

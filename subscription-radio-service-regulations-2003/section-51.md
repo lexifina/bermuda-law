@@ -1,0 +1,2 @@
+# Offences concerning provision of child-locks or equipment
+51 Any licensee who supplies to a subscriber a child-lock or installs equipment on a subscriber's premises and wilfully charges therefor a security deposit in excess of the cost-price of such child-lock or equipment, communicated to the Minister under regulation 10 or regulation 39 as the case may be, commits an offence and is liable on summary conviction to a fine of $1,000.

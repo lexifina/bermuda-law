@@ -1,0 +1,2 @@
+# Direct relations with the public
+40 During the currency of any subscription radio service licence issued under these Regulations a licensee shall be permitted to have such direct relations with the public as are necessary for the provision of telecommunication services and facilities the subject of any subscription radio service licence issued under these Regulations including the collection of moneys due to a licensee and other activities relating to the promotion and development of the System.
