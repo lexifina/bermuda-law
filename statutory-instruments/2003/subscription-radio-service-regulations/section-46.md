@@ -1,0 +1,2 @@
+# Offences against regulation 9
+46 Any person, who without a licence granted by the Minister, uses or permits the use of, a return path on any channel on the System from a subcriber's receiver to convey any intelligence, except for the purpose of controlling the reception of a particular service by such subcriber, commits an offence and is liable on summary conviction to imprisonment for 12 months or a fine of $2,000, or both such imprisonment and fine.

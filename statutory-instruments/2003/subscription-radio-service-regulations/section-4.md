@@ -1,0 +1,3 @@
+# Prohibition
+4 (1) No person shall construct, establish, maintain or operate a WC System in Bermuda without being in possession of a valid licence granted by the Minister to operate a public telecommunication service (hereinafter referred to as “a subscription radio service licence”.)
+(2) No subcription radio service licence shall be granted to any person other than a body corporate and no such licence shall be granted or renewed unless the Minister is satisfied that the control of such body corporate is vested in persons who possess Bermudian status in accordance with the provisions of the Bermuda Immigration and Protection Act 1956.
