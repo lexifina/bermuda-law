@@ -1,0 +1,3 @@
+# Interpretation
+2 (1) In these Regulations “conviction” includes a finding by a court (other than a finding linked to insanity) that a person has committed an offence, or done an act, or made the omission charged, other than any plea or finding of guilt in relation to which the court has exercised its powers to order an absolute or conditional discharge under section 69 of the Criminal Code Act 1907.
+(2) A reference to an offence punishable with imprisonment is to be construed without regard to any prohibition or restriction imposed by or under any enactment on the punishment of young offenders.
