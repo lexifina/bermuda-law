@@ -1,0 +1,4 @@
+# Report on unsatisfactory officer
+28 (1) The Commissioner shall report to the Public Service Commission any officer who, in his opinion, is inefficient or on whom disciplinary awards are failing to secure improvement in the officer's conduct.
+(2) Before submitting the report to the Public Service Commission, the Commissioner shall show it to the officer and it shall be initialled by him and the Commissioner shall, on submitting the report to the Public Service Commission, attach any statement which the officer may wish to make in extenuation or explanation.
+(3) The Public Service Commission on considering the report and any statement made by the officer and attached thereto may direct that the officer be cautioned or may direct that he be placed on special probation for a period not exceeding twelve months.
