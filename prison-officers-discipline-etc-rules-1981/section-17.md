@@ -1,0 +1,3 @@
+# Assistance in defence
+17 (1) If the accused officer so desires, he shall be allowed in all cases to have another officer, selected by himself, as a friend or, if he so elects, a representative of the Prison Officers Association, to assist him in presenting his case to the adjudicating officer.
+(2) The friend of the accused officer or Association representative may advise him on all points and may suggest the questions to be put to witnesses and may, if desired by the accused officer, examine or cross-examine the witnesses and address the adjudicating officer on behalf of the accused officer.

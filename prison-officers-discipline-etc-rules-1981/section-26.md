@@ -1,0 +1,2 @@
+# Recovery of fines
+26 A fine imposed on an officer as a disciplinary award made under these Rules shall be recoverable by deduction from the officer's pay over a period not exceeding three months or shall be recoverable in the name of the Commissioner before a court of summary jurisdiction in the manner provided by the Magistrate's Act 1948 [title 8 item 15], for the recovery of a debt or liquidated demand.
