@@ -1,0 +1,3 @@
+# Continuity of service
+3 Qualifying service in the Prison Service of other Colonies or Territories under Her Majesty's Protection or Administration may be allowed to reckon towards the required period of qualifying service, if the total period of such service amounts to not less than eighteen years:
+Provided however, that where service has been rendered in more than one such territory as aforesaid an interval not exceeding twelve months between any two periods of service shall not be regarded as breaking the continuity of such service; and provided also that a break in service not exceeding six calendar months in any one such territory shall not be regarded as breaking the continuity of such service.
