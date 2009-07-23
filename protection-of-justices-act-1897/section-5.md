@@ -1,0 +1,15 @@
+[preamble and words of enactment omitted]
+1 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+2 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+3 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+4 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+# Application to Supreme Court to enforce doing of act
+5 In all cases where a Justice of the Peace refuses to do any act relating to the duties of his or their office or offices as such Justice or Justices, it shall be lawful for the party requiring such act to be done to apply to the Supreme Court upon an affidavit of the facts for a rule calling upon such Justice, and also the party to be affected by such act, to show cause why such act should not be done; and if after due service of such rule good cause is not shown against it the Supreme Court may make the rule absolute, with or without or upon payment of costs as to the Supreme Court seems meet; and the said Justice on being served with such rule absolute shall obey the rule, and shall do the act required; and no action or proceeding whatsoever shall be commenced or prosecuted against any such Justice for having obeyed such rule, and done such act so thereby required as aforesaid.
+6 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+7 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+8 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+9 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+10 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+11 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+12 [Repealed by 2009:31 s.3(1) effective 14 July 2009]
+13 [Repealed by 2009:31 s.3(1) effective 14 July 2009]

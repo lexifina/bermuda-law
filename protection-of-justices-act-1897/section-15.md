@@ -1,0 +1,2 @@
+# Supreme Court to take affidavit into consideration
+15 Whenever any such affidavit is filed as aforesaid the Supreme Court shall, before making the rule absolute against the magistrate, or otherwise determining the matter so as to overrule or set aside the acts or decisions of the magistrate to which the application relates, take into consideration the matters set forth in such affidavit notwithstanding that no counsel appears on behalf of the magistrate.
