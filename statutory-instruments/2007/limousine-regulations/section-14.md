@@ -1,0 +1,2 @@
+# Limousines reserved for hire for particular journeys
+14 The Minister from time to time may specify by order the number of limousines which shall be reserved by the operator of a limousine service for hire to the public for particular journeys; and the operator shall not hire limousines for periods of time in such manner as to reduce below the number specified in the order the number of limousines which is available for hire to the public for particular journeys.
