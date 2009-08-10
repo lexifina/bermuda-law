@@ -1,0 +1,3 @@
+# Remuneration of counsel
+3 (1) The amount of the fee to be paid out of the Consolidated Fund to Counsel assigned to an assisted person under the authority of a legal aid certificate shall be based upon the appropriate rate specified in the Schedule of Fees annexed to these Regulations.
+(2) References to an hour in the Schedule of fees shall include references to part of an hour; but, save where any appearance of counsel in court lasts for less than one complete hour, the amount of the fee shall be prorated to the nearest completed quarter of an hour of the hearing or the preparatory work concerned.
