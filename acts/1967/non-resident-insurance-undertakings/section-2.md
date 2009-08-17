@@ -1,0 +1,6 @@
+# Permit to carry on business
+2 (1) Any person who conducts insurance business in Bermuda as manager of or agent for or otherwise on behalf of a non-resident insurance undertaking except under the authority and in accordance with the conditions of a permit issued to that non-resident insurance undertaking, or to some person in Bermuda on its behalf, commits an offence against this Act:
+Punishment on summary conviction: imprisonment for 1 month or a fine of $15,000 or both such imprisonment and fine.
+Punishment on summary conviction in respect of a second or subsequent offence: imprisonment for 6 months or a fine of $30,000 or both such imprisonment and fine.
+(2) The Act shall not apply to any non-resident insurance undertaking the whole of whose insurance business is conducted with persons normally resident outside Bermuda and relates solely to persons, property and risks outside Bermuda.
+(3) Collectively, all members of the Society of Lloyd's of London and any insurance undertaking operating on the same basis shall, for the purposes of the Act, be deemed to be a single non-resident insurance undertaking irrespective of the combination in which such members un-derwrite any particular insurance risk.

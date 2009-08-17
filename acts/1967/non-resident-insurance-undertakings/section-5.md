@@ -1,0 +1,4 @@
+# Revocation of permit
+5 (1) Where it appears to the Minister that the manager or agent or other person acting on behalf of a non-resident insurance undertaking is conducting the business on behalf of that non-resident insurance undertaking in contravention of any of the conditions contained in the permit relating to that non-resident insurance undertaking, the Minister may revoke that permit:
+Provided that, before so revoking any such permit, the Minister shall cause a notice to be served on such persons conducting business on behalf of that non-resident insurance undertaking as appears to the Minister equitable and shall take into account any representations made by or on behalf of those persons.
+(2) Notice of any revocation pursuant to this section shall be published in the Gazette and in at least one other newspaper circulating in Bermuda.
