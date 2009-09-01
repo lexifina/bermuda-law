@@ -1,0 +1,4 @@
+# Repeal and savings
+25 (1) The enactments described in Schedule 3 [omitted] are repealed to the extent specified in the third column of that Schedule.
+(2) Without prejudice to section 17 (2) (a), a reference to the Interpretation Act 1889, to any provision of that Act or to any other enactment repealed by this Act, whether occurring in another Act, in subordinate legislation, in Northern Ireland legislation or in any deed or other instrument or document, shall be construed as referring to this Act, or to the corresponding provision of this Act, as it applies to Acts passed at the time of the reference.
+(3) The provisions of this Act relating to Acts passed after any particular time do not affect the construction of Acts passed before that time, though continued or amended by Acts passed thereafter.

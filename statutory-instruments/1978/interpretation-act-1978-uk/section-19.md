@@ -1,0 +1,6 @@
+# Citation of other Acts
+19 (1) Where an Act cites another Act by year, statute, session or chapter, or a section or other portion of another Act by number or letter, the reference shall, unless a contrary intention appears, be read as referring—
+(a) in the case of Acts included in any revised edition of the statutes printed by authority, to that edition;
+(b) in the case of Acts not so included but included in the edition prepared under the direction of the Record Commission, to that edition;
+(c) in any other case, to the Acts printed by the Queen's Printer, or under the superintendence or authority of Her Majesty's Stationery Office.
+(2) An Act may continue to be cited by the short title autho-rised by any enactment notwithstanding the repeal of that enactment.
