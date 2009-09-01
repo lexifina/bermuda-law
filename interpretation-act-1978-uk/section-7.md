@@ -1,0 +1,2 @@
+# References to service by post
+7 Where an Act authorises or requires any document to be served by post (whether the expression "serve" or the expression "give" or "send" or any other expression is used) then, unless the contrary intention appears, the service is deemed to be effected by properly addressing, pre-paying and posting a letter containing the document and, unless the contrary is proved, to have been effected at the time at which the letter would be delivered in the ordinary course of post.
