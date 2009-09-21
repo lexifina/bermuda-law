@@ -1,0 +1,2 @@
+# Trust for beneficiaries
+23 Subject to this Act, the estate representatives of a deceased person shall hold the real estate which devolves upon and becomes vested in them under section 22(1) as trustees for the persons beneficially entitled thereto in accordance with the will of the deceased person or the law relating to intestacy, or the combination of his will and that law, and those persons shall have the same power of requiring a transfer of real estate as persons beneficially entitled to personal estate have of requiring a transfer of such personal estate.

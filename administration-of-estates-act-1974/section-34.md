@@ -1,0 +1,3 @@
+# Protection of persons acting on probate or administration
+34 (1) Every person making or permitting to be made any payment or disposition in good faith under a grant shall be indemnified and protected in so doing, notwithstanding any defect or circumstance whatsoever affecting the validity of the grant.
+(2) Where a grant is revoked, all payments and dispositions made in good faith to an estate representative under the grant before the revocation thereof are a valid discharge to the person making the same; and the estate representative who acted under the revoked grant may hold back moneys and reimburse himself in respect of any payments or dispositions made by him which the person to whom a grant is afterwards made might have properly made.

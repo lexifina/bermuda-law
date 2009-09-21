@@ -1,0 +1,2 @@
+# Liability of estate of estate representative
+36 Where a person as estate representative of a deceased person (including an executor in his own wrong) wastes or converts his own use any part of the real or personal estate of the deceased, and dies, his estate representative shall to the extent of the available assets of the defaulter be liable and chargeable in respect of such waste or conversion in the same manner as the defaulter would have been if living.

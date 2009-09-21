@@ -1,0 +1,3 @@
+# Administration of assets
+43 (1) Where the estate of a deceased person is insolvent, his real and personal estate shall be administered in accordance with Part I of the First Schedule.
+(2) Where the estate of a deceased person is solvent his real and personal estate shall, subject to the rules and the provisions hereinafter contained as to charges on property of the deceased, and to the provisions, if any, contained in his will, be applicable towards the discharge of the funeral, testamentary and administration expenses, debts, liabilities and pecuniary legacies payable thereout in the order mentioned in Part II of the First Schedule.
