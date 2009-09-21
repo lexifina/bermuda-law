@@ -1,0 +1,3 @@
+# Power to grant representation of real and personal estate separately or together
+7 Probate or administration in respect of the real estate of a deceased person, or any part thereof, may be granted either separately or together with probate or administration of his personal estate, and may also be granted in respect of real estate only where there is no personal estate, or in respect of a trust estate only, and a grant of administration to real estate may be limited in any way the Court thinks proper:
+Provided that where the estate of the deceased is known to be insolvent, the grant of representation to the estate shall not be severed except as regards a trust estate.

@@ -1,0 +1,3 @@
+# Withdrawal of renunciation
+26 (1) Where an executor who has renounced probate has been permitted, whether before, on or after 1 September 1974, to withdraw the renunciation and prove the will, the probate shall take effect and be deemed always to have taken effect without prejudice to the previous acts and dealings of and notices to any other estate representative who has previously proved the will or taken out letters of administration, and a memorandum of the subsequent probate shall be endorsed on the original probate or letters of administration.
+(2) This section applies whether the testator died before, on or after 1 September 1974.

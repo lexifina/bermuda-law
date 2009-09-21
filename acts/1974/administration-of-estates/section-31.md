@@ -1,0 +1,2 @@
+# Continuance of legal proceedings after revocation of temporary administration
+31 If, while any legal proceeding is pending in the Court by or against an administrator to whom a temporary administration has been granted, that administration is revoked, the Court may order that the proceeding be continued by or against the new estate representative in like manner as if the same had been originally commenced by or against him, but subject to such conditions and variations, if any, as the Court directs.

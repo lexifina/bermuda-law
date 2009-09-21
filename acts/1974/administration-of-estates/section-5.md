@@ -1,0 +1,4 @@
+# Issue of grants
+5 (1) Grants may be made in common form by the Registrar in the name of the Court and under the seal of the Court.
+(2) No grant shall be made by the Registrar in any case in which there is contention until the contention is disposed of, or it appears to the Registrar that a grant ought not to be made without the direction of the Court.
+(3) Where it appears doubtful to the Registrar whether an application for a grant should or should not be granted, or where any question arises in relation to a grant, or an application for a grant, the Registrar shall refer the matter to the Court, and the Court may direct the Registrar to proceed with the matter in accordance with such instructions as the Court may think necessary, or may forbid any further proceedings by the Registrar in relation to the matter, leaving the party applying for the grant to apply to the Court.

@@ -1,0 +1,3 @@
+# Administration pendente lite
+14 (1) Where any legal proceedings touching the validity of the will of a deceased person, or for obtaining, recalling or revoking any grant, are pending, the Court may grant administration of the estate of the deceased to an administrator, who shall have all the rights and powers of a general administrator, other than the right of distributing the residue of the estate, and every such administrator shall be subject to the immediate control of the Registrar and act under his direction.
+(2) The Court may, out of the estate of the deceased, assign to an administrator appointed under this section such reasonable remuneration as the Court thinks fit.

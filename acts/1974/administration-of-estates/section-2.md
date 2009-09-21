@@ -1,0 +1,3 @@
+# Jurisdiction
+2 (1) Without prejudice to any provision of law, and subject to subsection (2), an affidavit made in support of an application to the Court for a grant in which the deponent states that the deceased person at the time of his death was ordinarily resident in Bermuda or that some property of the deceased person was then in Bermuda shall be conclusive for the purpose of establishing that the Court has jurisdiction.
+(2) Where the application is pending and it is shown to the Court that the deceased person was not ordinarily resident or did not have property in Bermuda, the Court may stay the proceedings and make such order as to the costs of the proceedings as it thinks fit.
