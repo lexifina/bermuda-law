@@ -1,0 +1,3 @@
+# Committee not to charge for extension of cover
+7 Where an employer provides insurance cover in respect of any person for a period of less than one month between the first day of employment and the first day of the succeeding month in pursuance of regulation 4, or extends such cover for a period of two weeks in pursuance of regulation 5, and that employer discharges his obligations under section 20 of the Act by insuring those persons who are compulsorily insurable by him with the Committee, no charge shall be made by the Committee to that employer for the provision of cover in respect of those periods.
+[Regulation 7 amended by 2004:22 effective 1 January 2006]
