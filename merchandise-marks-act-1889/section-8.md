@@ -1,0 +1,2 @@
+# Accessory in Bermuda to act done outside Bermuda unlawful if done in Bermuda deemed to be principal
+8 Notwithstanding anything in the Criminal Code [title 8 item 31], any person, who being in Bermuda, procures, counsels, aids, abets, or is accessory to the commission, outside Bermuda, of any act which if committed in Bermuda, would constitute an offence against this Act, shall be deemed to have committed that offence as a principal, and shall be liable to be indicted, proceeded against, tried, and convicted, in Bermuda as if the offence had been there committed.
