@@ -1,0 +1,4 @@
+# Consolidation of restricted accounts
+7 (1) An AML/ATF regulated financial institution that holds two or more restricted accounts may consolidate them by transferring the funds into a reduced number of restricted accounts and closing one or more of them.
+(2) An AML/ATF regulated financial institution that holds one restricted account may close it and transfer the balance to a restricted account held by another such financial institution, if that institution consents to the transfer.
+(3) An AML/ATF regulated financial institution that consolidates or closes an account in accordance with this paragraph shall notify the Minister within 7 days from the date of the consolidation or closure with details of the consolidation or of the closure and consent of the transferee of the funds, as applicable.
