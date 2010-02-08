@@ -1,0 +1,2 @@
+# Payment into court
+4 If in any action under this Act the defendant desires to pay money into court it shall be sufficient if he pays a lump sum by way of compensation to all of the dependants of the deceased without specifying the shares into which it is to be divided; and if the lump sum so paid into court is not accepted, and an issue is taken by the plaintiff as to its sufficiency, and the jury find the lump sum to be sufficient, the defendant shall be entitled to a verdict upon that issue.
