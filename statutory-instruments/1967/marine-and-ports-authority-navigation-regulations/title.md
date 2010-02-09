@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+SR&O 29/1967
+MARINE & PORTS AUTHORITY (NAVIGATION) REGULATIONS 1967
+[made under the Marine Board Act 1962 and brought into operation on 9 September 1967]
