@@ -1,0 +1,2 @@
+# Hoisting national flag as signal of claiming priority
+7 The master of a ship claiming or intending to exercise the privilege of priority given to such ship by regulation 5 shall, immediately upon weighing anchor in Hamilton Harbour and while in the Two Rock Channel and until his ship has cleared that Channel, hoist and keep hoisted at the main-mast head the national flag of that ship as a signal of his claiming and intending to exercise such privilege of priority.

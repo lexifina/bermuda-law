@@ -1,0 +1,2 @@
+# Two Rock Channel; ships not to enter in dangerous conditions
+10 The master of a ship shall not permit the ship to enter the Two Rock Channel when, on account of the force of the wind, the state of the waters or any other circumstances, such ship cannot use that Channel without danger to herself, or to any other ship, or to the sides of the Channel, or to the buoys, poles or marks in or marking the Channel, or the approaches thereto, or their moorings.

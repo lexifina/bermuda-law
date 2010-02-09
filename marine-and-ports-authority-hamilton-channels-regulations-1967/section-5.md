@@ -1,0 +1,3 @@
+# Two Rock Channel; inward bound ships to give way
+5 (1) No inward bound ship or Island boat shall be permitted by the master to enter the two Rock Channel from the Great Sound while any outward bound ship is in or is approaching or is about to enter that Channel from Hamilton Harbour.
+(2) The master of every inward bound ship or Island boat approaching the Two Rock Channel from the Great Sound shall keep such ship or Island boat off and away from the outward entrance to that Channel and at a safe and sufficient distance therefrom while any outward bound ship is in or about to enter or is approaching that Channel from Hamilton Harbour and until such outward bound ship has cleared that Channel.
