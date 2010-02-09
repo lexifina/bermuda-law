@@ -1,0 +1,2 @@
+# Keeping clear when not landing or embarking passengers
+7 The master or person in charge of any ship or boat not engaged in landing or embarking passengers at any landing-place in the ports of Bermuda reserved by the Authority as a public landing-place for passengers, shall keep such ship or boat clear of any such landing-place and at such distance therefrom as will permit the free and unrestricted use of the landing-place by any other ship or boat engaged in landing or embarking passengers thereat.
