@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+SR&O 11/1969
+MARINE AND PORTS AUTHORITY (SHIPS WHARFAGE) REGULATIONS 1969
+[made under section 76 of the Marine Board Act 1962 and brought into operation on 15 August 1969 by GN 321/1969]
