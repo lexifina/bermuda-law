@@ -1,0 +1,3 @@
+# Two Rock Channel; no anchoring unless under stress
+9 (1) Except under stress of weather or circumstances beyond the control of the master, no ship or Island boat shall be permitted by the master to be anchored or moored in the Two Rock Channel or so near thereto as to obstruct, delay or endanger any ship in or about to enter the Channel.
+(2) The master of any ship or Island boat who has been forced by stress of weather or other circumstances beyond his control to anchor in or near the Two Rock Channel to avoid accident to his or some other ship or to the Channel, shall not permit such ship or Island boat to remain in that Channel or in any approach thereto for any period longer than is necessary in the circumstances.
