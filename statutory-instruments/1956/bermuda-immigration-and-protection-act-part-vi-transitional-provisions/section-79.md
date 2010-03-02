@@ -1,0 +1,2 @@
+# Saving for existing rights
+79 Subject to the express provisions of this Act, nothing in this Part shall take away or diminish any right, privilege or capacity heretofore lawfully possessed by or belonging to aliens so far as relates to the possession or enjoyment of any real or personal property in Bermuda, but all such rights shall continue to be enjoyed by such aliens in as full and ample manner as such rights were enjoyed before 30 June 1956.

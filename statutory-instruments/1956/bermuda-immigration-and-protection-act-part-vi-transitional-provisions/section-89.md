@@ -1,0 +1,4 @@
+# Registration of divestment of ownership of land by restricted person
+89 (1) Where land held by a restricted person is acquired by a person who possesses and enjoys Bermudian status, or in the case of land held by a restricted person who is an alien, is acquired by a Commonwealth citizen (otherwise than by a Commonwealth citizen who is the specially restricted child of an alien) the person who possesses and enjoys Bermudian status or the Commonwealth citizen, as the case may be, acquiring the land shall, within the period of six months next succeeding the date of the acquisition, or within such longer period as the Governor may allow, register such acquisition in the office of the Registrar General.
+(2) Any person who fails to comply with subsection (1) commits an offence against this Act.
+[Governor's functions delegated to the Minister by BR 42/1981 effective 24 July 1981]
