@@ -1,0 +1,3 @@
+# Special provisions relating to registration of acquisition of real property
+101 (1) A citizen of the United States of America to whom real property has passed under the conditions mentioned in the Washington Convention shall not, during the time, or any prolongation thereof allowed to him under section 100, to sell such property, be bound to register the acquisition of the land as required in section 88 but such liability shall be deemed to commence only as from the expiration of such time or any prolongation thereof:
+Provided that nothing herein contained shall be construed to prevent such registration at any time prior to the expiration of the time allowed for the sale of such property, or any prolongation thereof as aforesaid.

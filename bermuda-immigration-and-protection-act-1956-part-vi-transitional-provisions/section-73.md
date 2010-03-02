@@ -1,0 +1,2 @@
+# Saving for provisions of other Parts of Act
+73 Nothing in any licence granted under this Part or under the Acquisition of Land by British Subjects (Restriction) Act 1948, or under, or in force by virtue of, the Alien Act 1926, with respect to the holding or use of any land, shall be construed as derogating from or abridging any provision of any other Part whereby the use of such land is subject, or may be made subject, to restrictions or requirements.

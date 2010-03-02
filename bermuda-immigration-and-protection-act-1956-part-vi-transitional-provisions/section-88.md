@@ -1,0 +1,5 @@
+# Registration of acquisition of land by restricted persons
+88 (1) Where a restricted person acquires any land in Bermuda by conveyance, or by way of devise or inheritance, or by way of judgment of foreclosure or as a mortgagee in possession, it shall be the duty of the restricted person or, where the restricted person is under a disability, then the person having charge of the restricted person's affairs, within the period of six months next succeeding the date of acquisition, or within such longer period as the Governor may allow, to register such acquisition in the office of the Registrar-General and such registration shall show whether the restricted person is a Commonwealth citizen or an alien or a specially restricted child of an alien.
+(2) There shall be payable in respect of any registration effected by or on behalf of a restricted person such fees as may be prescribed by regulations made under the Government Fees Act 1965 [title 15 item 18].
+(3) Any person who fails to comply with subsection (1) commits an offence against this Act.
+[Governor's functions delegated to the Minister by BR 42/1981 effective 24 July 1981]
