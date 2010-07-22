@@ -1,0 +1,2 @@
+# Unattended parcels etc.
+4 In rules 2, 3 and 8, references to the person from whom the cash was seized include references to the sender and the intended recipient, where known, of a letter, parcel, container or other means of unattended dispatch; but a magistrate shall not decline to hear an application in such a case solely on the ground that it has not been proved that the sender or intended recipient has received a copy of the written application under rule 2(2).
