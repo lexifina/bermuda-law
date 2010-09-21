@@ -1,0 +1,6 @@
+# Determination of appeals
+14 (1) Subject to any other provision of law, upon the hearing of an appeal the Court may allow the appeal in whole or in part or may remit the case to the court of summary jurisdiction to be retried in whole or in part and may make such other order as the Court may consider just.
+(2) All appeals to the Court shall be by way of re-hearing on the record, and shall be by notice of appeal, and no writ of error or other formal proceedings other than such notice of appeal shall be necessary.
+(3) The Court shall have power to draw all inferences of fact which might have been drawn in the court of summary jurisdiction and to give any judgment and make any order which ought to have been made.
+(4) No appeal shall succeed on the ground merely of misdirection or improper reception or rejection of evidence unless in the opinion of the Court substantial wrong or miscarriage of justice has been hereby occasioned in the court of summary jurisdiction.
+(5) The Court shall, on the hearing of an appeal, have all the powers as to amendment and otherwise possessed by the Court in the exercise of its original jurisdiction, together with full discretionary power to receive further evidence upon questions of fact, either orally or by affidavit or deposition.
