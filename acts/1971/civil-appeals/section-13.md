@@ -1,0 +1,3 @@
+# Dismissal on default; abandonment of appeal
+13 (1) Where the appellant has failed to comply with the duty imposed upon him under section 12, the respondent may apply to the Court or a judge by summons for the appeal to be dismissed, or, if the appellant has been notified in writing by the Registrar that he has failed in such duty, the appellant shall be deemed to have abandoned the appeal five days after the date specified in such notification.
+(2) Without prejudice to subsection (1), the appellant may at any time file in the Registry a notice whereby he abandons his appeal and a copy of such notice shall be served by him on the respondent or the respondents.

@@ -1,0 +1,2 @@
+# Magistrate's report
+11 Where a judge deems it desirable to have a report in respect of any particular matter from the magistrate, the Registrar shall transmit to the magistrate concerned a request for such report (stating the number of copies required) and upon receipt of the magistrate's report, the Registrar shall lay the same before the Court or judge and shall forward a copy of such report to the parties concerned in the appeal.
