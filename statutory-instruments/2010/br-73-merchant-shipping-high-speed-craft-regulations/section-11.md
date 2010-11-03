@@ -1,0 +1,2 @@
+# Detention
+11 In any case where a high speed craft does not comply with the requirements of these Regulations, the craft shall be liable to be detained and section 242 (1) to (6) and (8) of the Merchant Shipping Act 2002 (which relates to the detention of a ship) shall have effect in relation to that craft, as if for the words "this Act" wherever they appear, there were substituted the words "the Merchant Shipping (High Speed Craft) Regulations 2010" and for the word "ship" there were substituted "high speed craft".
