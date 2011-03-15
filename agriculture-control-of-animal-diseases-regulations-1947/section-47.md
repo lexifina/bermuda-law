@@ -1,0 +1,2 @@
+# Keeping in quarantine
+47 Every person having in his possession or care any animals which have been placed in quarantine by the Veterinary Officer shall segregate infected, suspected and healthy animals in such a manner as the Veterinary Officer may order; and no person shall, except with the permission in writing of the Veterinary Officer, remove any animal from any shed, building, enclosure, yard or premises in which it has been placed or kept for the purpose of quarantine or segregation by the direction or order of the Veterinary Officer.

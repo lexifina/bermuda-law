@@ -1,0 +1,2 @@
+# Holdback
+26 When the owner of a dairy animal in respect of which compensation is payable under regulation 25 is also the owner of premises which became subject to regulation 21 because of the presence thereon of the particular animal, no compensation shall be paid to such owner in respect of the slaughter of that animal until the Veterinary Officer issues a certificate to the effect that all regulation 21 have been complied with in respect of such premises.

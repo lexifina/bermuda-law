@@ -1,0 +1,2 @@
+# Entry on premises
+5 The Veterinary Officer for any purpose connected with the discharge of his duties under these Regulations shall have the right to enter at all reasonable times on any premises used wholly or partially for the keeping or custody or slaughter of animals or for the storage or sale of the carcasses of animals or portions of such carcasses, and to remain on such premises for such time as may be necessary to carry out any of his duties under the Agriculture Act 1930 [title 25 item 1], or under these Regulations.

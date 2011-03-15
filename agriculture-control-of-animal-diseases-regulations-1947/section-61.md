@@ -1,0 +1,7 @@
+# Dairy animal; certificate
+61 (1) No dairy animal shall be landed in Bermuda unless it is accompanied by a certificate issued by a competent authority to the effect that the animal is not infected with any communicable animal disease, and is from an area not infected with foot-and-mouth disease, and in addition it shall be accompanied by a certificate that it was successfully vaccinated against Bang’s disease as a calf (between the ages of four and eight months) and in the case of cows and heifers that it has been subjected to the agglutination test and found negative within thirty days prior to shipment:
+Provided that the Veterinary Officer may by permission in writing authorize the landing in Bermuda of a dairy animal which is not accompanied by a certificate as aforesaid relating to vaccination against Bang’s disease, or, as the case may be, relating to an agglutination test.
+(2) In any case where a dairy animal is landed in Bermuda under the authority of a permission in writing granted under the proviso to paragraph (1), the dairy animal shall be vaccinated against Bang’s disease—
+(a) within such reasonable time of its landing as the Veterinary Officer may determine; and
+(b) in such manner and subject to such conditions as the Veterinary Officer may in the circumstances require;
+and in any case where a dairy animal landed as aforesaid is not vaccinated accordingly, the Director may order the dairy animal to be slaughtered and in such case no compensation shall be payable to the owner of the dairy animal.

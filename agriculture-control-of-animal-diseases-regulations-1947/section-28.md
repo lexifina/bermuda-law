@@ -1,0 +1,2 @@
+# Certificate on sale or transfer of animal
+28 No person shall sell or otherwise transfer and no person shall purchase or otherwise acquire any dairy animal above the age of eight months (except for immediate slaughter) unless at the time of the transaction there is produced to the purchaser or transferee by the seller or transferor a certificate given by the Veterinary Officer certifying that the animal was subjected to a tuberculin test within a period of three months before the date of the transaction and was found to be free from tuberculosis.

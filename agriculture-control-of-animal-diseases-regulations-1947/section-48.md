@@ -1,0 +1,2 @@
+# Restriction of access to quarantined animal
+48 Every person who has in his possession or care any animals or who owns or has charge of any premises, which have been placed in quarantine by the Veterinary Officer, shall, so far as is practicable, prevent all persons other than the Director, the Veterinary Officer and such persons as may be authorized in that behalf by the Director or the Veterinary Officer from having access to such animals or premises.

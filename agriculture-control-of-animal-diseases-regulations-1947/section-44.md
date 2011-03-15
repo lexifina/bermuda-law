@@ -1,0 +1,4 @@
+# Confinement of dogs during outbreak
+44 (1) When the Director knows or suspects that there is a case of rabies in Bermuda the Governor may cause a notice to that effect to be published in the Gazette and thereupon every person having a dog in his possession or care shall confine such dog in a place in his own premises where no other animal can approach it.
+(2) Dogs confined under this regulation shall be kept in confinement for a period of six months or for such shorter period as may be required by the said notice or by any subsequent notice so published in the Gazette.
+(3) During the period which dogs are required to be confined under this regulation any dog found at large, whether with a licence tag or not, shall be destroyed and no compensation shall be payable in respect of such destruction.
