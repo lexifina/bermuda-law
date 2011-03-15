@@ -1,0 +1,2 @@
+# Cleansing of quarantine premises
+51 Every person owning or having charge of any premises which have been placed in quarantine or upon which there are any animals which have been placed in quarantine shall keep thoroughly clean the stalls, enclosures, yards, slaughterhouses, racks, feeding boxes and troughs and all other articles in use on the premises, and shall disinfect such premises and their surroundings in such manner and with such materials as may be ordered or approved by the Veterinary Officer.

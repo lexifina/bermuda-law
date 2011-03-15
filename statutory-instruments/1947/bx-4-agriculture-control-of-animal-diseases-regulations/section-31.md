@@ -1,0 +1,3 @@
+# Voluntary tests
+31 (1) Where an owner desires to have his dairy animals subjected to a tuberculin test more frequently than is required under these Regulations the Director shall provide the veterinary practitioner ordinarily attending such animals with sufficient tuberculin for making such tests.
+(2) After making the tests the veterinary practitioner shall report to the Director in writing in such form as the Director may require, the name and address of the owner, the ear tag number and description of the dairy animal tested, the date upon which the test was made, and the result of the test, and shall sign such report,

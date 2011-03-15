@@ -1,0 +1,6 @@
+# Certificate of immunity from Bang’s disease
+36 In any case—
+(a) where after vaccination an agglutination test shows by strong positive effect that the calf is immune from infection by Bang’s disease (contagious abortion, brucellosis), then in any such case the Veterinary Officer shall give the owner of the calf a certificate to that effect (hereinafter in these Regulations referred to as a certificate of immunity);
+(b) where after vaccination an agglutination test does not show a strong positive effect then in any such case the calf shall be revaccinated and a procedure similar to that mentioned in regulations 33, 34 and 35 shall be followed in respect to the revaccination of the calf;
+(c) where any calf has been revaccinated and an agglutination test shows a strong positive effect as mentioned in paragraph (a), then in such case the Veterinary Officer shall give the owner of the calf a certificate of immunity in respect of the calf;
+(d) where any calf has been revaccinated and an agglutination test does not show a strong positive effect, then in any such case notwithstanding anything in this regulation, the calf shall be deemed to be naturally immune from infection by Bang’s disease (contagious abortion, brucellosis), and the Veterinary Officer shall give the owner of the calf a certificate of immunity in respect of the calf.

@@ -1,0 +1,2 @@
+# Burial
+15 Subject to these Regulations, the carcass of an animal which has died, or has been slaughtered, or has been killed in any way, and which immediately before its death had been infected with any communicable animal disease other than Bang’s disease (brucellosis) shall be properly buried with at least two feet of earth above it and sufficiently covered with quicklime or other disinfectant, or shall be destroyed in such other way as the Veterinary Office may order.

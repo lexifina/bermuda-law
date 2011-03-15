@@ -1,0 +1,2 @@
+# Slaughter of uncertified calves
+37 In any case where a calf reaches the age of eight months and no certificate of immunity has been issued in respect of the calf by reason of a failure on the part of the owner to comply with foregoing provisions of these Regulations, then in any such case the Director may order the calf to be slaughtered, and in such case no compensation shall be payable to the owner of the calf.

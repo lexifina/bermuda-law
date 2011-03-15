@@ -1,0 +1,2 @@
+# Poultry; certificate of flock origin
+70 All poultry landed in Bermuda must be accompanied by a certificate to the effect that the birds came from flocks which are not infected with the following diseases, that is to say, coccidiosis, fowl typhoid (Kleins disease) fowl pox, laryngotracheitis, fowl cholera, avian tuberculosis, aspergillosis (pneumonycosis or brooder pneumonia) and avian lice, mites and tapeworms.
