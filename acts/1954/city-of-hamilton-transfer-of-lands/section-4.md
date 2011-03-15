@@ -1,0 +1,2 @@
+# Vesting of part of railway path in Corporation of Hamilton
+4 As from 26 February 1954 the specified part of the railway path together with the land shown in red on Plan 2 of the designated plans (being land vested in the Crown as to part by virtue of the operation of section 3 and as to the other part by reason of comprising part of the railway path) shall be relinquished by the Crown and shall, subject to section 5, vest absolutely for an estate in fee simple in possession free from all encumbrances in the Corporation of Hamilton their successors and assigns.
