@@ -1,0 +1,2 @@
+# Agreement set out in Schedule to have force of law in Bermuda
+2 The Agreement shall have the force of law in Bermuda and, accordingly, the Contributory Pensions Act 1967, [now replaced by the Contributory Pensions Act 1970 (title 18 item 7)] and the Workmen's Compensation Act 1965 [title 18 item 3], shall be deemed to be amended to the extent necessary to give effect thereto and shall be construed subject thereto.
