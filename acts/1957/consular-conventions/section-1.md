@@ -1,0 +1,15 @@
+[preamble and words of enactment omitted]
+# Property in Bermuda of deceased persons; powers of consular officers
+1 (1) Where any person who is a national of a State to which this section applies—
+(a) is named as executor in the will of a deceased person disposing of property in Bermuda; or
+(b) is otherwise a person to whom a grant of representation to the estate in Bermuda of a deceased person may be made,
+then if the Supreme Court is satisfied, on the application of a consular officer of such State that such national is not resident in Bermuda and if no application for a grant of such representation is made by a person duly authorised by power of attorney to act for him in that behalf, the Supreme Court shall make to that officer any such grant of representation to the estate of the deceased as would be made to him if he were so authorised as aforesaid:
+Provided that the Supreme Court may, if it thinks fit, postpone the making of a grant by virtue of this section during such period as the Supreme Court considers appropriate having regard to the circumstances of the case.
+(2) Where any person who is a national of a State to which this section applies—
+(a) is entitled to payment or delivery of any money or property in respect of any interest in the estate of a deceased person or vesting in possession on the death of any person, or is entitled to payment of any money becoming due on the death of any person; or
+(b) is a person to whom any money or property comprised in the estate of a deceased person may be paid or delivered in pursuance of any statutory provision, whether passed or made before or after the commencement of this Act, authorising the payment or delivery of such money or property without representation to the estate of the deceased being granted,
+then if such national is not resident in Bermuda, a consular officer of the State shall have the like right and power to receive and give a valid discharge for any such money or property in Bermuda as if he were duly authorised by power of attorney to act for him in that behalf:
+Provided that no person shall be authorised or required by this subsection to pay or deliver any money or property to a consular officer if it is within his knowledge that any other person in Bermuda has been expressly authorised to receive that money or property on behalf of such national.
+(3) A grant of administration made by virtue of this section may be made to the consular officer by his official title, and to his successors in office; and where a grant is so made, the office of administrator, and all the estate, rights, duties and liabilities of the administrator (including liabilities under the administration bond) shall be vested in and imposed on the person for the time being holding the office, and no fresh grant shall be required by reason only of the death or vacation of office of the person to whom the grant was made or in whom it is vested as aforesaid:
+Provided that nothing in this subsection shall effect any limitation contained in the grant, or any power of the Supreme Court to revoke the grant.
+(4) [repealed by 1974:4]
