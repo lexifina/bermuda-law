@@ -1,0 +1,5 @@
+# Application of Marriage Act 1944 to Baha'i marriages
+4 The Marriage Act 1944 [title 27 item 1] (as amended by any subsequent Act), shall have effect—
+(a) in relation to the celebration or intended celebration of Baha'i marriages and the powers and duties of Baha'i Marriage Officers as it has effect in relation to the celebration or intended celebration of Christian marriages and the powers and duties of Marriage Officers in connection therewith:
+Provided that where a Baha'i marriage is intended to be celebrated by a Baha'i Marriage Officer after the publication of banns, such banns shall be published as provided in the Marriage Act 1944 [title 27 item 1]; and
+(b) in relation to the acts and omissions of persons who are parties to or otherwise concerned in the celebration or intended celebration of Baha'i marriages or any other matters relating to Baha'i marriages as it has effect in relation to the acts or omissions of persons who are parties to or are otherwise concerned in the celebration or intended celebration of Christian marriages or any other matters relating to Christian marriages.
