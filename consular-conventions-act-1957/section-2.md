@@ -1,0 +1,2 @@
+# No immunity or privilege under section 1
+2 Notwithstanding any rule of law conferring immunity or privilege in respect of the official acts and documents of consular officers, a consular officer shall not be entitled to any immunity or privilege in respect of any act done by virtue of powers conferred on him by or under section 1, or in respect of any document for the time being in his possession relating thereto.
