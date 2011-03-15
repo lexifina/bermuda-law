@@ -1,0 +1,4 @@
+BERMUDA STATUTORY INSTRUMENT
+GN 416 / 1982
+BERMUDA HOUSING ACT (DECLARATION OF GENERAL IMPROVEMENT AREA) (MILLS CREEK, PEMBROKE PARISH G.I.A. 3) ORDER 1982
+[made under section 29(1) of the Bermuda Housing Act 1980 [title 29 item 1] and brought into operation on 27 August 1982]
