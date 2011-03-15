@@ -1,0 +1,2 @@
+# Declaration of general improvement area
+2 The area of land defined on the map numbered 6 deposited in the office of the Department of Planning, and thereon outlined in red, bounded on the North by land in the ownership of the British Government, on the West by land in the ownership of the British Government, on the South by the waters of Mills Creek and on the East by land in ownership of various private owners, is declared to be a General Improvement Area for the purposes of the Bermuda Housing Act 1980.
