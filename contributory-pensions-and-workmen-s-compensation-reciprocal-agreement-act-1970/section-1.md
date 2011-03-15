@@ -1,0 +1,3 @@
+[preamble and words of enactment omitted]
+# Interpretation
+1 In this Act, "the Agreement" means the Agreement set out in the Schedule which was signed and sealed by the Secretary of State for Health and Social Security for and on behalf of the Government of the United Kingdom of Great Britain and Northern Ireland of the one part on the 13th day of October, 1969, and by the Government Leader, in his capacity as Acting Member for Pensions, for and on behalf of the Government of Bermuda of the other part on the 23rd day of October, 1969, and which came into force on the 1st day of November, 1969.
