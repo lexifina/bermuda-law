@@ -1,0 +1,3 @@
+# Procedure after hearing
+13 (1) The tribunal shall, after the close of the hearing, notify its decision and its reasons in accordance with section 28(3) of the Act (which provides for the giving of notice of a tribunal's decision).
+(2) The tribunal may, after hearing representations from the parties, make arrangements for the publication of its determination and its reasons, but in doing so must have regard to the desirability of safeguarding commercially sensitive information or information given to the appellant or the BMA in confidence and for that purpose may make any necessary amendments to the text of the decision to conceal the identity of the appellant or the source of any such information.
