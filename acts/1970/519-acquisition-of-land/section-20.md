@@ -1,0 +1,3 @@
+# Payment into court
+20 (1) Any money paid into the Supreme Court under this Act may, on the application of any person claiming to be entitled thereto, or of any person lawfully representing any such person, be dealt with and disposed of as the Court may think fit; and the Court in directing payment out of court of any such money may impose such terms and conditions as to the investment of the money or the creation of a trust in respect thereof or otherwise as the Court may think proper having regard to the circumstances.
+(2) Where money paid into the Supreme Court does not exceed the sum of two thousand dollars the powers conferred on the Court by subsection (1) may be exercised by a judge.
