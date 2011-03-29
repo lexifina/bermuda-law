@@ -1,0 +1,2 @@
+# General directions by Minister
+5 The Minister may, after consultation with the Broadcasting Commissioners, give to the Broadcasting Commissioners such general directions as to the policy to be followed by the Broadcasting Commissioners in the performance of their functions under this or any other Act as appear to the Minister to be necessary in the public interest, and the Broadcasting Commissioners shall give effect to such directions.
