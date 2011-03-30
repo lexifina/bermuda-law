@@ -1,0 +1,9 @@
+# Denial of copyright protection to citizens of countries not giving adequate protection to Bermudian works
+195 (1) If it appears to the Minister that the law of a country fails to give adequate protection to Bermudian works to which this section applies, or to one or more classes of such works, the Minister may, make provision by order in accordance with this section restricting the rights conferred by this Part in relation to works of authors connected with that country.
+(2) An order under this section shall designate the country concerned and provide that, for the purposes specified in the order, works first published after a date specified in the order shall not be treated as qualifying for copyright protection by virtue of such publication if at that time the authors are—
+(a) citizens or subjects of that country (not domiciled or resident in Bermuda); or
+(b) bodies incorporated under the law of that country;
+and the order may make such provision for all the purposes of this Part or for such purposes as are specified in the order, and either generally or in relation to such class of cases as are specified in the order, having regard to the nature and extent of that failure referred to in subsection (1).
+(3) This section applies to literary, dramatic, musical and artistic works, sound recordings and films.
+(4) In this section “Bermudian works” means works of which the author was a qualifying person at the material time within the meaning of section 191.
+(5) An order made under this section is subject to negative resolution procedure.

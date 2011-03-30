@@ -1,0 +1,3 @@
+# Exclusive licences
+229 (1) In this Part an “exclusive licence” means a licence in writing signed by or on behalf of the owner of a performer’s property rights authorising the licensee to the exclusion of all other persons, including the person granting the licence, to do anything requiring the consent of the rights owner.
+(2) The licensee under an exclusive licence has the same rights against a successor in title who is bound by the licence as he has against the person granting the licence.

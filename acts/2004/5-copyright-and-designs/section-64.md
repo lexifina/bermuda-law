@@ -1,0 +1,2 @@
+# Copy of work required to be made as condition of export
+64 If an article of cultural or historical importance or interest cannot lawfully be exported from Bermuda unless a copy of it is made and deposited in an appropriate library or archive, it is not an infringement of copyright to make that copy.

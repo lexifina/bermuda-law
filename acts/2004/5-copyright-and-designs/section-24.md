@@ -1,0 +1,7 @@
+# Duration of copyright in broadcasts and cable programmes
+24 (1) The following provisions have effect with respect to the duration of copyright in a broadcast or cable programme.
+(2) Copyright in a broadcast or cable programme expires at the end of the period of 50 years from the end of the calendar year in which the broadcast was made or the programme was included in a cable programme service, subject as follows.
+(3) Where the author of the broadcast or cable programme does not possess Bermudian status, the duration of copyright in the broadcast or cable programme is that to which it is entitled in the country of which the author is a national, provided that does not exceed the period which would apply under subsection (2).
+(4) If or to the extent that the application of subsection (3) would be at variance with an international obligation to which Bermuda became subject prior to 29 October 1993, the duration of copyright shall be as specified in subsection (2).
+(5) Copyright in a repeat broadcast or cable programme expires at the same time as the copyright in the original broadcast or cable programme; and accordingly no copyright arises in respect of a repeat broadcast or cable programme which is broadcast or included in a cable programme service after the expiry of the copyright in the original broadcast or cable programme.
+(6) A repeat broadcast or cable programme means one which is a repeat either of a broadcast previously made or of a cable programme previously included in a cable programme service.

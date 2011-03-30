@@ -1,0 +1,27 @@
+## Duration of copyright
+# Duration of copyright in literary, dramatic, musical or artistic works
+21 (1) The following provisions have effect with respect to the duration of copyright in a literary, dramatic, musical or artistic work.
+(2) Copyright expires at the end of the period of 70 years from the end of the calendar year in which the author dies, subject as follows.
+(3) If the work is of unknown authorship, copyright expires—
+(a) at the end of the period of 70 years from the end of the calendar year in which the work was made; or
+(b) if during that period the work is made available to the public, at the end of the period of 70 years from the end of the calendar year in which it is first so made available;
+subject as follows.
+(4) Subsection (2) applies if the identity of the author becomes known before the end of the period specified in paragraph (a) or (b) of subsection (3).
+(5) For the purposes of subsection (3), making available to the public includes—
+(a) in the case of a literary, dramatic or musical work—
+(i) performance in public; or
+(ii) being broadcast or included in a cable programme service;
+(b) in the case of an artistic work—
+(i) exhibition in public;
+(ii) a film including the work being shown in public; or
+(iii) being included in a broadcast or cable programme service;
+but in determining generally for the purposes of that subsection whether a work has been made available to the public no account shall be taken of any unauthorised act.
+(6) Where the country of origin of the work is not Bermuda and the author of the work does not possess Bermudian status, the duration of copyright is that to which the work is entitled in the country of origin, provided that does not exceed the period which would apply under subsections (2) to (5).
+(7) If the work is computer-generated the above provisions do not apply and copyright expires at the end of the period of 50 years from the end of the calendar year in which the work was made.
+(8) The provisions of this section are adapted as follows in relation to a work of joint authorship—
+(a) the reference in subsection (2) to the death of the author shall be construed—
+(i) if the identity of all the authors is known, as a reference to the death of the last of them to die; and
+(ii) if the identity of one or more of the authors is known and the identity of one or more others is not, as a reference to the death of the last whose identity is known;
+(b) the reference in subsection (4) to the identity of the author becoming known shall be construed as a reference to the identity of any of the authors becoming known;
+(c) the reference in subsection (6) to the author not possessing Bermudian status shall be construed as a reference to none of the authors possessing Bermudian status.
+(9) This section does not apply to Crown copyright, Parliamentary copyright or to copyright which subsists by virtue of section 203 (copyright of certain international organisations).

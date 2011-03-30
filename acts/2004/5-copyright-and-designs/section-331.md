@@ -1,0 +1,6 @@
+## PART VI
+## GENERAL AND SUPPLEMENTARY
+## OFFENCES BY BODY CORPORATE
+# Offence by body corporate: liability of officers
+331 (1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of a director, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity, he as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
+(2) In relation to a body corporate whose affairs are managed by its members “director” means a member of the body corporate.

@@ -1,0 +1,7 @@
+# Infringement of recording rights by importing, possessing or dealing with illicit recording
+222 (1) A person infringes the rights of a person having recording rights in relation to a performance who, without his consent or, in the case of a qualifying performance, that of the performer—
+(a) imports into Bermuda otherwise than for his private and domestic use; or
+(b) in the course of a business possesses, sells or lets for hire, offers or exposes for sale or hire, or distributes;
+a recording of the performance which is, and which that person knows or has reason to believe is, an illicit recording.
+(2) Where in an action for infringement of those rights brought by virtue of this section a defendant shows that the illicit recording was innocently acquired by him or a predecessor in title of his, the only remedy available against him in respect of the infringement is damages not exceeding a reasonable payment in respect of the act complained of.
+(3) In subsection (2) “innocently acquired” means that the person acquiring the recording did not know and had no reason to believe that it was an illicit recording.

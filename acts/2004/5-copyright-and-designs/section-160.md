@@ -1,0 +1,3 @@
+# Licences for educational establishments in respect of works included in broadcasts or cable programmes
+160 (1) This section applies to references or applications under this Chapter relating to licences for the recording by or on behalf of educational establishments of broadcasts or cable programmes which include copyright works, or the making of copies of such recordings, for educational purposes.
+(2) The Copyright Tribunal shall, in considering what charges (if any) should be paid for a licence, have regard to the extent to which the owners of copyright in the works included in the broadcast or cable programme have already received, or are entitled to receive, payment in respect of their inclusion.

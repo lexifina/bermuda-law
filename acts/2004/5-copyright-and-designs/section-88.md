@@ -1,0 +1,2 @@
+# Making of subsequent works by same artist
+88 Where the author of an artistic work is not the copyright owner, he does not infringe the copyright by copying the work in making another artistic work, provided he does not repeat or imitate the main design of the earlier work.

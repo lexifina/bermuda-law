@@ -1,0 +1,8 @@
+# Secondary infringement: providing means for making infringing copies
+36 (1) Copyright in a work is infringed by a person who, without the licence of the copyright owner—
+(a) makes;
+(b) imports into Bermuda;
+(c) possesses in the course of a business; or
+(d) sells or lets for hire, or offers or exposes for sale or hire;
+an article specifically designed or adapted for making copies of that work, knowing or having reason to believe that it is to be used to make infringing copies.
+(2) Copyright in a work is infringed by a person who without the licence of the copyright owner transmits the work by means of a telecommunications system (otherwise than by broadcasting or inclusion in a cable programme service), knowing or having reason to believe that infringing copies of the work will be made by means of the reception of the transmission in Bermuda or elsewhere.

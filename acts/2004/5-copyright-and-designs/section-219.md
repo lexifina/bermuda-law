@@ -1,0 +1,12 @@
+## Rights of person having recording rights
+# Exclusive recording contracts and persons having recording rights
+219 (1) In this Part an “exclusive recording contract” means a contract between a performer and another person under which that person is entitled to the exclusion of all other persons (including the performer) to make recordings of one or more of his performances with a view to their commercial exploitation.
+(2) References in this Part to a “person having recording rights”, in relation to a performance, are (subject to subsection (3)) to a person—
+(a) who is party to and has the benefit of an exclusive recording contract to which the performance is subject; or
+(b) to whom the benefit of such a contract has been assigned;
+and who is a qualifying person.
+(3) If a performance is subject to an exclusive recording contract but the person mentioned in subsection (2) is not a qualifying person, references in this Part to a “person having recording rights” in relation to the performance are to any person—
+(a) who is licensed by such a person to make recordings of the performance with a view to their commercial exploitation; or
+(b) to whom the benefit of such a licence has been assigned;
+and who is a qualifying person.
+(4) In this section “with a view to commercial exploitation” means with a view to the recordings being sold or let for hire, or shown or played in public.

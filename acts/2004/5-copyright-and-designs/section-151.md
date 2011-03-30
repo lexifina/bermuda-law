@@ -1,0 +1,6 @@
+# Application for review of order as to entitlement to licence
+151 (1) Where the Copyright Tribunal has made an order under section 150 that a person is entitled to a licence under a licensing scheme, the operator of the scheme or the original applicant may apply to the Tribunal to review its order.
+(2) An application shall not be made, except with the special leave of the Tribunal—
+(a) within twelve months from the date of the order, or of the decision on a previous application under this section; or
+(b) if the order was made so as to be in force for fifteen months or less, or as a result of the decision on a previous application under this section is due to expire within 15 months of that decision, until the last three months before the expiry date.
+(3) The Tribunal shall on an application for review confirm or vary its order as the Tribunal may determine to be reasonable having regard to the terms applicable in accordance with the licensing scheme or, as the case may be, the circumstances of the case.

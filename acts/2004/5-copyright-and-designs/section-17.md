@@ -1,0 +1,3 @@
+# Published editions
+17 (1) In this Part “published edition”, in the context of copyright in the typographical arrangement of a published edition, means a published edition of the whole or any part of one or more literary, dramatic or musical works.
+(2) Copyright does not subsist in the typographical arrangement of a published edition if, or to the extent that, it reproduces the typographical arrangement of a previous edition.

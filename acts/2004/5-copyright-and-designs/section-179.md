@@ -1,0 +1,7 @@
+## Royalty or other sum payable for lending of certain works
+# Royalty or other sum payable for lending of certain works
+179 (1) An application to settle the royalty or other sum payable in pursuance of section 90 (lending of copies of certain copyright works) may be made to the Copyright Tribunal by the copyright owner or the person claiming to be treated as licensed by him.
+(2) The Tribunal shall consider the matter and make such order as it may determine to be reasonable in the circumstances.
+(3) Either party may subsequently apply to the Tribunal to vary the order, and the Tribunal shall consider the matter and make such order confirming or varying the original order as it may determine to be reasonable in the circumstances.
+(4) An application under subsection (3) shall not, except with the special leave of the Tribunal, be made within twelve months from the date of the original order or of the order on a previous application under that subsection.
+(5) An order under subsection (3) has effect from the date on which it is made or such later date as may be specified by the Tribunal.

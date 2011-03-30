@@ -1,0 +1,15 @@
+# Recordings of folksongs
+85 (1) A sound recording of a performance of a song may be made for the purpose of including it in an archive maintained by a designated body without infringing any copyright in the words as a literary work or in the accompanying musical work, provided the conditions in subsection (2) are met.
+(2) The conditions are that—
+(a) the words are unpublished and of unknown authorship at the time the recording is made;
+(b) the making of the recording does not infringe any other copyright; and
+(c) its making is not prohibited by any performer.
+(3) Copies of a sound recording made in reliance on subsection (1) and included in an archive maintained by a designated body may, if the prescribed conditions are met, be made and supplied by the archivist without infringing copyright in the recording or the works included in it.
+(4) The prescribed conditions shall include the following—
+(a) that copies are only supplied to persons satisfying the archivist that they require them for purposes of research or private study and will not use them for any other purpose; and
+(b) that no person is furnished with more than one copy of the same recording.
+(5) In this section-
+(a) “designated” means designated for the purposes of this section by order of the Minister who shall not designate a body unless satisfied that it is not established or conducted for profit;
+(b) “prescribed” means prescribed for the purposes of this section by order of the Minister.
+(c) references to the archivist include a person acting on his behalf.
+(6) An order made under this section is subject to negative resolution procedure.

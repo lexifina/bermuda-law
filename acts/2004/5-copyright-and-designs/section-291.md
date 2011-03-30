@@ -1,0 +1,3 @@
+# Application of provisions to articles in kit form
+291 (1) The provisions of this Part apply in relation to a kit, that is, a complete or substantially complete set of components intended to be assembled into an article, as they apply in relation to the assembled article.
+(2) Subsection (1) does not affect the question whether design right subsists in any aspect of the design of the components of a kit as opposed to the design of the assembled article.

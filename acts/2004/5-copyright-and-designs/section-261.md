@@ -1,0 +1,4 @@
+# Database right
+261 (1) A property right (“database right”) subsists, in accordance with this Part, in a database if there has been a substantial investment in obtaining, verifying or presenting the contents of the database.
+(2) For the purposes of subsection (1) it is immaterial whether or not the database or any of its contents is a copyright work, within the meaning of Part I.
+(3) This section has effect subject to section 266.

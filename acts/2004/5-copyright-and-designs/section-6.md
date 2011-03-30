@@ -1,0 +1,24 @@
+# Meaning of publication and commercial publication
+6 (1) In this Part “publication”, in relation to a work—
+(a) means the issue of copies to the public, and
+(b) includes, in the case of a literary, dramatic, musical or artistic work, making it available to the public by means of an electronic retrieval system;
+and related expressions shall be construed accordingly.
+(2) In this Part “commercial publication”, in relation to a literary, dramatic, musical or artistic work means—
+(a) issuing copies of the work to the public at a time when copies made in advance of the receipt of orders are generally available to the public; or
+(b) making the work available to the public by means of an electronic retrieval system;
+and related expressions shall be construed accordingly.
+(3) In the case of a work of architecture in the form of a building, or an artistic work incorporated in a building, construction of the building shall be treated as equivalent to publication of the work.
+(4) The following do not constitute publication for the purposes of this Part and references to commercial publication shall be construed accordingly—
+(a) in the case of a literary, dramatic or musical work—
+(i) the performance of the work; or
+(ii) the broadcasting of the work or its inclusion in a cable programme service (otherwise than for the purposes of an electronic retrieval system);
+(b) in the case of an artistic work—
+(i) the exhibition of the work;
+(ii) the issue to the public of copies of a graphic work representing, or of photographs of, a work of architecture in the form of a building or a model for a building, a sculpture or a work of artistic craftsmanship;
+(iii) the issue to the public of copies of a film including the work; or
+(iv) the broadcasting of the work or its inclusion in a cable programme service (otherwise than for the purposes of an electronic retrieval system);
+(c) in the case of a sound recording or film—
+(i) the work being played or shown in public; or
+(ii) the broadcasting of the work or its inclusion in a cable programme service.
+(5) References in this Part to publication or commercial publication do not include publication which is merely colourable and not intended to satisfy the reasonable requirements of the public.
+(6) No account shall be taken for the purposes of this section of any unauthorised act.
