@@ -1,0 +1,5 @@
+# Term of protection
+265 (1) Database right in a database expires at the end of the period of 15 years from the end of the calendar year in which the making of the database was completed.
+(2) Where a database is made available to the public before the end of the period referred to in subsection (1), database right in the database shall expire 15 years from the end of the calendar year in which the database was first made available to the public.
+(3) Any substantial change to the contents of a database, including a substantial change resulting from the accumulation of successive additions, deletions or alterations, which would result in the database being considered to be substantial new investment shall qualify the database resulting from that investment for its own term of protection.
+(4) This section has effect subject to section 277.

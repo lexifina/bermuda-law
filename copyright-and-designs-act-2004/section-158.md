@@ -1,0 +1,6 @@
+## Factors to be taken into account in certain classes of case
+# General considerations: unreasonable discrimination
+158 In determining what is reasonable on a reference or application under this Chapter relating to a licensing scheme or licence, the Copyright Tribunal shall have regard to—
+(a) the availability of other schemes, or the granting of other licences, to other persons in similar circumstances; and
+(b) the terms of those schemes or licences;
+and shall exercise its powers so as to secure that there is no unreasonable discrimination between licensees, or prospective licensees, under the scheme or licence to which the reference or application relates and licensees under other schemes operated by, or other licences granted by, the same person.

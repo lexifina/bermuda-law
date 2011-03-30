@@ -1,0 +1,6 @@
+# Reference to Copyright Tribunal of expiring licence
+155 (1) A licensee under a licence which is due to expire, by effluxion of time or as a result of notice given by the licensing body, may apply to the Copyright Tribunal on the ground that it is unreasonable in the circumstances that the licence should cease to be in force.
+(2) Such an application may not be made until the last three months before the licence is due to expire.
+(3) A licence in respect of which a reference has been made to the Tribunal shall remain in operation until proceedings on the reference are concluded.
+(4) If the Tribunal finds the application well-founded, it shall make an order declaring that the licensee shall continue to be entitled to the benefit of the licence on such terms as the Tribunal may determine to be reasonable in the circumstances.
+(5) An order of the Tribunal under this section may be made so as to be in force indefinitely or for such period as the Tribunal may determine.

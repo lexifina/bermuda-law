@@ -1,0 +1,4 @@
+# Reconstruction of buildings
+89 Anything done for the purposes of reconstructing a building does not infringe any copyright—
+(a) in the building; or
+(b) in any drawings or plans in accordance with which the building was, by or with the licence of the copyright owner, constructed.

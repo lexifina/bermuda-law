@@ -1,0 +1,3 @@
+## Secondary infringement of copyright
+# Secondary infringement: importing infringing copy
+34 The copyright in a work is infringed by a person who, without the licence of the copyright owner, imports into Bermuda, otherwise than for his private and domestic use, an article which is, and which he knows or has reason to believe is, an infringing copy of the work.

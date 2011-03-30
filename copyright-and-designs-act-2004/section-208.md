@@ -1,0 +1,7 @@
+## PART II
+## RIGHTS IN PERFORMANCES
+## PRELIMINARY
+# Index of defined expressions
+208 The following Table shows provisions defining or otherwise explaining expressions used in this Part (other than provisions defining or explaining an expression used only in the same section)—
+broadcast (and related expressions) section 209 (and section 14) business | section 209(1) (and section 2)
+cable programme, cable programme section 209(1) (and section 16) service (and related expressions) consent of performer (in relation to section 226(2) performers property rights) country | section 209(1) (and section 2) distribution right | section 214(5) exclusive recording contract | section 219(1) film | section 209(1) (and section 13) illicit recording | section 244 lending right | section 215(7) literary work | section 209(1) (and section 9(1)) performance | section 210(2) performers non-property rights | section 238(1) performers property rights | section 226(1) published | section 209(1) (and section 6) qualifying country | section 256(1) qualifying individual | section 256(1) and (2) qualifying performance | section 211 qualifying person | section 256(1) and (3) recording (of a performance) | section 210(2) recording rights (person having) | section 219(2) and (3) rental right | section 215(7) reproduction right | section 213(3) rights owner (in relation to | section 226(3) and (4) performers property rights) sound recording | section 209(1) (and section 12)

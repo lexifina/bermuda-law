@@ -1,0 +1,13 @@
+# Order as to disposal of illicit recording
+251 (1) An application may be made to the court for an order that an illicit recording of a performance delivered up in pursuance of an order under section 242 or 247, or seized and detained in pursuance of the right conferred by section 243, shall be—
+(a) forfeited to such person having performer’s rights or recording rights in relation to the performance as the court may direct; or
+(b) destroyed or otherwise dealt with as the court may think fit;
+or for a decision that no such order should be made.
+(2) In considering what order (if any) should be made, the court shall consider whether other remedies available in an action for infringement of the rights conferred by this Part would be adequate to compensate the person or persons entitled to the rights and to protect their interests.
+(3) Provision shall be made by rules of court as to the service of notice on persons having an interest in the recording, and any such person is entitled—
+(a) to appear in proceedings for an order under this section, whether or not he was served with notice; and
+(b) to appeal against any order made, whether or not he appeared;
+and an order shall not take effect until the end of the period within which notice of an appeal may be given or, if before the end of that period notice of appeal is duly given, until the final determination or abandonment of the proceedings on the appeal.
+(4) Where there is more than one person interested in a recording, the court shall make such order as it thinks just and may (in particular) direct that the recording be sold, or otherwise dealt with, and the proceeds divided.
+(5) If the court decides that no order should be made under this section, the person in whose possession, custody or control the recording was before being delivered up or seized is entitled to its return.
+(6) References in this section to a person having an interest in a recording include any person in whose favour an order could be made in respect of the recording under this section or under section 142 or 310 .

@@ -1,0 +1,19 @@
+# Limitations, etc. following infringement of copyright
+48 (1) The Minister may make an order under this section if it appears to him that the making of copies—
+(a) under section 45; or
+(b) under a licence granted under a licensing scheme that has been notified under section 47;
+has led to infringement of copyright on a scale which, in the Minister’s opinion, would not have occurred if section 45 had not been in force, or the licence had not been granted.
+(2) The order may prohibit one or more named approved bodies, or one or more specified categories of approved body, from—
+(a) acting under section 45; or
+(b) acting under a licence of a description specified in the order.
+(3) The order may disapply—
+(a) the provisions of section 45; or
+(b) the provisions of a licence, or a licensing scheme, of a description specified in the order,
+in respect of the making of copies of a description so specified.
+(4) If the Minister proposes to make an order he must, before making it, consult—
+(a) such bodies representing copyright owners as he thinks fit; and
+(b) such bodies representing visually impaired persons as he thinks fit.
+(5) If the Minister proposes to make an order which includes a prohibition he must, before making it, consult—
+(a) if the proposed order is to apply to one or more named approved bodies, that body or those bodies;
+(b) if it is to apply to one or more specified categories of approved body, to such bodies representing approved bodies of that category or those categories as he thinks fit.
+(6) An approved body which is prohibited by an order from acting under a licence may not apply to the Copyright Tribunal under section 150(1) in respect of a refusal or failure by a licensing body to grant such a licence.

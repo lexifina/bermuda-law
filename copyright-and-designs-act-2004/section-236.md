@@ -1,0 +1,4 @@
+# Rights and remedies for exclusive licensee
+236 (1) An exclusive licensee has, except against the owner of a performer’s property rights, the same rights and remedies in respect of matters occurring after the grant of the licence as if the licence had been an assignment.
+(2) His rights and remedies are concurrent with those of the rights owner; and references in the relevant provisions of this Part to the rights owner shall be construed accordingly.
+(3) In an action brought by an exclusive licensee by virtue of this section a defendant may avail himself of any defence which would have been available to him if the action had been brought by the rights owner.

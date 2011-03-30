@@ -1,0 +1,10 @@
+# Copying by librarians or archivists: certain unpublished works
+63 (1) The librarian or archivist of a prescribed library or archive may, if the prescribed conditions are complied with, make and supply a copy of the whole or part of a literary, dramatic or musical work from a document in the library or archive without infringing any copyright in the work or any illustrations accompanying it.
+(2) This section does not apply if—
+(a) the work had been published before the document was deposited in the library or archive; or
+(b) the copyright owner has prohibited copying of the work;
+and at the time the copy is made the librarian or archivist making it is, or ought to be, aware of that fact.
+(3) The prescribed conditions shall include the following—
+(a) that copies are supplied only to persons satisfying the librarian or archivist that they require them for purposes of research or private study and will not use them for any other purpose;
+(b) that no person is furnished with more than one copy of the same material; and
+(c) that persons to whom copies are supplied are required to pay for them a sum not less than the cost (including a contribution to the general expenses of the library or archive) attributable to their production.

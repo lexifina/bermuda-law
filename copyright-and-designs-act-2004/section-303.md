@@ -1,0 +1,2 @@
+# Assignment of right in registered design presumed to carry with it design right
+303 Where a design consisting of a design in which design right subsists is registered under the Patents and Designs Act 1930 and the proprietor of the registered design is also the design right owner, an assignment of the right in the registered design shall be taken to be also an assignment of the design right, unless a contrary intention appears.

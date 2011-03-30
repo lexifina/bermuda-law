@@ -1,0 +1,3 @@
+# Avoidance of certain terms affecting lawful users
+267 (1) A lawful user of a database which has been made available to the public in any manner shall be entitled to extract or re-utilise insubstantial parts of the contents of the database for any purpose.
+(2) Where under an agreement a person has a right to use a database, or part of a database, which has been made available to the public in any manner, any term or condition in the agreement shall be void in so far as it purports to prevent that person from extracting or re-utilising insubstantial parts of the contents of the database, or of that part of the database, for any purpose.

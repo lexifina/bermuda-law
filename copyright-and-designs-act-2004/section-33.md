@@ -1,0 +1,15 @@
+# Infringement by making adaptation or act done in relation to adaptation
+33 (1) The making of an adaptation of the work is an act restricted by the copyright in a literary, dramatic or musical work.
+(2) For this purpose an adaptation is made when it is recorded, in writing or otherwise.
+(3) The doing of any of the acts specified in sections 28 to 32, or subsection (1), in relation to an adaptation of the work is also an act restricted by the copyright in a literary, dramatic or musical work.
+(4) For this purpose it is immaterial whether the adaptation has been recorded, in writing or otherwise, at the time the act is done.
+(5) In this Part “adaptation”—
+(a) in relation to a literary work, other than a computer program or a database, or in relation to a dramatic work, means—
+(i) a translation of the work;
+(ii) a version of a dramatic work in which it is converted into a non-dramatic work or, as the case may be, of a non-dramatic work in which it is converted into a dramatic work;
+(iii) a version of the work in which the story or action is conveyed wholly or mainly by means of pictures in a form suitable for reproduction in a book, or in a newspaper, magazine or similar periodical;
+(b) in relation to a computer program, means an arrangement or altered version of the program or a translation of it;
+(c) in relation to a database, means an arrangement or altered version of the database or a translation of it;
+(d) in relation to a musical work, means an arrangement or transcription of the work.
+(6) In relation to a computer program a “translation” includes a version of the program in which it is converted into or out of a computer language or code or into a different computer language or code.
+(7) No inference shall be drawn from this section as to what does or does not amount to copying a work.

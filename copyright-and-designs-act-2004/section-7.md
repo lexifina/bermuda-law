@@ -1,0 +1,10 @@
+## CHAPTER II
+## SUBSISTENCE, OWNERSHIP AND DURATION OF COPYRIGHT
+## Introductory
+# Copyright and copyright works
+7 (1) Copyright is a property right which subsists in accordance with this Part in the following descriptions of work—
+(a) original literary, dramatic, musical or artistic works;
+(b) sound recordings, films, broadcasts or cable programmes; and
+(c) the typographical arrangement of published editions.
+(2) In this Part “copyright work” means a work of any of those descriptions in which copyright subsists.
+(3) Copyright does not subsist in a work unless the requirements of this Part with respect to qualification for copyright protection are met.

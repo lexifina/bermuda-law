@@ -1,0 +1,3 @@
+# Construction of references to design right owner
+289 (1) Where different persons are (whether in consequence of a partial assignment or otherwise) entitled to different aspects of design right in a work, the design right owner for any purpose of this Part is the person who is entitled to the right in the respect relevant for that purpose.
+(2) Where design right (or any aspect of design right) is owned by more than one person jointly, references in this Part to the design right owner are to all the owners, so that, in particular, any requirement of the licence of the design right owner requires the licence of all of them.

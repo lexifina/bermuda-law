@@ -1,0 +1,7 @@
+# Folklore etc.: anonymous unpublished works
+204 (1) Where in the case of an unpublished literary, dramatic, musical or artistic work of unknown authorship there is evidence that the author (or, in the case of a joint work, any of the authors) was a qualifying individual by connection with a country outside Bermuda, it shall be presumed until the contrary is proved that he was such a qualifying individual and that copyright accordingly subsists in the work, subject to the provisions of this Part.
+(2) If under the law of that country a body is appointed to protect and enforce copyright in such works, the Minister may, by order designate that body for the purposes of this section.
+(3) A body so designated shall be recognised in Bermuda as having authority to do in place of the copyright owner anything, other than assign copyright, which it is empowered to do under the law of that country; and it may, in particular, bring proceedings in its own name.
+(4) In subsection (1) a “qualifying individual” means an individual who at the material time (within the meaning of section 191) was a person whose works qualified under that section for copyright protection.
+(5) This section does not apply if there has been an assignment of copyright in the work by the author of which notice has been given to the designated body; and nothing in this section affects the validity of an assignment of copyright made, or licence granted, by the author or a person lawfully claiming under him.
+(6) An order made under this section is subject to negative resolution procedure.

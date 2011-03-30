@@ -1,0 +1,8 @@
+# Right to seize illicit recordings
+243 (1) An illicit recording of a performance which is found exposed or otherwise immediately available for sale or hire, and in respect of which a person would be entitled to apply for an order under section 242, may be seized and detained by him or a person authorised by him.
+(2) The right to seize and detain is exercisable subject to the following conditions and is subject to any decision of the court under section 251.
+(3) Before anything is seized under this section notice of the time and place of the proposed seizure must be given to the Commissioner of Police.
+(4) A person may for the purpose of exercising the right conferred by this section enter premises to which the public have access but may not seize anything in the possession, custody or control of a person at a permanent or regular place of business of his and may not use any force.
+(5) At the time when anything is seized under this section there shall be left at the place where it was seized a notice in the prescribed form containing the prescribed particulars as to the person by whom or on whose authority the seizure is made and the grounds on which it is made.
+(6) In this section “prescribed” means prescribed by order of the Minister.
+(7) An order of the Minister under this section is subject to negative resolution procedure.
