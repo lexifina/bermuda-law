@@ -1,0 +1,6 @@
+# Certificate in electronic format
+8 (1) A certified extract of information from the vehicle register under section 6 or a record or certificate under section 7(2) may be created and completed in electronic format by electronic or any other means that allows the extract or certificate to be reproduced in intelligible form including, without limitation, electronically.
+(2) A certified extract or a certificate may be signed by an enforcement officer by means of an electronic reproduction of the enforcement officer’s signature that is capable of being assigned to that extract or certificate only by that enforcement officer.
+(3) The signature referred to in subsection (2) may be made by electronic or any other means that allows the signature to be reproduced in intelligible form including, without limitation, by electronically storing the signature by means of an electronic scanner or an electronic signature pad.
+(4) If the certified extract or certificate, including the enforcement officer’s signature, is in electronic format, it may be converted from electronic format to paper format for all purposes and it may be received, transmitted, stored or sent electronically.
+(5) The recorded image referred to in section 5(4) and any enlargement referred to in section 5(5) may be included as part of a certificate.
