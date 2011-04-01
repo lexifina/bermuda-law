@@ -1,0 +1,9 @@
+# Registration of parts of trade marks and of trade marks as a series
+24 (1) Where the proprietor of a trade mark claims to be entitled to the exclusive use of any part thereof separately, he may apply to register the whole and any such part as separate trade marks.
+(2) Each such separate trade mark must satisfy all the conditions of an independent trade mark and shall, subject to sections 26(2) and 32(2), have all the incidents of an independent trade mark.
+(3) Where a person claiming to be the proprietor of several trade marks, in respect of the same goods or description of goods, which, while resembling each other in the material particulars thereof, yet differ in respect of—
+(a) statements of the goods in relation to which they are respectively used or proposed to be used; or
+(b) statements of number, price, quality or names of places; or
+(c) other matter of a non-distinctive character which does not substantially affect the identity of the trade mark; or
+(d) colour,
+seeks to register those trade marks, they may be registered as a series in one registration.

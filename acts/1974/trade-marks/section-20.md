@@ -1,0 +1,5 @@
+# Protection of marks registered in country of origin
+20 The Registrar may refuse to register any trade mark if it is proved to his satisfaction by the person opposing the application for registration that such mark is identical with, or so nearly resembles as to be calculated to deceive or cause confusion, a trade mark which is already registered in respect of the same goods or description of goods in a country or place from which such goods originate:
+Provided that no application to register shall be refused under this section—
+(a) if the applicant proves that he or his predecessors in business have in Bermuda, in relation to such goods, continuously used the trade mark for the registration of which he has made application from a date anterior to the date of the registration of the other mark in such country or place of origin; or
+(b) if the opponent does not give an undertaking to the satisfaction of the Registrar that he will, within three months from the giving of the notice of opposition, apply for registration in Bermuda of the trade mark so registered in the country or place of origin, and will take all necessary steps to complete such registration.

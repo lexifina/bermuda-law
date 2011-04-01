@@ -1,0 +1,3 @@
+# Use of one of associated or substantially identical trade marks equivalent to use of another
+32 (1) Where under this Act use of a registered trade mark is required to be proved for any purpose, the Court or the Registrar, as the case may be, may, if and so far as they think right, accept use of an associated registered trade mark, or of the trade mark with additions or alterations not substantially affecting its identity, as an equivalent for the use required to be proved.
+(2) The use of the whole of a registered trade mark shall for the purposes of this Act be deemed to be also a use of any registered trade mark, being a part thereof registered in the name of the same proprietor by virtue of section 24(1).
