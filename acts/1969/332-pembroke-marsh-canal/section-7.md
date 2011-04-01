@@ -1,0 +1,2 @@
+# Minister may do work and recover cost
+7 Where a notice has been served upon any person under either section 3(d) or (e), if that person fails to carry out the operations specified in the notice within the time so specified then the Minister may carry out the operations and may recover the cost thereof from the person on whom the notice was served as though that amount was due and owing to the Government as a liquidated debt.

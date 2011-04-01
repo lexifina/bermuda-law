@@ -1,0 +1,3 @@
+# Realignment of Canal
+4 (1) The House of Assembly may by resolution approve a proposal submitted to it by the Minister for the realignment of the Canal and the Minister, subject to the appropriation of the moneys therefor, may thereupon cause the Canal to be so realigned and this Act shall apply to that realigned portion as if it was part of the waterway marked blue on the Plans.
+(2) Where the House of Assembly has approved a proposal for the realignment of the Canal under this section the Minister may, on behalf of the Government, enter into an agreement for the purchase of any land required for such realignment, or, in default of such agreement, may acquire such land under the Acquisition of Land Act 1970 [title 19 item 2].

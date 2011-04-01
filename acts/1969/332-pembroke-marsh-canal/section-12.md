@@ -1,0 +1,3 @@
+# Construction of by-pass for Canal
+12 (1) Without prejudice to the generality of section 4, the Minister may, for the purposes of constructing a by-pass for the Canal within the limits of deviation shown coloured yellow on the Plans, enter into an agreement for the purchase of such lands as may be necessary therefor or, in default of such agreement, may acquire such land under the Acquisition of Land Act 1970 [title 19 item 2].
+(2) Any expenditure incurred in the acquisition of lands under subsection (1) or the construction of the by-pass therein specified shall be a charge upon the Consolidated Fund.
