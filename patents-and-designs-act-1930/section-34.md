@@ -1,0 +1,3 @@
+# Application to Supreme Court for declaration of rights regarding design
+34 (1) The Supreme Court shall have power, upon the application of any person who alleges that his interests had been prejudicially affected, to declare that exclusive privileges and rights in a design have not been acquired in Bermuda, under this Act, upon any grounds upon which the United Kingdom registration might be cancelled under the law for the time being in force in the United Kingdom.
+(2) Such grounds shall be deemed to include the publication of the design in Bermuda prior to the date of registration of the design in the United Kingdom.

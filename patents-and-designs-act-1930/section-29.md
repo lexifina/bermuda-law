@@ -1,0 +1,2 @@
+# Registrar to give information on request
+29 On the request of any person producing a particular design, together with its mark of registration, or producing only its mark of registration, or furnishing such information as may enable the Registrar to identify the design, and on payment of the prescribed fee, it shall be the duty of the Registrar to inform such person whether the registration still exists, and, if so, in respect of what class or classes of goods, and stating also the date of registration, and the name and address of the registered proprietor.

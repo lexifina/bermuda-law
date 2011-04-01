@@ -1,0 +1,2 @@
+# Proprietor of design registered in United Kingdom to have certain rights in Bermuda
+32 The registered proprietor of any design registered in the United Kingdom under the Acts of the Parliament of the United Kingdom entitled the Patents and Designs Act 1907 and 1919, or any Act of the Parliament of the United Kingdom amending or substituted for those Acts of Parliament of the United Kingdom shall enjoy in Bermuda the like privileges and rights as though the certificate of registration had been issued with an extension to Bermuda.
