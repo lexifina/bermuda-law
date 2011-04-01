@@ -1,0 +1,14 @@
+# Commissioners established; meetings
+2 (1) For the purpose of this Act there shall be established a body of commissioners who shall have the powers and perform the duties conferred or imposed upon them by or under this Act.
+(2) The Commissioners shall be a body corporate under the name of “The Bermuda War Pension Commissioners,” with the exclusive right to use that name in Bermuda and with perpetual succession under that name, and with power to sue and liability to be sued in their corporate capacity by that name in all courts, and with power to have and use a common seal and to renew or vary the same at pleasure.
+(3) The Commissioners shall consist of not less than three and of not more than seven persons, each of whom shall be appointed by the Governor to hold office at pleasure.
+(4) There shall be a Chairman and a Deputy Chairman of the Commissioners, each of whom shall, subject as hereinafter provided, be appointed annually by the Governor from among the Commissioners to hold office until the thirty-first day of December of the year for which he was appointed, and each of whom shall be eligible for re-appointment:
+Provided that if at any time a person appointed to be Chairman or Deputy Chairman ceases to be a commissioner, or for any other reason ceases to hold office as such, the Governor shall, as soon as may be, appoint from among the Commissioners another person to be Chairman or Deputy Chairman (as the case may be) in his stead.
+(5) If at any meeting of the Commissioners the Chairman is absent, the Deputy Chairman shall preside over the meeting, and if both the Chairman and the Deputy Chairman are absent then the Commissioners present shall elect one of their number to act as chairman at that meeting.
+(6) A majority of the Commissioners in Bermuda at the time of any meeting of the Commissioners shall form a quorum at that meeting.
+(7) Every question or matter to be determined by the Commissioners at any meeting shall be decided by a majority of the Commissioners present and voting on the question or matter:
+Provided that in the event of an equal division of votes the chairman of the meeting may, if he thinks fit, give a second or casting vote.
+(8) Fees shall be paid to the Commissioners in accordance with the Government Authorities (Fees) Act 1971 [title 14 item 6].
+(9) The Commissioners may call upon the Director of Social Insurance for the Ministry of Finance, for such advice and assistance as they consider desirable for the proper discharge of their functions under this Act and any other enactment and the Director of Social Insurance shall provide such advice and assistance.
+(10) In the exercise of his powers under this section the Governor shall act on the advice of the Minister.
+[Section 2(9) amended by 2009:11 s.3 effective 25 March 2009]

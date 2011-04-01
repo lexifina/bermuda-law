@@ -1,0 +1,2 @@
+# Objection
+8 Where any person who has received a notice as provided in section 7 objects to the decision of the Commissioners he may within one month of the date of the receipt of the notice apply to the Commissioners for a revision of the decision and the Commissioners shall, if he so requires, afford him an opportunity to appear before them and to be heard with respect to his objection; and if the Commissioners are satisfied that the grounds of the objection are established wholly or in part they shall amend or modify their decision accordingly.
