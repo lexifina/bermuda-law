@@ -1,0 +1,3 @@
+# Powers and duties of referee
+9C The referee, in the discharge of his functions in relation to any case or matter referred to him under section 9B shall have the same powers and duties of the Registrar that the Registrar would have had under the Act or any Regulations made thereunder in relation to the case or matter, including the power to award costs under section 43, and anything done by the referee within the scope of his authority shall, for the purposes of this Act or any Regulations made thereunder, be deemed to have been done by the Registrar himself.
+[Section 9C inserted by 1991:39 effective 18 June 1993]

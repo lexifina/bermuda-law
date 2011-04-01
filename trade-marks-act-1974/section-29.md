@@ -1,0 +1,11 @@
+## USE AND NON-USE
+# Removal from register and imposition of limitations on grounds of non-use
+29 (1) Subject to section 30, the Court or the Registrar may, on application by a person aggrieved, order a trade mark to be removed from the register in respect of any goods in respect of which it is registered on the grounds—
+(a) that the trade mark was registered without any bona fide intention on the part of the applicant for registration that it should be used in relation to those goods by him, and that there has in fact been no bona fide use of the trade mark in relation to those goods by any proprietor thereof for the time being up to the date one month before the date of the application; or
+(b) that up to the date one month before the date of the application a continuous period of five years or longer elapsed during which the trade mark was a registered trade mark and during which there was no bona fide use thereof in relation to those goods by any proprietor thereof for the time being.
+(2) Except where the applicant has been permitted under section 13(2) to register an identical or nearly resembling trade mark in respect of the goods in question or where the Court or the Registrar is of opinion that he might properly be permitted so to register such a trade mark the Court or the Registrar, as the case may be, may refuse an application made under subsection (1) in relation to any goods, if it is shown that there has been, before the relevant date or during the relevant period, as the case may be, bona fide use of the mark by the proprietor thereof for the time being in relation to—
+(i) goods of the same description; or
+(ii) services associated with those goods or goods of that description,
+being goods or, as the case may be, services in respect of which the mark is registered.
+(3) An applicant shall not be entitled to rely for the purposes of subsection (1)(b), on any non-use of a trade mark that is shown to have been due to special circumstances in the trade and not to any intention not to use or to abandon the trade mark in relation to the goods to which the application relates.
+[Section 29 modified by First Schedule and amended by Second Schedule of 1991:39 effective 18 June 1993]
