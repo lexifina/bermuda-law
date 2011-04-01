@@ -1,0 +1,5 @@
+# Penalty for infringement of copyright
+31 (1) During the existence of copyright in any design no person—
+(a) shall, without the licence or written consent of the registered proprietor, apply or cause to be applied such design, or any fraudulent or obvious imitation thereof, in the class or classes of goods in which such design is registered, for purposes of sale, to any article of manufacture or to any substance artificial or natural, or partly artificial and partly natural; or
+(b) shall publish or expose for sale any article of manufacture or any substance to which such design or any fraudulent or obvious imitation thereof has been so applied, knowing that the same has been so applied without the consent of the registered proprietor.
+(2) Any person who acts in contravention of this section shall be liable for every such act as aforesaid to forfeit to the registered proprietor of a design a sum not exceeding two hundred and forty dollars, and such registered proprietor may recover the same by action in the Supreme Court.

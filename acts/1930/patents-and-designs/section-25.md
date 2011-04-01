@@ -1,0 +1,2 @@
+# Drawings; photographs; tracings of design for Registrar
+25 On application for registration of a design the applicant shall furnish to the Registrar the prescribed number of drawings, photographs, or tracings of the design sufficient to the Registrar for enabling him to identify the design and suitable for the official records; or the applicant may instead of such drawings, photographs, or tracings furnish exact representations or specimens of the design.

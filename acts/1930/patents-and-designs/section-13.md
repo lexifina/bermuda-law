@@ -1,0 +1,3 @@
+# Patents have effect against Crown
+13 (1) A patent shall to all intents have the like effect against Her Majesty, Her heirs and successors as it has against a subject.
+(2) Notwithstanding anything in the foregoing provisions of this section, the public officers or public authorities administering any department of the service of the Crown may by themselves, their agents, contractors or others, at any time after the application, use the invention for the service of the Crown on terms to be before or after the use thereof agreed on between those officers or authorities and the patentee or, in default of such agreement, on such terms as may be settled by the Governor.

@@ -1,0 +1,3 @@
+# Vesting of exclusive right of patent for 16 years
+6 Every patent shall vest in the patentee, his executors, administrators or assigns, and licensees, the sole right and benefit of using within Bermuda the invention mentioned in such patent for and during the space of sixteen years next after the granting of such patent:
+Provided that at any time before the expiration of such period the Registrar may, with the sanction of the Minister, extend the same for any period not exceeding seven years, as the Minister may direct, and may in like manner extend such further period with the like sanction and direction for any period not exceeding seven years as often as such extension is sanctioned as aforesaid.

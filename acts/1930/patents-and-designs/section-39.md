@@ -1,0 +1,3 @@
+# Inspection of registers
+39 Every register kept under this Act shall be prima facie evidence of all matters duly entered therein, and every such register, and the specifications of every registered patent shall be open to the inspection of the public on payment of the prescribed fee, subject to this Act, and to such regulations as may be prescribed; and certified copies sealed with the seal of the Registry of any entry in such register or of any such specification, shall be given to any person requiring the same on payment of the prescribed fee:
+Provided that whenever any specification or extract includes any tracing, drawing, or diagram, an additional fee for any copy thereof shall be paid equal to the cost of preparing such tracing, drawing or diagram.

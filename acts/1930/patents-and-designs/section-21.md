@@ -1,0 +1,2 @@
+# Amendment of specifications
+21 Whenever the specifications or drawings of a patent registered under this Act have been amended by way of disclaimer, correction, or explanation according to the law of the United Kingdom, a request, accompanied by a copy of the specifications and drawings (if any) as amended, duly certified by the Comptroller-General of the Patent Office in the United Kingdom, may be made to the Registrar to substitute a copy of the specifications and drawings as amended for the specifications and drawings originally filed.
