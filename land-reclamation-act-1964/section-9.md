@@ -1,0 +1,4 @@
+# Determination of parish in which reclaimed land lies
+9 (1) Subject to the provisions of subsection (3) the Governor may by order published in the Gazette declare that any reclaimed land shall form part of a parish specified in the order and, in that event, any reference in any provision of law or any document to such parish shall be deemed to include such reclaimed land unless the context otherwise requires.
+(2) Subject to the provisions of subsection (3) the Governor may by order published in the Gazette declare that any reclaimed land, or such part thereof as he may specify, shall form part of any electoral district specified in the order and, in that event, such reclaimed land, or part thereof, as the case may be, shall constitute part of such electoral district for all purposes of the Parliamentary Election Act 1978 [title 2 item 11].
+(3) The affirmative resolution procedure shall apply to an order made under this section.
