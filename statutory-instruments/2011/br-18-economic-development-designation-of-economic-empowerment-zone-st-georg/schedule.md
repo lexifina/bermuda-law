@@ -1,0 +1,6 @@
+## SCHEDULE
+(Order 2)
+ECONOMIC DEVELOPMENT (DESIGNATION OF ECONOMIC EMPOWERMENT
+ZONE) (ST. GEORGE’S) ORDER 2011
+Made this 29th day of March, 2011
+Minister of Economy, Trade and Industry
