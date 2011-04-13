@@ -1,0 +1,2 @@
+# Expressions of opinion; medical reports
+4 No expression of opinion by a police officer respecting the responsibility for an accident or the manner in which it occurred for recommendation of a police officer respecting the institution of a criminal proceeding or a report from a medical practitioner made in his professional capacity shall be supplied, but in the case of a medical practitioner, his name and address may be supplied.

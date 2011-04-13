@@ -1,0 +1,3 @@
+# Who may apply; discretion of Commissioner of Police
+2 Subject to the provisions of regulations 3 and 4 of these Regulations, the Commissioner may, in his absolute discretion in each case, direct the supply of information and evidence in the possession of the Police Service concerning traffic and similar accidents to bona fide parties to civil proceedings, their legal representatives, trade unions or friendly societies bona fide acting on the behalf of such parties, and to insurance companies on application, which shall be made in writing to the Officer-in-Charge.
+[regulation 2 amended by 1997 : 37 effective by notice in Official Gazette]
