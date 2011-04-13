@@ -1,0 +1,2 @@
+# Application for interview
+7 The Commissioner, in his absolute discretion in each case, may grant permission to the legal representative, duly accredited, of a party to civil proceedings arising out of a traffic or similar accident, either contemplated or already instituted, to interview a police officer in connection with any matter which has arisen in the course of his normal duties for the purpose of taking a proof of evidence, on application, which shall be made in writing to the Officer-in-Charge.

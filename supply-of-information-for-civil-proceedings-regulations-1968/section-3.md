@@ -1,0 +1,3 @@
+# Restriction on supply of information during criminal proceedings
+3 No information relating to a statement made by a person charged or liable to be charged with a criminal offence shall be supplied to any person other than the person who made the statement or his legal representative while an inquest in which that statement may be evidence or a criminal proceeding against that person is contemplated or pending or while enquiries relating to the subject matter of the statement are still being conducted by the Police Service.
+[regulation 3 amended by 1997 : 37 effective by notice in Official Gazette]
