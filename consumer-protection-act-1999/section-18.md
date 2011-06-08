@@ -1,0 +1,2 @@
+# Investigations by order of Minister
+18 The Minister may by order appoint a person to make an investigation into any matter to which this Part applies as may be specified in the Minister’s order and the person appointed shall report the result of his investigation to the Minister and, for the purposes of this investigation, the person making it has the powers of a commissioner under the Commissions of Inquiry Act 1935, which Act applies to such investigation as if it were an inquiry under that Act.

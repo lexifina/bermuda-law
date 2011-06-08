@@ -1,0 +1,4 @@
+# Assurance of voluntary compliance
+17 (1) Any person against whom the Executive Officer proposes to make an order to comply with section 12 may enter into a written assurance of voluntary compliance in such form as may be approved by the Minister undertaking to not engage in the specified unfair business practices after the date thereof.
+(2) Where an assurance of voluntary compliance is accepted by the Executive Officer, the assurance has and shall be given for all purposes of this Act the force and effect of an order made by the Executive Officer.
+(3) An assurance of voluntary compliance may include such undertakings as are acceptable to the Executive Officer and the Executive Officer may receive a bond and collateral therefor as security for the reimbursement of consumers and for investigation and other costs in such amount as is satisfactory to the Executive Officer.

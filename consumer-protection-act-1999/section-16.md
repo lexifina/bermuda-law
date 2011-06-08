@@ -1,0 +1,4 @@
+# Appeal from decision of Minister
+16 (1) Any party to proceedings before the Minister may appeal from his decision or order to the Supreme Court in accordance with the rules of court.
+(2) Where any party appeals from a decision of the Minister, the Minister shall forthwith file in the court the record of the proceedings before him in which the decision was made, which, together with the transcript of the evidence if it is not part of the record, shall constitute the record in the appeal.
+(3) An appeal under this section may be made on questions of law or fact or both and the court may exercise all the powers of the Minister, and for such purpose the court may substitute its opinion for that of the Minister, or the court may refer the matter back to the Minister for rehearing, in whole or in part, in accordance with such directions as the court considers proper.
