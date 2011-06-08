@@ -1,0 +1,8 @@
+# Order to cease unfair business practice
+14 (1) Where the Executive Officer believes on reasonable and probable grounds that any person is engaging or has engaged in an unfair business practice, the Executive Officer may order such person to cease the unfair business practice specified in the order.
+(2) Where the Executive Officer proposes to make an order under subsection (1), he shall serve notice of his proposal on each person to be named in the order together with written reasons therefor.
+(3) A notice under subsection (2) shall inform each person to be named in the order that he is entitled to a hearing by the Minister if he mails or delivers within fifteen days after a notice under subsection (2) is served on him notice in writing requiring a hearing to the Executive Officer and the Minister and he may so require such a hearing.
+(4) Where a person upon whom a notice is served under subsection (2) does not require a hearing by the Minister in accordance with subsection (3), the Executive Officer may carry out the proposal stated in the notice.
+(5) Where a person requires a hearing by the Minister in accordance with subsection (3), the Minister shall appoint a time for and hold the hearing and may by order direct the Executive Officer to carry out his proposal or to refrain from carrying out his proposal and to take such action as the Minister considers the Executive Officer ought to take in accordance with this Act.
+(6) The Minister may attach such terms and conditions to his order as he considers appropriate to give effect to the purpose of this Act.
+(7) The Executive Officer and the person who has required the hearing and such other persons as the Minister may specify are parties to proceedings before the Minister.

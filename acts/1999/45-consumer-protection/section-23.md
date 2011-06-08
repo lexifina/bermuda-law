@@ -1,0 +1,9 @@
+# Orders and notices to prohibit supply of goods or give warning of danger from goods
+23 (1) The Minister may—
+(a) make orders (“prohibition orders”) prohibiting persons from supplying, or from offering to supply, agreeing to supply, exposing for supply or possessing for supply—
+(i) any consumer goods which the Minister considers are not safe and which are described in the orders; and
+(ii) any consumer goods which are designed to be used as component parts of other consumer goods and which would if so used cause the other consumer goods to be consumer goods described in the orders in pursuance of sub-paragraph (i);
+(b) serve on any person a notice (“prohibition notice”) prohibiting the person, except with the consent of the Minister and in accordance with the conditions, if any, on which the consent is given from supplying, or from offering to supply, agreeing to supply, exposing for supply or possessing for supply, any consumer goods which the Minister considers are not safe and which are described in the notice;
+(c) serve on any person a notice (“notice to warn”) requiring the person to publish, in a form and manner and on occasions specified in the notice and at his own expense, a warning about any consumer goods so specified which the Minister considers are not safe and which the person supplies or has supplied.
+(2) Part I of the Schedule shall have effect with respect to prohibition orders, Part II of the Schedule shall have effect with respect to prohibition notices and Part III of the Schedule shall have effect with respect to notices to warn; and section 22(2) shall apply to prohibition orders as it applies to safety regulations.
+(3) A person who contravenes a prohibition order, a prohibition notice or a notice to warn is liable on summary conviction to a fine of $10,000 or to imprisonment for 6 months.
