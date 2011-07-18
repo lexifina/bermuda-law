@@ -1,0 +1,3 @@
+# Temporary licences
+6 (1) Where a person applies for a licence to act as a private investigator or security guard the Commissioner may, pending his decision, issue a temporary licence so to act for a period stated in the licence, but not exceeding three months.
+(2) Where a person who is licensed to engage in the business of providing private investigators or security guards dies, the Commissioner may grant to his executor or administrator a temporary licence, valid for such period as shall be specified therein, and all licensed employees of a deceased licensee at the time of his death shall be deemed to be licensed as employees of such executor or administrator.
