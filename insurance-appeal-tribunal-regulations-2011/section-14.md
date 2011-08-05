@@ -1,0 +1,22 @@
+# Evidence and procedure during hearing
+14 (1) At the hearing the chairman may, on the application of a party to the appeal or on his own motion, by direction given at the hearing or by notice in writing, require the parties or any other person, at a time and place given in the direction or notice, to attend and give evidence or to produce any document in that person’s custody or under his control which relates to any matter in question at the hearing.
+(2) Notwithstanding paragraph (1)—
+(a) no person other than the parties shall be required, in obedience to such direction or notice, to attend and give evidence or to produce any such document unless the necessary expenses of his attendance are paid or tendered to him;
+(b) no person shall be compelled to give any evidence or to produce any document which he could not be compelled to give or produce if the hearing was a proceeding in a court of law; and
+(c) except where the chairman otherwise directs, a witness shall not be obliged to attend and give evidence or to produce any document in obedience to a direction or notice given by the chairman unless that direction was given or notice has been served on him not less than 5 days before the day appointed for the hearing.
+(3) In exercising the power conferred by paragraph (1), the chairman shall take into account the need to protect information which relates to a person who is not a party to the appeal and which is commercially sensitive, or was communicated or obtained in confidence.
+(4) The chairman may set aside any direction or notice given under paragraph (1) on the application of the person to whom the direction or notice was given, but shall not do so without first notifying any person who applied for the direction or notice and considering any representations made by that person.
+(5) The secretary shall supply a copy of any document obtained under this regulation to any party to the appeal if that party does not already have a copy of the document, and it shall be a condition of such supply that the information so supplied shall be used only for the purposes of the appeal.
+(6) The hearing shall be in private.
+(7) The parties may appear at the hearing, or may be represented by a barrister and attorney or by any other person.
+(8) At the hearing the parties are each entitled to make an opening statement, call witnesses to give evidence, cross-examine witnesses called by the other party, and to make a final statement.
+(9) In the case of an appeal by a controller or officer under section 44A(2) of the Act, notwithstanding that the hearing is in private, the registered person concerned is entitled to be heard, or may be represented by a barrister and attorney or by any other person.
+(10) Where the tribunal requires any witness to give evidence, such evidence shall be given on oath or affirmation; and the chairman shall administer the oath or affirmation.
+(11) Subject to paragraph (2)(b), evidence may be admitted by the tribunal whether or not it would be admissible in a court of law.
+(12) If the parties, or the registered person concerned in the case of an appeal by a controller or officer under section 44A(2) of the Act, fail to appear or be represented at the time and place fixed for the hearing, the tribunal may proceed with the hearing or adjourn it to a later date.
+(13) Where the tribunal proceeds with the hearing pursuant to paragraph (12) it shall take into consideration any written representations which may have been submitted by either party, or submitted by the registered person concerned in the case of an appeal by a controller or officer under section 44A(2) of the Act, whether the written representation was submitted in accordance with these Regulations or otherwise.
+(14) The tribunal may from time to time adjourn the hearing and, if the date, time and place of the adjourned hearing are announced before the adjournment, no further notice is required.
+(15) A person contravenes section 44D(4) of the Act and is liable on summary conviction to a fine of $10,000 if he, in respect of a material matter—
+(a) tenders into evidence, or procures another to tender into evidence, a false written statement;
+(b) while giving evidence under oath or affirmation knowingly makes a false statement or makes a statement which he does not believe is true; or
+(c) procures another to give evidence under oath or affirmation which the person knows is a false statement or which he does not believe is true.
