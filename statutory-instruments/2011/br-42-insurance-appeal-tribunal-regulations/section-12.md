@@ -1,0 +1,4 @@
+# Interim relief
+12 (1) An appellant may, pursuant to section 44A(4) of the Act, make application to the secretary that the tribunal suspend operation of a decision of the Authority which is the subject of an appeal.
+(2) The tribunal may determine the application on the basis of written representations, if the applicant and the Authority and the registered person concerned in the case of appeal by a controller or officer under section 44A(2) of the Act agree in writing, or it may direct the parties, and the registered person concerned, to appear before it.
+(3) The tribunal shall notify the applicant and the Authority of its determination giving a statement of its reasons, and may notify any registered person concerned or any person to whom a copy of the notice of appeal has been given pursuant to regulation 4(2) (b).
