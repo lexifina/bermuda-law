@@ -1,0 +1,2 @@
+# Standards of medical stores
+6 All medical stores required by these Regulations to be kept on board a vessel shall conform to the standards and requirements of the British National Formulary, the British Pharmacopoeia, the European Pharmacopoeia, or the United States Pharmacopoeia, and with the requirements and specifications of MSN 1768.
