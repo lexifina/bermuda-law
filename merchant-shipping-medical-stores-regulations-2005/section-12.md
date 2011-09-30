@@ -1,0 +1,5 @@
+# Offences
+12 (1) If any requirement of regulations 4 to 11 is contravened, the owner of the ship shall in respect of each contravention be guilty of an offence, punishable on summary conviction by a fine not exceeding $10,000.
+(2) It shall be a defence for any person charged in connection with a contravention of regulation 4 to show that the deficiency was caused by medicines and medical stores being used for their proper purpose and that it has not been practicable to replace them.
+(3) It shall be a defence for a person charged under this regulation, including a person charged by virtue of regulation 13, to show that he took all reasonable precautions and exercised all due diligence to avoid commission of the offence.
+(4) Where an offence under these Regulations is committed, or would have been committed except for the operation of paragraph (3), by any person due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.

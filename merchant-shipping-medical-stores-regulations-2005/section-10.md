@@ -1,0 +1,2 @@
+# Carriage of guides
+10 A ship to which these Regulations apply shall carry guides as to the use of medical stores required by regulation 4 to be carried on board it appropriate as to their categories, including in particular instructions for the use of antidotes, as specified in MSN 1768.
