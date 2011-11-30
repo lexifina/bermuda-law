@@ -1,0 +1,3 @@
+# Department to meet expenses out of revenue
+5C So far as is practicable, the Director shall administer the Department of Public Transportation and the Board shall levy such rents, fees, fares and other charges for services rendered by the Department as, together with such funds as may be appropriated by the Legislature for the purposes of public transportation, will result in the revenue of the Department being sufficient, to meet the expenditure and liabilities of the Department including allocations to reserve for replacement of plant and provision for depreciation of assets.
+[Section 5C substituted by 2006:18 s.9 effective 1 April 2007]
