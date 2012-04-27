@@ -1,0 +1,6 @@
+# Powers of police
+15 (1) Where a police officer pursuant to section 114A of the Act boards a boat the officer may request any person on board the boat to give all information in his possession as to the name, address, description and whereabouts of the owner or the operator of the boat and of the occupants of the boat at the time when the offence is alleged to have been committed and also any other information which may lead to the identification or the apprehension of the person who is alleged to have committed the offence.
+(2) Where a police officer pursuant to section 114A of the Act has reason to believe that an offence has been committed against these Regulations he may request—
+(a) the owner of the boat to give all information in his possession as to the name, address, description and whereabouts of the operator of the boat; or
+(b) the owner or the operator of the boat to produce the certificate of registration of the boat and it is sufficient compliance with this request if the owner or the operator on whom the request is made produces the certificate of registration at a police station within seven days of the date of the request.
+(3) Any person who without reasonable excuse fails to comply with the request of a police officer under paragraph (1) or (2) commits an offence.
