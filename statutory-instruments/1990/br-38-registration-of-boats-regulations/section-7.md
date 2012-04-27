@@ -1,0 +1,3 @@
+# Application for registration
+7 (1) An application for the registration of a boat shall be made in writing to the Minister and shall include or be accompanied by such particulars and evidence relating to the boat and the ownership thereof as the Minister may require to enable him to determine whether the boat may properly be registered and to issue the certificate referred to in regulation 9.
+(2) Upon receiving an application for the registration of a boat and being satisfied that the boat may properly be so registered and upon receiving the appropriate fee, the Minister may in his discretion register the boat or refuse to register the boat.
