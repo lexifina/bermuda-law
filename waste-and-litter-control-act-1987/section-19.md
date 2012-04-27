@@ -1,0 +1,18 @@
+# Appeals
+19 (1) A person on whom a dump screening order or a dump clearance order has been served, or who is the owner or occupier of premises at which a dump control notice has been erected, may appeal under this section against the order or notice to a court of summary jurisdiction on such one or more of the grounds specified in subsection (2) as may be appropriate; and such a person is in this section referred to as an “appellant”.
+(2) The grounds referred to in subsection (1) are the following—
+(a) that there is some material error or defect in the order or notice;
+(b) where the order or notice allows a time for complying with a requirement, that the time allowed is not sufficient for the purpose;
+(c) that a requirement of the order or notice is unnecessary or unreasonable;
+(d) in the case of a dump screening order or a dump clearance order, that the order might lawfully have been served on someone else, and that it would have been equitable if it had been so served;
+(e) in the case of a dump clearance order, that a condition in the order is unnecessary or unreasonable.
+(3) An appeal under this section may be brought within the period of fourteen days beginning with the date on which, in the case of a dump screening order or a dump clearance order, the order was served on the appellant or, in the case of a dump control notice, the notice was erected, and shall be heard and determined by the court in a summary manner.
+(4) The appellant shall serve a copy of his notice of appeal on the Minister.
+(5) Where an appellant brings an appeal under this section on, or on grounds which include, the ground specified in subsection (2)(d), he shall serve a copy of his notice of appeal on the person referred to; and, in the case of an appeal on any other ground, the appellant may serve a copy of his notice of appeal on any other person having an estate or interest in the premises in question; and any person on whom a copy of a notice of appeal is served pursuant to this subsection is entitled to appear upon the hearing of the appeal and defend his interests.
+(6) An appellant, the Minister and every person on whom an appellant is permitted or required by subsection (5) to serve a copy of his notice of appeal are proper parties to the appeal.
+(7) On the determination of an appeal under this section, the court may make such order as it thinks fit with respect to the work to be executed, or other requirements to be complied with, by the appellant or any other party to the appeal, being a party who appeared upon the hearing of the appeal, or with respect to the contribution to be made by the appellant or any other such party to the cost of any such work or requirements, or with respect to the proportions in which any expenses which may be recoverable by the Minister are to be borne by the appellant or any other such party.
+(8) In exercising its powers under subsection (7), the court shall have regard—
+(a) as between an owner and an occupier, to the terms and conditions, whether contractual or statutory, of the tenancy, and the nature of the work or requirements in question; and
+(b) in any case, to the degree of benefit to be derived by the person concerned.
+(9) An appeal may be brought to the Supreme Court against the order of a court of summary jurisdiction under subsection (7) as though the appeal were an appeal from the judgment of a court of summary jurisdiction in a civil cause or matter, but the decision of the Supreme Court in the matter shall then be final.
+(10) Where an appeal is brought under this section against a dump screening order or a dump clearance order or a dump control notice, the order or notice is of no effect until the appeal is determined or abandoned.

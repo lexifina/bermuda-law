@@ -1,0 +1,2 @@
+# Power to screen or clear in certain cases
+17 Without prejudice to section 16(5), the Minister, where a requirement of a dump screening order or a dump clearance order is not complied with within the time specified by the order, may himself perform the requirement; and lie may recover before a court of summary jurisdiction any expenses incurred by him in so doing, without limit of amount, from the person upon whom the order was served, in the manner provided by law for the recovery of a liquidated debt.

@@ -1,0 +1,11 @@
+# Receptacles for commercial waste
+14 (1) If it appears to a collection authority that there is likely to be situated on any premises in its area commercial waste of a kind which, if the waste is not stored in receptacles of a particular kind, is likely to cause a nuisance or to be detrimental to the amenity of the locality in which the premises are situated, the authority may, by a notice served on the occupier of the premises, require him to provide at the premises receptacles for the storage of the waste which, subject to any regulations, are of a kind and number reasonably specified in the notice.
+(2) A person on whom a notice is served pursuant to subsection (1) may, within the period of twenty-one days beginning with the day on which the notice is served on him, appeal under this subsection against the notice to a court of summary jurisdiction on one or both of the following grounds—
+(a) that the kind or number of the receptacles specified in the notice is unreasonable;
+(b) that the waste is not likely to cause a nuisance or to be detrimental to the amenity of the locality in which the premises are situated.
+(3) Where a collection authority has a duty by virtue of a request made pursuant to section 10(1)(b) to arrange for the collection of commercial waste from any premises, then, subject to any regulations, the authority may, by a notice served on the occupier of the premises, require him to place the waste for collection, at a location specified in the notice, in receptacles which are of a kind and number so specified.
+(4) A person on whom a notice is served pursuant to subsection (3) may, within the period of twenty-one days beginning with the day on which the notice is served on him, appeal under this subsection against the notice to a court of summary jurisdiction on any of the following grounds—
+(a) that the location specified in the notice is unreasonable;
+(b) that the kind or number of the receptacles required by the notice is unreasonable;
+(c) that the receptacles in which commercial waste from the premises in question is placed for collection are adequate.
+(5) Where an appeal is brought under subsection (2) or (4) of this section against a notice, section 13(4)(a) to (c) apply in relation to the notice as they apply in relation to such a notice as is mentioned in section 13.
