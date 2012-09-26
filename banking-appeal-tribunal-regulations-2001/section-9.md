@@ -1,0 +1,8 @@
+# Preliminary hearing
+9 (1) Subject to paragraph (2), the secretary shall send to the appellant, the Authority and, in the case of an appeal under section 30(2) of the Act, to the institution concerned, a notice informing them of the time and place of the preliminary hearing which, unless the appellant and the Authority otherwise agree, shall be—
+(a) not earlier than 5 days after the date on which the notice is sent; and
+(b) not earlier than 21 days and not later than 35 days after the date of receipt by the secretary of the notice of appeal unless the chairman otherwise directs on the ground that he considers that the preliminary hearing should be held as a matter of urgency.
+(2) The preliminary hearing shall be in private and shall be heard by the chairman.
+(3) The appellant and the Authority and, in the case of an appeal under section 30(2) of the Act, the institution concerned may appear at the preliminary hearing and may be represented by a barrister and attorney or by any other person.
+(4) The chairman shall give such directions as he considers necessary or desirable for the conduct of the appeal and shall fix the time and place of the hearing at the preliminary hearing or, if there is no preliminary hearing, by notice to the parties and in the case of an appeal under section 30(2) of the Act, to the institution concerned.
+(5) Without prejudice to the generality of paragraph (4) and subject to regulation 21(2), the chairman shall consider whether any matters contained in a notice of supplementary grounds of appeal submitted under regulation 7(3) should be disclosed to any other person and may direct accordingly.
