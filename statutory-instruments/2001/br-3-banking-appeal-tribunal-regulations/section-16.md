@@ -1,0 +1,3 @@
+# Costs
+16 (1) Any costs or expenses directed to be paid under section 33(1) of the Act (which provides that the tribunal may give such directions as it thinks fit for the payment of costs or expenses by any party to the appeal) and required to be taxed shall be taxed by the Registrar of the Supreme Court.
+(2) A direction under section 33(1) of the Act in respect of the payment of costs by a party to the appeal shall, on application being made to the Supreme Court by the party to whom costs have been directed to be paid, be enforceable as if he had obtained a judgement of that Court in his favour.
