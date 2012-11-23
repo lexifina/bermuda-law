@@ -1,0 +1,4 @@
+BERMUDA
+BERMUDA MONETARY AUTHORITY (COMMEMORATIVE COIN SERIES) REGULATIONS 2012
+BR 82 / 2012
+The Minister of Finance, in exercise of the powers conferred by section 13 of the Bermuda Monetary Authority Act 1969 and on the recommendation of the Bermuda Monetary Authority, makes the following Regulations:
