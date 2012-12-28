@@ -1,0 +1,4 @@
+# Interim relief
+12 (1) An appellant may make application to the secretary that the Tribunal suspend operation of a direction or variation of a direction pending the determination of the appeal, pursuant to section 55(5) of the Act.
+(2) The Tribunal may determine the application on the basis of written representations, if the parties, and the operator of an authorised fund concerned in the case of an appeal by a service provider under section 55(2) of the Act, and the licensed fund administrator concerned in the case of appeal by a controller or officer under section 55(4) of the Act or a person under section 55(4A) of the Act, agree in writing, or it may direct the parties, the operator and the administrator concerned, to appear before it.
+(3) The Tribunal shall notify the parties of its determination giving a statement of its reasons, and may notify any person to whom a copy of the notice of appeal was served pursuant to regulation 4(2)(b) and (c).

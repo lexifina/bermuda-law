@@ -1,0 +1,9 @@
+# Evidence during hearing
+14 (1) At the hearing the chairman may, on the application of a party to the appeal or on his own motion, by direction given at the hearing or by notice in writing, require the parties or any other person, at a time and place given in the direction or notice, to attend and give evidence or to produce any document in that person’s custody or under his control which relates to any matter in question at the hearing.
+(2) Notwithstanding paragraph (1)—
+(a) no person other than the parties shall be required, in obedience to such direction or notice, to attend and give evidence or to produce any document unless the necessary expenses of his attendance are paid or tendered to him;
+(b) no person shall be compelled to give any evidence or to produce any document which he could not be compelled to give or produce if the hearing was a proceeding in a court of law; and
+(c) except where the chairman otherwise directs, a witness shall not be obliged to attend and give evidence or to produce any document in obedience to a direction or notice given by the chairman unless that direction was given or notice has been served on him not less than 5 days before the day appointed for the hearing.
+(3) In exercising the power conferred by paragraph (1), the chairman shall take into account the need to protect information which relates to a person who is not a party to the appeal, or which was communicated or obtained in confidence, or is commercially sensitive.
+(4) The chairman may set aside any direction or notice given under paragraph (1) on the application of the person to whom the direction or notice was given, but shall not do so without first notifying any person who applied for the direction or notice and considering any representations made by that person.
+(5) The secretary shall supply a copy of any document obtained under this regulation to any party to the appeal if that party does not already have a copy of the document.
