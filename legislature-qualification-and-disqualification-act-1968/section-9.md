@@ -1,0 +1,3 @@
+# Prohibition of application of public funds
+9 (1) No public funds applied to or for the use of an aided school or a maintained school shall be used to remunerate any member of the Senate or any member of the House of Assembly, after he has taken his seat in the House of Assembly, in respect of employment in a prescribed office.
+(2) If any member of the Senate or any member of the House of Assembly, after he has taken his seat in the House of Assembly, is remunerated out of any of the funds of an aided school or a maintained school in respect of employment in a prescribed office, that school shall forthwith cease to qualify for the grant of any public funds.
