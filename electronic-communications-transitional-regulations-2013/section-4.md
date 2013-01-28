@@ -1,0 +1,2 @@
+# References to Telecommunications Commission
+4 In the continuing application of the Telecommunications Act 1986 to communications providers pursuant to regulation 3, in accordance with section 33 of the Interpretation Act 1951 and as required by section 80(3) of the Electronic Communications Act 2011, any reference in the Telecommunications Act 1986 to the Telecommunications Commission shall be read as a reference to the Regulatory Authority established under the Regulatory Authority Act 2011.
