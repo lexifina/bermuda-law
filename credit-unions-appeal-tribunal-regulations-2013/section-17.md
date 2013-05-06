@@ -1,0 +1,3 @@
+# Procedure after hearing
+17 (1) The tribunal shall, after the close of a hearing, notify the parties and any credit union concerned of its determination in accordance with section 24(3) of the Act.
+(2) The tribunal may arrange for the publication of its determination and statement of its reasons, but in doing so shall have regard to the desirability of safeguarding confidential or commercially sensitive information given to the parties, or information which was communicated or obtained in confidence, or the identity of or information relating to any person who is not a party to the appeal, and for that purpose may make any necessary amendments to the text of its determination and statement of reasons.
