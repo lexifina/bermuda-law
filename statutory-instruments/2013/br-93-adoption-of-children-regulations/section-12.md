@@ -1,0 +1,6 @@
+# Registration in Adopter’s Register and investigations
+12 (1) Where an application has been made to the Director under section 6 of the Act, the Director shall inform the applicant in writing whether his name has been entered in the Adopter’s Register, and where it has not been entered, state the reason his name has not been entered.
+(2) Where the Director has been instructed by the Minister under section 6(3) of the Act to undertake investigations of a person whose name has been entered in the Adopter’s Register—
+(a) information given in the course of an investigation may be verified by any Government Department or body, if such verification has been requested by the Director in writing;
+(b) and where, in the course of an investigation, the person gives information of a medical, psychological, psychiatric, legal, or financial nature, the Director may require that the person produce documents verifying the information given, if the Director deems it relevant for the purpose of assisting him in making a recommendation whether an adoption order should or should not be made.
+(3) The Director shall forward a written report to the Minister of the results of any investigations undertaken.

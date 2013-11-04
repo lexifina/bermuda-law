@@ -1,0 +1,6 @@
+# Transferring child from Bermuda for adoption: Recommendation by Director
+11 (1) Where the Director is satisfied as to the matters provided for in section 48(2) (a), (b) and (c) of the Act, he shall grant permission in writing for the parent or guardian to place the child with the proposed adopter overseas, subject to—
+(a) such criteria and conditions as the Director may determine; and
+(b) an order being made by the court authorizing the child to be transferred to the proposed adopter overseas for the purpose of adoption.
+(2) Where the Director is not satisfied as to the matters provided for in section 48(2) (a), (b) and (c) of the Act, he shall make a written recommendation that an order transferring the care and custody of the child to the prospective adoptive parent should not be made stating the reasons for his recommendation, and shall inform the parent or guardian in writing of his recommendation and reasons.
+(3) Where there is insufficient information to grant permission or to make a recommendation under paragraph (1) or (2), the Director shall make that determination and prepare a written report stating the reasons for his determination, and shall inform the parent or guardian in writing of his determination and reasons.

@@ -1,0 +1,5 @@
+# Form of home study report and educational course
+13 (1) The Director may inquire into any or all the matters prescribed in Schedule 2, and shall include the results of his inquiry in the home study report.
+(2) Any fee required to be paid in respect of a home study shall be borne by the prospective adoptive parent, and the Director is not required to proceed with a home study unless he is satisfied that payment has been made, or will be made.
+(3) Where, during the course of a home study, information is given of a medical, psychological, psychiatric, legal, or financial nature, the Director may require that the prospective adoptive parent produce documents verifying the information given, if the Director deems it relevant for the purpose of assisting him in making a recommendation whether an adoption order should or should not be made.
+(4) In the best interests of the child, a prospective adoptive parent shall complete an educational course or courses, as recommended by the Director, on the subject of parenting an adopted child.
