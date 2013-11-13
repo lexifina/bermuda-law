@@ -1,0 +1,4 @@
+# Exceptions to 34A
+34B (1) In any case in which the application of section 34A would to any extent conflict (whether under subsection (2) or otherwise) with public policy, that section shall not apply to the extent that its application would so conflict.
+(2) The application of section 34A in relation to any action or proceedings shall conflict with public policy to the extent that its application would cause undue hardship to a person who is, or might be made, a party to the action or proceedings.
+(3) Where, under a law applicable by virtue of section 34A(1)(a) for the purposes of any action or proceedings, a limitation period is or may be extended or interrupted in respect of the absence of a party to the action or proceedings from any specified jurisdiction or country, so much of that law as provides for the extension or interruption shall be disregarded for those purposes.

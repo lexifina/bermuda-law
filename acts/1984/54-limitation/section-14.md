@@ -1,0 +1,4 @@
+# Separate application of section 13 in relation to different dependants
+14 (1) Where there is more than one person for whose benefit an action under the Fatal Injuries (Actions for Damages) Act 1949 [title 8 item 66] is brought, section 13(2)(b) shall be applied separately to each of them.
+(2) Subject to subsection (3), if by virtue of subsection (1) the action would be outside the time limit given by section 13(2) as regards one or more, but not all, of the persons for whose benefit it is brought, the court shall direct that any person as regards whom the action would be outside that limit shall be excluded from those for whom the action is brought.
+(3) The court shall not give such a direction if it is shown that if the action were brought exclusively for the benefit of the person in question it would not be defeated by a defence of limitation (whether in consequence of section 29 or an agreement between the parties not to raise the defence, or otherwise).

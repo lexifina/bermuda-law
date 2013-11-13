@@ -1,0 +1,2 @@
+# Set-off; counterclaim
+36 For the purposes of this Act, any claim by way of set-off or counterclaim shall be deemed to be a separate action and to have been commenced on the same date as the action in which the set-off or counterclaim is pleaded.

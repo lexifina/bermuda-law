@@ -1,0 +1,3 @@
+# Time limit; further conversion of chattel
+5 (1) Where any cause of action in respect of the conversion of a chattel has accrued to any person and, before he recovers possession of the chattel, a further conversion takes place, no action shall be brought in respect of the further conversion after the expiration of 6 years from the accrual of the cause of action in respect of the original conversion.
+(2) Where any such cause of action has accrued to any person and the period prescribed for bringing that action has expired and he has not during that period recovered possession of the chattel, the title of that person to the chattel shall be extinguished.

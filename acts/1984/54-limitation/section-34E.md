@@ -1,0 +1,2 @@
+# Application of this Part to arbitrations
+34E The references to any other limitation enactment in section 35 include references to sections 34A, 34B and 34D; and accordingly, in section 35(5), the reference to the time prescribed by a limitation enactment has effect for the purposes of any case to which section 34A a"pplies as a reference to the limitation period, if any, applicable by virtue of section 34A.

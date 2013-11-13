@@ -1,0 +1,6 @@
+# Cure of defective disentailing assurance
+28 (1) This section applies where—
+(a) a person entitled in remainder to an entailed interest in any land makes an assurance of his interest which fails to bar the issue in tail or the estates and interests taking effect on the determination of the entailed interest, or fails to bar those estates and interests only; and
+(b) any person takes possession of the land by virtue of the assurance.
+(2) If the person taking possession of the land by virtue of the assurance, or any other person whatsoever (other than a person entitled to possession by virtue of the settlement) is in possession of the land for a period of 20 years from the commencement of the time when the assurance could have operated as an effective bar, the assurance shall thereupon operate, and be treated as having always operated, to bar the issue in tail and the estates and interests taking effect on the determination of the entailed interest.
+(3) The reference in subsection (2) to the time when the assurance could have operated as an effective bar is a reference to the time at which the assurance, if it had then been executed by the person entitled to the entailed interest, would have operated, without the consent of any other person, to bar the issue in tail and the estates and interests taking effect on the determination of the entailed interest.

@@ -1,0 +1,18 @@
+# Time limit; recovery of mortgage debt or proceeds of sale of land; foreclosure
+22 (1) No action shall be brought to recover—
+(a) any principal sum of money secured by a mortgage or other charge on property (whether real or personal); or
+(b) proceeds of the sale of land,
+after the expiration of 20 years from the date on which the right to receive the money accrued.
+(2) No foreclosure action in respect of mortgaged personal property shall be brought after the expiration of 20 years from the date on which the right to foreclose accrued.
+But if the mortgagee was in possession of the mortgaged property after that date, the right to foreclose on the property which was in his possession shall not be treated as having accrued for the purposes of this subsection until the date on which his possession discontinued.
+(3) The right to receive any principal sum of money secured by a mortgage or other charge and the right to foreclose on the property subject to the mortgage or charge shall not be treated as accruing so long as the property comprises any future interest or any life insurance policy which has not matured or been determined.
+(4) Nothing in this section shall apply to a foreclosure action in respect of mortgaged land, but the provisions of this Act relating to actions to recover land shall apply to such an action.
+(5) Subject to subsections (6) and (7), no action to recover arrears of interest payable in respect of any sum of money secured by a mortgage or other charge or payable in respect of proceeds of the sale of land, or to recover damages in respect of such arrears shall be brought after the expiration of 6 years from the date on which the interest became due.
+(6) Where—
+(a) a prior mortgagee or other incumbrancer has been in possession of the property charged; and
+(b) an action is brought within one year of the discontinuance of that possession by the subsequent incumbrancer,
+the subsequent incumbrancer may recover by that action all the arrears of interest which fell due during the period of possession by the prior incumbrancer or damages in respect of those arrears, notwithstanding that the period exceeded 6 years.
+(7) Where—
+(a) the property subject to the mortgage or charge comprises any future interest or life insurance policy; and
+(b) it is a term of the mortgage or charge that arrears of interest shall be treated as part of the principal sum of money secured by the mortgage or charge,
+interest shall not be treated as becoming due before the right to recover the principal sum of money has accrued or is treated as having accrued.
