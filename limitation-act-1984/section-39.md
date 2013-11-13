@@ -1,0 +1,2 @@
+# Saving for other limitation enactments
+39 This Act shall not apply to any action or arbitration for which a period of limitation is prescribed by or under any other enactment (whether passed before or after the passing of this Act), or to any action or arbitration to which the Crown is a party and for which, if it were between subjects, a period of limitation would be prescribed by or under any other enactment.

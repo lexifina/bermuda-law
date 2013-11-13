@@ -1,0 +1,2 @@
+# Foreign judgments on limitation points
+34C Where a court in any country outside Bermuda has determined any matter wholly or partly by reference to the law of that or any other country (including Bermuda) relating to limitation, then, for the purposes of the law relating to the effect to be given in Bermuda to that determination, that court shall, to the extent that it has so determined the matter, be deemed to have determined it on its merits.
