@@ -1,0 +1,3 @@
+# Procedure after hearing
+18 (1) The Tribunal shall, after the close of a hearing, notify the parties of its determination in accordance with section 38(3) of the Act.
+(2) The Tribunal may arrange for the publication of its determination, statement of its reasons, but in doing so shall have regard to the desirability of safeguarding confidential or commercially sensitive information given to the parties, or information which was communicated or obtained in confidence, or the identity of or information relating to any person who is not a party to the appeal, and for that purpose may make any necessary amendments to the text of its determination and statement of reasons.
