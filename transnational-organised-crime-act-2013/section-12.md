@@ -1,0 +1,6 @@
+# Repatriation of victims of trafficking
+12 (1) When a victim of trafficking who is an unauthorized migrant requests to return to his country of origin or the country in which he had the right of permanent residence at the time he was trafficked, the relevant Bermuda authorities shall facilitate such return, including arranging for the necessary travel documents, without undue delay and with due regard for his rights and safety.
+(2) When, upon the decision of the relevant Bermuda authorities a victim of trafficking in persons who is an unauthorized migrant, is returned to the jurisdiction of which he is a national or in which he had the right of permanent residence at the time he was trafficked, the relevant Bermuda authorities shall ensure that such return shall be with due regard for his safety and for the status of any legal proceedings related to the fact that the person is a victim of trafficking.
+(3) Any decision to return a victim of trafficking in persons to his country shall be considered in light of the principle of non-refoulement and of the prohibition of inhumane or degrading treatment.
+(4) In this section—
+“non-refoulement” means the principal of international law which forbids the rendering or the handing over of a true victim of persecution to their persecutor (inclusive of a state persecutor).
