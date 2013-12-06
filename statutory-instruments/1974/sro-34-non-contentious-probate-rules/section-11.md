@@ -1,0 +1,2 @@
+# Execution of will of blind or illiterate testator
+11 Before admitting to proof a will which appears to have been signed by a blind or illiterate testator or by another person by direction of the testator, or which for any other reason gives rise to doubt as to the testator having had knowledge of the contents of the will at the time of its execution, the Registrar shall satisfy himself that the testator had such knowledge.

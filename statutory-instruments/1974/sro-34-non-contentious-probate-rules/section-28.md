@@ -1,0 +1,3 @@
+# Grants to attorneys
+28 Where a person entitled to a grant resides inside or outside Bermuda, and does not himself apply for a grant, administration may be granted to his lawfully constituted attorney for his use and benefit, limited until such person shall obtain a grant or in such other way as the Registrar may direct:
+Provided that where the person so entitled is an executor, administration shall not be granted to his attorney without notice to the other executors, if any, unless such notice is dispensed with by the Registrar.

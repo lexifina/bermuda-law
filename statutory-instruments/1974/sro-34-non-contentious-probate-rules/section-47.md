@@ -1,0 +1,2 @@
+# Affidavit in support of application to Registrar for issue of subpoena to produce papers
+47 An application under rule 46 for the issue by the Registrar of a subpoena to bring in a will shall be supported by an affidavit setting out the grounds of the application, and if any person served with a subpoena denies that the will is in his possession or control he may file an affidavit to that effect.

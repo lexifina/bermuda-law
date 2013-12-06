@@ -1,0 +1,2 @@
+# Notice to Attorney General of intended application for grant where Government may be entitled to bona vacantia
+35 In any case in which it appears that the Government is or may be beneficially interested in the estate of a deceased person, notice of intended application for a grant shall be given by the applicant to the Attorney-General and the Registrar may direct that no grant shall issue within a specified time after the notice has been given.
