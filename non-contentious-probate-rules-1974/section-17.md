@@ -1,0 +1,3 @@
+# Evidence of foreign law
+17 Where evidence of the law of a country outside Bermuda is required on any application for a grant, the affidavit of any person who practises, or has practised, as a lawyer in that country and who is conversant with its law may be accepted by the Registrar unless the deponent is a person claiming to be entitled to the grant or his attorney, or is the spouse of any such person or attorney:
+Provided that the Registrar may in special circumstances accept the affidavit of any other person who does not possess the qualifications required by this rule if the Registrar is satisfied that by reason of such person’s official position or otherwise he has knowledge of the law of the country in question.

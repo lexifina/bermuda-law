@@ -1,0 +1,10 @@
+# Grants in case of mental or physical incapacity
+31 (1) Where the Registrar is satisfied that a person entitled to a grant is incapable, by reason of mental disorder within the meaning of the Mental Health Act 1968 [title 11 item 36], of managing and administering his property and affairs, or is by reason of physical incapacity incapable of managing his affairs, administration for his use and benefit, limited during his incapacity or in such other way as the Registrar may direct, may be granted—
+(a) in the case of mental incapacity, to the person authorized by the Judge under section 52 of the Mental Health Act 1968 [title 11 item 36], to apply for the grant (which shall be deemed to be the conduct of legal proceedings on behalf of the patient), or
+(b) where there is no person so authorized, or in the case of physical incapacity—
+(i) if the person incapable is entitled as executor and has no interest in the residuary estate of the deceased, to the person entitled to the residuary estate of the deceased;
+(ii) if the person incapable is entitled otherwise than as executor or is an executor having an interest in the residuary estate of the deceased, to the person who would be entitled to a grant in respect of his estate if he had died intestate,
+or to such other person as the Registrar may by order direct.
+(2) Unless the Registrar otherwise directs no grant of administration shall be made under this rule unless all persons entitled in the same degree as the person incapable have been cleared off.
+(3) In the case of mental incapacity, notice of intended application for a grant under this rule shall be given to the Chief Justice or, in his absence, the Puisne Judge as the judicial authority for the purposes of Part IV of the Mental Health Act 1968 [title 11 item 36], except where the person incapable is an executor with no beneficial interest in the estate.
+(4) In the case of physical incapacity, notice of intended application for a grant under this rule shall, unless the Registrar otherwise directs, be given to the person alleged to be so incapable.

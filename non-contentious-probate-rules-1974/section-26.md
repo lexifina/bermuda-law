@@ -1,0 +1,3 @@
+# Grants to persons having spes successionis
+26 Where the beneficial interest in the whole estate of the deceased is vested absolutely in a person who has renounced his right to a grant and has consented to administration being granted to the person or persons who would be entitled to his estate if he himself had died intestate, administration may be granted to such person or one or more (not exceeding four) of such persons:
+Provided that a surviving spouse shall not be regarded as a person in whom the estate has vested absolutely unless he would be entitled to the whole of the estate, whatever its value may be.
