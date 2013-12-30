@@ -1,0 +1,2 @@
+# 17/2 Judgment to be obeyed without demand
+2 A person directed by a judgment to pay money or do any other act is bound to obey the judgment without any demand for payment or performance, and, if no time is therein expressed, he is bound to do so immediately after the judgment has been made (except as to costs, the amount whereof may require to be ascertained by taxation), unless the court shall enlarge the time by any subsequent order.

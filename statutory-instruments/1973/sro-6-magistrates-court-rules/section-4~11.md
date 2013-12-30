@@ -1,0 +1,2 @@
+# 15/4 Defendant
+4 If the plaintiff appears, and the defendant does not appear or sufficiently excuse his absence, or neglects to answer when duly called, the court may, upon proof of service of the notice of trial where such notice is required by these Rules proceed to hear the suit and give judgment on the evidence adduced by the plaintiff, or may postpone the hearing of the same and direct notice of such postponement to be given to the defendant.

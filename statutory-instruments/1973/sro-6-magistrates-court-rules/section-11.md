@@ -1,0 +1,2 @@
+# 4/11 Endorsement of date and place of service on summons
+11 Where a summons is served by delivering a copy thereof to any person or (where this has been authorized by a magistrate under Rule 1) by leaving it upon any premises, the person serving the summons shall prior to so serving it endorse upon such copy a note setting out the time and place of such service for the information of the defendant.

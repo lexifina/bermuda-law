@@ -1,0 +1,2 @@
+# 6/2 Notice and service thereof
+2 Before such an order is made the court shall cause such notice as it thinks reasonable to be served on or left at the dwelling-house of the person with whom or under whose care the defendant is and also, unless the court sees good reason to the contrary, in the case of an infant not residing with or under the care of his guardian to be served on or left at the dwelling-house of his guardian.

@@ -1,0 +1,2 @@
+# 17/5 Payment by instalments
+5 Where any judgment directs the payment of money, the court may, for any sufficient reason, order that the amount shall be paid by instalments, with or without interest. Such order may be made at the time of giving judgment, or at any time afterwards, and may be rescinded or varied, upon sufficient cause, at any time, Such order may state that, upon failure of any instalment, the whole amount remaining unpaid shall forthwith become due.

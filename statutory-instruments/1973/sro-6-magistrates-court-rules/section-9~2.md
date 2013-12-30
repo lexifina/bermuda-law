@@ -1,0 +1,3 @@
+# 5/9 Where change of interest, court may make order enabling suit to proceed
+9 Where, after the institution of a suit, any change or transmission of interest or liability occurs in relation to any party to the suit, or any party to the suit dies or becomes incapable of carrying on the suit, or the suit in any other way becomes defective or incapable of being carried on, any person interested may obtain from the court any order requisite for curing the defect, or enabling or compelling proper parties to carry on the proceedings:
+Provided that any person served with such an order may, within such time as the court in the order directs, apply to the court to discharge or vary the order.

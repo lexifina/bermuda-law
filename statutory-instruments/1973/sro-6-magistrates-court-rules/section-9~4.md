@@ -1,0 +1,5 @@
+# 26/9 Form and service of order
+9 (1) An attachment of earnings order shall be in Form 23.
+(2) Costs incurred on an execution and not recovered thereunder shall not be included in any judgment debt or costs the payment of which is secured by an attachment of earnings order.
+(3) An attachment of earnings order and any order varying or discharging such an order shall be served on the debtor and on the person to whom the order is directed. Service shall be effected in the manner prescribed in Order 4 for the service of an ordinary summons with the modification that where the order is directed to a corporation which has requested the court that any communication relating to the debtor or the class of persons to whom he belongs shall be directed to the corporation at a particular address, service may, if the Clerk thinks fit, be effected on the corporation at that address.
+(4) Where an attachment of earnings order is made to enforce a judgment or order of the Supreme Court, a copy of the attachment of earnings order and of any order discharging it shall be sent by the Clerk to the Registrar of the Supreme Court.
