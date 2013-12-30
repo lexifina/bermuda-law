@@ -1,0 +1,2 @@
+# 5/7 Distinct causes of action in one summons
+7 In case a summons states two or more distinct causes of action by and against the same parties, and in the same rights, the court may, either before or at the hearing, if it appears inexpedient to try the different causes of action together, order that the trials be had separately, and make such order as to adjournment and costs as justice requires.

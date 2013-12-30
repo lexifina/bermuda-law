@@ -1,0 +1,2 @@
+# 20/3 Procedure
+3 The practice and procedure as between the defendant and third party shall to the same mutatis mutandis as the practice and procedure as between a plaintiff and defendant, and the court may make such direction as appears proper for having the question between the defendant and third party most conveniently determined and as to the mode and extent in or to which the third party shall be bound or made liable by the judgment in the suit and may make such order or give such judgment against the third party as is required.

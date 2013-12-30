@@ -1,0 +1,4 @@
+# 25/6 Procedure: general
+6 (1) Subject to this Order and the Act the procedure on an application under the Act shall be the same as procedure in a suit brought under the jurisdiction conferred by the Magistrates Act 1948 [title 8 item 15] with such variations as the circumstances of the case may require or a magistrate may direct.
+(2) Subject to this Order, these Rules shall apply to an originating application under the Act as if such application were a summons under Order 2.
+(3) Without derogation from section 32(2) of the Act any document required to be served under Part IV or Part V of the Act (not being a notice to terminate a tenancy) may be served in the same manner as a summons may be served under Order 4 and the provisions of that order as to proof of service shall apply accordingly.

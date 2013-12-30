@@ -1,0 +1,2 @@
+# 2/8 Division of causes of action
+8 It shall not be lawful for any plaintiff to divide any cause of action for the purpose of bringing two or more actions, but any plaintiff having a cause of action in excess of the amount for which an action might be brought under the Act may abandon the excess and, on proving his case, recover such amount; and the judgment of the court in respect of that amount shall be in full discharge of all demands in respect of such cause of action, and entry of judgment shall be made accordingly.

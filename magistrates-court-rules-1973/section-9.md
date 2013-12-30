@@ -1,0 +1,2 @@
+# 4/9 Where violence threatened
+9 Where the bailiff or person charged with the service of any summons on any person is prevented by the violence or threats of such person, or any other person in concert with him, from personally serving the summons, it shall be sufficient to inform the person to be served of the nature of the summons, and to leave the summons as near such person as is practicable,

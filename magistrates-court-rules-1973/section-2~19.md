@@ -1,0 +1,3 @@
+# 19/2 Costs in discretion of court
+2 The costs of every suit and of each particular proceeding therein shall be in the discretion of the court; and the court shall have full power to award and apportion costs, in any manner it may deem just, and, in the absence of any express direction by the court, costs shall abide the event of the suit:
+Provided that the court shall not order that successful party in a suit to pay to the unsuccessful party the costs of the whole suit; although the court may order the successful party, notwithstanding his success in the suit, to pay the costs of any particular proceeding therein.

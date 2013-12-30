@@ -1,0 +1,2 @@
+# 2/7 Alteration of return day
+7 Where for any reason the summons has not been served and sufficient time does not remain before the return day thereof for compliance with Rule 6 the summons may be returned to the Clerk who shall refer the matter to a magistrate for such magistrate to fix another return day and the Clerk shall then endorse the same on the summons, and the Clerk shall forthwith inform the plaintiff or his counsel of such other return day.

@@ -1,0 +1,2 @@
+# 5/11 In suit for recovery of land, any person not named as defendant, may, by leave, appear
+11 If it shall appear to the court, at or before the hearing of a suit for the recovery of land that any person who is not a party to the suit is in possession, either by himself or by his tenant, of the land or of some definite part thereof, such person may by the leave of the court be allowed to appear and defend.

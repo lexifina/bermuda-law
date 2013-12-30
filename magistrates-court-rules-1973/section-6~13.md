@@ -1,0 +1,2 @@
+# 26/6 Notice to employer
+6 Without prejudice to the powers conferred by section 31 (7) of the Act the Clerk may, at any stage in the proceedings, send to any person appearing to have the debtor in his employment, a notice requesting him to give the Clerk, within such period as may be specified in the notice, a statement of the debtor’s earnings and anticipated earnings with such particulars as may be so specified.

@@ -1,0 +1,2 @@
+# 5/4 Joint and several demand
+4 Where a person has a joint and several demand against two or more persons, either as principals or sureties, it is not necessary for him to bring before the court as parties to a suit concerning that demand all the persons liable thereto, and he may proceed against any one or more of the persons severally or jointly and severally liable. Where a defendant claims contribution, indemnity or other remedy or relief over against any other person, he may apply to have such person made a party to the suit.

@@ -1,0 +1,2 @@
+# 19/4 Stay of proceedings pending payment of security for costs
+4 Where the court orders costs to be paid, or security to be given for costs, by any party the court may, if it thinks fit, order all proceedings by or on behalf of that party in the same suit, or connected therewith, to be stayed until the costs are paid or security given accordingly, but such order shall not supersede the use of any other lawful method of enforcing payment.

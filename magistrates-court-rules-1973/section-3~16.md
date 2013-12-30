@@ -1,0 +1,2 @@
+# 19/3 Security for costs
+3 Where a plaintiff does not, or does not ordinarily reside in Bermuda, the court may, either on its own motion or on the application of any defendant, if it sees fit, require any plaintiff in any suit, either at the commencement or at any time during the progress thereof, to give security for costs to the satisfaction of the court, by deposit or otherwise, or to give further or better security.

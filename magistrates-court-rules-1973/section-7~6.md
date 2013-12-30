@@ -1,0 +1,2 @@
+# 18/7 Penalty on failure to comply with order to answer or for discovery
+7 If any party fails to comply with any order to answer interrogatories, or for discovery production or inspection of documents, he shall, if a plaintiff, be liable to have his suit dismissed for want of prosecution, and, if a defendant, to have his defence, if any, struck out, and to be placed in the same position as if he had not defended, and the party interrogating may apply to the court for an order to that effect, and an order may be made accordingly.
