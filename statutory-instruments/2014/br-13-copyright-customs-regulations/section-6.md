@@ -1,0 +1,2 @@
+# Security
+6 The person giving the notice shall give security or further security within such time and in such manner, whether by bond or by deposit of a sum of money, as the Collector of Customs may require, in respect of any liability or expense which the Collector of Customs may incur in consequence of the notice by reason of the detention of any article or anything done to an article detained.
