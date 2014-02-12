@@ -1,0 +1,6 @@
+# Copying by librarian to supply other libraries
+5 (1) For the purposes of section 61 of the Act, the conditions specified in paragraph (2) are prescribed as the conditions which must be complied with when the librarian makes and supplies to another prescribed library a copy of any article in a periodical or, as the case may be, of the whole or part of a published edition of a literary, dramatic or musical work required by that other prescribed library.
+(2) The prescribed conditions are—
+(a) that the other prescribed library is not furnished with more than one copy of the article or of the whole or part of the published edition;
+(b) that, where the requirement is for a copy of more than one article in the same issue of a periodical, or for a copy of the whole or part of a published edition, the other prescribed library furnishes a written statement to the effect that it is a prescribed library and that it does not know, and could not by reasonable inquiry ascertain, the name and address of a person entitled to authorise the making of the copy; and
+(c) that the other prescribed library shall be required to pay for the copy a sum not less than the cost (including a contribution to the general expenses of the library) attributable to its production.
