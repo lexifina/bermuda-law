@@ -1,0 +1,2 @@
+# General Purpose
+2 This General Determination sets out the procedures and obligations ICOL Holders that provide retail and wholesale mobile telephone services to the Bermuda public including voice and data are required to adhere to from 1 March 2014. It includes the basis upon which a request to unlock a cellphone may be accepted or declined by a mobile carrier, the time within which a request to unlock a cellphone must be acted upon and provisions designed to ensure that the public are informed of these obligations by the mobile carriers.
