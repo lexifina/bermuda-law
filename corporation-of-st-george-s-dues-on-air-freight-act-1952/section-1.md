@@ -1,0 +1,2 @@
+# Interpretation
+1 In this Act “the Civil Airport” means the civil airport in St. George’s Parish, comprising that part of Kindley Air Force Base designated by the Government of the United States of America for the use of the Government of Bermuda as a civil airport together with any other land owned or leased by the Government of Bermuda adjacent thereto and used for the purposes of civil aviation.
