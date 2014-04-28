@@ -1,0 +1,4 @@
+TABLE OF CONTENTS
+1 Citation
+2 Rules for housing associations
+SCHEDULE THE [ ] HOUSING ASSOCIATION RULES
