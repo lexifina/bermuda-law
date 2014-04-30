@@ -1,0 +1,3 @@
+# Withdrawal of privileges and immunities
+7 (1) Where the Governor is satisfied that the privileges and immunities granted in relation to a United Kingdom diplomatic mission in an overseas country, or to persons connected with that mission, are less than the privileges and immunities granted by this Act in relation to the mission of that country, or to persons connected with that mission, he may by instrument in writing withdraw, in relation to that mission or persons connected with that mission all or any of the privileges and immunities granted by this Act.
+(2) The Governor shall cause any such instrument to be published in the Gazette.
