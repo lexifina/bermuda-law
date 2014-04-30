@@ -1,0 +1,13 @@
+# Certain provisions of the Convention to have the force of law
+5 (1) This Act and the Convention shall operate to the exclusion of any provision of law that deals with a matter dealt with by this Act or the Convention so far as it is made to apply by virtue of an order made by the Governor under section 4.
+(2) Subject to this section the provisions of articles 1, 22 to 24 inclusive and 27 to 40 inclusive of the Convention shall have the force of law in respect of any mission.
+(3) For the purpose of those articles of the Convention having the force of law by virtue of subsection (2)—
+(a) a reference in those provisions to the receiving State shall be read as a reference to Bermuda;
+(b) a reference in those provisions to a national of the receiving State shall be read as a reference to a person who is deemed to possess Bermudian status;
+(c) the reference in paragraph 1 of article 22 to agents of the receiving State shall be read as including a reference to Bermudian police officers and persons exercising a power of entry to premises under any statutory provision;
+(d) a waiver by the head of a mission or by a person for the time being performing the functions of head mission, shall be deemed to be a waiver by that overseas country which the mission represents;
+(e) the provisions of articles 35, 36 and 40 shall be treated as granting the privileges or immunities that those articles require to be granted;
+(f) the reference in paragraph 1 of article 36 to such laws and regulations as the receiving State may adopt shall be read as including a reference to subsection (4) of this section, to section 6 and to any regulations made under this Act for the purposes of that paragraph as having the force of law by virtue of this section;
+(g) the reference in paragraph 4 of article 37 and paragraph 2 of article 38 to the extent to which privileges and immunities are admitted by the receiving State shall be read as references to the extent to which privileges and immunities are granted by section 8 of this Act; and
+(h) the reference in paragraph 1 of article 39 to the Ministry for Foreign Affairs or such other ministry as may be agreed shall be read as a reference to such Minister as the Governor may designate.
+(4) Nothing in subsection (1) affects the application of any provision of the law relating to quarantine or prohibiting or restricting the importation into, or the exportation from Bermuda of any animals, plants or goods, but this subsection does not prejudice the immunity from suit or from civil or criminal process that any person may have by virtue of subsection (2).
