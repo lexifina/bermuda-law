@@ -1,0 +1,3 @@
+# Exception for emergencies
+8 (1) The master of any ship to which these Regulations apply may require a seafarer to work any hours of work that are necessary for the immediate safety of the ship, persons on board the ship, or for the purpose of giving assistance to another ship or to a person in distress at sea, and a seafarer shall not unreasonably refuse to work those additional hours.
+(2) As soon as practicable after the normal situation has been restored following a situation covered by paragraph (1), the master shall ensure that any seafarer who has not had the rest periods defined in regulation 4 during the emergency is provided with an adequate compensatory rest period.
