@@ -1,0 +1,11 @@
+# Records and format of records
+9 (1) The master, or a person authorised by him, shall maintain records of each seafarer’s hours of rest in English and the records shall—
+(a) be completed monthly;
+(b) show for each day in the month a column of hours into which can be recorded whether or not the seafarer was working or resting;
+(c) provide for a column to show a total hours of rest for each 24 hour period;
+(d) provide for a column in which can be recorded the reasons for any hours of rest that are less than the minimum; and
+(e) provide for a column to show the total weekly hours of rest in any seven day period.
+(2) The recording format for the hours of rest shall be that as set out in a Bermuda Shipping Notice or a format recognisably similar and may be in electronic format, provided that all the seafarers in the ship have ready access to their records at any reasonable time during working hours.
+(3) A shipowner or a master may elect to use a commercially produced system for recording hours of rest, provided that it contains the information in paragraph (1) and is in a format equivalent to that prepared by the International Labour Organization.
+(4) At the end of each month each seafarer and the master or a person authorised by him shall endorse the record for each seafarer and each seafarer shall be given a copy of the endorsed record, or shall be provided with access to examine at any time his own records, and where access to the records is electronic, the seafarer shall have access to facilities that permit him to readily obtain, at any reasonable time during working hours, a printed copy of his record since commencing employment on board.
+(5) The master or the person authorised by the master to endorse the records for any seafarer shall, when doing so, satisfy himself that any deviations from the minimum hours of rest in regulation 4 are explained and that the seafarer concerned has received compensatory rest, where necessary, and shall bring to the attention of the master any persistent deviations, and the master, if persistent deviations are evident or if they are brought to his attention, shall take steps to ensure that the table referred to in regulation 7 is amended as necessary to avoid them subsequently.
