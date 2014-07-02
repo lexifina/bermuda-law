@@ -1,0 +1,6 @@
+# Inward bound ship or aircraft; collection of postal packets
+52 (1) The master of an inward bound ship or the commander of an inward bound aircraft shall as far as practicable collect all postal packets on board his ship or, as the case may be, his aircraft, which are within the exclusive privilege of the Postmaster-General, and are not ship letters as defined by this Act, and shall enclose them in some bag or other proper covering addressed to the Postmaster-General, and shall without delay deliver such packets to the proper officer of the Post Office demanding them, or if no demand is made by that officer, then at the post office with which he can first communicate.
+(2) If the master of an inward bound ship or the commander of an inward bound aircraft does not duly deliver any postal packet in accordance with this section he commits an offence against this Act:
+Punishment on summary conviction: a fine of $720 for every such packet.
+(3) If the master of an inward bound ship or the commander of an inward bound aircraft breaks bulk or makes entry before the postal packets on board his ship have been delivered in accordance with this section he commits an of offence against this Act:
+Punishment on summary conviction: a fine of $1,440.

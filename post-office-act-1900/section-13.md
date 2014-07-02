@@ -1,0 +1,2 @@
+# Provision of stamps
+13 The Minister may from time to time cause to be provided proper and sufficient postage stamps, post cards, postal envelopes, postal orders, money orders, and plates or dies and other implements for impressing, engraving, printing or denoting the rates or duties of postage, which shall be kept in such custody as the Minister may from time to time direct; and such stamps shall be printed, made or impressed from such plates, dies or other implements as the Minister shall from time to time direct.

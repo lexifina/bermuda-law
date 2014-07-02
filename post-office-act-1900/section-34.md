@@ -1,0 +1,2 @@
+# Delivery and receipt of parcels
+34 Parcels received in Bermuda by sea mails or air mails shall be delivered to the addressees, or their authorized agents, after due entry and payment of the import duties thereon, at any post office in Bermuda to which such parcels may under Post Office Regulations be sent for delivery; and parcels intended for transmission from Bermuda by sea mails or air mails shall be receivable at any post office at which such parcels are under Post Office Regulations receivable for transmission.

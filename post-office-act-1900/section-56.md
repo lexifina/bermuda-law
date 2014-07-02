@@ -1,0 +1,8 @@
+# Ship letters
+56 (1) The following letters (in this Act referred to as “ship letters”), that is to say, letters of the owners, charterers, or consignees of inward bound ships, and of the owners, consignees, or shippers of goods on board those ships, when complying with the conditions hereinafter mentioned, shall, if required to be delivered at the port of the ship’s arrival, be delivered to the owners, charterers, consignees, or shippers by the master free of inland postage, and if delivered elsewhere in Bermuda, be delivered by post on payment of inland postage only if the postage is prepaid, or of double the inland postage if the postage is unpaid, or of double the deficiency if the postage is insufficiently prepaid:
+Provided that—
+(a) the owner, charterer, or consignee shall be described as such on the superscription of the letter, or the envelope or other covering containing the same; and
+(b) in the case of owners, shippers, or consignees of goods, it shall also appear by the ship’s manifest that they have goods on board the ship.
+(2) Any person who with intent to evade any postage falsely superscribes a letter, or the envelope or other covering containing the letter, as being the owner or charterer or consignee of the ship conveying the letter, or as the owner, or the shipper or the consignee of goods shipped on the ship, commits an offence against this Act:
+Punishment on summary conviction: a fine of $720.
+(3) The foregoing provisions of this section shall apply pari passu, in relation to letters carried in an aircraft as those provisions apply in relation to letters carried in a ship.

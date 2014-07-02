@@ -1,0 +1,2 @@
+# Master of outward bound ship to receive and convey mails
+51 The master of an outward bound ship shall receive on board his ship every mail bag tendered to him by an officer of the Post Office for conveyance, and having received it shall, on arriving at the port or place of his destination, deliver it without delay at the post office with which he can first communicate, and if he fails to comply with this section he shall forfeit six hundred dollars.

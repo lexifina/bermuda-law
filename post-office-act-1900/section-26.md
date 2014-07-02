@@ -1,0 +1,2 @@
+# Regulations; prohibition of sending indecent matter
+26 Post Office Regulations may provide for preventing the sending or delivery by post of seditious writings and of indecent or obscene prints, paintings, photographs, lithographs, engravings, books, or cards, or of other indecent, seditious or obscene articles, or of letters, newspapers, newspaper supplements, publications, packets, or post cards having thereon, or on the covers thereof, any words, marks or design, of an indecent, seditious, obscene, libellous, or grossly insulting or offensive character.

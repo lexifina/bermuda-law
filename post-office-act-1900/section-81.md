@@ -1,0 +1,6 @@
+# Restriction on use of words or marks relating to Post Office
+81 (1) A person shall not, without authority from the Postmaster-General, place or maintain in or on any house, wall, door, window, box, post, pillar, or other place belonging to him or under his control, any of the following words, letters, or marks, that is to say—
+(a) the words “Post Office”; or
+(b) the words “letter box” accompanied with words, letters or marks, which signify or imply, or may reasonably lead the public to believe, that it is a post office letter box; or
+(c) any words, letters, or marks, which signify or imply, or may reasonably lead the public to believe, that any house or place is a post office, or that any box is a post office letter box.
+(2) Any person who, when required by a notice given by the Postmaster-General to remove or efface any such words, letters, or marks as aforesaid, or to remove or effectually close up any letter box belonging to him or under his control which has been a post office letter box, does not forthwith comply with the request, commits an offence against this Act: Punishment on summary conviction: a fine of $288, and if the offence is continued after a previous conviction, a fine of $144 for every day during which the offence so continues.

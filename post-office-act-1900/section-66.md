@@ -1,0 +1,8 @@
+# Post Office Regulations as to fraud
+66 (1) The Minister may by Post Office Regulations make provision—
+(a) for the prevention or detection of frauds; and
+(b) with respect to the forging or counterfeiting or fraudulent alteration of postage stamps, or the use or employment of counterfeit or fictitious postage stamps, or stamps fraudulently altered, or previously used for the prepayment of postage; and
+(c) for stopping or withholding delivery of any postal packet bearing or appearing to bear any counterfeit, fictitious or used postage stamp, or any counterfeit representation of any postage stamp; and
+(d) for detaining or withholding either temporarily or permanently any postal packet or document or the cover or envelope of any postal packet or document bearing any counterfeit or fictitious postage stamp or any postage stamp which has been apparently previously used for the prepayment of postage, or appearing or purporting to be prepaid by means of any such counterfeit or used postage stamp or counterfeit representation of any postage stamp; and
+(e) as to the mode of dealing with any postal packet posted or tendered for transmission by post and bearing or appearing to bear any false, fraudulent, counterfeit or fictitious postage stamp, or any stamp which has been apparently previously used to prepay any postal packet.
+(2) For the purposes of this section “fictitious postage stamp” means any facsimile or imitation or representation, whether on paper or otherwise, of any stamp or denoting any rate of postage, including any stamp for denoting a rate of postage whether of the United Kingdom or of any other part of Her Majesty’s dominions or of any foreign country.

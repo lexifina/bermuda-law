@@ -1,0 +1,4 @@
+# Examination of postal packets in absence of addressee
+29 (1) If a customs officer has reason to suspect that any postal packet arriving in Bermuda by parcel post, other than a registered postal packet, contains any goods liable to import duty, he may detain that packet and, in the absence of the addressee, require any officer of the Post Office in the presence of a customs officer to open the packet and submit the contents thereof to that officer for examination.
+(2) If an officer of the Post Office has reason to suspect that any postal packet arriving in Bermuda (other than a postal packet to which subsection (1) applies) contains any goods liable to import duty he may detain and submit such packet to a customs officer who, in the absence of the addressee but in the presence of an officer of the Post Office, shall open the packet and examine the contents thereof.
+[Section 29 replaced by 1991:86 effective 26 July 1991]

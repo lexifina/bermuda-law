@@ -1,0 +1,5 @@
+# Improper retention of postal packets on ship or aircraft
+55 (1) Any person who, being either the master or one of the officers or crew of an inward bound ship or a passenger thereof, knowingly has in his baggage, or in his possession, or custody, any postal packet, except a postal packet not within the privilege of the Postmaster-General, after the master has sent any part of the postal packets on board his ship to the Post Office, commits an offence against this Act:
+Punishment on summary conviction: a fine of $288 for every such packet; and if he detains any such packet after demand made, either by a customs officer, or by an officer of the Post Office, or by any person authorized by an officer of the Post Office to demand the postal packets on board the vessel, he commits an offence against this Act:
+Punishment on summary conviction: a fine of $720 for every postal packet so detained.
+(2) The foregoing provisions of this section shall apply, pari passu, in relation to the commander or crew of an inward bound aircraft as those provisions apply in relation to the master, officers and crew of an inward bound ship.

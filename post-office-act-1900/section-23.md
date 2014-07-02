@@ -1,0 +1,2 @@
+# Other mail not to delay letters
+23 Where the despatch or delivery from a post office of letters would be delayed by the despatch or delivery therefrom at the same time of newspapers, book-packets, pattern or small packets, and post cards, or any of them, then those newspapers, packets or cards, or any of them, may, subject and according to Post Office Regulations, be detained in such post office until the despatch or delivery next following that by which they would ordinarily be despatched or delivered.
