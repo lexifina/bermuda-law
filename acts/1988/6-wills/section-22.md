@@ -1,0 +1,2 @@
+# General devise
+22 A devise of the land of the testator, or of the land of the testator in any place, or in the occupation of any person mentioned in his will, or otherwise described in a general manner, and any other general devise which would describe a leasehold estate, if the testator had no freehold estate which could be described by it, shall be construed so as to include the leasehold estates of the testator or any of them to which such description extends as well as freehold estates, unless a contrary intention appears by the will.

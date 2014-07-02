@@ -1,0 +1,2 @@
+# Devise of estate tail
+28 Where any person to whom any real estate is devised for an estate tail or an estate in quasi entail, dies in the lifetime of the testator leaving issue who would be inheritable under such entail and any such issue are living at the time of the death of the testator, then the devise shall not lapse, but shall take effect as if the death of such person had happened immediately after the death of the testator, unless a contrary intention appears by the will.

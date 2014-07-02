@@ -1,0 +1,2 @@
+# Subsequent conveyance or acts
+19 No conveyance or other act, made or done subsequently to the execution of a will, of or relating to any real or personal estate referred to in the will (except an act which revokes the will in accordance with section 14 or 16), prevents the operation of the will with respect to the estate or interest in that real or personal estate of which the testator has power to dispose by will at the time of his death.

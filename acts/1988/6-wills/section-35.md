@@ -1,0 +1,3 @@
+# Saving for petty officers and other ranks in Royal Navy and Royal Marines
+35 This Act shall not prejudice or affect any of the provisions contained in the Act of the Parliament of the United Kingdom entitled “An act to amend and consolidate the Laws relating to the pay of the Royal Navy”, respecting the wills of petty officers and seafarers in the Royal Navy and non-commissioned officers of marines, and marines, so far as relates to their wages, pay, prize money, bounty money, and allowances, or other moneys payable in respect of services in the Royal Navy.
+[Section 35 amended by 2012 : 30 s. 27 effective 30 June 2014]

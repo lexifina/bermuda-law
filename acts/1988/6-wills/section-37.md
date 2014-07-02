@@ -1,0 +1,2 @@
+# Wills executed outside Bermuda; general rule for formal validity
+37 A will shall be treated as properly executed if its execution conformed to the internal law in force in the territory where it was executed, or in the territory where, at the time of its execution or of the testator’s death, he was domiciled or had his habitual residence, or in a state of which, at either of those times, he was a national.
