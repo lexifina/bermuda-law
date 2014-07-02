@@ -1,0 +1,2 @@
+# Certain requirements to be treated as formal
+39 Where (whether in pursuance of this Part or not) a law in force outside Bermuda falls to be applied in relation to a will, any requirement of that law whereby special formalities are to be observed by testators answering a particular description, or witnesses to the execution of a will are to possess certain qualifications, shall be treated, notwithstanding any rule of that law to the contrary, as a formal requirement only.
