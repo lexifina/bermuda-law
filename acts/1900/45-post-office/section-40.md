@@ -1,0 +1,2 @@
+# Revenue Act 1898 applies to parcels
+40 Except as otherwise provided by this Act, or by Post Office Regulations, all the provisions of the Revenue Act, 1898 [title 14 item 10], applicable to the importation, landing and entry of goods imported in the ordinary course of trade by ordinary freight ships, and with respect to penalties and forfeitures in respect of such goods, and to the proceedings for enforcing such penalties and forfeitures, and with respect to the disposition of goods forfeited, shall, as far as practicable, apply to goods imported by parcel post.

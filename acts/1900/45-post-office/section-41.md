@@ -1,0 +1,4 @@
+# Insurance of parcels to or from United Kingdom
+41 The Postmaster-General may under the sanction of, and subject to the such conditions as may be approved by, the Minister, enter into any arrangement or agreement with the Post Office Department of the United Kingdom for the insurance of parcels transmitted by parcel post between Bermuda and the United Kingdom, or elsewhere through the United Kingdom; and in case of any loss or damage occurring in respect of any such parcel for which the Government of Bermuda is liable, the Postmaster-General may make good such loss out of any Post Office funds in his hands, or if there are no such funds available for the purpose, may, with the sanction of the Minister, receive the amount out of the Consolidated Fund for the purpose.
+[Section 41 amended by 1991:86 effective 26 July 1991]
+42 [repealed by 1974:18]

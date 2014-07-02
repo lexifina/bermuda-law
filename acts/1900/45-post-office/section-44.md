@@ -1,0 +1,2 @@
+# Transmission of valuable items
+44 Coin, bank notes, currency notes, negotiable instruments payable to bearer, platinum, gold or silver, manufactured or not, precious stones, jewels and other valuable articles shall not be transmitted through the post except in a closed registered cover or by parcel post, and if any such article as aforesaid is posted in contravention of this section it shall be dealt with as prescribed by Post Office Regulations.

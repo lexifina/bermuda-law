@@ -1,0 +1,2 @@
+# Authority to give notices on behalf of Postmaster-General
+84 Any person having authority in that behalf, either general or special, may, on behalf of the Postmaster-General, give any notice or make any claim or demand which the Postmaster-General might give or make, and every such notice so given, or claim or demand so made, shall be deemed to have been given and made by the Postmaster-general on behalf of the Government.

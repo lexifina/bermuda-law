@@ -1,0 +1,2 @@
+# Additional postage
+8 Where a postal packet is not prepaid, or is insufficiently prepaid, the postage to be charged on such packet shall be double the amount of the postage chargeable thereon if such packet has been prepaid, and, if it is insufficiently prepaid, then double the amount of the deficiency, but Post Office Regulations may provide for the payment of any less amount so that the amount paid is not less than the unpaid or insufficiently paid postage.

@@ -1,0 +1,2 @@
+# When transmission may be refused
+28 If any postal packet is posted, or is sent by post, in contravention of this Act; or of Post Office Regulations, the transmission thereof may be refused and the packet may, if necessary, be detained and opened in the Post Office, and shall either be returned to the sender thereof, or forwarded to its destination, and in either case shall be charged with such additional postage at a rate not exceeding the letter rate of postage or without any additional charge, as may be directed by Post Office Regulations.

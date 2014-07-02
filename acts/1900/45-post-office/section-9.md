@@ -1,0 +1,2 @@
+# Payment of additional postage
+9 Where the postage chargeable on a postal packet has not been prepaid or has been insufficiently prepaid and the postage payable on such packet under section 8 is not paid by the addressee on the delivery thereof to him, or if the packet is refused, or the addressee is dead or cannot be found, then such postage shall be paid by the sender on the same being returned to him.
