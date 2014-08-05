@@ -1,0 +1,4 @@
+# Payment and administration of child’s ex gratia allowance
+3C (1) In all cases of a child’s ex gratia allowance payable under section 3B, the whole or any part of the allowance may be paid either to the mother, father, or legal guardian of the child, or to the child, or to such person or persons as the Minister may in his discretion consider to be fit and proper persons to apply the same for the benefit of the child, and after the payment the Minister is free of all liability in respect of the payment.
+(2) Any ex gratia allowance payable to or for a child ceases on that child attaining the age of eighteen years except that the payment continues to be made to or for a child over the age of eighteen and under twenty-one years if that child is wholly or mainly dependent.
+[Section 3C inserted by 1990:73 effective 20 December 1983. NB reference to 21 years in subsection (2) not amended by 2001:20 – see s.6(3) & Sch 1 of that Act.]
