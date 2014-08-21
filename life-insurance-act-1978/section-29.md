@@ -1,0 +1,6 @@
+# Transfer of ownership
+29 (1) Where in a contract or in an agreement in writing between an insurer and an insured it is provided that a person named in the contract or in the agreement has, upon the death of the insured, the rights and interests of the insured in the contract—
+(a) the rights and interests of the insured in the contract do not, upon the death of the insured, form part of his estate; and
+(b) upon the death of the insured, the person named in the contract or in the agreement has the rights and interests given to the insured by the contract and by this Act and shall be deemed to be the insured.
+(2) Where the contract or agreement provides that two or more persons named in the contract or in the agreement shall, upon the death of the insured, have successively, on the death of each of them, the rights and interests of the insured in the contract, this section applies successively, mutatis mutandis, to each of such persons and to his rights and interests in the contract.
+(3) Notwithstanding any nomination made pursuant to this section, the insured may, prior to his death, assign, exercise rights under or in respect of, surrender or otherwise deal with the contracts as if the nomination had not been made, and may alter or revoke the nomination by agreement in writing with the insurer.

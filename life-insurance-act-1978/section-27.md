@@ -1,0 +1,2 @@
+# Insured dealing with contract
+27 Notwithstanding the designation of a beneficiary the insured may assign, exercise rights under or in respect of, surrender or otherwise deal with the contract as provided therein or as provided in this Act or as may be agreed with the insurer; but not so as to affect the rights of a beneficiary designated irrevocably unless the beneficiary has reached the age of majority and has consented.

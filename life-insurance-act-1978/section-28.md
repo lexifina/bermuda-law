@@ -1,0 +1,4 @@
+# Insured entitled to dividends
+28 (1) Notwithstanding the designation of a beneficiary irrevocably, the insured is entitled during the lifetime of the person whose life is insured to the dividends or bonuses declared on a contract and to the premiums paid in advance thereon unless the contract otherwise provides.
+(2) Unless the insured otherwise directs, the insurer may apply the dividends or bonuses declared on the contract for the purpose of keeping the contract in force.
+(3) Subject to the contract and to any direction by the insured to the contrary, dividends, bonuses and premiums paid in advance but unused held to the credit of the insured shall, upon the happening of the event upon which the insurance money becomes payable, be added to and form part of the insurance money then payable.

@@ -1,0 +1,2 @@
+# Power of court to award compensation
+46 When in any proceedings the Court grants specific performance of any contract or any other relief to an insurer, an insured, a beneficiary or any person acting on their behalf it may in addition award that party compensation for any loss he has sustained by reason of any breach of the provisions of this Act against whom the order of specific performance or other relief has been granted or awarded.
