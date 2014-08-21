@@ -1,0 +1,3 @@
+# Default in paying premium
+10 (1) Where a cheque or other bill of exchange, or a promissory note or other written promise to pay, is given for the whole or part of a premium and payment is not made according to its tenor, the premium or part thereof shall be deemed not to have been paid.
+(2) Where a remittance for or on account of a premium is sent in a registered letter to an insurer and is received by him, the remittance shall be deemed to have been received at the time of the registration of the letter.

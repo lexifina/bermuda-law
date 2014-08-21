@@ -1,0 +1,8 @@
+# Insurance money payable in instalments
+44 (1) Subject to subsections (2) and (3), where insurance money is payable in instalments and a contract, or an instrument signed by the insured and delivered to the insurer, provides that a beneficiary has not the right to commute the instalments or to alienate or assign his interest therein, the insurer shall not, unless the insured subsequently directs otherwise in writing, commute the instalments or pay them to any person other than the beneficiary, and the instalments are not, in the hands of the insurer, subject to any legal process except an action to recover the value of necessaries supplied to the beneficiary or his minor children.
+(2) Subject to subsection (3) the Court may from time to time upon the application of the beneficiary and upon at least ten days notice, declare that in view of special circumstances, the beneficiary shall have the right to—
+(a) commute instalments of insurance money and when a basis for commutation is not provided in the contract and the applicant and the insurer are unable to agree upon a basis, it shall be fixed by the Court having regard to all the material circumstances;
+(b) alienate or assign his interest in the insurance money.
+(3) Subsection (2)(a) shall not apply to payments under an annuity contract or under a group insurance contract in which the right of the group lives insured to designate persons to receive the insurance money is removed or restricted and the insurance money is payable to the persons described therein.
+(4) After the death of the beneficiary subsection (1) shall not apply.
+(5) In this section, “instalments” includes insurance money held by the insurer under section 45.

@@ -1,0 +1,2 @@
+# Power of court
+40 Where the court finds that the evidence furnished under section 34 is not sufficient or that a presumption of death is not established, it may order that the matters in issue be decided in an action brought or to be brought, or may make such other order as it deems just respecting further evidence to be furnished by the claimant, publication of advertisements, further inquiry or any other matter or respecting costs.

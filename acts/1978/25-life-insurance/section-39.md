@@ -1,0 +1,2 @@
+# Declaration as to presumption of death
+39 Where a claimant alleges that the person whose life is insured should be presumed to be dead by reason of his not having been heard of for seven years and there is no other question in issue except a question under section 38, the insurer or the claimant may, before or after action is brought and upon at least thirty days notice, apply to the Court for a declaration as to presumption of the death and the court may make the declaration.
