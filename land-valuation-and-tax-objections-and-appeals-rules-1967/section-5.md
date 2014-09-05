@@ -1,0 +1,4 @@
+# Procedure prior to hearing of objections
+5 (1) On receipt by the Tribunal of the documents specified in section 16 of the Act, the Chairman of the Tribunal shall fix a date for the hearing of the objection, which shall not be less than twenty-one days after the receipt by the Tribunal of the said documents.
+(2) The Chairman shall then serve upon the objector, the Director and any other person who is the owner of the valuation unit affected by the objection or who, in the opinion of the Chairman, should be given an opportunity to be heard, written notice of the date fixed for the hearing thereof, and, on such other person, a copy of the notice of objection and a copy of the Director’s reply thereto given pursuant to section 15 of the Act, also.
+(3) Prior to or at the hearing of an objection, the Tribunal shall have power to require the production of any document or map which it considers necessary for the proper determination of the objection.
