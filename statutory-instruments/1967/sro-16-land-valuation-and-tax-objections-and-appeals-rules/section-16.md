@@ -1,0 +1,3 @@
+# Procedure on appeal under section 44
+16 Any person who desires to appeal under section 44 of the Act to a court of summary jurisdiction against a decision of the Tax Commissioner given under section 43 of the Act shall commence his appeal by serving upon the Tax Commissioner a notice of appeal in Form D in the First Schedule and shall at the same time send a copy of the notice of appeal to the Senior Magistrate, who shall then fix a date for the hearing of the appeal and serve upon the person who has signed the notice of appeal and the Tax Commissioner written notice of the date so fixed.
+[Section 16 amended by 1996:15 effective 24 November 1997]
