@@ -1,0 +1,5 @@
+# Person unlawfully at large
+19 (1) Any person who, having been sentenced to imprisonment, or otherwise having been ordered to be committed to and detained in a prison, is unlawfully at large, may be arrested by a police officer or prison officer without warrant and taken to the place in which he is required to be detained.
+(2) Where any person sentenced to imprisonment is unlawfully at large at any time during his adjudged term of imprisonment, then, unless the Minister otherwise directs, no account shall be taken, in calculating the period for which he is liable to be detained in prison, of any time during which he is absent from prison.
+(3) Subsection (2) shall apply to a person who has been ordered to be committed to prison in default of payment of any sum of money or of entering into any recognizance as if he were sentenced to imprisonment; but shall not apply to a person sentenced to a term of imprisonment imposed by a court martial.
+[Section 19 subsections (1) and (2) amended by 2001:29 s.11(1) & Sch effective 29 October 2001]

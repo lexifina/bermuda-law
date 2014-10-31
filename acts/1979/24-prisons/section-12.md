@@ -1,0 +1,21 @@
+# Release on licence; fixed term
+12 (1) Without prejudice to sections 13 and 14, but subject to subsection (2) the Parole Board, having given due consideration to any recommendation made by the Commissioner of Prisons, may, in respect of any prisoner direct that instead of the prisoner being granted remission of his adjudged term of imprisonment under section 10, such prisoner shall, at any time on or after having completed one-third of his adjudged term of imprisonment, be released on licence under this section, but the provisions of this section are subject to section 70P of the Criminal Code.
+(2) Subsection (1) shall not apply to a prisoner serving a term of imprisonment for life (other than a term of imprisonment imposed by a court martial) or a prisoner who has been sentenced to be detained during Her Majesty’s pleasure.
+(3) A prisoner eligible for release on licence under this section shall be considered, in the first instance, three months prior to the due date on which he first becomes so eligible, and thereafter at such intervals as may be deemed appropriate by the Parole Board.
+(4) A person released on licence under this section shall until the expiration of his adjudged term of imprisonment be under the supervision of a probation officer or of such society or person as may be specified in the licence and shall comply with such other requirements as may be so specified; except that the Parole Board may at any time modify or cancel any such requirements.
+(5) If before the expiration of his adjudged term of imprisonment the Parole Board is satisfied that a person released has failed to comply with any requirement for the time being specified in the licence, the Parole Board may by order recall him to a prison; and thereupon he shall be liable to be detained in a prison until the expiration of his adjudged term of imprisonment and, if at large, shall be deemed to be unlawfully at large.
+(5A) Where the Parole Board has recalled a prisoner to a prison for failure to comply with any requirements specified in the licence, the prisoner shall be entitled to appear and be heard in person before the Parole Board, before a final decision is made on whether he will be recalled to prison.
+(6) The Parole Board may release on licence a prisoner recalled to and detained in a prison under subsection (5) at any time before the expiration of his adjudged term of imprisonment; and subsections (3) and (4) shall apply in the case of a person released under this subsection as they apply in the case of a person released under subsection (1).
+(7) Notwithstanding anything in this section, where the unexpired part of the adjudged term of imprisonment of a person released under subsection (1) is less than six months, subsections (3), (4) and (5) shall apply to him subject to the following modifications—
+(a) the period for which he is under supervision under subsection (4), and is liable to recall under subsection (5), shall be a period of six months from the date of his release under subsection (1);
+(b) if he is recalled under subsection (5) the period for which he may be detained thereunder shall be whichever is the shorter of the following periods—
+(i) the remainder of such period of six months; or
+(ii) the part of the adjudged term of imprisonment which was unexpired on the date of his release under subsection (1), reduced by any time during which he has been so detained since that date,
+and he may be released on licence under subsection (6) at any time before the expiration of that period.
+(8) For the purposes of this section—
+(a) a person ordered to be committed to prison—
+(i) in default of payment of a sum adjudged to be paid on a conviction or of the amount of a recognizance; or
+(ii) by reason of any refusal or inability to enter into a recognizance,
+shall be treated as having been sentenced to a term of imprisonment for the term for which he is so committed; and
+(b) consecutive terms of imprisonment shall be treated as one term.
+[Section 12 subsections (1), (3), (4), (5) & (6) amended, and (5A) inserted, by 2001:2 s.13 & Sch 2 effective 1 October 2001; subsections (1) and (2) amended by 2001:29 s.11(1) and Sch effective 29 October 2001]
