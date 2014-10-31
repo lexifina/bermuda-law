@@ -1,0 +1,2 @@
+# Commutation of death sentence to sentence of imprisonment
+21 Where Her Majesty, or the Governor acting on Her Majesty’s behalf, pardons any person who has been sentenced to death on condition that he serves a term of imprisonment, that person shall be deemed to have been sentenced by the court before which, or (as the case may be) the court martial by which, he was convicted, to imprisonment for such term.

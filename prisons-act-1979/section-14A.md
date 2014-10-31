@@ -1,0 +1,8 @@
+# Transfer to or from Bermuda; release on licence
+14A (1) Where the Minister is satisfied that reciprocal provisions have been made by the law of any of the countries listed in the Schedule (in this section referred to as “the listed countries”) for the release of prisoners on licence or parole (whatever nomenclature is used) and for their supervision after having been released and until the adjudged term of imprisonment expires, the Minister may—
+(a) transfer from a prison in Bermuda, a prisoner who is a citizen or permanent resident of any of the listed countries, and who is eligible for release on licence or parole under section 12, 13 or 14;
+(b) arrange for the conveyance of the prisoner by as direct a route as possible to the listed country of which he is a citizen or permanent resident;
+(c) receive on transfer from any such country by a similar route as in paragraph (b), a person possessing Bermudian status serving a term of imprisonment in that country who is eligible for release on parole or licence under the applicable provisions of its law.
+(2) A prisoner who is transferred to Bermuda under this section shall be subject to the provisions of this Act relating to his supervision while on licence or parole, recall to prison or revocation of his licence or parole and shall, for such purposes, be deemed to have been released on licence by the Minister upon the date when he landed in Bermuda pursuant to the transfer.
+(3) The Minister may, by order, add to or remove from the Schedule, the name of any country.
+(4) Section 6 of the Statutory Instruments Act 1977 [title 1 item 3] shall not apply to an order made under this section.
