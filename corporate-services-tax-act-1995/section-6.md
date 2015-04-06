@@ -1,0 +1,4 @@
+# Provider to register with Tax Commissioner, etc.
+6 (1) A provider of corporate services shall, within thirty days after the coming into operation of this Act or, within thirty days after becoming a provider of corporate services, if that happens after the coming into operation of this Act, apply to the Tax Commissioner, in such form and manner as the Tax Commissioner shall determine, for registration under this section, and thereupon the Tax Commissioner shall register him under this section.
+(2) For the purposes of subsection (1) the Tax Commissioner shall establish and maintain, in such manner as he shall determine, a register of providers of corporate services.
+(3) A provider of corporate services who fails, without reasonable excuse, to comply with subsection (1) is guilty of an offence and liable, on conviction by a court of summary jurisdiction to a fine not exceeding $1,000.
