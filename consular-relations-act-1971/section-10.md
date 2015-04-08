@@ -1,0 +1,7 @@
+# Commonwealth representatives
+10 (1) The Governor, acting in his discretion, in relation to any such Commonwealth representatives as are described in subsection (2), may by Order provide for conferring all or any of the privileges and immunities which are conferred by or may be conferred under this Act on consular posts or on persons connected with consular posts.
+(2) The Commonwealth representatives in relation to whom is section applies are—
+(a) persons in the service of the Government of any country within the Commonwealth (other than the United Kingdom) who hold office appearing to the Governor to involve the performance of duties substantially corresponding to duties which, in the case of a foreign sovereign power, would be performed by a consular officer; and
+(b) any person for the time being recognised by Her Majesty’s Government in the United Kingdom as the chief representative in Bermuda of a state or province of a country within the Commonwealth.
+(3) The privileges and immunities which may be conferred under this section shall include those which in other cases may, if an agreement so requires, be conferred by virtue of Schedule 2.
+(4) The provisions of this section shall have effect in relation to persons in the service of the Government of the Republic of Ireland as they have effect in relation to persons in the service of the Government of a country within the Commonwealth.
