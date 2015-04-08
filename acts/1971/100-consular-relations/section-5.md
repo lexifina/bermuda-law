@@ -1,0 +1,8 @@
+# Offences committed on board ship; jurisdiction
+5 (1) The Governor, acting in his discretion, may by Order make provision for securing that, where an offence is alleged to have been
+committed on board any ship by the master or a member of the crew and the ship belongs to a State specified in the Order, proceedings for the offence instituted otherwise than at the request or with the consent of a consular officer of that State are not entertained by any Court in Bermuda; unless—
+(a) the offence is alleged to have been committed by or against a person who is a Commonwealth citizen or is otherwise comprised in the definition of “national of the receiving State” in section 1(2), or against a person other than the master or a member of the crew; or
+(b) the offence is one involving the tranquillity or safety of a port, or the law relating to safety of life at sea, public health, oil pollution, wireless telegraphy, immigration or customs or is of any other description specified in the Order; or
+(c) the offence is one comprised in the definition of “grave crime” in section 1(2).
+(2) For the purposes of this section, an offence which affects the property of any person shall be deemed to have been committed against him.
+(3) For the purposes of this section, any document purporting to be signed by or on behalf of a consular officer and stating that he has requested or consented to the institution of any proceedings shall be sufficient proof of that fact unless the contrary is shown.
