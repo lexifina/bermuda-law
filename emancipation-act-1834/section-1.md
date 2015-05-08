@@ -1,0 +1,2 @@
+# Extension of rights, privileges and franchises
+1 All rights, privileges and franchises which upon and from and after 1 August 1834, shall or may be enjoyed by white persons, shall, upon, from and after 1 August 1834, be equally enjoyed by free black and coloured persons; and upon, from and after 1 August 1834, all free black and coloured persons shall be subject to and liable to all the pains, penalties, duties, conditions, restrictions, disabilities and liabilities to which white persons shall be subject and liable.
