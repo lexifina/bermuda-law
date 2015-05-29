@@ -1,0 +1,2 @@
+# Waiver
+16 Notwithstanding anything in the foregoing provisions of this Ordinance, it shall not be deemed to constitute a contravention of this Ordinance to carry out any construction work, which would otherwise constitute such a contravention, if the Corporation has, by notice in writing, granted permission for such work to be carried out and, where any such permission is made subject to any conditions, then if such conditions are duly complied with.
