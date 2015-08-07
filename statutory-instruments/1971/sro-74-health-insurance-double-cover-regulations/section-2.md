@@ -1,0 +1,10 @@
+# Double cover
+2 (1) Where a person is insured under more than one policy of insurance—
+(a) if one of the policies of insurance is effected in pursuance of Part III of the Health Insurance Act 1970 [title 18 item 9] relating to compulsory insurance, then any benefits payable under any other policy of insurance shall abate to the extent that benefits are payable in respect of the same treatment under the policy of insurance effected in pursuance of Part III of the Health Insurance Act 1970;
+(b) if none of the policies of insurance is effected in pursuance of Part III of the Health Insurance Act 1970 relating to compulsory insurance, then the cost of treatment received by the insured person shall, to the extent that it is covered by one or more of the policies of insurance, be apportioned between the insurers in proportion to the total amounts payable under the respective policies of insurance in respect of that treatment.
+(2) Where a person insured under a policy of insurance receives in-patient treatment in respect of a particular disability and, before the full benefit entitlement for in-patient treatment under that policy is exhausted, he—
+(a) is discharged from hospital; and
+(b) subsequent to such discharge, becomes insured under a second policy of insurance,
+then, without prejudice to section 31(2) of the Health Insurance Act 1970, the liability for any claim for in-patient treatment in respect of the same disability arising after the effective date of the second policy shall be that of the insurer under the second policy and not that of the insurer under the first-mentioned policy.
+(3) The foregoing provisions of this regulation shall apply to all policies of insurance and approved schemes effected in pursuance of the Health Insurance Act 1970 and shall have effect notwithstanding any condition in any such policy or scheme which purports to exclude the liability of an insurer in respect of expenses which may be recovered under any other policy or scheme.
+[Regulation 2 amended by 2004:22 effective 1 January 2006]
