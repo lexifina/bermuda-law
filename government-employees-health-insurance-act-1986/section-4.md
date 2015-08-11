@@ -1,0 +1,5 @@
+# Establishment of Fund
+4 (1) There shall continue to be maintained a Government Employees Health insurance Fund, which shall be used for the payment of expenses incurred by insured persons and their enrolled dependants for medical attention and treatment, including treatment and maintenance in hospital, and for dental attention and treatment, in accordance with this Act, and for the payment of such clerical and incidental expenses connected with the management of the Scheme as may be approved by the Minister.
+(2) Without prejudice to subsection (1), the Minister may pay out of the Fund the cost of premiums in respect of reinsurance of expenses payable from the Fund.
+(3) Without prejudice to subsection (1), the Minister may contract out to a private insurer the provision of dental benefits, including all matters relating to the processing of claims and their administration, and may pay out of the Fund the cost of premiums in respect of coverage for dental benefits.
+[Section 4 subsection (2) inserted by 1999:3 s.2 deemed effective 1 July 1998; subsection (1) amended, and (3) inserted, by 2000:34 s.4 effective 1 September 2000]

@@ -1,0 +1,3 @@
+# Management of Fund
+6 (1) The moneys paid into the Fund in accordance with section 5 shall be invested, managed and controlled by the Minister in accordance with the Public Funds Act 1954 [title 15 item 1]; so, however, that the Minister shall pay into the Consolidated Fund for the credit of the Fund any interest or dividends received from time to time in respect of the investment of the Fund.
+(2) The Minister shall cause the annual accounts of the revenue and expenditure of the Fund during the year ending the 31st day of March, together with a statement of assets and liabilities of the Fund, after being audited and certified by the Auditor, to be laid before each House of the Legislature.
