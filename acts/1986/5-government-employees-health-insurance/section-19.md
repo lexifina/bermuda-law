@@ -1,0 +1,3 @@
+# Abatement of benefits
+19 (1) Nothing in this Act derogates from or abridges any provision of the Government Employees (Disability etc. Benefits) Act 1953 [title 9 item 15] or of the Workmen’s Compensation Act 1965 [title 18 item 3]; so, however, that any sum of money paid to or on behalf of a government employee under section 5 of the Government Employees (Disability etc. Benefits) Act 1953 or section 34 of the Workmen’s Compensation Act 1965, as the case may be, shall be deducted from any sum falling to be paid under this Act.
+(2) Any sum payable for hospital treatment in respect of war veterans and their dependants under the Pensions and Gratuities (War Service) Act 1947 [title 9 item 39] shall be deducted from any sum falling to be paid under this Act.

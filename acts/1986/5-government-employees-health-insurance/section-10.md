@@ -1,0 +1,5 @@
+# Benefits
+10 (1) Subject to sections 7 and 9 and this section, an insured person shall be eligible to receive out of the Fund, in respect of himself and any enrolled dependants any or all of the benefits specified in an order made by the Minister under section 12 in respect of the expenses set out in such order, wherever such expenses may have been incurred.
+(2) Where expenses are incurred by an insured person or his enrolled dependants by reason of or arising from pregnancy, the insured person shall be entitled to the benefits under the order as may be appropriate to the case.
+(3) An insured person shall not be eligible to receive payment out of the Fund for standard health benefit in respect of an enrolled dependant who is entitled to a subsidy under section 2 of the Health Insurance Act 1970.
+(4) The Committee may direct the Accountant General to pay benefits out of the Fund to the person to whom the insured person or his enrolled dependant is indebted instead of to the insured person.

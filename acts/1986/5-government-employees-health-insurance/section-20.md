@@ -1,0 +1,7 @@
+# Termination of eligibility for benefits
+20 (1) Where a person has ceased to be a government employee, he shall be eligible to receive benefits under this Act in respect of any injury or illness occurring or commencing before the date when he ceased to be a government employee:
+Provided that he shall not be eligible to receive benefits as aforesaid in respect of any expenses incurred by him after six months from the date when he ceased to be a government employee.
+(2) Without prejudice to subsection (1), where a person ceases to be a government employee in the course of a month, he and his enrolled dependants shall continue to be insured for the duration of that month.
+(3) A government employee whose dependant has ceased to be enrolled shall be entitled to receive all benefits in respect of any injury or illness occurring to such dependant before the date when he ceased to be so enrolled; and the proviso to subsection (1) shall apply to such dependant as it does to the government employee himself.
+(4) For the purposes of subsection (1), a government employee shall be deemed to have ceased to be a government employee if he has been granted unpaid leave and has made no contribution to the Fund in respect of such period of unpaid leave.
+(5) For the purposes of subsection (1) it shall be the duty of the Head of the Department to certify to the Accountant General that an employee was injured or became ill prior to the date when he ceased to be employed.

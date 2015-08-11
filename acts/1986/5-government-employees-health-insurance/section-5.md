@@ -1,0 +1,4 @@
+# Contributions to Fund
+5 (1) Every insured person shall make contributions to the Fund in accordance with this Act, and such contributions shall be made at the appropriate rate specified in an order made by the Minister under section 12.
+(2) The Accountant General shall, in respect of every contribution made under subsection (1), pay into the Fund out of the Consolidated Fund an amount equivalent to each contribution.
+(3) Where a contribution has paid under this section and it is subsequently discovered that the person in respect of whom the contribution was paid is not eligible to be covered by insurance under this Act, such person shall be deemed to have been insured under this Act during the period in respect of which such contribution was paid and any such contribution shall not be refunded.
