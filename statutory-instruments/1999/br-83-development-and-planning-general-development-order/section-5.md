@@ -1,0 +1,4 @@
+# Directions restricting development
+5 (1) If the Minister is satisfied that it is expedient that any particular development of any of the classes specified in the Schedule should not be carried out unless planning permission is granted on an application in that behalf to the Development Applications Board, he may direct that permission granted by paragraph 4 shall not apply to that development.
+(2) Notice of any direction made under subparagraph (1) shall, as soon as may be after it has been made, be served by the Minister on the owner and occupier of every part of the land affected, and such direction shall come into force in respect of any part of the land on notice thereof being served on the occupier of that part, or if there is no occupier, on the owner thereof.
+[Paragraph 5 subparagraph (1) amended by BR 80 / 2015 para. 5 effective 25 August 2015]
