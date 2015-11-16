@@ -1,0 +1,4 @@
+# Contempt in face of a tribunal
+7 (1) Where any person is guilty of contemptuous conduct in the face of a tribunal the person presiding may order his arrest by a police officer and shall forthwith report the conduct to the Supreme Court.
+(2) When a report under subsection (1) is made to the Supreme Court it shall order the offender to be brought before it and, after hearing such evidence as it considers necessary shall, if it is satisfied that there has been contemptuous conduct, deal with the offender under section 4(2).
+(3) When a person is arrested under subsection (1) and cannot immediately be brought before the Supreme Court he shall within twenty-four hours be brought before a magistrate, or a police officer entitled to release persons on bail by virtue of section 462 of the Criminal Code [title 8 item 31], who may release him on bail or may order his continued detention until he can be brought before the Supreme Court.

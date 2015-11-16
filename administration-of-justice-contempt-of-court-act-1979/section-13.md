@@ -1,0 +1,2 @@
+# Company directors and partners
+13 Where a company or partnership is guilty of contempt no director or officer of the company or partner in the partnership shall likewise be guilty if he can show that he had no knowledge of the contempt and that in the ordinary course of business he could not have been expected to have such knowledge or if he can show that the contempt was committed contrary to his expressed wishes.
