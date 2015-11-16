@@ -1,0 +1,2 @@
+# Composition of courts of summary jurisdiction
+4 Except as otherwise expressly provided in any Act, a court of summary jurisdiction shall be composed of a magistrate sitting alone; and, except as aforesaid, a magistrate sitting alone shall accordingly have and exercise all such powers and jurisdiction as are conferred upon a court of summary jurisdiction by or under any Act in respect of proceedings, causes or other matters, whether civil or criminal or of any other nature.

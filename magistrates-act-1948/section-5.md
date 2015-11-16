@@ -1,0 +1,5 @@
+# Allocation of magistrates’ duties by Senior Magistrate
+5 Subject to any directions given by the Chief Justice, the Senior Magistrate shall allot the duties of the several magistrates in such manner as he may think expedient; and without prejudice to the generality of the foregoing provisions of this section the Senior Magistrate, having regard to the number of the magistrates and to the nature and volume of the various matters from time to time falling to be dealt with by them—
+(a) may appoint the places and days at and upon which he and the other magistrate or magistrates shall attend and sit;
+(b) may specify as between one and the other the nature of the proceedings or other matters to be dealt with by himself and by the other magistrate or magistrates; and
+(c) may direct where it appears to him expedient in the circumstances to do so, any particular proceedings or matters to be taken before himself or before any other particular magistrate, at such place and upon such date as he thinks fit.

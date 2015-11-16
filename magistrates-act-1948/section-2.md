@@ -1,0 +1,5 @@
+# Appointment of magistrates
+2 (1) The Governor after consultation with the Chief Justice shall appoint two or more persons to be magistrates in Bermuda;1 and of the persons so appointed not fewer than two shall be barristers.
+1 [See also section 89 of the Constitution ]
+(2) The Governor after consultation with the Chief Justice shall appoint one of the magistrates who is a barrister to be the Senior Magistrate.
+(3) In any case where any magistrate is absent or where an office of magistrate is temporarily vacant or where any magistrate is for any reason disqualified for sitting, then in any such case the Governor, if he thinks it expedient to do so, may appoint a person to act temporarily as a magistrate or as the Senior Magistrate (according to the circumstances) during the period of the absence or vacancy or in respect of the matter in connection with which the disqualification arises; and nothing in this subsection shall be construed to require any person appointed to be a barrister.

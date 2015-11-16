@@ -1,0 +1,2 @@
+# No privilege to barristers and attorneys
+20 Barristers and attorneys may be sued and proceeded against before a court of summary jurisdiction in like manner as other persons may be sued and proceeded against: Provided that barristers and attorneys shall be privileged and excused from attending before any court of summary jurisdiction in any civil cause or matter on all days when the Supreme Court is actually sitting.
