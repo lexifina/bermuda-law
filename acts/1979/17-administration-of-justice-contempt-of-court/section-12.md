@@ -1,0 +1,3 @@
+# Responsibility for written or broadcast publication
+12 (1) In addition to the author, the editor and publisher, if any, of any written publication shall be deemed to be responsible or any matter contained therein.
+(2) Where proceedings for contempt of court have been commenced against any broadcasting organization such organization shall, on the application of a court or of any party to the proceedings, specify who in the organization at the time of the publication had editorial responsibility. Such person shall be deemed to have the same responsibility as the editor of a written publication.

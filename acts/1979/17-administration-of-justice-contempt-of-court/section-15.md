@@ -1,0 +1,5 @@
+# Witness; failure to attend
+15 (1) If any witness who has been summoned to give evidence before any court fails to attend at the time and place appointed, it may issue a warrant to arrest him and bring him before the court.
+(2) If any witness who has been summoned to give evidence before a tribunal fails to attend at the time and place appointed and the tribunal is not empowered to compel the attendance of witnesses, the tribunal may report the circumstances to the Supreme Court and a judge on receiving such report, and hearing in chambers a member of the tribunal if he considers it necessary, may issue a warrant to arrest the witness and bring him before the tribunal.
+(3) A court may punish a witness failing to attend the court at the time and place appointed in a summons in the manner provided in section 4(2) and the Supreme Court may so punish a witness failing to attend a tribunal,
+(4) An appeal shall lie against an order made under this section and section 6 shall apply to any such appeal.
