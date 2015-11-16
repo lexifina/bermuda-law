@@ -1,0 +1,3 @@
+# Legal aid after commencement of proceedings
+9 (1) Where, after proceedings have been instituted in any court, any party becomes an assisted person in regard to those same proceedings, the Consolidated Fund shall only be liable to pay so much of his costs of those proceedings as are incurred while a certificate is in force.
+(2) Any counsel who has acted in the proceedings on behalf of the aided person before the date of the certificate, and any counsel who has by law a lien on any documents necessary for the proceedings to which the certificate relates and who has delivered them up subject to his lien, may give notice of the fact to the Committee.
