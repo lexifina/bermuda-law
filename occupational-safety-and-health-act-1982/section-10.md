@@ -1,0 +1,6 @@
+# Codes of practice
+10 (1) For the purpose of providing practical guidance with respect to the requirements of any provision of the regulations, the Minister may, after consultation with the Council and any interested persons as he considers advisable, approve and issue such codes of practice, or any amendment, repeal or revision thereof, as in his opinion are suitable for that purpose.
+(2) Where a code of practice is approved, amended, revised or repealed, the Minister shall cause to be published in the Gazette a notice identifying the code, specifying the provisions of the regulations to which it relates and stating the effective date of the approval, amendment, revision or repeal.
+(3) The failure by any person to observe any provision of a code of practice is not of itself an offence.
+(4) Where a person is charged with a contravention of any regulation in respect of which the Minister has issued a code of practice, that code is admissible as evidence in a prosecution for the contravention of the regulation.
+(5) A copy of a code of practice, or of any amendment or revision thereof, certified to be a true copy by the Minister, shall be received in evidence in any court without proof of the signature of the Minister.
