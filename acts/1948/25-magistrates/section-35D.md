@@ -1,0 +1,3 @@
+# Access to information
+35D (1) Notwithstanding the provisions of any other Act to the contrary restricting the disclosure of information a Government Department or a Government Board shall provide to the court on request and for the purpose of enforcing and securing the payment of sums payable under an order mentioned in section 27(1) the address and place of employment of a debtor or any other relevant information that is shown on a record in the possession or control of that Department or Board.
+(2) Information received by the court under this Act may be used only for the purpose of enforcing and securing the payment of sums payable under an order mentioned in section 27(1) and is otherwise confidential.

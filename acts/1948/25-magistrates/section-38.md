@@ -1,0 +1,4 @@
+# Right of appeal
+38 (1) In any case where a person has been ordered to pay a fine or to be imprisoned under section 37, he may at the time of such order give notice in writing to the magistrate making the order (hereinafter called “the convicting magistrate”) of his intention to appeal to the Supreme Court against such order.
+(2) The giving of the notice of intention to appeal shall not operate as a stay of the order of the convicting magistrate unless the appellant shall, within two days after the giving thereof, enter before a magistrate into a recognizance with one surety in the sum of $240, conditioned that the appellant do personally appear before the Supreme Court when called upon to do so.
+(3) Upon such recognizance being entered into, the appellant, if in custody, shall be released.

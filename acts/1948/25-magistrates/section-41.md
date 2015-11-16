@@ -1,0 +1,3 @@
+# Frivolous complaints etc
+41 (1) In any case where a magistrate has dismissed an information or complaint, and is of the opinion that the information or complaint was frivolous or vexatious, he may with the consent of the accused or defendant, order the informant or complainant to pay to the accused or defendant a sum not exceeding $60 by way of compensation for the trouble and expense to which the accused or defendant may have been put in consequence of such information or complaint.
+(2) The consent of the accused or defendant to any order for compensation made by the magistrate under this section shall be a bar to any subsequent civil proceedings for false imprisonment or malicious prosecution by him against the informant or complainant.

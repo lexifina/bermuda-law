@@ -1,0 +1,2 @@
+# Execution
+25 Every writ of execution shall be in the prescribed form, and shall be directed to the Provost Marshal General charging him to levy the amount of the judgment and costs upon the defendant’s goods and chattels, and, after such intervals as may be named in such writ, to offer such goods and chattels for sale by public auction, and from the resultant proceeds to pay and retain the amount of such judgment and costs and the expense of such sale, and to return the overplus (if any) to the defendant.

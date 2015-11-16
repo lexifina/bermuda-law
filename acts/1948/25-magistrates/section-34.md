@@ -1,0 +1,2 @@
+# Enforcement of Supreme Court judgment by attachment of earnings order
+34 Subject to the rules of the Supreme Court if a Judge is satisfied that it is expedient that an order of the Supreme Court for the payment of money should be enforced by an attachment of earnings order he may give a direction to that effect and upon the Registrar of the Supreme Court certifying the effect of such order of the Supreme Court and of the direction of the Judge, the court shall have the power to enforce such order by means of an attachment of earnings order.
