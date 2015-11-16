@@ -1,0 +1,2 @@
+# Conduct in restaurants
+4 Any person having been admitted to a restaurant and whose conduct thereafter is such as to be to the substantial prejudice to the proper operation of the restaurant or to the comfort or wellbeing of the patrons or staff therein and who on being required by the restaurateur to desist from such conduct does not thereupon do so may be required by the restaurateur forthwith to leave such restaurant.
