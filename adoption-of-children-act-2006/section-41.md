@@ -1,0 +1,14 @@
+# Effect of adoption order
+41 (1) When an adoption order is made—
+(a) the child becomes the child of the adoptive parent;
+(b) the adoptive parent becomes the parent of the child; and
+(c) the previous relationships to other relatives prior to the adoption cease, and new relationships have effect on the date of the adoption order, in accordance with the relationships of the adoptive parent.
+(2) For the purposes of laws related to incest and the prohibited degrees of marriage, subsection (1) does not remove a person from a relationship in consanguinity which, but for this section, would have existed between that person and another person.
+(3) Where an adoption order is made in respect of a child, then any maintenance order in force in respect of the child, and any other agreement to make payments specifically for the benefit of the child, shall cease to have effect, but without prejudice to the recovery of any arrears which are due under the order or agreement at the date of the adoption order.
+(4) Notwithstanding any provision of law to the contrary, after an adoption order has been made in respect of a child, no maintenance order shall be made with respect to that child which would impose an obligation to make payments on a person who was the child’s parent or guardian before an adoption order was made.
+(5) When an adoption order is made, any order or agreement for access to the child terminates unless the court orders otherwise.
+(6) In any disposition of real or personal property made, whether by instrument inter vivos or by will (including codicil) after the date of the adoption order—
+(a) any reference (whether express or implied) to the child or children of the adoptive parent shall, unless the contrary intention appears, be construed as, or as including, a reference to the adopted person;
+(b) any reference (whether express or implied) to the child or children of the adopted person's natural parents or either of them shall, unless the contrary intention appears, be construed as not being, or as not including, a reference to the adopted person; and
+(c) any reference (whether express or implied) to a person related to the adopted person in any degree shall, unless the contrary intention appears, be construed as a reference to the person who would be related to him in that degree as if they were the child of the adopter and were not the child of any other person.
+(7) Where, at any time after the making of an adoption order, the adopter or the adopted person or any other person dies intestate in respect of any real or personal property (other than property subject to an entailed interest under a disposition made before the date of the adoption order), that property shall devolve in all respects as if the adopted person were the natural child of the adopter.
