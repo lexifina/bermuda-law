@@ -1,0 +1,2 @@
+# Occupier may do work and recover cost
+27 Whenever under this Act, or the regulations, any work of any kind is required to be executed by the owner of any premises, and default is made by him in the execution of such work, the occupier of such premises may, with the sanction of the Corporation, cause such work to be executed, and the expense thereof may, at the option of the occupier, be forthwith recovered from the owner of such premises, or may be retained by the occupier out of the rent thereafter from time to time becoming due by him to the owner.
