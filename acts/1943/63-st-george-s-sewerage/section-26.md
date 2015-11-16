@@ -1,0 +1,2 @@
+# Corporation may do work and recover cost
+26 Whenever under this Act, or the regulations, any work of any kind is required to be executed by the owner or occupier of any premises, or by any other person, and default is made in the execution of such work, the Corporation may (whether or not a fine is imposed for such default) cause such work to be executed, and the expense thereby incurred by the Corporation shall be forthwith repaid to the Corporation by the owner, occupier, or other person in default.

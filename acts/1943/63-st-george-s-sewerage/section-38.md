@@ -1,0 +1,2 @@
+# Exclusion of further appeal concerning special sewerage tax
+38 In the event of an appeal to the Commissioners with reference to any special sewerage tax, and of subsequent proceedings by the Corporation for the recovery of such tax, no further appeal shall lie in the manner allowed by the Civil Appeals Act 1971 [title 8 item 85], from the judgment of the court of summary jurisdiction before which such tax is sued for so far as the amount of such tax is concerned.

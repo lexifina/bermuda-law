@@ -1,0 +1,2 @@
+# Relief from jury service
+7 After any juror named in any warrant issued by a Justice of the Peace under section 5 has been summoned to serve on any jury he may apply to such Justice to be relieved from such service, and, if such Justice sees fit to do so, he may relieve such juror accordingly, and shall in such case by endorsement on the warrant appoint another qualified juror in his place, and shall direct a police officer to summon such juror to attend accordingly.

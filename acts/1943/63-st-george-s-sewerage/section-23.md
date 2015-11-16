@@ -1,0 +1,3 @@
+# Notice prohibiting injurious sewage
+23 If, in the judgment of the Corporation, sewage of any particular kind would be injurious to the sewers, the Corporation may, by a written notice to the occupier of any premises, prohibit him from permitting such sewage to be run into, or allowed to enter, any sewer after the expiration of ten days from the delivery of such notice, and if after the expiration of such period any such sewage is run into, or allowed to enter, any sewer from such premises, the occupier of such premises, and also the person permitting such sewage to run into, or allowing such sewage to enter, such sewer, commits an offence against this Act:
+Punishment on summary conviction: a fine of $168 besides costs of prosecution.

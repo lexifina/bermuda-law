@@ -1,0 +1,3 @@
+# Corporation may acquire easements
+3 For the purposes expressed in paragraph (a) of section 2, the Corporation may acquire an easement in respect of the lands on, under or through which the works, or any part thereof, are or is to be constructed as shown on such map:
+Provided that the Corporation shall not acquire any casement in respect of any land in the possession of the Secretary of State for Defence, or construct thereon or thereunder any portion of the works, except with the previous sanction of the Secretary of State for Defence, and on such terms and conditions as may be approved by him.

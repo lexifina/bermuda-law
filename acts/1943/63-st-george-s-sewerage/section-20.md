@@ -1,0 +1,2 @@
+# Filling in of privies and cesspits
+20 Whenever any house or building has been provided with a house sewer and a water-closet or water-closets, approved by the Corporation Inspector, the owner or occupier of such house or building shall within one month after written notice to that effect from the Corporation, cause any privy or cesspit existing on the premises on which such house or building stands to be emptied and cleaned out, and, if so required by the Corporation, to be disinfected, filled up and effectually covered to the satisfaction of the Inspector.

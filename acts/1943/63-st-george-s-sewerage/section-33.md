@@ -1,0 +1,3 @@
+# Rate to defray cost of sewerage system
+33 (1) It shall be lawful for the Corporation to raise annually during the continuance of this Act, in the manner hereinafter provided, such sum as is estimated by the Corporation to be sufficient to defray the annual interest on the debentures, the annual contribution to the Sinking Fund, and the maintenance and working expenses of the sewerage system for the then current year.
+(2) In estimating the amount of the annual expenditure for the purposes expressed in subsection (1) the Corporation shall take into account any other monies which are available for such purposes under this Act, or under any other Act for the time being in force.

@@ -1,0 +1,4 @@
+# Disposal of sewage only through connecting sewer
+19 (1) Whenever any house or building has been provided with a house sewer and also with a water-closet or water-closets approved by the Corporation Inspector, it shall not be lawful for the occupier of such house or building to allow any sewage to flow, or to be deposited or thrown, from such house or building, or from the premises whereon it stands, or any part thereof, into St. George’s Harbour, or into any privy, cesspit, or other receptacle, either on such premises or elsewhere, except by the connecting sewer between such house, building or premises and the sewerage system.
+(2) The occupier of any such house or building from which any sewage is allowed to flow, or to be deposited or thrown, contrary to the foregoing subsection, and the person depositing or throwing the same each commit an offence against this Act:
+Punishment on summary conviction: a fine of $84 besides costs of prosecution.
