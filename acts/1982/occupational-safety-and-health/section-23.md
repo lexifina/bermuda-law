@@ -1,0 +1,4 @@
+# Evidence
+23 (1) In any proceedings for an offence under any of the provisions of the Act or the regulations consisting of a failure to comply with a duty or requirement to do something so far as is practicable or so far as is reasonably practicable, or to use the best practicable means to do something, it shall be for the accused to prove, as the case may be, that it was not practicable or not reasonably practicable to do more than was actually done to satisfy the duty or requirement, or that there was no better practicable means than was actually used to satisfy that duty or requirement.
+(2) Where a person who has a duty to fulfill an obligation under this Act has exercised due care, diligence, and attention and done his utmost best towards fulfilling that obligation, he shall not be liable for failure to fulfill that obligation.
+[Section 23 subsection (2) inserted by 2004:21 s.18 effective 20 July 2004]

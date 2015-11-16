@@ -1,0 +1,6 @@
+# Appeal against notice or oral direction of contravention
+16 (1) Any person on whom a notice of contravention is served under section 14 or an oral direction of a contravention is given under section 14A may, within seven days from the date of the giving of the notice or the giving of the oral direction, appeal to the Safety and Health Appeals Officer, who may affirm, amend or cancel the notice.
+(2) An appeal to the Safety and Health Appeals Officer under subsection (1) shall not have the effect of suspending the operation of the notice of contravention or the oral direction of a contravention, but the Safety and Health Appeals Officer may suspend the operation of the notice or the oral direction, until the appeal is disposed of.
+(3) Any person aggrieved by a decision of the Safety and Health Appeals Officer under subsection (1) may, within seven days from the date of the decision, appeal to the Minister against that decision.
+(4) An appeal to the Minister under subsection (3) shall not have the effect of suspending the operation of the notice of contravention or the oral direction of a contravention, but the Minister may suspend the operation of the notice or the oral direction of a contravention until the appeal is disposed of.
+[Section 16 substituted by 2004:21 s.14 effective 20 July 2004]
