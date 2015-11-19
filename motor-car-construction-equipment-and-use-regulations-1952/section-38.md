@@ -1,0 +1,2 @@
+# Explosives
+38 Except for the fuel and lubricant necessary for the use of the motor car, no explosive, highly inflammable or otherwise dangerous substance shall be carried in or on a motor car upon a highway or estate road unless it is so packed or distributed that, even in the case of an accident to the motor car, it is unlikely to cause damage or injury to the motor car or to persons in the vicinity.

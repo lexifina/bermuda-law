@@ -1,0 +1,5 @@
+# Brakes on self-propelled construction machines
+7 (1) Every self-propelled constructional machine shall be equipped with an efficient general braking system which is, as regards its design and the specifications of its various parts, of such design and of such specifications as the Minister may from time to time consider satisfactory.
+(2) Every part of the braking system, and of the means of operation thereof, shall, at all times while the self-propelled constructional machine is in use, be maintained in good and efficient working order and shall be so adjusted—
+(a) that sufficient braking force can be applied to the wheels or tracks of the self-propelled constructional machine so as to bring it to a standstill within a reasonable time from application of the brake; and
+(b) that the braking force is applied to the wheels or tracks of the self-propelled constructional machine in such manner as to reduce to a minimum the liability of the self-propelled constructional machine to swerve or skid.
