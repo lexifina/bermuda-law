@@ -1,0 +1,2 @@
+# Evidence
+13 In proceedings for an offence under this Act, or any related inchoate offence, the fact that an offence involving interference with a computer is alleged to have been committed shall not of itself be sufficient to prevent computer records from being admissible in the proceedings on the basis that the condition in section 43B(2)(c) of the Evidence Act 1905 (which requires appropriate measures to be in force for preventing unauthorised interference with the computer) has not been satisfied.
