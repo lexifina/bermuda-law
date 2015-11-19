@@ -1,0 +1,3 @@
+# Maintenance of wheels and tyres
+32 (1) All the wheels of a motor car or trailer shall be properly fitted to their axles, and all tyres fitted to the wheels shall be maintained in such condition as to be free of any defect which might in any way cause damage to the surface of the road or danger to persons on or in the motor car or trailer or to persons using the road.
+(2) The tracks on all tracked motor cars shall be maintained in such condition as to be free of any defect which might cause damage to the surface of the road or danger to persons on or in the motor car or to persons using the road.

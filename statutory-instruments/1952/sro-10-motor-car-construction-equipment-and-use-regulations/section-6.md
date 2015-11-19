@@ -1,0 +1,6 @@
+# Brakes on motor cycles
+6 (1) Every motor cycle shall be equipped with an efficient braking system or efficient braking systems in either case having two means of operation so designed and constructed that notwithstanding the failure of any part (other than a fixed member or a brake shoe anchor pin) through or by means of which the force necessary to apply the brakes is transmitted there shall still be available for application by the driver to at least one wheel of the motor cycle brakes sufficient under the most adverse conditions to bring the motor cycle to a standstill within a reasonable distance.
+(2) The application of one means of operation shall be such as not to affect or operate the pedal or hand lever of the other means of operation.
+(3) Every part of the braking system or systems and of the means of operation thereof shall at all times when the motor cycle is in use, be maintained in good and efficient working order and shall be so adjusted—
+(a) that sufficient braking force can be applied to the wheels of the motor cycle so as to bring it to a standstill within a reasonable time from the application of the brake; and
+(b) that the braking force is applied to the wheels of the motor cycle in such manner as to reduce the liability of the motor cycle to swerve or skid.

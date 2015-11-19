@@ -1,0 +1,3 @@
+# Stopping engine when stationary
+41 The driver of every motor car shall, when the motor car is stationary upon the highway or estate road otherwise than through enforced stoppage owing to the necessities of traffic, stop the action of any machinery attached to, or forming part of such motor car, so far as may be necessary for the prevention of noise:
+Provided that this regulation shall not apply so as to prevent the examination or working of the machinery attached to, or forming part of, a motor car, where any such examination or working is rendered necessary by any failure or derangement of the machinery or where the machinery attached to or forming part of the motor car is required to be worked for some ancillary purpose.
