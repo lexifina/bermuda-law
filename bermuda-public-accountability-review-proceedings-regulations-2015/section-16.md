@@ -1,0 +1,3 @@
+# Publication of determination and confidentiality of information or person
+16 (1) The Review Panel shall, after the close of a hearing, notify the parties of its determination.
+(2) The Review Panel may arrange for the publication of its determination and statement of its reasons, but in doing so shall have regard to the desirability of safeguarding confidential or commercially sensitive information given to the parties, or information which was communicated or obtained in confidence, or the identity of or information relating to any person who is not a party to the petition, and for that purpose may make any necessary amendments to the text of its determination and statement of reasons.
