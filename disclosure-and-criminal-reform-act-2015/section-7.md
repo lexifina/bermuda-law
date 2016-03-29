@@ -1,0 +1,3 @@
+# Duty of prosecutor to disclose: further provisions
+7 For the purposes of this Act, the prosecutor discloses relevant unused material by supplying a copy (which includes an electronic copy) of the relevant unused material to the accused person and his barrister and attorney (or to the accused person where he is not represented by a barrister and attorney) or, where this is not reasonably practicable, allowing the accused person a reasonable opportunity to inspect the relevant unused material or taking steps to ensure that he is allowed to do so.
+[Section 7 amended by BR 89 / 2015 reg. 4 effective 1 January 2016]
