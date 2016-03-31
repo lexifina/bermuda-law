@@ -1,0 +1,3 @@
+# Matters respecting persons at a private dwelling unit
+5 (1) A household reference person living at a private dwelling unit shall, during the census period, give information to a census officer in respect of the matters set out in Part A of Schedule 1 as they relate to the household reference person and any other household member, and in Part B of Schedule 1 as they relate to the household and the private dwelling unit, as such matters stood on census day.
+(2) Notwithstanding subparagraph (1), any other household member who has attained the age of sixteen years shall, as far as possible, give information to a census officer in respect of the matters set out in Part A of Schedule 1 as they relate to that household member and any other household member.

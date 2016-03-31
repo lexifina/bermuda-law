@@ -1,0 +1,6 @@
+# Matters respecting persons at a hotel
+7 (1) A person in charge of a hotel shall, during the census period, give to a census officer the names of persons who stayed temporarily at the hotel on census night.
+(2) The person in charge of a hotel shall, during the census period, give to a census officer the full names and room numbers of persons who, as of census night, usually reside at the hotel.
+(3) A household reference person who usually resides at a hotel shall, during the census period, give information to a census officer in respect of the matters set out in Part A of Schedule 2 as they relate to the household reference person and any other household member, and in Part B of Schedule 2 as they relate to the household and the group dwelling unit, as such matters stood on census day.
+(4) Notwithstanding subparagraph (3), any other household member who has attained the age of sixteen years shall, as far as possible, give information to a census officer in respect of the matters set out in Part A of Schedule 2, as they relate to that household member and any other household member.
+(5) The person in charge of a hotel shall grant any reasonable request by the census officer for assistance in the execution of his duty under the Act in respect of persons who usually reside at the hotel.
