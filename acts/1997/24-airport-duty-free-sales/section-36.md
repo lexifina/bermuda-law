@@ -1,0 +1,3 @@
+# Bond for licence and increase
+36 (1) In respect of scheduled goods stored in a warehouse, the Minister shall, for the purposes of safeguarding the revenue, require an applicant for a licence to operate an airport duty free warehouse to provide a bond with two sureties to be approved by the Collector of Customs, in an amount specified by the Minister, he and they being jointly and severally bound thereby.
+(2) Section 6(3), which empowers the Minister to increase a bond in respect of an Airport Duty Free Sales Licence, applies to the grant of an Airport Duty Free Warehouse Licence as it applies to the grant of an Airport Duty Free Sales Licence.

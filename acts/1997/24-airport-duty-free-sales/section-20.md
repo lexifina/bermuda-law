@@ -1,0 +1,4 @@
+# Sale of scheduled goods to purchaser
+20 (1) Subject to subsections (2) and (3), a licensee may only sell scheduled goods in his regulated shop to a purchaser who presents a valid boarding pass for a flight which is about to leave Bermuda.
+(2) Where the licensee is satisfied that a purchaser of scheduled goods is a member of the crew of an airline assigned to a flight which is about to depart from Bermuda or such other person who has not, for a valid reason, been assigned a boarding pass in respect of a flight, the licensee may accept the form of identification specified in writing by the Minister, instead of a valid boarding pass.
+(3) Scheduled goods sold to a purchaser under this section shall be distributed to the purchaser in sealed packages in such manner as the Collector of Customs may direct.

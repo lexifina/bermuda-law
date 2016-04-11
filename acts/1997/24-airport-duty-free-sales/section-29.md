@@ -1,0 +1,3 @@
+# Distribution of pre-purchased scheduled goods
+29 (1) The licensee shall only distribute scheduled goods to a purchaser upon the production by the purchaser of his sales slip and valid boarding pass; and section 20 applies to the distribution of scheduled goods to a purchaser without a valid boarding pass.
+(2) Where any scheduled goods which have been received in a regulated shop for distribution therefrom are not collected by the purchaser, such goods shall be warehoused in an airport duty free warehouse as soon as is practicable that same day, and such warehousing shall be recorded in the manner required by the Collector of Customs.
