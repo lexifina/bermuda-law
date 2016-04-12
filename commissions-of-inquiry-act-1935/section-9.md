@@ -1,0 +1,3 @@
+# Commissioners to have certain powers of Supreme Court
+9 (1) Commissioners acting under this Act shall have the powers of the Supreme Court to summon witnesses, and to call for the production of books, plans and documents, and to examine witnesses and parties concerned on oath, and no commissioner shall be liable to any action or suit for any matter or thing done by him as such commissioner.
+(2) All summonses for the attendance of witnesses or other persons, or the production of documents, may be in the form in the Second Schedule, and shall be signed by one of the commissioners, and oaths may be administered by one of the commissioners or by their clerk.
