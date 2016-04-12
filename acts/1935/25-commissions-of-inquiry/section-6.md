@@ -1,0 +1,2 @@
+# Duties of commissioners
+6 The commissioners shall, after taking the oath, make a full faithful and impartial inquiry into the matter specified in their commission, and shall conduct such inquiry in accordance with the direction (if any) in the commission, and shall, in due course, report to the Governor, in writing, the result of such inquiry; and the commissioners shall also, when required, furnish to the Governor a full statement of the proceedings of the commission, and of the reasons leading to the conclusions arrived at or reported.

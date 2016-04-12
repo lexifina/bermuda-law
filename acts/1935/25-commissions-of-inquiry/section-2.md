@@ -1,0 +1,2 @@
+# Governor may appoint fresh commissioners; alter or revoke commission
+2 In case any commissioner is or becomes unable or unwilling to act, or dies, then the Governor may appoint another commissioner in his place; and any commission issued under this Act may be altered as the Governor may consider desirable by any subsequent commission by the Governor, or may be revoked by a notification to that effect published in the Gazette.
