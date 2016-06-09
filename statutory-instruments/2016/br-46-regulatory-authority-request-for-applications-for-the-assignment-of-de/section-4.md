@@ -1,0 +1,7 @@
+# Determination
+4 (1) This General Determination is made pursuant to the Consultation on the procedures, criteria and conditions for assigning high demand spectrum (Matter HDS-1), and the Authority's decision on it.
+### REGULATORY AUTHORITY (REQUEST FOR APPLICATIONS FOR THE ASSIGNMENT OF DESIGNATED HDS-1 FREQUENCIES IN THE 850 MHZ, 700 MHZ AND 2100 MHZ BANDS) GENERAL DETERMINATION 2016
+(2) Taking into account the responses received to the Consultation and for the reasons given in the decision, the Authority determines that the adoption and implementation of a Request for Applications for the Assignment of Designated HDS-1 Frequencies in the 850 MHz, 700 MHz and 2100 MHz Bands is in the public interest and would greatly benefit consumers of electronic communications services.
+(3) All applicants interested in applying for HDS Frequencies in HDS-1 shall comply with the procedures, criteria and conditions of the RFA in the Schedule.
+(4) Following the effective date of this General Determination, the Authority shall commence the HDS-1 assignment process by formally issuing the RFA on a date (the “RFA Launch Date”) to be determined by the Chief Executive of the Authority.
+(5) Notice of the RFA Launch Date shall be published on the Authority’s website at least one Working Day prior to the date on which the RFA is issued, and the Authority shall also send a copy of the notice by electronic mail to all ICOL holders.
