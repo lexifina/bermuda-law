@@ -1,0 +1,2 @@
+# Services of Government Departments
+9 The Board may, with the approval of the Minister responsible for providing the services and subject to the availability of such services, make use of any services offered by a Government department for the maintenance of the land or buildings of the Golf Courses and, if any such services are employed on behalf of the Board, the cost of the services shall be charged to the accounts of the Board and shall be paid to the Government department concerned.
