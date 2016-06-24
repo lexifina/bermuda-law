@@ -1,0 +1,2 @@
+# General power of Minister to make regulations
+48 Subject to this Act, the Minister may make regulations for administering this Act and for giving effect to its objects and intentions and, without derogating from the generality of the foregoing, such regulations may make provision for controlling or regulating the importation, use or storage of any pesticide in the interests of safety or for the purpose of avoiding injury to plant or animal life.

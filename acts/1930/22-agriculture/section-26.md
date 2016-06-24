@@ -1,0 +1,4 @@
+# Certificates of inspection of nursery stock for export
+26 (1) The Director and other officers of the Department, approved by the Minister, shall be the duly authorized officials in Bermuda to issue certificates of inspection of nursery stock intended for export abroad and of the sand or other material used in packing the same.
+(2) It shall be their duty to inspect any such nursery stock or sand or other packing materials on receiving due notice from the person intending to export the same, and to deliver to the person on whose request the inspection was made the required certificates and sufficient copies to be attached to each package of bulbs or other nursery stock covered by his inspection.
+(3) The fee payable in respect of copies of certificates issued under this section shall be prescribed by regulations made under this Act.

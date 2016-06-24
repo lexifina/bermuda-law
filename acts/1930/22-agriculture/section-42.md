@@ -1,0 +1,2 @@
+# Potatoes; Minister may take precautions against infection
+42 The Minister may take, or may direct to be taken, such precautions as the Minister deems expedient for preventing the importation, landing or sale in Bermuda of potatoes unsuitable for planting or infected with any injurious potato disease, or imported from any infected country, and may require the destruction or exportation of any potatoes which have been imported or landed here, and may prohibit the exportation of any such potatoes to any specified country or place.
