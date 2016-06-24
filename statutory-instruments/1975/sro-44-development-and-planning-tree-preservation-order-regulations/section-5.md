@@ -1,0 +1,4 @@
+# Objections and representations
+5 (1) Every objection or representation with respect to an order shall be made in writing to the Minister, and shall state the grounds thereof, and specify the particular tree, group of trees, or woodlands in respect of which it is made, and the objector’s interest in the land affected by the proposed order and shall be signed by the objector or the objector’s agent.
+(2) An objection or representation shall be duly made if it complies with paragraph (1) and is received by the Minister within 28 days from the date of the service of the notice under regulation 3.
+(3) Notwithstanding paragraph (2) the Minister may in his discretion consider an objection or representation made by an owner or occupier other than within 28 days from the date of the service of notice under regulation 3.
