@@ -1,0 +1,3 @@
+# Special planning permission for development of the Property
+3 (1) Notwithstanding any provision to the contrary made in or under the Act, it shall be lawful for the Property to be developed and used as a hospital, but subject to subsection (2).
+(2) Subject to the conditions set out in Schedule 2, planning permission in principle for the Development on the Property is hereby granted with the reservation for subsequent approval of the details of planning by the Development Applications Board, but any decision by the Board on those details shall be subject to section 57 and (so far as relevant) section 61 of the Act, which regulate appeals.
