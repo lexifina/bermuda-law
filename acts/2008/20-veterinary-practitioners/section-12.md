@@ -1,0 +1,3 @@
+# Alteration of registered particulars; voluntary removal of name from register
+12 (1) If any change occurs in respect of the name or address of the holder of a certificate, he shall immediately inform the Council in writing and if the Council is satisfied that the change should be made, the Council shall direct the Registrar to make the necessary change to the certificate and register.
+(2) A registered veterinary practitioner who desires to have his name removed from the register shall make an application for that purpose to the Council, surrender his certificate; and the Council may on receipt of the certificate, direct the Registrar to make the necessary alterations to the register.
