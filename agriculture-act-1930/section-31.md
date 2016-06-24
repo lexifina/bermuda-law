@@ -1,0 +1,3 @@
+# Appeal
+31 (1) Any person or his agent aggrieved by the Inspector’s decision that any lot of crate material or cooperage or produce or packages is unfit for use or shipment may appeal forthwith from such decision as provided in subsection (2).
+(2) Two impartial and disinterested persons having practical experience in handling and dealing with produce shall be appointed, one by the Inspector and the other by the aggrieved person, who shall, before considering the question at issue, jointly appoint a third person to act as umpire in case of their failing to agree; and their decision or the decision of a majority of them shall be final.

@@ -1,0 +1,4 @@
+# Department of Environment and Natural Resources established
+5 (1) There shall be established a Department of Government which shall be charged with the duty of assisting the Minister in the discharge of his responsibilities under this Act and any other enactment which relates to matters concerning the protection of the environment which shall be known as the Department of Environment and Natural Resources.
+(2) The Department shall, subject to the general direction and control of the Minister, be under the supervision of the Director and shall consist of such other officers as may from time to time be authorized by the Governor.
+[Section 5 amended by 1991:99 effective 1 January 1992; by 1998:20 effective 18 June 1998; by 2000:20 Sch para 2(3) effective 26 June 2000; and by 2002:18 s.2 & Sch effective 1 April 2002; section heading and subsection (1) amended by 2016 : 21 s. 2 effective 1 April 2016]

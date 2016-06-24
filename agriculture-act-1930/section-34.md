@@ -1,0 +1,2 @@
+# Duty to remove condemned produce or packages
+34 Any person who has deposited any lot of produce or packages which, owing to its defective condition, has been condemned as altogether unfit for shipment, shall remove the same from the prescribed place within forty-eight hours after it has been condemned, or within such longer period as may be allowed by the Inspector for the purpose; and if he fails to do so the Inspector shall have the condemned produce or packages, as the case may be, destroyed or otherwise disposed of
