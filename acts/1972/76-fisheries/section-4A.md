@@ -1,0 +1,10 @@
+# Declaration of fish aggregation areas by gazette notice
+4A (1) Notwithstanding section 4, where the Minister, on consideration of a report from the Director or other information in the Minister’s possession, is satisfied that there is an immediate need for the prohibition of fishing in a fish aggregation area, for the conservation and protection of fish in the exclusive economic zone, the Minister may by notice published in the Gazette prohibit fishing in that fish aggregation area for a period not exceeding ninety days, pending the making of an Order under section 4.
+(2) Where the Minister, by notice under subsection (1) prohibits fishing in an area declared to be a fish aggregation area within the exclusive economic zone, the provisions of section 4 shall apply with necessary modifications as if the notice were an Order made under section 4.
+(3) When the Minister publishes a notice under subsection (1), as soon as possible after the notice is published in the Gazette, the Minister shall take concrete steps to disseminate the notice—
+(a) in at least one newspaper with wide circulation in Bermuda; and
+(b) by announcements on radio and television in Bermuda.
+(4) Where it is proved in a prosecution under this section that the Minister has published the notice in accordance with subsection (1) and disseminated the notice in accordance with subsection (3), the accused shall be presumed to have notice of the offence, unless he establishes he did not know of the notice and could not reasonably have been expected to know of the notice.
+(5) A notice published under subsection (1) shall expire at the end of the time specified by the Minister in the notice and no person shall be prosecuted under this section for committing an offence after the expiration of the notice.
+(6) Section 6 of the Statutory Instruments Act 1977 shall not apply to a notice published under this section.
+[Section 4A inserted by 2007:1 s.5 effective 10 March 2007; subsection (1) amended by 2016 : 21 s. 2 effective 1 April 2016]

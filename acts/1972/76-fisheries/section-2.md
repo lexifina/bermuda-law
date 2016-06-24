@@ -1,0 +1,3 @@
+# Persons who are fisheries inspectors
+2 Every officer of the Department of Environment and Natural Resources appointed for the purpose by the Minister by instrument in writing, every commissioned officer of Her Majesty’s Royal Navy, every customs officer and every police officer shall be a fisheries inspector for the purposes of this Act and shall have and may exercise the functions assigned to a fisheries inspector by or under this Act.
+[section 2 amended by 1991:99 effective 1 April 1991; by 2000:20 effective 26 June 2000; by 2002:18 effective 1 April 2002; amended by 2016 : 21 s. 2 effective 1 April 2016]

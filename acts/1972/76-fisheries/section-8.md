@@ -1,0 +1,8 @@
+# Fisheries inspector may stop and search vessel; arrest
+8 (1) A fisheries inspector may at any time stop, go on board and search any vessel within the exclusive economic zone, and if he has reason to suspect that any person on board such vessel has contravened any of the provisions of this Act or any regulations made thereunder he may without summons, warrant, or other process seize the vessel and detain it and arrest any person found on board.
+(2) A fisheries inspector may at any time without summons, warrant or other process seize and detain any vessel or thing which is liable to forfeiture under this Act or which he has reasonable grounds to believe is so liable.
+(3) Any fisheries inspector and any person whom he may call to his assistance may arrest and detain without warrant any person whom such inspector has reason to suspect has committed or permitted any offence against this Act or any regulations made thereunder.
+(4) Any person who resists or obstructs any fisheries inspector in the exercise of any of his powers conferred by this section commits an offence:
+Punishment on summary conviction: a fine of $10,000, and such person may be detained by the fisheries inspector.
+(5) Where any vessel or thing is seized or detained or any person is detained under this section by a fisheries inspector, the inspector shall take such vessel, thing or person as soon as may be to the nearest or most convenient place in Bermuda and there deliver it or him into the custody of the most senior police officer there available.
+[section 8 amended by 1996:10 effective 11 June 1996; amended by 2006:24 s.8 effective 20 July 2006; subsection (4) amended by 2011 : 26 s. 7 effective 21 July 2011]
