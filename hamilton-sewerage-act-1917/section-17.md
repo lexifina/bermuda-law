@@ -1,0 +1,2 @@
+# Corporation may execute works by agreement
+17 The Corporation may, either before or after calling upon the owner or occupier of any premises to execute any work of any kind agree with such owner or occupier to supply materials for and to execute such work; and all expenses thereby incurred by the Corporation, with interest thereon at the rate aforesaid, shall be recoverable by any of the methods hereinbefore provided.
