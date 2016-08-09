@@ -1,0 +1,3 @@
+# Cooperating in investigations with foreign auditor oversight body
+22 (1) The Committee may, in appropriate circumstances, rely upon the investigation of a PIE public accountant by a foreign auditor oversight body, in lieu of carrying out its own investigation of such PIE public accountant.
+(2) The Committee may, as it deems appropriate, and subject to applicable confidentiality provisions, provide assistance to a foreign auditor oversight body in an investigation of a PIE public accountant conducted pursuant to the laws and/or regulations of a foreign jurisdiction, provided that the Committee shall first have obtained the written consent of the PIE public accountant that the Committee may provide such assistance.

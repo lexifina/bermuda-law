@@ -1,0 +1,11 @@
+## PART 3
+## PROFESSIONAL STANDARDS
+# Professional Standards
+11 (1) If the audit report on the financial statements of a Public Interest Entity refers to auditing standards generally accepted in Bermuda, the PIE public accountant and the designated professionals of such firm shall, in connection with such audit, comply with auditing standards generally accepted in Canada, as set out in the Assurance Handbook of the CPA Canada.
+(2) If the audit report on the financial statements of a Public Interest Entity refers to generally accepted auditing standards other than those of Bermuda, the PIE public accountant and the designated professionals of such firm shall, in connection with such audit, be knowledgeable with respect to, and comply with, those other auditing standards.
+(3) A PIE public accountant and the designated professionals of such firm shall comply with ethics standards with respect to an audit of the financial statements of a Public Interest Entity that are as follows—
+(a) a Bermudian PIE public accountant firm, and the designated professionals of such firms, shall comply with the ethics standards of the professional regulatory bodies that have jurisdiction over them and such other standards as the BPAB may require from time to time;
+(b) with respect to auditor independence, the relevant standards for all Bermudian PIE public accountants whose members are Chartered Professional Accountants and the designated professionals of such firms shall be the requirements set out in rule 204.1 of the CPAB Rules of Professional Conduct;
+(c) foreign PIE public accountant firms, and the designated professionals of such firms, shall comply with such ethics standards as the BPAB may require from time to time.
+(4) PIE public accountants shall comply with General Standards of Quality Control for Firms Performing Assurance Engagements issued by the Auditing and Assurance Standards Board of the CPA Canada.
+(5) PIE public accountants shall have a system of quality control that conforms with General Standards of Quality Control for Firms Performing Assurance Engagements issued by the Auditing and Assurance Standards Board of the CPA Canada with respect to their audits of Public Interest Entities’ financial statements.
