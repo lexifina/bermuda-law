@@ -1,0 +1,2 @@
+# Failure to pay monetary assessment
+27 If a PIE public accountant has failed to pay a monetary assessment, as may be required under rule 24(1)(f), within 60 days of it being assessed, the Committee may, if such assessment remains unpaid after seven days’ notice to the PIE public accountant in writing of such fact, cancel the registration of the PIE public accountant and terminate its Participation Agreement.
