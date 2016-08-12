@@ -1,0 +1,6 @@
+## DESIGNATION OF RECIPROCATING COUNTRIES
+# Designation of reciprocating countries by order
+15 (1) Where the Governor is satisfied that, in the event of the benefits conferred by this Act being applied to, or to particular classes of, maintenance orders made by the courts of any country or territory outside Bermuda, similar benefits will in that country or territory be applied to, or to those classes of, maintenance orders made by the courts of Bermuda, may by order published in the Gazette designate that country or territory as a reciprocating country for the purposes of this Act.
+(2) A country or territory may be designated under subsection (1) as a reciprocating country either as regards maintenance orders generally, or as regards maintenance orders other than those of any specified class, or as regards maintenance orders of one or more specified classes only; and a country or territory which is for the time being so designated otherwise than as regards maintenance orders generally shall for the purposes of this Act be taken to be reciprocating country only as regards maintenance orders of the class to which the designation extends.
+(3) Section 6 of the Statutory Instruments Act 1977 shall not apply to an order made under this section.
+[Section 15 subsection (3) inserted by 2016 : 41 s. 2 effective 27 July 2016]
