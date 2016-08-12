@@ -1,0 +1,12 @@
+# Confirmation by Bermuda court of provisional maintenance order made in reciprocating country
+6 (1) This section applies to a maintenance order made whether before or after the commencement of this Act, by a court in a reciprocating country being a provisional order.
+(2) Where a certified copy of an order to which this section applies together with—
+(a) a document, duly authenticated, setting out or summarising the evidence given in the proceedings in which the order was made; and
+(b) a statement of the grounds on which the making of the order might have been opposed by the payer under the order,
+is received by the Governor from the responsible authority in reciprocating country, and it appears to the Governor that the payer under the order is residing in Bermuda, he shall send the copy of the order and documents which accompanied it to the prescribed officer of the magistrates’ court, and that court shall—
+(i) if the payer under the order establishes any such defence as he might have raised in the proceedings in which the order was made, refuse to confirm the order; and
+(ii) in any other case, confirm the order either without alteration or with such alterations as it thinks reasonable.
+(3) In any proceeding for the confirmation under this section of a provisional order, the statement received from the court which made the order of the grounds on which the making of the order might have been opposed by the payer under the order shall be conclusive evidence that the payer might have raised a defence on any of those grounds in the proceedings in which the order was made.
+(4) For the purpose of determining whether a provisional order should be confirmed under this section the court shall proceed as if an application for a maintenance order against the payer under the provisional order had been made to it.
+(5) The prescribed officer of the magistrates’ court shall, if the court confirms the order, register the order in the prescribed manner in that court, and shall, if the court refuses to confirm the order, return the certified copy of the order and the documents which accompanied it to the Governor.
+(6) If a summons to appear in the proceedings for the confirmation of the provisional order cannot be duly served on the payer under that order the officer by whom the certified copy of the order was received shall return that copy and the documents which accompanied it to the Governor with a statement giving such information as he possesses as to the whereabouts of the payer.

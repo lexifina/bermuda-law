@@ -1,0 +1,9 @@
+# Enforcement of maintenance order registered in Bermuda
+7 (1) A registered order may be enforced in Bermuda as if it had been made by the registering court and as if that court had had jurisdiction to make it; and proceedings for or with respect to the enforcement of any such order may be taken accordingly.
+(2) Any person for the time being under an obligation to make payments in pursuance of a registered order shall give notice of any change of address to the clerk of the magistrates’ court, and any person failing without reasonable excuse to give such a notice commits an offence:
+Punishment on summary conviction: a fine of $20.
+(3) An order which by virtue of this section is enforceable by a magistrates’ court shall be enforceable as if were an order made under Part IVB of the Children Act 1998.
+(4) In any proceedings for or with respect to the enforcement of an order which is for the time being registered in any court under this Act a certificate of arrears sent to the prescribed officer of the court shall be evidence of the facts stated therein.
+(5) Subject to subsection (6), sums of money payable under a registered order shall be payable in accordance with the order as from the date on which the order was made.
+(6) The court having power under section 6 of this Act to confirm a provisional order may, if it decides to confirm the order, direct that the sums of money payable under it shall be deemed to have been payable in accordance with the order as from such date, being a date later than the date on which the order was made, as it may specify; and subject to any such direction, a maintenance order registered under the said section 6 shall be treated as if it had been made in the form in which it was confirmed and as if it had never been a provisional order.
+[Section 7 subsection (3) substituted by 2002:36 Sch para 13 effective 19 January 2004]
