@@ -1,0 +1,4 @@
+# Commission may require information
+10 (1) The Commission may require any person being a trustee, or officer of any fund for the registration of which under this Act application has been made, or of any registered fund, to furnish any information or explanation which may be necessary for the proper exercise and performance of the powers and duties of the Commission under this Act.
+(2) In the event of any breach of trust being committed by the trustees of a registered fund by reason of their making any unauthorized investment or by reason of their committing a breach of any rule of the fund being a rule required by this Act as a qualification for registration of the fund thereunder, the Commission shall have the like remedies in all respects for the breach of trust as if it were a person beneficially interested in the fund.
+[Section 10 subsection (2) amended by 2016 : 42 s. 8 effective 27 July 2016]
