@@ -1,0 +1,4 @@
+# Rules made before 4 November 1966
+8 (1) If upon an application for the registration under this Act of any fund whereof the rules were made before 4 November 1966, the Commission is satisfied that the rules of the fund contain provisions which were inserted only for the purpose of avoiding the application to the trusts of the fund of the rule of law relating to perpetuities, it may, at the request of the trustees making the application, amend the rules by deleting those provisions therefrom and may, upon the like request, make any further amendments that are, in its opinion, proper in consequence of their deletion.
+(2) Where the rules of any fund are amended by the Commission under this section, the rules shall, when registered, have effect subject to the amendments so made.
+[Section 8 subsection (1) amended by 2016 : 42 s. 8 effective 27 July 2016]

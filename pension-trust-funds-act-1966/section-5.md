@@ -1,0 +1,3 @@
+# Issue of certificate
+5 Upon the registration under this Act of any fund or of an amendment of the rules of any registered fund, the Commission shall, on the payment of a fee of $60 issue a certificate of registration, or amendment, as the case may be, and any document purporting to be a certificate issued under this section and to be signed or sealed by the Commission, shall be received in evidence and be deemed to be so issued, signed or sealed without further proof unless the contrary is shown, and shall be conclusive evidence of the facts certified therein.
+[Section 5 amended by 2016 : 42 s. 6 effective 27 July 2016]

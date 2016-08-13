@@ -1,0 +1,4 @@
+# Audit annually; actuarial report every 5 years
+9 (1) The trustees of every registered fund shall, once in every year, cause to be prepared a statement of accounts and balance-sheet of the fund which shall be audited by an auditor, and shall, at least once in every five years, cause an investigation and report to be made by an actuary as to the financial condition of the fund.
+(2) A copy of every statement of accounts, balance-sheet and report prepared under this section signed by the auditor or actuary, as the case may be, and by a trustee of the fund, shall be sent to the Commission within twelve months after the close of the period to which it relates.
+(3) The documents specified in subsection (2) submitted to the Commission shall not be open to inspection by any member of the public and the Commission shall not make any copy thereof available to any member of the public.
