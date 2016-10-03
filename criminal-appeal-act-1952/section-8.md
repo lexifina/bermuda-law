@@ -1,0 +1,5 @@
+# Extension of time
+8 (1) Where it appears to the Supreme Court, on application made in accordance with this section, that any person wishing to appeal to the Supreme Court has failed to give notice of appeal within the period required by the section 7, the Court may, if it thinks fit, direct that any such notice of appeal previously given by the applicant after the expiration of such period, or any such notice that may be given by him within such further time as may be specified in the direction, shall be treated as if it had been given within such period.
+(2) An application for a direction under subsection (1) shall be made in writing and shall be sent by the appellant to the Registrar; and, where any such direction is given by the Supreme Court, the Registrar shall give notice of the terms of the direction to the appellant and to the Senior Magistrate and to the respondent in the appeal.
+(3) The powers of the Supreme Court under subsection (1) may be exercised by a judge.
+[Section 8 amended by 1998:38 effective 1 January 2000; subsection (1) amended by 1999:51 s.4 & Sch effective 23 December 1999]
