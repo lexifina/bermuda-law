@@ -1,0 +1,8 @@
+# Duties of Registrar and Senior Magistrate on determination of appeal
+23 (1) Upon an appeal being heard and determined by the Supreme Court the Registrar—
+(a) shall endorse a memorandum of the decision of the Supreme Court regarding such determination on each document transmitted to him in pursuance of this Act (being a document recording the conviction, sentence, order or other decision in respect of which the appeal was heard and determined) ; and
+(b) shall transmit to the Senior Magistrate a like memorandum; and
+(c) where the appellant was not present at the determination of the appeal, shall (without prejudice to anything in section 12) cause the appellant to be informed of the determination of the appeal and of any order made by the Supreme Court in connection with the determination of the appeal.
+(2) The Senior Magistrate shall cause the terms of the memorandum transmitted to him as aforesaid to be entered in the appropriate record book kept under section 83 of the Criminal Jurisdiction and Procedure Act 2015.
+(3) Whenever any copy or certificate of a conviction, sentence, order or other decision referred to in subsection (1) is made, a copy of the memorandum referred to in that subsection shall be endorsed upon the copy or certificate and shall be sufficient evidence of the decision of the Supreme Court with respect to the determination of an appeal in connection therewith where the copy or certificate would be sufficient evidence of the conviction, sentence, order or other decision as aforesaid.
+[Section 23 subsection (2) amended by 2015 : 38 s. 91 effective 6 November 2015]

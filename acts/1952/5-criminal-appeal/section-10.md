@@ -1,0 +1,4 @@
+# Amendment of notice of appeal
+10 (1) Where it appears to the Supreme Court, on application made in accordance with this section, that it is just or expedient that any notice of appeal duly given under section 7 or section 8 should be amended in any particular, the Court may direct that any such notice of appeal shall be so amended and shall be treated as though it had been duly given in its amended form.
+(2) An application for a direction under subsection (1) shall be made in writing and shall be sent by the appellant to the Registrar; and, where any such direction is given by the Supreme Court, the Registrar shall give notice of the terms of the direction to the appellant and to the Senior Magistrate, and to the respondent in the appeal.
+(3) The powers of the Supreme Court under subsection (1) may be exercised by a judge.
