@@ -1,0 +1,2 @@
+# Mortgagee to have power of sale
+12 Every mortgagee shall have power absolutely to dispose of any aircraft in respect of which he is registered and to give effectual receipts for the purchase money; but where there are more persons than one registered as mortgagees of the same aircraft, a subsequent mortgagee shall not, except under the order of the Supreme Court, sell the aircraft without the concurrence of every prior mortgagee.
