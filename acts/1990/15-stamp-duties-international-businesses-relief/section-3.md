@@ -1,0 +1,2 @@
+# Stamp duty on certain instruments abolished
+3 Notwithstanding anything to the contrary in the Act but subject to section 4, an instrument is exempt for duty if it is an instrument executed on or after 1st April 1990 by an international business (being an international business properly a party to the instrument), or by a person in respect of an interest which he has in, or in property of, an international business, whether or not the instrument has also been executed by some other person.
