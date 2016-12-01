@@ -1,0 +1,3 @@
+# Interpretation
+2 In this General Determination, unless the context otherwise requires, terms shall have the meaning given in the Regulatory Authority Act 2011, the Electronic Communications Act 2011, and the Schedule to this General Determination.
+### REGULATORY AUTHORITY (PROCESS FOR PAYMENT OF REGULATORY AUTHORITY AND GOVERNMENT AUTHORIZATION FEES) GENERAL DETERMINATION 2016
