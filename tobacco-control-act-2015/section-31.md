@@ -1,0 +1,17 @@
+# Power to enter premises and to seize goods, etc.
+31 (1) An inspector who has reasonable cause to believe that an offence under this Act or regulations made under this Act has been committed, may at all reasonable times and on production of his credentials enter any premises other than premises or parts of premises used exclusively as a dwelling house and while there may—
+(a) inspect any cigarette product, tobacco product or smokeless tobacco product found;
+(b) require any retailer or employee to produce books or documents relating to the business and to permit the inspector to take copies of or any entry in such books or documents;
+(c) seize and detain cigarette products, tobacco products, smokeless tobacco products, related products or documents which he believes may be required as evidence in proceedings under this Act;
+(d) for the purpose of exercising his powers to seize goods under this section and to the extent that it is reasonably necessary in order to ensure compliance with any provision referred to in this section, require any person having authority to do so to break open any container, and if the person does not comply, the inspector may do so himself.
+(2) An inspector who seizes cigarette products, tobacco products, smokeless tobacco products, related products or documents in exercise of his powers under subsection (1) shall, in a written statement specifying the nature and amount of items seized, inform the person from whom they are seized.
+(3) For the purpose of proceedings taken or transactions made under this Act, the written statement of an inspector given under subsection (2) has effect as a receipt for the goods or documents seized.
+(4) A magistrate who is satisfied by sworn information in writing that there are reasonable grounds to believe that—
+(a) cigarette products, tobacco products, smokeless tobacco products, related products or documents which an inspector has power to inspect are on any premises and that their inspection is likely to disclose evidence of the commission of an offence under this Act or regulations made under this Act; or
+(b) an offence under this Act or regulations made under this Act has been, is being, or is about to be committed on any premises;
+and that—
+(c) admission to the premises has been or is likely to be refused and that notice of intention to apply for a warrant under this subsection has been given to the occupier; or
+(d) an application for admission or the giving of the notice mentioned in paragraph (c) would defeat the object of the entry or that the premises are unoccupied or that the occupier is temporarily absent and it might defeat the object of the entry to await his return,
+may by warrant under his hand, which shall continue in force for a period of one month, authorise any inspector to enter the premises, if need be by force.
+(5) An inspector who enters premises by virtue of this section may take with him such other persons and equipment as appears necessary to him, and on leaving premises which he enters by virtue of a warrant under subsection (4), where either the premises are unoccupied or the occupier is temporarily absent, he shall affix a notice in a conspicuous place stating that the premises were entered for the purpose of this section, and as far as practicable shall leave the premises as effectively secured against trespassers as he found them.
+(6) When exercising powers under this Act, an inspector shall present proof of identity as an inspector.
