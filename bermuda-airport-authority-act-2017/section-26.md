@@ -1,0 +1,10 @@
+# Transfer of Department of Airport Operations officers to alternative employment
+26 (1) A person who immediately before the coming into force of this Act, was a public officer in the service of the Department of Airport Operations may be offered alternative employment comparable to that in which he was engaged prior to the establishment of the Authority or other reasonably suitable work with the Authority or the Developer.
+(2) If he accepts such offer in accordance with its terms, the person shall become an employee of the Authority or the Developer on terms and conditions of employment that, taken as a whole, are no less favourable than those that applied to his office immediately before the coming into force of this Act, except to the extent that—
+(a) other terms and conditions of employment are agreed between him and the Authority or the Developer (subject to the Employment Act 2000 and other applicable laws);
+(b) existing employment terms need to be varied to change existing pension arrangements and other benefits to align with more typical private sector pensions and benefits;
+(c) disciplinary matters shall be dealt with in accordance with the disciplinary rules and procedures established by the Authority (which shall be subject to the Employment Act 2000 and other applicable laws);
+(d) an amendment to the terms and conditions is required to enable the Authority, the Developer, or other Government department to restructure itself, its senior management, its employees, reporting structures or business operations in a manner it considers appropriate;
+(e) applicable law otherwise provides.
+(3) Every public officer who accepts an offer of employment in accordance with the terms offered to him pursuant to this section shall be deemed to have transferred into employment as an employee with the Authority or the Developer on the date this Act comes into operation.
+(4) Every public officer who does not accept employment in accordance with the terms offered to him pursuant to this section shall, subject to any individual agreement to the contrary, have his employment terminated on or before the commencement of this Act.
