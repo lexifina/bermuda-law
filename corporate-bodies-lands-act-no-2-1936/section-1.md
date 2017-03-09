@@ -1,0 +1,5 @@
+[preamble and words of enactment omitted]
+# Body corporate acquiring land must deposit memorandum in office of Land Title Registrar
+1 Every body corporate, whether incorporated in Bermuda or elsewhere, now holding or hereafter acquiring any land in Bermuda in fee simple absolute or subject to a quit rent or rent charge or for a term exceeding twenty-one years shall, within three months after the land has been acquired, deposit in the office of the Land Title Registrar a memorandum in writing setting forth the description and area of such land, and the estate or interest therein of the body corporate, together with a copy of the lot plan and the grid reference of the approximate centre of the lot, using the Bermuda National Grid 2000:
+Provided that nothing in the foregoing provision of this section shall apply or have effect in relation to a body corporate that has deposited such memorandum and documents under section 102 (1) of the Bermuda Immigration and Protection Act 1956.
+[Section 1 repealed and replaced by 2007:16 s.22 & Sch effective 22 June 2007; heading and section amended by 2017 : 9 s. 11 effective 20 February 2017]
