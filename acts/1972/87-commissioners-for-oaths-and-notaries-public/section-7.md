@@ -1,0 +1,2 @@
+# Removal from roll
+7 A notary public may upon the order of the Supreme Court or any Judge thereof be removed from the roll kept under section 4 or suspended from the performance of any act whatsoever appertaining or belonging to his office if he is found guilty of any criminal offence, or if it has been made to appear to such Court or Judge that such notary has been guilty of misconduct or negligence or has been unskillful in the discharge of his functions as a notary public.
