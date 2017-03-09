@@ -1,0 +1,3 @@
+# Body corporate disposing of land must deposit documents in office of Land Title Registrar
+2 Every such body corporate which sells or otherwise disposes of any land in respect of which a memorandum or document was deposited under section 1 shall, within three months of such sale or disposition, deposit in the office of the Land Title Registrar a memorandum in writing setting forth the description and area of such land and the estate or interest therein so sold or disposed of together with a copy of the lot plan and the grid reference of the approximate centre of the lot, using the Bermuda National Grid 2000.
+[Section 2 repealed and replaced by 2007:16 s.22 & Sch effective 22 June 2007; heading and section amended by 2017 : 9 s. 11 effective 20 February 2017]
