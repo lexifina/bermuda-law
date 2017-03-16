@@ -1,0 +1,2 @@
+# Transitional provision relating to fees
+4 For the avoidance of doubt, on the repeal of section 6(2)(k) of the Civil Airports Act 1949 by these Regulations, all fees in respect of any facilities and services at, or otherwise in connection with, the operation of the Bermuda Airport shall be established and set by the Bermuda Airport Authority in accordance with section 30 of the Bermuda Airport Authority Act 2017 and the Agreement (as defined in that Act).
