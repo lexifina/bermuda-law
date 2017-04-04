@@ -1,0 +1,7 @@
+# Food and drink
+9 (1) If an occasional licence is granted under the Liquor Licence Act 1974 for a Bermuda Event which is to be held in a closed off area of Front Street in Hamilton, it shall not be unlawful for the holder of the occasional licence to sell intoxicating liquor to the public during and at the Event, provided that there is no public access for motor vehicles to that area of Front Street during the Event.
+(1A) If an America’s Cup event licence is granted under section 22B of the Liquor Licence Act 1974 for a Bermuda Event which is to be held in Dockyard, it shall not be unlawful for the holder of the licence to sell intoxicating liquor to the public during and at the Event in accordance with the licence.
+(2) For the avoidance of doubt, nothing in subsection (1) or (1A) permits the sale of intoxicating liquor to persons under the age of eighteen years.
+(3) Where subsection (1) or (1A) applies, no offence shall be committed by a person under section 10 of the Summary Offences Act 1926 (drinking in a public street).
+(4) Where, but for this section, any activity of a designated commercial partner of ACEA would be prohibited under the Prohibited Restaurant Act 1997, that Act shall not apply to such activity carried out in the vicinity of, and during, any of the Bermuda Events.
+[Section 9 subsection (1A) inserted and subsections (2) and (3) amended by 2017 : 5 s. 4 effective 1 April 2017]

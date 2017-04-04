@@ -1,0 +1,2 @@
+# Development and planning
+7 No fees shall be payable under Heads 10, 11 or 21 of the Government Fees Regulations 1976 (Building Act 1988, Building Authority Act 1962 and Development and Planning Act 1974) in respect of applications submitted to the Department of Planning by ACBDA for capital development projects at the Royal Naval Dockyard which have been approved by the Minister for the purposes of preparation for the 35th America’s Cup.
