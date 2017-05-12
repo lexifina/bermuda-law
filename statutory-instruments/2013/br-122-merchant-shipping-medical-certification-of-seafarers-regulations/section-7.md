@@ -1,0 +1,5 @@
+# Standard of medical fitness
+7 (1) Every examination for the issue of a medical fitness certificate shall follow the “Guidelines on the medical examination of seafarers (ILO/IMO/JMS/2011/2012)” jointly published by the International Labour Organization and the International Maritime Organization, published in 2013.
+(2) Seafarers shall only be issued with a medical fitness certificate when they are found to be able to meet the minimum in-service eyesight standards for seafarers set out in section A-I/9-1 and Table A-I/9 of the STCW Convention and the fitness standards described in section A-I/9-2 of the STCW Convention.
+(3) A medical fitness certificate, issued following the satisfactory completion of the medical examination required under subsection (1), shall be in the format as set out in the Schedule (“Government of Bermuda Department of Maritime Administration Seafarer Medical Fitness Certificate”).
+[Regulation 7 paragraph (1) amended by BR 57 / 2014 reg. 3 effective 30 June 2014]

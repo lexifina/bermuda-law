@@ -1,0 +1,5 @@
+# Requirement for a seafarer’s medical certificate
+4 (1) In every ship to which these regulations apply the shipowner shall ensure that every seafarer holds a valid medical fitness certificate before the seafarer is employed on board.
+(2) It shall be the duty of the master of every ship to which these regulations apply to ensure that every seafarer on commencing employment on board has a valid medical fitness certificate.
+(3) A seafarer whose medical fitness certificate expires during this employment and while he is in a location where it is impracticable to obtain a new medical fitness certificate may continue to be employed after the date of expiry of his certificate until the ship’s arrival at a port where a new medical certificate can be obtained but the period when the seafarer is employed without a valid medical fitness certificate shall not exceed three months from the date of expiry of such medical fitness certificate.
+(4) A medical fitness certificate shall cease to be valid if the seafarer holding it is employed in a capacity or in a geographical area precluded by any restriction stated in that seafarer’s medical fitness certificate.
