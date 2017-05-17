@@ -1,0 +1,2 @@
+# Recovery of duty
+9 Without prejudice to anything in the foregoing provisions of this Act, any duty falling to be paid by any person under any of the foregoing provisions of this Act may, without limit of amount, be recovered by the Collector of Customs before a court of summary jurisdiction in the manner provided by the Magistrates Act 1948 [title 8 item 15] for the recovery of a debt or liquidated demand.
