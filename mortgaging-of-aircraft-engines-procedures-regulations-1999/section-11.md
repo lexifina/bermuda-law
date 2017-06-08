@@ -1,0 +1,2 @@
+# Mortgage not affected by bankruptcy
+11 A registered mortgage of an aircraft engine shall not be affected by any act of bankruptcy committed by the mortgagor after the date on which the mortgage is registered, notwithstanding that at the commencement of his bankruptcy the mortgagor had the aircraft engine in his possession, order or disposition, or was reputed owner thereof, and the mortgage shall be preferred to any right, claim or interest therein of the other creditors of the bankrupt or any trustee or assignee on their behalf.

@@ -1,0 +1,2 @@
+# Discharge of mortgages
+5 On receipt of the form set out in Form IV of the Schedule duly completed and signed by or on behalf of the mortgagee and of a copy of the document of discharge or receipt for the mortgage money, or of any other document which shows, to the satisfaction of the Minister, that the mortgage has been discharged and on payment of the appropriate charge, the Minister shall enter the said form in the Register and mark the relevant entries in the Register “Discharged” and shall notify the mortgagee, mortgagor and the owner that he has done so.

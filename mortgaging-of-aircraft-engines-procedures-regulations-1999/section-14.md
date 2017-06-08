@@ -1,0 +1,3 @@
+# Transmission of interest in mortgage by death, bankruptcy etc
+14 (1) Where the interest of a mortgagee in an aircraft engine is transmitted on death or bankruptcy, or by any lawful means, other than by a transfer under these Regulations, the transmission shall be authenticated by a declaration of the person to whom the interest is transmitted, containing a statement of the manner in which and the person to whom the property has been transmitted, and shall be accompanied by documentary evidence in a form satisfactory to the Minister.
+(2) The Minister on the receipt of the declaration, and the production of the documentary evidence, shall enter the name of the person entitled under the transmission in the Register as the mortgagee of the aircraft engine.
