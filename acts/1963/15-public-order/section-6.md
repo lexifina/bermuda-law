@@ -1,0 +1,3 @@
+# Application for permit
+6 (1) An application to organise any public procession shall be made to the Deputy Governor at least three days (or such lesser period as the Deputy Governor may in his absolute discretion allow) before the proposed date therefor.
+(2) Every application made in accordance with subsection (1) shall contain particulars of the names and addresses of the organisers responsible for the procession, the point of departure, the route of the public procession to which the application relates, the hours between which it is proposed that it shall take place, the date proposed therefor and an estimate of the number of persons who are expected to participate therein.
