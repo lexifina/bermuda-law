@@ -1,0 +1,2 @@
+# Act not to be evaded by use of security
+8 Where any security is provided in relation to a contract to which this Part applies the security shall not be enforced so as to benefit the creditor, directly or indirectly, to an extent greater than would have been the case if the security had not been provided and any obligations of the debtor under or in relation to the contract were carried out to the extent to which they would have been enforced under this Act.
