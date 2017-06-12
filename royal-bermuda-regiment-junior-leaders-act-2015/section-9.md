@@ -1,0 +1,2 @@
+# Funds and gifts for the Junior Leaders
+9 The Royal Bermuda Regiment shall have power to receive any funds appropriated by the Legislature for the purposes of the Junior Leaders, and any funds or gifts in kind given or bequeathed for the purposes of the Junior Leaders, and, subject to any terms, conditions or directions expressed in any such appropriation, gift, or bequest, shall apply all such funds or gifts in furtherance of the purposes of the Junior Leaders in such manner as it thinks fit.
