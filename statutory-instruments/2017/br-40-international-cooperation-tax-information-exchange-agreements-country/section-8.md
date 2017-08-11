@@ -1,0 +1,4 @@
+# Use and confidentiality of country-by-country report information
+8 (1) The Minister shall only use the country-by-country reports as necessary for the purposes of assessing high-level transfer pricing risks and other base erosion and profit shifting related risks in Bermuda, including assessing the risk of non-compliance by members of the MNE Group with applicable transfer pricing rules, and where appropriate for economic and statistical analysis (if applicable).
+(2) For purposes of paragraph (1), transfer pricing adjustments by the Minister (if applicable) will not be based on the country-by-country reports.
+(3) The Minister shall preserve the confidentiality of the information contained in the country-by-country report at least to the same extent that would apply if such information were provided to it under the provisions of the Multilateral Convention on Mutual Administrative Assistance in Tax Matters.
