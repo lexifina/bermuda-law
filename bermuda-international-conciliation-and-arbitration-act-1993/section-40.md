@@ -1,0 +1,3 @@
+# Effect of Convention awards
+40 (1) A Convention award shall, subject to this Part, be enforceable in Bermuda either by action or may by leave of the Court, be enforced in the same manner as a judgment or order to the same effect and, where leave is so given, judgment may be entered in terms of the award.
+(2) Any Convention award which would be enforceable under this Part shall be treated as binding for all purposes on the persons as between whom it was made, and may accordingly be relied on by any of those persons by way of defence, set off or otherwise in any legal proceedings in Bermuda and any reference in this Part to enforcing a Convention award shall be construed as including references to relying on such an award.

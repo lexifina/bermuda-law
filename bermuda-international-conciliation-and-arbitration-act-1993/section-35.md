@@ -1,0 +1,12 @@
+# Conduct of proceedings, witnesses, etc.
+35 (1) Unless a contrary intention is expressed therein, every arbitration agreement shall, where such a provision is applicable to the arbitration, be treated as containing a provision that the arbitral tribunal has power to examine witnesses on oath or affirmation and also power to administer oaths to, or take the affirmations of, witnesses in the arbitration.
+(2) Subject to section 10, an arbitral tribunal may receive any evidence that the tribunal considers relevant and, unless the parties have otherwise agreed, shall not be bound by rules of evidence applicable in Bermuda.
+(3) Any party to an arbitration under an arbitration agreement may sue out a writ of subpoena ad testificandum or a writ of subpoena duces tecum but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action, and the Court may order that a writ of subpoena ad testificandum or of subpoena duces tecum shall issue to compel the attendance before an arbitral tribunal of a witness wherever he may be within Bermuda.
+(4) The Court may also order that a writ of habeas corpus shall issue to bring up a prisoner for examination before an arbitral tribunal.
+(5) The Court shall have, for the purpose of and in relation to an arbitration, the same power of making orders in respect of—
+(a) examination on oath of any witness before an officer of the Court or any other person, and the issue of a commission or request for the examination of a witness out of the jurisdiction;
+(b) the preservation, interim custody or sale of any goods which are the subject matter of the arbitration;
+(c) securing the amount in dispute in the arbitration;
+(d) the detention, preservation or inspection of any property or thing which is the subject of the arbitration or as to which any question may arise therein, and authorizing for any of the purposes aforesaid any person to enter upon or into any land or building in the possession of any party to the arbitration, or authorizing any samples to be taken or any observation to be made or experiment to be tried which may be necessary or expedient for the purpose of obtaining full information or evidence; and
+(e) interim injunctions or the appointment of a receiver,
+as it has for the purpose of and in relation to an action or matter in the Court except that nothing in this subsection shall be taken to prejudice any power which may be vested in an arbitrator of making orders with respect to any of the matters aforesaid.

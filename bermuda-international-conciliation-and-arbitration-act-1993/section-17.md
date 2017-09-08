@@ -1,0 +1,2 @@
+# No consent to court jurisdiction upon failure of conciliation
+17 Neither the request for conciliation, the consent to participate in the conciliation proceedings, the participation in such proceedings, nor the entering into a conciliation agreement or settlement shall constitute consent to the jurisdiction of any court in Bermuda in the event conciliation fails except that this section does not affect the jurisdiction of any court in Bermuda with respect to any settlement agreement resulting from a conciliation.

@@ -1,0 +1,2 @@
+# Settlement of dispute otherwise than in accordance with Model Law
+29 Where the parties to an arbitration agreement have, whether in the agreement or in any other document in writing, agreed that any dispute that has arisen or may arise between them is not to be settled in accordance with the Model Law, the Model Law does not apply in relation to the settlement of that dispute and in such a case unless otherwise agreed in writing by the parties the Arbitration Act 1986 shall apply.
