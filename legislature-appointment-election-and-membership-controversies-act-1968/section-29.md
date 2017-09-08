@@ -1,0 +1,2 @@
+# Determination of stated case
+29 If, on the application of any party to a representation petition made in the prescribed manner to the Supreme Court, it appears to the Supreme Court that the case raised by the representation petition can be conveniently stated as a special case, the Supreme Court may direct it to be stated accordingly and the special case shall be heard before the Supreme Court, and the Supreme Court shall certify in writing to the Governor and to the President or Speaker, as the case may be, its determination in reference to the special case.

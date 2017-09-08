@@ -1,0 +1,2 @@
+# Votes to be struck off on a scrutiny
+19 On a scrutiny at the trial of a representation petition questioning an election, any vote or votes given on a ballot paper which is, by virtue of section 54(1) of the Act void, but which has, in contravention of that subsection, been counted, shall be struck off and, conversely, the Supreme Court may reverse any decision of the Returning Officer to treat a ballot paper as void under the subsection.

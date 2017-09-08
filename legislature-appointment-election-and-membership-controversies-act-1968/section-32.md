@@ -1,0 +1,2 @@
+# Observance of Parliamentary principles, practice and rules
+32 Subject to the provisions of this Act and rules made by virtue of any such provisions, the principles, practice and rules on which committees of the House of Commons of the Parliament of the United Kingdom used to act in dealing with election petitions shall be observed so far as may be, by the Supreme Court in the case of representation petitions in respect of elections or returns.

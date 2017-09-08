@@ -1,0 +1,2 @@
+# Notice of presentation and security and copy of petition to be served on respondent
+8 Within the prescribed time, not exceeding five days after the presentation of a representation petition, the petitioner shall in the prescribed manner serve on the respondent a notice of the presentation of the representation petition, and of the nature of the proposed security, and a copy of the representation petition.
