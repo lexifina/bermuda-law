@@ -1,0 +1,8 @@
+# Admissibility of evidence and nondisclosure in other proceedings
+10 (1) Unless otherwise agreed in writing by the parties, it shall be an implied term of the written agreement to conciliate that the parties undertake not to rely on or introduce as evidence in any arbitral or judicial proceedings in any jurisdiction, whether or not such proceedings relate to the dispute that is the subject of the conciliation proceedings—
+(a) views expressed or suggestions made by any party in respect of possible settlement of the dispute;
+(b) admissions made by any party in the course of the conciliation proceedings;
+(c) proposals made by the conciliator;
+(d) the fact that the other party had indicated willingness to accept all, or part, of a proposal for settlement made by the other party, or by the conciliator.
+(2) Without limiting the obligations created by subsection (1), evidence of anything said or of any admission made in relation to any or all of the matters referred to in subsection (1)(a) to (d) (inclusive) is not admissible in evidence in any arbitration conducted pursuant to Part III or judicial proceeding in Bermuda, and disclosure of any such evidence shall not be compelled in any civil action in Bermuda in which, pursuant to the law, testimony may be compelled to be given.
+(3) Where evidence is offered in contravention of this section, the arbitration tribunal or the Court shall make any order which it considers to be appropriate to deal with the matter, including, without limitation, orders restricting the introduction of evidence, or dismissing the case without prejudice.
