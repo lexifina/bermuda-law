@@ -1,0 +1,2 @@
+# Leave to disclose evidence
+36 Without prejudice to anything in sections 26, 27, and 35, no member or officer of either House of the Legislature, and no shorthand writer or parliamentary printer, shall give evidence in any other proceedings in respect of any minutes of evidence taken before a legislative committee or of the contents of any document laid before the committee, or in respect of any proceedings of the committee, unless the leave of the appropriate parliamentary authority has been first obtained.

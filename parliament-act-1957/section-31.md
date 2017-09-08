@@ -1,0 +1,4 @@
+# Evidence on oath
+31 (1) A person who, having been duly summoned, is in attendance before a legislative committee may, without prejudice to anything in sections 32, 33 or 34 be required by the chairman of the committee to give evidence on oath or, in circumstances where an affirmation is permitted under the Evidence Act 1905 [title 8 item 10], then on affirmation, as to the subject matter of the terms of reference of the committee.
+(2) An oath or affirmation made by a person in attendance as a witness before a legislative committee shall, with necessary modifications, be in the form ordinarily used in proceedings before a court.
+(3) The chairman of, or secretary to, a legislative committee may administer an oath or affirmation to any person in pursuance of the foregoing provisions of this section.

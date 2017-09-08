@@ -1,0 +1,7 @@
+# Disclosure of confidential information an offence
+27 (1) No member of either House of the Legislature or any officer of that House or any shorthand writer or any parliamentary printer who has taken part in, or has been present at, or has been, or has become, privy to, any proceedings ordered by the appropriate parliamentary authority under section 26 to be held in secret shall, without due and lawful authority, disclose to any person not privy to the proceedings any report thereof.
+(2) Without prejudice to anything in subsection (1) no member of either House of the Legislature, or any officer of either House, or any shorthand writer, or any parliamentary printer, who has taken part in, or has been present at, or has been privy to, any proceedings or any deliberation of any select committee of either House or of any joint select committee shall, without due and lawful authority, disclose to any person not privy to such proceedings or deliberation any report thereof prior to the committee reporting to the House or Houses of the Legislature to which such report is to be submitted.
+(3) Any person who contravenes any of the foregoing provisions of this section commits an offence against this Act:
+Punishment on conviction on indictment: imprisonment for 3 months or a fine of $8,400 or both such imprisonment and fine.
+Punishment on summary conviction: a fine of $1,680.
+(4) Subsection (3) is without prejudice to any other action which may be taken against such offender.

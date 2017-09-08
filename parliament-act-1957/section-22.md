@@ -1,0 +1,4 @@
+# Admission of strangers
+22 (1) The appropriate parliamentary authority are entitled and empowered to make such rules or orders as appear expedient for the purpose of regulating the admittance of strangers to the precincts of each House of the Legislature, and for requiring the withdrawal of any stranger from any such part of such precincts:
+Provided that nothing in the foregoing provisions of this section derogates from or abridges the proviso to section 21(1).
+(2) Any copy of a rule or order made under subsection (1) and purporting to be duly authenticated by the Clerk to the House of the Legislature in question, shall, if exhibited in a conspicuous position within the precincts of the House of the Legislature to which it relates, be deemed to be sufficient notice to any person affected thereby.

@@ -1,0 +1,3 @@
+# Precincts a public place for purpose of Summary Offences Act 1926
+25 (1) Any part of the precincts of either House of the Legislature to which the public, in pursuance of this Act, bona fide enjoy access or are admitted, shall for the purposes of the Summary Offences Act 1926 [title 8 item 33], be a public place within the meaning of section 1 of that Act.
+(2) A certificate purporting to be signed by the President or as the case may be, the Speaker, that any part of the precincts of either House of the Legislature is a part to which the public bona fide enjoy access or are admitted shall be receivable in evidence and shall be sufficient evidence of that fact.

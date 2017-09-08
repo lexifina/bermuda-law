@@ -1,0 +1,2 @@
+# Privilege of witness
+32 No person who, having been duly summoned, is in attendance before a legislative committee shall be required to answer any question, or to produce any document, which he would not be required, respectively, to answer or produce in proceedings before a court; and any such person shall, in respect of any evidence, or the disclosure of any com-munication, or the production of any document, be entitled to the same right and privilege as before a court.
