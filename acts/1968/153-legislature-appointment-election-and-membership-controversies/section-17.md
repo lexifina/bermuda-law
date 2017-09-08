@@ -1,0 +1,3 @@
+# Expenses of witnesses
+17 (1) The reasonable expenses incurred by any person in appearing to give evidence at the trial of a representation petition, according to the scale allowed to witnesses on the trial of civil actions before the Supreme Court may be allowed to such person under the hand of a judge or the Registrar and the amount to be paid to any such witness shall be ascertained and certified by the Registrar.
+(2) The expenses of a witness called by a party shall be deemed to be costs of the representation petition but the expenses of a witness called by the Supreme Court shall be deemed part of the expenses of the Supreme Court and paid out of moneys provided for such expenses.

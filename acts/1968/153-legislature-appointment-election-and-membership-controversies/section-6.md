@@ -1,0 +1,3 @@
+# Amendment of representation petition
+6 The Supreme Court may, at any stage before conclusion of the trial of a representation petition, allow the petitioner to alter or amend his representation petition in such manner and on such terms as may seem just:
+Provided that no amendment for the purpose of inserting an allegation of a corrupt practice or an election offence in a representation petition questioning an election or return shall be allowed unless made within the time within which a representation petition questioning the election or the return upon such allegation might have been presented under section 5.

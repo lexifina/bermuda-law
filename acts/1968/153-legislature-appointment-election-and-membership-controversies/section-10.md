@@ -1,0 +1,3 @@
+# Dismissal of petition on failure to give security
+10 (1) If security as in section 7 provided is not given by the petitioner, or if any objection is allowed and not removed as in section 9 provided, no further proceedings shall, subject to section 11, be allowed on the representation petition and the respondent or any other party may apply to a judge for an order directing the dismissal of the representation petition and for the payment of the respondent’s costs and the costs of any other party.
+(2) The costs of hearing and deciding any such application shall be paid as ordered by the judge or, in the absence of such order, shall form part of the general costs of the representation petition.

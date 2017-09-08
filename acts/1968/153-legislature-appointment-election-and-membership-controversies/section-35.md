@@ -1,0 +1,3 @@
+# Security for costs
+35 (1) Where a vacancy petition has been presented to the Supreme Court under this Part the petitioner shall at the time of delivering the vacancy petition to the Registrar or within three days afterwards give security for all costs which may become payable by him to any witness summoned on his behalf or to any party to the vacancy petition.
+(2) Security shall be an amount of two thousand four hundred dollars and shall be given in the prescribed manner by recognizance entered into by any number of sureties not exceeding four or by a deposit of money, or partly in one way and partly in the other.
