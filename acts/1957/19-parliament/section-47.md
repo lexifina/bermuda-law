@@ -1,0 +1,2 @@
+# Perjury
+47 Any proceedings held under or in pursuance of this Act before either House of the Legislature or before any legislative committee are, for the purposes of sections 119 and 120 of the Criminal Code [title 8 item 31] (perjury) declared to constitute judicial proceedings; and any person who gives false testimony in connection therewith may be proceeded against and dealt with accordingly.

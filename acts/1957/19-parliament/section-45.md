@@ -1,0 +1,2 @@
+# Exclusion of jurisdiction of courts; acts of President and Speaker under this Act
+45 No court shall entertain any action, suit or other proceedings whatsoever by or on behalf of any person who is aggrieved by any act done or omission made by the President or the Speaker as respects any power conferred or duty imposed on the President or as the case may be, the Speaker, by or under any provision of this Act.
