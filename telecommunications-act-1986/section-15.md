@@ -1,0 +1,3 @@
+# Minister may give directives to Carriers
+15 If, from any report submitted by the Commission or Director, it appears to the Minister that a Carrier is acting in a manner not in accord, with the duties and obligations of a Carrier under this Act and that in consequence it should take, or refrain from taking, or amend any actions, procedures or practices or otherwise follow any recommendations contained in the report of the Commission or Director, the Minister may issue a directive to the Carrier accordingly, and the Carrier shall comply therewith.
+[Section 15 amended by 1997:8 effective 27 March 1997; and by 2001:28 s.21 & Sch effective 13 August 2001]

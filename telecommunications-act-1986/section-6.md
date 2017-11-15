@@ -1,0 +1,4 @@
+# Department of Telecommunications
+6 (1) There shall continue in existence the Department of Government known as the Department of Telecommunications which is charged with the duty of assisting the Minister in the discharge of his functions under this Act and to fulfill any duties assigned to it under this Act or the regulations.
+(2) Subject to section 61(5) of the Constitution [title 2 item 1] and to the general direction and control of the Minister, the Department shall be under the supervision of a public officer who shall be known as the Director of Telecommunications and shall consist of that officer and such number of other public officers as may from time to time be authorized by the Governor.
+[Section 6 amended by 1997:8 effective 27 March 1997; by 1998:20 effective 18 June 1998; subsection (2) amended by 2001:28 s.21 & Sch effective 13 August 2001]

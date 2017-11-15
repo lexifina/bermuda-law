@@ -1,0 +1,2 @@
+# Power of Commission to obtain information for an enquiry
+19 For the purpose of an enquiry under this Act the commission shall have all the powers of a court of summary jurisdiction in relation to the summoning of witnesses, expert or otherwise, their examination on oath or otherwise and the compelling of the production of any document, record or thing relevant to the subject matter of the enquiry.

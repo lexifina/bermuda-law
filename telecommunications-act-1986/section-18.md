@@ -1,0 +1,9 @@
+# Designation of inspectors
+18 (1) The Minister may from time to time designate for such period as he deems fit any officer of the Department to be an inspector for the purposes of this Act.
+(2) The Director of Telecommunications or an inspector may at any reasonable time enter any premises for the purpose of inspecting—
+(a) any radio apparatus or radio station or any records maintained in connection therewith which are required to be kept by any provision of this Act or the regulations or by the Convention; or
+(b) any apparatus or any records maintained in connection therewith which are maintained by a Carrier in connection with the provision of a public telecommunication service.
+(3) The Minister shall provide every inspector with a written instrument of appointment and on entering any premises, pursuant to subsection (2), an inspector shall, if required to do so, produce his instrument of appointment to the person in charge of the premises.
+(4) The owner or person in charge of any premises, entered by an inspector pursuant to subsection (2) and every person found therein, shall give the inspector all reasonable assistance in their power, and shall furnish him with such information as he may reasonably require.
+(5) In this section “premises” includes any British ship, aircraft, hovercraft, platform or rig registered in Bermuda whether within or outside Bermuda, or any structure or formation attached to any submarine area adjacent to the coast of Bermuda in respect of which Bermuda has the right to the exploitation of the seabed and subsoil thereof and used for any purpose authorized by or pursuant to any Act.
+[Section 18 amended by 1997:8 effective 27 March 1997; subsection (2) amended by 2001:28 s.21 & Sch effective 13 August 2001]

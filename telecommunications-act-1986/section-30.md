@@ -1,0 +1,2 @@
+# Licence or permit for radio station
+30 No person shall, on behalf of another person, install, place in operation, repair or maintain radio apparatus, radio receiving apparatus not excluded from the application of this Act or a radio station, for the possession, maintenance, installation and operation of which a licence or permit is required, if no such licence or permit has been granted by the Minister.

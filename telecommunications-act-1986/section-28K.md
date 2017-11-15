@@ -1,0 +1,4 @@
+# New software
+28K (1) When a Carrier installs new software for any telecommunication apparatus that the Carrier operates, the Carrier shall meet the requirements under sections 28D and 28E(2) and (3) in respect of that telecommunication apparatus to the extent that the Carrier would be enabled to meet those requirements by the installation of the software in the form available from the software’s manufacturer that would most increase the Carrier’s ability to meet those requirements.
+(2) Subsection (1) applies even if the form of the software in question would require the Carrier to acquire additional software licences or telecommunication facilities to achieve that increased ability.
+[Section 28K inserted by 2010 : 34 s. 2 effective 1 November 2010 in respect of Carriers other than Information Service Providers as defined by s.8(2) of 2010 : 34]

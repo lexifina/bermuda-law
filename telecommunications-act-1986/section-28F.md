@@ -1,0 +1,4 @@
+# Exemptions from capacity requirements
+28F (1) The Minister, after consulting with the Minister responsible for public safety, may issue a directive to a Carrier exempting it from meeting its obligations under sections 28E(2) and (3) and directing the Carrier to accommodate such reduced number of interceptions, pen registers and trap and trace devices as are specified in the directive, within the time referred to in those sections.
+(2) A directive issued to a particular Carrier under this section is not a statutory instrument and need not be published in the Gazette but the directive shall have no legal effect until it is delivered to the Carrier.
+[Section 28F inserted by 2010 : 34 s. 2 effective 1 November 2010 in respect of Carriers other than Information Service Providers as defined by s.8(2) of 2010 : 34]

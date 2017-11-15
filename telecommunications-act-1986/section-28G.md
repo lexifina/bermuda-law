@@ -1,0 +1,4 @@
+# Cooperation of providers of telecommunication support services
+28G (1) A Carrier shall consult, as necessary, in a timely fashion with providers of telecommunication support services for the purpose of ensuring that current and planned telecommunication apparatus, facilities and services comply with the requirements referred to in sections 28D and 28E(2) and (3).
+(2) A provider of telecommunication support services shall, on a reasonably timely basis and at a reasonable charge, make available to Carriers using its telecommunication apparatus, facilities or services such features or modifications as are necessary to permit such Carriers to comply with the requirements of sections 28D and 28E(2) and (3).
+[Section 28G inserted by 2010 : 34 s. 2 effective 1 November 2010 in respect of Carriers other than Information Service Providers as defined by s.8(2) of 2010 : 34]

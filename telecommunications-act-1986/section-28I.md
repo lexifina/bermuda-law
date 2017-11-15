@@ -1,0 +1,3 @@
+# Maintaining capabilities in respect of new services
+28I A Carrier that meets, in whole or in part, a requirement under sections 28D or 28E(2) or (3) in respect of telecommunication apparatus that the Carrier operates in connection with any of the Carrier’s telecommunication services shall meet that requirement to the same extent in respect of any new service that the Carrier begins to provide using that telecommunication apparatus.
+[Section 28I inserted by 2010 : 34 s. 2 effective 1 November 2010 in respect of Carriers other than Information Service Providers as defined by s.8(2) of 2010 : 34]

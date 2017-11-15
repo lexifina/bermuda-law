@@ -1,0 +1,3 @@
+# Minister to determine frequencies
+33 (1) The Minister shall, in accordance with the Convention, determine the bands of frequencies or the individual frequencies which may be used by radio or other apparatus to which this Act applies and may determine the bandwidth, type of emission, power and call sign which shall be used.
+(2) The assignment of a frequency or frequencies to any radio apparatus or radio station does not confer a monopoly of the use of such frequency or frequencies nor shall a licence or permit be construed as conferring any right of continued tenure in respect of any frequency or frequencies.
