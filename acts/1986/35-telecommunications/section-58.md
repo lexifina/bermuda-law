@@ -1,0 +1,2 @@
+# Liability of owner and manager of unincorporated specified Carrier
+58 Where under this Act any obligation is imposed upon any specified Carrier which is not a body corporate or where any specified Carrier which is not a body corporate is declared by this Act to commit an offence, such obligation shall be deemed to be imposed upon, and such offence shall be deemed to be committed by, both the owner and the manager of the undertaking.

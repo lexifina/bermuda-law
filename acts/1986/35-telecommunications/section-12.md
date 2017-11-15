@@ -1,0 +1,5 @@
+# Licences for broadcasting stations
+12 (1) No licence shall be granted under this Act to any person other than a body corporate to operate a radio station for the purpose of a broadcasting service and no such licence shall be granted or renewed unless the Minister is satisfied that the control of such body corporate is vested in persons who possess Bermudian status in accordance with the Bermuda Immigration and Protection Act 1956 [title 5 item 16].
+(2) The secretary of every body corporate operating a radio station for the purpose of a broadcasting service shall submit annually to the Minister not later than six months after the closing of its financial year—
+(a) a copy of its annual financial statement and auditor’s report; and
+(b) a list of shareholders specifying their nationality and the number of shares held by each and in the case of a body corporate whether or not control is vested in persons possessing Bermudian status within the meaning of the Bermuda Immigration and Protection Act 1956 [title 5 item 16].

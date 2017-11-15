@@ -1,0 +1,22 @@
+# Minister may issue or revoke licences
+13 (1) Subject to this Act, the Minister may—
+(a) issue—
+(i) a licence, permit or certificate required by section 9; and
+(ii) a technical certificate or a radio operator’s certificate required under the Convention or the regulations;
+(b) at any time upon an application in that behalf made by a licensee or a permit or certificate holder, or of his own motion, vary any term or condition of a licence, permit or certificate issued under paragraph (a), where the Minister considers such variation necessary for the purpose for which the original condition was imposed or for any other cause, but he shall not of his own motion vary any of the terms or conditions without first giving to the licensee or permit or certificate holder reasonable notice of his intention to make such variation and shall take into account any representations made to him by or on behalf of the licensee or permit or certificate holder;
+(c) from time to time appoint such public officers within the Department and such other persons as he considers desirable to be examiners for the purpose of examining applicants for licences and permits to operate radio stations, or for certificates.
+(2) A licensee or a permit or certificate holder may at any time request the Commission in writing, stating reasons, to review the terms or conditions of the licence, permit or certificate, as the case may be, and the Commission shall within thirty days or such longer period as the Minister may allow conduct such review and submit its recommendations to the Minister, and the decision of the Minister shall be final.
+(3) The Department, the applicant and any party having an interest in the application may be represented during a review, which may be held in camera at the request of either party.
+(4) The Minister may, after giving the holder thereof written notice and affording him a reasonable opportunity to make representations, revoke or suspend any licence, permit or certificate, issued under this section where—
+(a) the holder thereof has wilfully or negligently failed to operate the facilities or services in respect of which the licence, permit, or certificate was issued in accordance with the regulations or the terms or conditions of the licence, permit or certificate or the Convention; or
+(b) false statements of material facts, fraud or misrepresentation have been made or committed by the licensee, the permit or certificate holder in the application for the licence, permit or certificate, or related to any subsequent statement in connection with it required by him; or
+(c) he is satisfied that there is other just and reasonable cause for so doing.
+(5) Notwithstanding subsection (4), the Minister may revoke or suspend any licence, permit, certificate, technical certificate or radio operator certificate without giving the holder thereof written notice or affording him an opportunity to make representations to him if the holder thereof fails to pay the fees relating thereto in the manner prescribed.
+(6) Where—
+(a) the Minister is satisfied that there may be grounds for revoking a licence granted under this Act to operate a public telecommunication service; or
+(b) the Minister is satisfied that the control of a body corporate granted a licence to operate a radio station for the purposes of a broadcasting service is vested in persons who do not possess Bermudian status within the meaning of the Bermuda immigration and Protection Act 1956 [title 5 item 16]; or
+(c) the Minister is satisfied that a body corporate granted a licence to operate a radio station for the purpose of a broadcasting service has failed to comply with any term, condition or limitation imposed upon it by the licence; or
+(d) the Broadcasting Commissioners, established under the Broadcasting Commissioners Act 1953 [title 24 item 11] or any succeeding Act, have recommended to the Minister that a licence to operate a radio station for the purposes of a broadcasting service should be revoked,
+the Minister may request the Commission to enquire into the facts in accordance with its procedure and to report thereon to him and if after consideration of the report the Minister is satisfied that the licence should be revoked, he may revoke the licence.
+(7) A licence may be transferred with the consent of the Minister.
+[Section 13 subsections (3) and (4) amended by 2001:28 s.7 effective 13 August 2001]
