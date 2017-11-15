@@ -1,0 +1,10 @@
+# Other provisions relating to licensed rifle clubs
+9 (1) The rules of a licensed rifle club shall make such provision as the Commissioner may require for the suspension from membership of persons who fail to take an active part in the sporting activities of the club.
+(2) It shall be an offence for any person to be a member of a licensed rifle club unless his membership has been approved by the Commissioner, who may withhold such approval without giving reasons therefor.
+(3) The Commissioner may, at any time, by notice to the Secretary or Chairman of a licensed rifle club, withdraw any approval given under subsection (2), whereupon the person in respect of whom approval has been withdrawn shall cease to be a member of the rifle Club and shall surrender to the Commissioner within ten days of being notified of such withdrawal any licence held by virtue of such membership and any firearm or ammunition which he possesses under the authority of such licence.
+(4) It is an offence for a person to fail to surrender a licence, firearm or ammunition as required by subsection (3).
+(5) A licensed rifle club shall within seven days after the 31st day of March, the 30th of June, the 30th of September and the 31st of December in every year furnish the Commissioner with returns showing—
+(a) the dates upon which functions involving the discharge of firearms were held by the club (whether alone or in conjunction with any other club) and the names of the members of the club participating in such functions;
+(b) an account of the ammunition used at such functions where the functions took place at a rifle range other than a rifle range maintained by some other club,
+it shall, further, be the duty of the club to keep such records as will enable such returns to be made.
+(6) If any return is not furnished in accordance with subsection (5) or if such return is incomplete, misleading or inaccurate, or if any record required under that subsection to be kept is not kept the Secretary, Chairman and members of the managing committee or governing body of the club shall commit an offence.
