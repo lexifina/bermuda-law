@@ -1,0 +1,5 @@
+# Meaning of “country-by-country report”
+4 (1) For the purpose of these Regulations, a country-by-country report with respect to an MNE Group is a report containing—
+(a) aggregate information relating to the amount of revenue, profit (loss) before income tax, income tax paid, income tax accrued, stated capital, accumulated earnings, number of employees, and tangible assets other than cash or cash equivalents with regard to each jurisdiction in which the MNE Group operates; and
+(b) an identification of each Constituent Entity of the MNE Group setting out the jurisdiction of tax residence of such Constituent Entity, and where different from such jurisdiction of tax residence, the jurisdiction under the laws of which such Constituent Entity is organized, and the nature of the main business activity or activities of such Constituent Entity.
+(2) The country-by-country report shall be completed and filed in a form reflecting the standard template set out at Annex III of Chapter V of the OECD Final Report.

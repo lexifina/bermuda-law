@@ -1,0 +1,5 @@
+# Use and confidentiality of country-by-country report information
+8 (1) All information exchanged is subject to the confidentiality and other protections provided for under the Act and the Tax Information Exchange Agreement, including the provisions limiting the use of the information exchanged.
+(2) The Minister shall only use the country-by-country reports as necessary for the purposes of assessing high-level transfer pricing risks and other base erosion and profit shifting related risks in Bermuda, including assessing the risk of non-compliance by members of the MNE Group with applicable transfer pricing rules, and where appropriate for economic and statistical analysis (if applicable).
+(3) For purposes of paragraph (2), transfer pricing adjustments by the Minister (if applicable) will not be based on the country-by-country reports.
+(4) The Minister shall preserve the confidentiality of the information contained in the country-by-country report at least to the same extent that would apply if such information were provided to it under the provisions of the Multilateral Convention on Mutual Administrative Assistance in Tax Matters.
