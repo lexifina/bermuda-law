@@ -1,0 +1,6 @@
+# Determining application to register programme
+10 (1) The Minister may, in determining an application to register a programme, grant the registration, refuse to grant the registration, or grant a registration provisionally.
+(2) Where registration is granted provisionally, the Minister shall issue a certificate of provisional registration in the prescribed form for a period not exceeding six months on such terms and conditions or restrictions as the Minister considers appropriate, and the Minister shall, during the period of the provisional registration, observe the operation of the programme, and at the end of that period determine the application.
+(3) The Minister shall give the applicant or his representative an opportunity to be heard before determining the application.
+(4) In determining an application, the Minister shall take into account any report made by an officer of the Department pursuant to section 14(2), any representations made by the applicant or his representative, and such other matters which are relevant.
+(5) The Minister shall notify the applicant in writing, as soon as practicable, whether his application for registration has been granted or refused or whether a provisional registration has been granted.
