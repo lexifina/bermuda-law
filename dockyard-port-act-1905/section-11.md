@@ -1,0 +1,2 @@
+# Owner; recovery of amount paid
+11 If the owner of any vessel or thing is in any case compelled to pay any fine, expenses or costs by reason of any act or omission of the master of such vessel or other person, he shall be entitled to recover the amount paid by him with costs from the person who actually committed the offence or did the wrongful act in respect of which the owner was compelled to make such payment.

@@ -1,0 +1,2 @@
+# Distress and sale of vessel
+10 Where a court of summary jurisdiction makes an order under this Act directing the payment of any fine, expenses, or costs by the master or owner of a vessel, and payment is not duly made forthwith, or within such time as may be allowed by such order for the purpose, the court may, if it thinks fit, instead of exercising any other power it may have for the purpose of compelling payment, direct the amount unpaid to be levied by distress and sale of such vessel, her tackle, furniture and apparel or any part thereof.
