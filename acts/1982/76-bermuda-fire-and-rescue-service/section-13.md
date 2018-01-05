@@ -1,0 +1,2 @@
+# Damage done at a fire
+13 Any damage done by the Department in the execution of its duties on the occasion of a fire shall be deemed to be damage by fire within the meaning of any policy of insurance against fire.
