@@ -1,0 +1,2 @@
+# Owner to furnish copy of regulation
+16F Subject to regulation 16G, the owner of a vehicle used for the conveyance of dangerous or ordinary petroleum who employs any person in connection with the conveyance shall furnish a copy of the provisions of regulation 16A to 16G (inclusive) to, or affix a copy thereof in some places where it can conveniently be read by, that person and shall take all other measures necessary to ensure that that person is acquainted with and carries out the provisions of those Regulations.

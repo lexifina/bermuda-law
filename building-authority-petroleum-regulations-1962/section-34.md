@@ -1,0 +1,12 @@
+# Bulk storage of dangerous petroleum in underground tanks
+34 (1) Dangerous petroleum may be stored in bulk in tanks buried underground of a greater capacity than 5,000 gallons only in accordance with the following conditions—
+(a) the distance of a storage tank from any other storage tank buried underground is not less than 20 feet;
+(b) the distance of a storage tank from any other storage tank situated above the ground, and which contains dangerous petroleum is not less than 50 feet;
+(c) the distance of a storage tank from any part of the boundary of the premises upon which it is situated is not less than 50 feet; and
+(d) the spaces between storage tanks are filled and made as airtight as possible.
+(2) Tanks for the storage of dangerous petroleum shall not be used except under the authority of a permit issued by the Building Authority. The design and construction of such tanks shall conform to accepted and sound engineering practice, with adequate factors of safety, and on completion they shall be inspected by an officer duly appointed by the Building Authority who shall report to the Building Authority thereon, and the Building Authority shall then grant or refuse to grant a permit for the use of such tanks.
+(3) Storage tanks shall be adequately protected against corrosion having regard to the soil, water table, and other prevailing conditions at the site where the tanks are buried.
+(4) The tops of tanks shall be covered with a reinforced concrete slab of not less than 9 inches in thickness, the slab to be covered with fill of not less than 3 feet in depth.
+(5) All pumps shall be of the explosive proof type. All pipe-lines, valves and fittings shall be of good quality material, and shall conform to sound engineering practice and have an adequate factor of safety for the purpose for which they are required.
+(6) Tanks shall be fitted with adequate vents to permit pressure or vacuum release when filling or discharging operations are in progress, or for any extraordinary temperature changes due to climatic conditions. When such vents are fitted with gauze, steps shall be taken at appropriate intervals to ensure that the passage of air through the gauze is not restricted.
+(7) When manholes are provided to facilitate the cleaning of tanks, they shall be of adequate size to permit a man to enter and leave the tank when wearing full protective clothing, and shall be not less than 24 inches in diameter.
