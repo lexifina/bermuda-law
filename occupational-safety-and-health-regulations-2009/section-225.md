@@ -1,0 +1,5 @@
+# Aisles and corridors
+225 (1) Where in a place of employment an aisle, corridor or other course of travel is a principal traffic route for mobile materials handling equipment, pedestrians and wheelchairs that exceeds 15 m (50 feet) in length, the employer shall provide a clearly marked walkway for the exclusive use of pedestrians and wheelchairs that is not less than 75 cm (30 inches) wide along one side of the aisle, corridor or other course of travel.
+(2) Paragraph (1) does not apply where a signaller or traffic lights are provided for the purpose of controlling traffic and protecting persons.
+(3) Where an aisle, corridor or other course of travel that is a principal traffic route intersects with another route, warning signs marked with the words “DANGEROUS INTERSECTION” in letters not less than 5 cm (2 inches) in height on a contrasting background, shall be posted along the approaches to the intersection.
+(4) At blind corners, mirrors shall be installed such that an operator of mobile materials handling equipment can see other mobile materials handling equipment, pedestrians and wheelchairs approaching the blind corner.

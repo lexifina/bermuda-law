@@ -1,0 +1,2 @@
+# Ventilation control of hazardous substances
+107 If a work process that is carried on at a place of employment produces a hazardous substance in a concentration that may endanger the safety or health of employees in the place of employment, the employer shall provide mechanical ventilation equipment that is capable of maintaining the concentration of the hazardous substance below the level that may endanger the safety or health of employees.

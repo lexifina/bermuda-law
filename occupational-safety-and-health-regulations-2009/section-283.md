@@ -1,0 +1,3 @@
+# Operation
+283 (1) As far as reasonably practicable, a hoist shall not be used unless it is constructed and installed in such a way that it can be operated only from one position at any one time.
+(2) Where a person operating a hoist does not have a clear and unrestricted view of the platform of the hoist throughout its travel, other than at points where such a view is not necessary for the safe working of the hoist, effective arrangements shall be made for signals to be given to the person operating the hoist from each landing place at which the hoist is used so as to enable that person to stop the platform at the appropriate level.

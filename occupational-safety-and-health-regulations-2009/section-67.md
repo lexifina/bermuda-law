@@ -1,0 +1,2 @@
+# Safety ground to have sufficient current
+67 Every conducting part of a safety ground on isolated electrical equipment shall have sufficient current carrying capacity to conduct the maximum current that is likely to be carried on any part of the equipment for such time as is necessary to permit operation of any device that is installed on the electrical equipment so that, in the event of a short circuit or other electrical current overload, the electrical equipment is automatically disconnected from its source of electrical energy.

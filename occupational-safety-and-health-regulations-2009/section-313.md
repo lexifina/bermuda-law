@@ -1,0 +1,2 @@
+# Scaffolds used by employees of different contractor
+313 Where a scaffold or part of a scaffold is to be used by or on behalf of a contractor other than the contractor for whose employees it was first erected, the first-mentioned contractor shall, before such use, and without prejudice to any other obligations imposed on them by this Part, take express steps, either personally or through a qualified person, to satisfy themselves that the materials used in its construction are sound and that the safeguards required by this Part are in position.
