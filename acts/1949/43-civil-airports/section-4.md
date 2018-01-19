@@ -1,0 +1,11 @@
+# Functions of Minister
+4 (1) The Minister shall have the general administration, control and management of the Bermuda Airport.
+(2) It shall be the duty of the Minister to provide at Bermuda Airport such services and facilities as are in the opinion of the Minister necessary or desirable for the operation of the airport.
+(3) In carrying out his duty under subsection (2), the Minister shall have regard to the development of air transport and to efficiency, economy and safety of operation.
+(4) Without prejudice to the generality of subsection (2), the duty imposed upon the Minister by that subsection shall include the duty to provide at the Bermuda Airport air navigation services and airport infrastructure support services.
+(5) The Minister shall make arrangements for securing the systematic co-ordination of the functions of Department of the Government of Bermuda falling to be exercised at the Bermuda airport, including the control of immigration, the safeguarding of the revenue, the handling of mail and other post office services, the provision of public transportation and the promotion of the tourist trade.
+(6) The Minister shall cause such statistical data to be obtained and recorded, and such records or reports to be published as he may think expedient.
+(7) The Minister shall maintain meteorological services in Bermuda.
+(8) The Minister, in exercising and discharging his functions under subsections (2), (3), and (4) shall have regard to the aims and intentions of those international conventions relating to civil aviation which are for the time being adhered to by Her Majesty’s Government in the United Kingdom or by Her Majesty’s Government in Bermuda, and shall, without prejudice to anything in section 3, use his best endeavours to give effect to those aims and intentions.
+(9) In this section “airport infrastructure support services” includes the provision at the Bermuda Airport of equipment and facilities in support of air navigation services, meteorological services and such other services as in the opinion of the Minister are necessary to facilitate the movement of aircraft whether such movement is on the ground or in the air.
+[Section 4 replaced by 1994:48 effective 28 December 1994; subsections (4) and (9) amended by 2007:23 effective 2 July 2007; subsection (5) amended by 2016 : 28 s. 30 effective 1 October 2016]
