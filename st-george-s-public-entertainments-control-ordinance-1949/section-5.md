@@ -1,0 +1,3 @@
+# Inspection
+5 (1) For the purpose of securing compliance with this Ordinance, any member of the Corporation, and any officer or servant of the Corporation authorized by the Corporation in that behalf, may at all reasonable times inspect any building or open lot in respect of which any entertainment licence has been granted; and it shall be the duty of the person in charge of the building or open lot to afford every facility for any such inspection.
+(2) Any person who obstructs any member of the Corporation or any duly authorized officer or servant of the Corporation while lawfully acting in pursuance of the power conferred by the foregoing paragraph commits an offence against this Ordinance.

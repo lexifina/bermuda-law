@@ -1,0 +1,3 @@
+# Public morality; public good
+6 (1) Where in the opinion of the Corporation of St. George’s any public entertainment, contemplated or being held or provided in the Town of St. George, is indecent or obscene or is of such a nature as to be injurious to public morals or the public good, then the Corporation may by order prohibit the holding or provision of the entertainment or (as the case may be) the further holding or provision of the entertainment.
+(2) Any person who holds or provides or continues to hold or provide any public entertainment in contravention of an order made by the Corporation under the foregoing paragraph commits an offence against this Ordinance.
