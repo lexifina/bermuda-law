@@ -1,0 +1,2 @@
+# Sampling of soil
+272 Before an excavation is begun, the contractor who is to carry out the excavation shall ensure that the soil at the proposed location of the excavation walls, and in the areas extending outwards from the lines of the excavation walls to a distance equal to that of the depth of the excavation, is sampled and examined in order to assess the suitability of the soil for excavation, and to determine the requirement for excavation supports systems.

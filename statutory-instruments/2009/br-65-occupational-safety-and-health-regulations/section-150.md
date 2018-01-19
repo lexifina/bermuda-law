@@ -1,0 +1,3 @@
+# Warning signs and detection systems
+150 (1) Where a hazardous substance is used, handled or stored in a place of employment, signs shall be posted in conspicuous places warning every person granted access to the place of employment of the presence of the hazardous substance and of any precautions to be taken to prevent or reduce any safety or health risk. The information on the signs shall be of such a size that it is clearly legible by employees at the place of employment.
+(2) Where reasonably practicable, automated warning and detection systems shall be provided by the employer if the danger of exposure to a hazardous substance so warrants.

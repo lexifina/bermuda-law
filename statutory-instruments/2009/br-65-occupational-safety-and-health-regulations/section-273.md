@@ -1,0 +1,5 @@
+# Fencing of excavations
+273 (1) If a person employed at, or having lawful access to, a construction site where an excavation is carried out is liable to fall a distance of more than 2 m (6 feet 6 inches), the contractor who carries out the excavation shall ensure that every accessible part of the excavation is provided with a suitable barrier erected as close as is reasonably practicable to the edge of the excavation or that it is securely covered.
+(2) Paragraph (1) does not apply while, and to the extent that, the absence of such barrier or covering is necessary for the access of persons or for the movement of plant or equipment or materials.
+(3) For the purposes of paragraph (1), “securely covered” means covered with a cover that is capable of supporting without failure at least twice the weight of persons, equipment and material that may be imposed on the cover at any one time.
+(4) All covers shall be secured when installed so as to prevent accidental displacement by wind or by any person or equipment.

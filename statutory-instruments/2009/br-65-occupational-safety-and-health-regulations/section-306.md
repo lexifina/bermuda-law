@@ -1,0 +1,7 @@
+# Guard-rails and toe-boards
+306 (1) Every side of a work platform being a side from which a person is liable to fall a distance of more than 2 m (6 feet 6 inches) shall be provided with a toe board of at least 15 cm (6 ins) above the floor of the platform and with the following guard-rails of adequate strength—
+(a) a top rail that is installed at a height of at least 38 inches but not more than 1.3 m (4 feet) above the platform and is capable of withstanding 90 kg (200 lbs) of applied force; and
+(b) a mid rail that is installed at a height mid-way between the top edge of the top rail and the floor of the platform and is capable of withstanding 67.5 kg (150 lbs) of applied force.
+(2) If there is a risk of tools or other objects falling from a platform or other raised area, or through a hole in the floor, a toe board that extends to a height of not less than 15 cm (6 inches) from the floor of the platform or raised area, or from the floor, shall be installed.
+(3) If tools or other objects are piled to such a height that a toe board would not prevent the tools or other objects from falling, a solid or mesh panel shall be installed from the floor to a height of not less than 45 cm (18 inches).
+(4) Guard-rails and toe-boards required by this regulation may be removed or remain unerected for the time and to the extent necessary for the access of persons or the movement of materials or other purposes of the work, but they shall be replaced or erected as soon as practicable.

@@ -1,0 +1,5 @@
+# Airborne chemical agents – ignition hazards
+152 (1) Subject to paragraph (2), the maximum concentration of an airborne chemical agent or combination of airborne chemical agents in a place of employment shall be less than 50 per cent of the lower explosive limit of the chemical agent or combination of chemical agents.
+(2) Where a source of ignition may ignite an airborne chemical agent or combination of airborne chemical agents in a place of employment, the maximum concentration of the chemical agent or combination of chemical agents shall be 10 per cent of the lower explosive limit of the chemical agent or combination of chemical agents.
+(3) The lower explosive limit of a chemical agent or combination of chemical agents is the limit adopted by the American Conference of Governmental Industrial Hygienists in its publication entitled Threshold Limit Values and Biological Exposure Indices.
+(4) Explosive substances shall not be used, handled or stored in a place of employment except by a person authorized under the Explosive Substances Act 1974.

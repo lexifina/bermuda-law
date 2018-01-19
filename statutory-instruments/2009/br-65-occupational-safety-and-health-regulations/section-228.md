@@ -1,0 +1,2 @@
+# Manual handling of materials hazardous to safety and health
+228 (1) Where, because of the weight, size, shape, toxicity or other characteristic of materials, goods or things, the manual handling of the materials, goods or things may be hazardous to the safety or health of an employee, the employer shall issue instructions that the materials, goods or things shall, where reasonably practicable, not be handled manually.

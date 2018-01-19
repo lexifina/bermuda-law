@@ -1,0 +1,2 @@
+# Audible warning devices
+195 Mobile materials handling equipment that is used in an area occupied by employees and that travels forward at speeds in excess of 8 kilometres per hour (5 miles per hour), or in reverse, shall be fitted with a horn or other similar audible warning device having a distinctive sound that can be clearly heard above the noise of the equipment and any surrounding noise. In the case of equipment that travels in reverse, the horn or device must operate automatically when the equipment travels in reverse.
