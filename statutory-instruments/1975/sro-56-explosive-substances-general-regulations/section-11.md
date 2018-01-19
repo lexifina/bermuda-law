@@ -1,0 +1,2 @@
+# Care in transit
+11 It is the duty of a person in charge in the conveyance of any explosive substance to proceed with all due diligence to the proper destination and on arriving thereat he shall immediately store the explosive substance in a licensed magazine or a storage box approved under regulation 33 unless such explosive substance is being transported to the place where it is to be immediately used.
