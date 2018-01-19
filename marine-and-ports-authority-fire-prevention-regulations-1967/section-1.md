@@ -1,0 +1,2 @@
+# Interpretation
+1 In these Regulations “dangerous commodity” includes petroleum, rock oil, Rangoon oil, Burmah oil, benzine, petrol, naptha, gasoline and any oil made from petroleum, coal, schist, shale, peat, or any bituminous substance, and every product of petroleum and of the above-mentioned substances, and also includes gunpowder, nitroglycerine, cordite and all other explosives, but does not include the refined products of petroleum which will not give off an inflammable vapour at a temperature of less than 100 degrees Fahrenheit.
