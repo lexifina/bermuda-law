@@ -1,0 +1,15 @@
+# Licence required for place of public entertainment
+3 (1) Except under the authority of a licence (in this Ordinance referred to as “an entertainment licence”) granted by the Corporation, no person shall use, or to cause or allow any other person to use, any building or any open lot within the Town of St. George for the purpose of providing a public entertainment; and any person who contravenes this paragraph commits an offence against this Ordinance.
+(2) The Corporation may refuse to consider any application for the grant of an entertainment licence, unless the application is in writing and unless the applicant furnishes such particulars (including plans) and such facilities for inspection of the building or open lot to which the application relates as the Corporation may require in order to enable them to deal satisfactorily with the application.
+(3) the Corporation may refuse to grant an entertainment licence—
+(a) on the ground that the use of the building or open lot to which the application relates for the purpose of providing public entertainments of the nature to which the application relates would by reason of excessive noise or by causing the gathering of crowds be likely, having regard to the frequency of use, to interfere to a material extent with the comfort of persons residing or carrying on occupations in the neighbourhood;
+(b) where the application relates to the use of a building on the ground that, having regard to the nature of the public entertainment to which the application relates—
+(i) the means of entrance to or egress from the building and other measures provided for securing the safety of persons in or about the building in connection with the entertainment are inadequate; or
+(ii) the building, or any part thereof, is unsafe by reason of its structural character or its state of repair or the weakness of any material of which it is composed or is otherwise unsafe, or any installations, equipment, fixtures or furnishings or defective electrical wiring in or about the building are unsafe;
+(iii) the building is insufficiently ventilated or is otherwise insanitary or has insufficient or unsuitable sanitary accommodation; or
+(c) where the application relates to the use of an open lot, on the ground that, having regard to the nature of the public entertainment to which the application relates—
+(i) the means of entrance to or egress from the lot are inadequate; or
+(ii) any walls, fences or structures enclosing the lot or any stands, seats or structures or equipment within the lot are unsafe; or
+(d) on the ground that there is no accommodation or insufficient accommodation provided for vehicles and that the lack or insufficiency of such accommodation is likely to interfere with traffic along any public road adjacent to the building or open lot.
+(4) The Corporation may refuse to issue an entertainment licence under this Ordinance until after it has consulted the Chief Fire Officer regarding fire safety requirements under the Fire Safety Act 2014.
+[Article 3 amended by 2014 : 33 s. 55 effective 1 January 2018]
