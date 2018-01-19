@@ -1,0 +1,6 @@
+# Records and returns
+35 (1) The holder of a magazine licence shall render to the Commissioner a monthly form in such manner as he may approve containing details of all explosive substances on hand at the commencement of the month and all explosive substances received and issued by such holder.
+(2) In every licensed magazine or in the vicinity thereof it shall be the duty of the holder of a magazine licence to maintain or cause to be maintained a register of all explosive substances therein showing the dates when such were obtained, and the details thereof and similarly there shall be shown all issues of explosive substances from such magazine, the date of such issues and the person to whom such explosive substances were issued.
+(3) The register maintained under paragraph (2) shall be open to inspection at all reasonable times by the Commissioner and the Chief Fire Officer who may further at any time call for a return showing the details contained in any such register.
+(4) On receipt of any explosive substance it shall be the duty of the holder of the magazine licence to ensure that each case is distinctly marked with the date of receipt and he shall store such case in such a manner that the date of receipt so marked is clearly visible.
+[Regulation 35 paragraph (3) amended by 2014 : 33 s. 55 effective 1 January 2018]

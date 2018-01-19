@@ -1,0 +1,3 @@
+# Firing of electrical detonators
+42 (1) Every electrical firing apparatus shall be provided with a removable handle, switch or other method of control. No person shall place any such handle in position until a charge is required to be fired, and the person firing the detonator shall remove the handle as soon as the charge has been fired.
+(2) Before firing a detonator the person responsible therefor (being a person authorized under section 5 of the Act to use explosive substances) shall test the electrical circuit for continuity with an ohmmeter of a type approved for the purposes of this paragraph by the Minister.
