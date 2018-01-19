@@ -1,0 +1,2 @@
+# Registration of condominium plan
+7 The Registrar may require that a condominium plan presented to him pursuant to section 5(2) be amended so as to comply with the requirements of this Act and the regulations; and, where the Registrar is satisfied that those requirements have been complied with in relation to such a plan, he shall retain and register the condominium plan (duly amended in any case where amendment was in his opinion required).

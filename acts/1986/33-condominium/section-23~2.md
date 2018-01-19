@@ -1,0 +1,3 @@
+# Show of hands
+23 (1) At an annual general meeting or a general meeting, a resolution shall be voted on by a show of hands unless a poll is demanded by a person entitled to vote and present in person or by proxy; and, unless a poll is so demanded, a declaration by the chairman that a resolution has been carried on the show of hands is conclusive proof of the fact without proof of the number or proportion of votes recorded in favour of or against the resolution.
+(2) If a person demands a poll, that person may withdraw that demand, and on the demand being withdrawn the vote shall be taken by a show of hands.

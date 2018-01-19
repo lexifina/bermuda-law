@@ -1,0 +1,2 @@
+# Limit on security deposit
+51 If a purchaser of a residential unit, before receiving title to the unit, rents that unit from the developer, the amount that the developer may charge the purchaser as a security deposit in respect of the unit shall not exceed one month’s rent charged for the unit or, in the case of premises to which the Rent Increases (Domestic Premises) Control Act 1978 [title 29 item 3] applies, the limit prescribed that Act.

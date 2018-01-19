@@ -1,0 +1,3 @@
+# Effect of termination of condominium status
+42 (1) On the condominium status of a condominium parcel being terminated, the corporation shall forthwith give the Registrar notice in writing in the prescribed form of the termination.
+(2) On receipt of a notice given under subsection (1), the Registrar shall make a memorandum in the prescribed form on the condominium plan in respect of the notice, and the owners of the units in the condominium parcel are thereupon entitled to the condominium parcel as tenants in common in shares corresponding to the unit factors for their units, but subject to the effect of any declaration made by the court under section 41(3).
