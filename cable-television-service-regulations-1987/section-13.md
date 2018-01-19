@@ -1,0 +1,2 @@
+# Child-lock
+13 At the request of any subscriber a licensee shall supply at cost a device (hereinafter called “a child-lock”) enabling the subscriber to prevent the reception on the subscriber’s receiver of any signal on a particular channel or channels by any person not in possession of the child-lock or the code necessary to activate it. A statement of the amount of such item cost during the previous year shall be submitted not later than the 1st February in each year to the Minister.

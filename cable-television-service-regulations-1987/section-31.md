@@ -1,0 +1,3 @@
+# Emergency removal of plant
+31 If, at any time, in case of fire, disaster, or emergency in Bermuda it shall become necessary in the judgment of the Minister or of the Government board concerned or of the police or the Bermuda Fire and Rescue Service to cut or move any of the wires, cables, amplifiers, appliances or appurtenances thereto of the licensee, the Minister responsible for Works and Engineering, the Corporation of the City of Hamilton or of the town of St. George, or the Government board concerned or the police or Bermuda Fire and Rescue Service, as the case may be, shall not be liable for such cutting or moving.
+[Regulation 31 amended by 2007:23 s.17 effective 2 July 2007; Regulation 31 amended by 2014 : 33 s. 55 effective 1 January 2018]

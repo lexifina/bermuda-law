@@ -1,0 +1,3 @@
+# Prohibition
+4 (1) No person shall construct, establish, maintain or operate a System in Bermuda without being in possession of a valid licence granted by the Minister to operate a public telecommunication service (hereinafter referred to as “the CTV licence”).
+(2) No CTV licence shall be granted to any person other than a body corporate and no such licence shall be granted or renewed unless the Minister is satisfied that the control of such body corporate is vested in persons who possess Bermudian status in accordance with the provisions of the Bermuda Immigration and Protection Act 1956 [title 5 item 16].

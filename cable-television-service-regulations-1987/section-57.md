@@ -1,0 +1,3 @@
+# Security deposits
+57 (1) A licensee shall not charge a security deposit for any equipment installed by it or on its behalf on a subscriber’s premises greater than the actual cost to the licensee of such equipment. A statement of the amount of the item cost in respect of each type of equipment during the previous year shall be submitted each year to the Minister not later than the first of February.
+(2) Any security deposit for equipment collected by a licensee shall be returned to the subscriber twenty-four months after the installation of such equipment, or upon termination of service by the subscriber and return of such equipment undamaged, with allowance for reasonable wear and tear, and payment of any outstanding balance due and payable, whichever occurs first.
