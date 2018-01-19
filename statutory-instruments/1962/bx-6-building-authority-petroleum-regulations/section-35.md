@@ -1,0 +1,8 @@
+## ABOVE-GROUND STORAGE OF PETROLEUM IN BULK
+# Storage of dangerous petroleum in bulk
+35 (1) Dangerous petroleum may be stored in steel storage tanks above ground, of a capacity not greater than thirty thousand gallons for each tank.
+(2) The distance between a storage tank containing dangerous petroleum and any other storage tank containing petroleum or any filling shed, or shed used for the storage of petroleum, shall be at least one hundred feet.
+(3) Notwithstanding the foregoing provisions of this regulation the Building Authority may, subject to compliance with the following conditions, grant licences for the storage, in tanks above ground, of dangerous petroleum in quantities greater than thirty thousand gallons, that is to say—
+(a) the grant of the licence must be approved by the Governor;
+(b) the application, together with particulars of the conditions, if any, which it is proposed should be imposed upon the issue of the licence, must be laid before the Senate and the House of Assembly not less than thirty days before the end of the Session; and if either House, within thirty days, determines that the licence should not be issued and conveys such determination to. the Governor by message, then the Building Authority shall not grant the licence;
+(c) should either House of the Legislature desire that the proposed conditions should be amended or that additional conditions should be imposed that House may send a message to that effect to the Governor, prior to the expiration of the above-mentioned period of thirty days, in which case the licence shall not issue until such amendments have been made thereto.
