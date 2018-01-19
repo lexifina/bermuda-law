@@ -1,0 +1,12 @@
+# Certain payments to be held in trust
+50 (1) Subject to subsection (7), there shall be held in trust, in the manner specified in subsection (2), all money, other than money paid by way of rent or security deposit, paid by a purchaser under a purchase agreement; and
+(a) if the improvements to the residential unit and the common property are substantially completed, that money may be paid to the developer upon the purchaser receiving title to the unit;
+(b) if the improvements to the residential unit are substantially completed but the improvements to the common property are not substantially completed—
+(i) not more than 50% of that money less the interest earned on it may be paid to the developer upon the purchaser receiving title to the unit; and
+(ii) on the improvements to the common property being substantially completed, the balance of that money and all the interest earned on the total amount held in trust in respect of that purchase agreement may be paid to the developer.
+(2) A developer who receives money that is required by subsection (1) to be held in trust shall forthwith deposit the money in an interest-bearing trust account maintained by a licensed bank in Bermuda,
+(3) A bank where money is deposited under subsection (2) shall keep it on deposit in Bermuda, and shall not pay it out to a developer except in accordance with a statement in writing from the Registrar certifying that the relevant requirements of subsections (1) and (6) have been satisfied.
+(4) If, where money is being held in trust pursuant to subsection (1), a purchaser takes possession of the unit or occupies it before receiving title to the unit, the interest earned on that money from the day the purchaser’s possession or occupation of the unit commences to the day he receives title to the unit shall be applied against the purchase price.
+(5) Subject to subsection (4), a developer is entitled to the interest earned on money held in trust pursuant to subsection (1).
+(6) For the purposes of this section, improvements to a unit or the common property, as the case may be, are deemed to be substantially completed when the improvements are ready for use, or are being used, for the purpose intended.
+(7) Subsections (1) to (6) do not apply in respect of money paid to a developer under a purchase agreement if that money is held under the provisions of a scheme approved by the Minister that provides for the receipt, handling and disbursing of that money, or indemnifies against loss of that money, or both.

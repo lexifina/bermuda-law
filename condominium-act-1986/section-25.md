@@ -1,0 +1,2 @@
+# Recovery of money
+25 If any interest referred to in section 24, or a deposit referred to in section 34(4), is owing from an owner to a corporation, the corporation may, in addition to any other rights of recovery that it has in law, recover the amount of the interest or deposit in the same manner as it may recover a contribution under section 23, and for that purpose the amount shall be considered as a contribution under section 23.
