@@ -1,0 +1,3 @@
+# Probationary period; renewal to age 55
+20 (1) A pilot licence when first issued shall be valid for a probationary period of two years, and if at the end of that period the Minister is satisfied that the holder of the licence is a fit and proper person to hold a pilot licence, he may renew the licence which shall then be valid until the holder of the licence reaches the age of 65 years.
+(2) The holder of a pilot licence may, on reaching the age of 65 years, apply to the Minister for a renewal of his pilot licence, and if the Minister is satisfied that the applicant is a fit and proper person to hold a pilot licence, he may renew the licence for such period as may be specified on the licence.

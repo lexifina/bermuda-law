@@ -1,0 +1,2 @@
+# Application for engine driver’s licence
+14 Every applicant for an engine driver’s licence in respect of island motor boats (hereinafter referred to “engine driver’s licence”) shall apply in writing to the Minister in such form as the Minister may from time to time determine, and shall pay an examination fee of such amount as may be prescribed under the Government Fees Act 1965 [title 15 item 18].
