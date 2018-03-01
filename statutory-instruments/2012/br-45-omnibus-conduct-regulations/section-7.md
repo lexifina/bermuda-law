@@ -1,0 +1,2 @@
+# Fraudulent sale or purchase of fare-media
+7 A person, other than a person duly authorized by the Department, who issues, sells or buys or attempts to issue, sell or buy any fare-media with the intent that he or she or any other person shall use that fare-media to travel on an omnibus commits an offence and is liable on summary conviction to a fine of $500 for the first offence and a fine of $1,500 for the second or any subsequent offence.
