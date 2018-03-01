@@ -1,0 +1,2 @@
+# Dangerous articles
+12 A person who takes into or places in, or causes or allows to be taken into or placed in any omnibus any inflammable, explosive or corrosive gas, spirit, substance or matter, or any other article or thing which is likely to be dangerous to any person or property, commits an offence and is liable on summary conviction to a fine of $1,000 for the first offence and a fine of $2,500 for the second or any subsequent offence.

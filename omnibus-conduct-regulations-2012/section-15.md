@@ -1,0 +1,4 @@
+# Prohibition of smoking
+15 (1) A person who smokes or carries a lighted or smouldering cigarette, cigar or pipe in an omnibus or at a Department facility commits an offence and is liable on summary conviction to a fine of $300 for the first offence and a fine of $1,000 for the second or any subsequent offence.
+(2) Without prejudice to any proceedings under paragraph (1), a person who continues to smoke or carry a lighted or smouldering cigarette, cigar or pipe after being requested by an authorized person to stop doing so, will be asked to immediately leave an omnibus or a Department facility.
+(3) This regulation does not apply to a person who smokes or carries a lighted or smouldering cigarette, cigar or pipe in an area of a Department facility which has been specially designated as a smoking area by the Department.
