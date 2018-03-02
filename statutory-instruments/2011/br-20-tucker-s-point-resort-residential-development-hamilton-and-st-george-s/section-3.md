@@ -1,0 +1,22 @@
+# Planning permission in principle
+3 (1) Subject to the reserved matters specified in subparagraph (2) and the conditions specified in subparagraph (3), planning permission in principle is granted by this Order for the development of the lands outlined in Schedule 2 for a period of 10 years from the date this Order comes into operation.
+(2) The reserved matters referred to in subparagraph (1) are as follows - building siting and layout, site coverage, building heights, building lines, parking provision, design and layout of all access roads and parking areas, building design, external appearance and materials of all buildings and structures, and landscaping.
+(3) The conditions referred to in subparagraph (1) are as follows—
+(a) applications for final planning permission shall be accompanied by a topographical survey including locations of the endemic, native and ornamental vegetation, historic features and geological features as identified in the relevant Terrestrial Ecological Survey, and by the following supporting studies—
+(i) [revoked by BR 5 / 2018 para. 3]
+(ii) [revoked by BR 5 / 2018 para. 3]
+(iia) the relevant Terrestrial Ecological Survey;
+(iii) unless the Government Hydrogeologist determines that it is not necessary, a geotechnical assessment to determine existing caves/ voids and cave features involving such methods of geotechnical assessment as are approved by the Government Hydrogeologist for any development;
+(iv) [revoked by BR 5 / 2018 para. 3]
+(b) all mapped caves, cave features and new caves will require such minimum setback buffer as the Government Hydrogeologist determines to be necessary for all structures and excavation;
+(c) all excavation work shall be in accordance with the parameters set by the Government Hydrogeologist based, where applicable, on the geotechnical assessment;
+(d) no development shall utilize any well (as defined in section 1(1) of the Water Resources Act 1975) for water abstraction or for the disposal of swimming pool water, sewage, other effluent or grey water;
+(e) any identified critical habitat or existing mature specimen endemic, native or ornamental plants must be recorded; and these sites and plants must be protected and provided with an adequate setback buffer;
+(f) all access roads and junctions with the public roads and sidewalks shall be sited, designed and laid out in accordance with the requirements of the Ministry of Public Works;
+(g) all hard-surfaced roadways and junctions of the access roads with public and private estate roads shall be designed and graded to drain, retain and dispose of all stormwater run-off within the curtilage of the site and to avoid any stormwater run-off onto the roadways, any neighbouring properties and conservation areas;
+(h) all sewage treatment requirements for the residential lots to be created shall generally be met using the existing Tucker’s Point Club sewage treatment facility with cesspits and septic tanks not permitted. If in any case, connections to the sewage system are infeasible, a three-chambered septic tank system with a sand-filter soak-away will be permitted;
+(i) all utility cables, including cable television relay cables, shall be placed underground, in trenching;
+(j) an application for final planning permission shall be accompanied by a comprehensive landscaping scheme in which particular attention shall be given to ensuring that there are no invasive plant types used, and that a predominance of endemic and/or native plant types are included on each lot;
+(k) a Conservation Management Plan is required in respect of any lot that is in an existing Conservation Base Zone and/or Conservation Area, and may be prepared on a lot-by-lot basis. The Conservation Management Plan must be filed with any application for final planning permission for development on that lot; and
+(l) if during site clearance, preparation or construction a cave opening, vent or fissure is discovered, the applicant shall cease all construction operations and immediately contact the Department of Planning to reevaluate building options and agree on a suitable course of action. Construction operations shall not recommence until the approved option has been agreed in writing by the Department of Planning.
+[Paragraph 3 subparagraph (3)(a)(iii) deleted and substituted and subparagraph (3)(c) amended by BR 79 / 2015 para. 2 effective 24 August 2015; Paragraph 3(3) amended by BR 5 / 2018 para. 3 effective 2 March 2018]
