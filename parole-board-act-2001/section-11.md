@@ -1,0 +1,7 @@
+# Matters to be taken into account by the Board
+11 (1) In the exercise of its functions the Board shall have regard to the following—
+(a) any documents given to it by the Commissioner of Prisons;
+(b) any reports it has called for and any other information, whether oral or in writing, that it has obtained;
+(c) if in any particular case the Board thinks it necessary to interview the person to whom the case relates before reaching a decision, the Board may interview that person or may request one of its members to interview him and, in the latter case, shall take into account the report of that interview by that member; and
+(d) where a prisoner or inmate is interviewed by the Board or a member of the Board such interview shall be held within the sight and hearing of a prison officer or a training school officer within the meaning of section 50 of the Young Offenders Act 1950.
+(2) The documents in any case to be given to the Board shall include, in addition to a report of the nature and the circumstance of the offence for which the sentence of imprisonment was imposed, a report by the Commissioner of Prisons, prison officer, or a training school officer, within the meaning of section 50 of the Young Offenders Act 1950, as to the conduct, demeanour and health of the prisoner or inmate while in prison or a senior training school, including a report by a medical officer of relevant and any details of the personal and family background of the prisoner or inmate.
