@@ -1,0 +1,5 @@
+# Time
+39 (1) Where a period expressed in days, weeks or months is to be calculated from the moment at which an event occurs or an action takes place, the day during which that event occurs or that action takes place shall not be counted as falling within the period in question.
+(2) A period expressed in weeks shall end with the expiry of whichever day (in the last week of the period) is the same day of the week as the day during which the event or action from which the period is to be calculated occurred or took place.
+(3) A period expressed in months shall end with the expiry of whichever day (in the last month of the period) falls on the same date in the month as the day during which the event or action from which the period is to be calculated occurred or took place but, if the date on which the period should expire does not occur in the last month of the period, the period shall end with the expiry of the last day of that month.
+(4) Where the time for doing any act expires on a Saturday, Sunday, or other public holiday, the act is in time if done on the next following day which is not a Saturday, a Sunday, or other public holiday.
