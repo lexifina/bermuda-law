@@ -1,0 +1,3 @@
+# Application to court
+6 (1) Without prejudice to section 8, if a person fails to comply with section 3 or 4, the Minister may, in accordance with rules of court, apply to the Supreme Court for an order requiring the person to comply with section 3 or 4, as the case may be.
+(2) If, on an application under subsection (1), it appears that the person is unable to comply with section 3 or 4, as the case may be, or that it is not appropriate to make an order under subsection (1), the court may instead make an order requiring the person to pay to the Bermuda National Library an amount equal to the cost to the National Library of making good the failure of the person to comply with section 3 or 4, as the case may be.
