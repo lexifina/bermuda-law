@@ -1,0 +1,4 @@
+# Libraries Department established
+5 (1) There shall be established a Department of Government which shall be known as the Libraries Department, which is now known as the Department of Libraries and Archives, and which shall be charged with the duty of assisting the Minister in the discharge of his responsibilities under this Act and any other enactments which relate to the Bermuda National Library and the Bermuda Archives.
+(2) The Department shall, subject to the general direction and control of the Minister, be under the supervision of a public officer who shall be known as the Director of Libraries and Archives and shall consist of such other public officers as may from time to time be authorized by the Minister.
+[Section 5 amended by 1996:9 effective 1 July 2006; by 1998:20 effective 18 June 1998; subsection (2) amended by 2014 : 23 s. 4 effective 29 July 2014; Section 5 amended by 2018 : 21 s. 2 effective 28 May 2018]
