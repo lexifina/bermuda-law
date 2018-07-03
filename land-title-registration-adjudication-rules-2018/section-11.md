@@ -1,0 +1,2 @@
+# Adjournment of proceedings before the adjudicator where court proceedings are commenced otherwise than following a direction to commence court proceedings under section 95
+11 Where court proceedings are commenced otherwise than following a direction to commence court proceedings under section 95 of the Act, the adjudicator may adjourn the whole or part of the proceedings before him pending the outcome of the court proceedings.
