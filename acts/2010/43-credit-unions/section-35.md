@@ -1,0 +1,4 @@
+# Right of entry to obtain information and documents
+35 (1) Any officer, servant or agent of the Authority may enter any premises occupied by a person on whom a notice has been served under section 33(1) or 34(1) for the purpose of obtaining there the information or documents required by that notice and of exercising the powers conferred by section 34(3).
+(2) The Authority may authorise one of its officers, servants or agents to enter any premises occupied by any person on whom a notice could be served under section 33(1) or 34(1) for the purpose of obtaining there such information or documents as are specified in the notice, if the Authority has reasonable cause to believe that if such a notice were served it would not be complied with or that any documents to which it would relate would be removed, tampered with or destroyed.
+(3) The officer, servant or agent of the Authority shall produce evidence of his authority to enter the premises, if required to do so.

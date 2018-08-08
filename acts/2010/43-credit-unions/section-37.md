@@ -1,0 +1,10 @@
+# Investigation of suspected contraventions
+37 (1) Where the Authority has reasonable grounds for suspecting that a person has contravened section 7, the Authority or any duly authorised officer, servant or agent of the Authority may by notice in writing require that person or any other person—
+(a) to provide, at such place as may be specified in the notice and either forthwith or at such time as may be so specified, such information as the Authority may reasonably require for the purpose of investigating the suspected contravention;
+(b) to produce, at such place as may be specified in the notice and either forthwith or at such time as may be so specified, such documents, or documents of such description, as may be specified, being documents the production of which may be reasonably required by the Authority for that purpose; or
+(c) to attend at such place and time as may be specified in the notice and answer questions relevant for determining whether such a contravention has occurred.
+(2) The Authority or a duly authorised officer, servant or agent of the Authority may take copies of or extracts from any documents produced under this section.
+(3) Any officer, servant or agent of the Authority may, on producing if required evidence of his authority, enter any premises occupied by a person on whom a notice has been served under subsection (1) for the purpose of obtaining there the information or documents required by the notice, putting the questions referred to in paragraph (c) of that subsection or exercising the powers conferred by subsection (2).
+(4) Any person who without reasonable excuse fails to comply with a requirement imposed on him under this section is guilty of an offence and liable on summary conviction to a fine of $10,000 or to imprisonment for a term of six months or to both.
+(5) A statement made by a person in compliance with a requirement imposed by virtue of this section shall not be used in evidence against him.
+(6) Nothing in this section shall compel the production by a barrister and attorney of a document containing a privileged communication made by him or to him in that capacity.
