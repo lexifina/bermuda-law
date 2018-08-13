@@ -1,0 +1,6 @@
+# Duty to apply for registration of title
+25 (1) If the requirement of registration applies otherwise than because of section 24(1)(d), the transferee or grantee, or either’s successor in title, shall, before the end of the period for registration referred to in subsection (3), apply to the registrar to be registered as the owner of the estate which is transferred or granted.
+(2) If the requirement of registration applies because of section 24(1)(d) the mortgagor, or the mortgagor’s successor in title, shall, before the end of the period for registration referred to in subsection (3), apply to the registrar to be registered as the owner of the estate charged by the mortgage.
+(3) The period for registration is two months beginning with the date on which the relevant event occurs, or such longer period as the registrar may allow under subsection (4).
+(4) If on the application of any interested person the registrar is satisfied that there is good reason for doing so, the registrar may by order extend the period for registration to such later date as may be specified in the order.
+(5) Rules may make provision enabling the mortgagee under any mortgage falling within section 24(1)(d) to require the estate charged by the mortgage to be registered whether or not the mortgagor consents.

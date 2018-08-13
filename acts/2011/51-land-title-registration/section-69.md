@@ -1,0 +1,8 @@
+# Settlement of registered estates
+69 (1) In this section a registered estate held upon the “statutory trusts” shall be held upon trust to sell the same and to stand possessed of the net proceeds of sale, after payment of costs, and of the net rents and profits until sale after payment of rates, taxes, costs of insurance, repairs, and other outgoings, upon such trusts, and subject to such powers and provisions, as may be requisite for giving effect to the rights of the persons interested in the land.
+(2) A settlement may only be created in relation to a registered estate in accordance with this section and any instrument or combination of instruments purporting to create a settlement in relation to a registered estate in any other way shall be of no effect.
+(3) A settlement may be created in relation to a registered estate by means of an instrument or combination of instruments by which—
+(a) the registered owner holds the registered estate as trustee upon the statutory trusts; and
+(b) the interests of the settlement beneficiaries do not take effect at law but only as equitable interests under the statutory trusts.
+(4) Subsections (1), (3) and (4) of section 68 apply to a registrable disposition that is an instrument or one of a combination of instruments to which subsection (3) refers to as they do to any other registrable disposition.
+(5) Subsections (2) to (4) of section 68 apply where a settlement is created in relation to a registered estate by means of an instrument or combination of instruments that do not include a registrable disposition as they apply where a registered estate becomes subject to any other trust otherwise than as the result of a registrable disposition.
