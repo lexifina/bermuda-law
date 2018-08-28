@@ -1,0 +1,4 @@
+BERMUDA
+LAND TITLE REGISTRATION (PHASED INTRODUCTION OF THE REQUIREMENT OF REGISTRATION) NOTICE 2018
+BR 87 / 2018
+The Land Title Registrar, in exercise of the power conferred by paragraph 2 of Schedule 3 to the Land Title Registration Act 2011, gives the following Notice:
