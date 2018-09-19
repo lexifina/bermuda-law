@@ -1,0 +1,15 @@
+# Transfer of Bermudian prisoner to give evidence or assist investigation overseas
+7 (1) The Attorney-General may, if he thinks fit, issue a warrant providing for any person (a “prisoner”) serving a sentence in a prison in Bermuda to be transferred to a country or territory outside Bermuda for the purpose—
+(a) of giving evidence in criminal proceedings there; or
+(b) of being identified in, or otherwise by his presence assisting, such proceedings or the investigation of an offence.
+(2) No warrant shall be issued under this section in respect of a prisoner unless he has consented to being transferred as mentioned in subsection (1) above, and that consent may be given either—
+(a) by the prisoner himself; or
+(b) in circumstances in which it appears to the Attorney-General inappropriate, by reason of the prisoner’s physical or mental condition or his youth, for him to act for himself, by a person appearing to the Attorney-General to be an appropriate person to act on his behalf;
+but a consent once given is not capable of being withdrawn after the issue of the warrant.
+(3) The effect of a warrant under this section is to authorise—
+(a) the taking of the prisoner to a place in Bermuda and his delivery at a place of departure from Bermuda into the custody of a person representing the appropriate authority of the country or territory to which the prisoner is to be transferred; and
+(b) the bringing of the prisoner back to Bermuda and his transfer in custody to the place where he is liable to be detained under the sentence to which he is subject.
+(4) Where a warrant has been issued in respect of a prisoner under this section he shall be deemed to be in legal custody at any time when, being in Bermuda or on board a ship registered in Bermuda, he is being taken under the warrant to or from any place or being kept in custody under the warrant.
+(5) A person authorised by or for the purposes of the warrant to take the prisoner to or from any place or to keep him in custody has all the powers, authority, protection and privileges of a police officer.
+(6) If the prisoner escapes or is unlawfully at large, he may be arrested without warrant by a police officer and taken to any place to which he may be taken under the warrant issued under this section.
+(7) This section applies to a person in custody awaiting trial or sentence and a person committed to prison for default in paying a fine as it applies to a prisoner, and the reference in subsection (3)(b) above to a sentence shall be construed accordingly.
