@@ -1,0 +1,2 @@
+# Imposition of conditions on person complained against pending appeal
+17 Where, after determination of a charge against a respondent, the respondent files a Notice of Appeal against such determination and a disciplinary tribunal has deferred the coming into operation of his sentence under rule 21 of the Bar Disciplinary Tribunal Rules 1997 [title 30 item 3(h)] pending the outcome of his appeal, the Committee may make a recommendation to the tribunal for terms to be imposed on such a respondent in respect of his conduct pending the hearing of his appeal.
