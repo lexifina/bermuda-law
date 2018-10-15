@@ -1,0 +1,12 @@
+# Relationship between barristers
+108 A barrister shall act with good faith and courtesy in his relationship with other barristers.
+109 A barrister shall give no undertaking he cannot fulfil and he must fulfil every undertaking he gives. Undertakings should be written or confirmed in writing and they should be absolutely unambiguous in their terms. If a barrister giving an undertaking does not intend to accept personal responsibility, he should state this in the undertaking itself. In the absence of such a statement, the person to whom the undertaking is given should be deemed to expect that the barrister giving it will honour it personally,
+110 A barrister shall not communicate upon or attempt to negotiate or compromise a matter directly with any party who is to the barrister’s knowledge represented by a barrister except through or with the consent of that barrister.
+111 (1) A barrister shall neither in response to the enquiry of a member of the public nor gratuitously criticize the competence, conduct, advice or charges of other barristers.
+(2) The barrister should, however, be prepared when requested by a member of the public to do so, to advise and represent such a person in any complaint or proposed court action against another barrister. Any advice given or pleadings settled in the course of that matter shall be deemed not to be criticism within (1) above.
+112 A barrister who finds on receiving a brief or instructions that acceptance of the papers would amount to his replacing another barrister who has previously been instructed in the same matter should inform that barrister that the papers have been delivered to him.
+113 (1) A barrister should accede to reasonable requests concerning trial dates, adjournments, waiver or procedural formalities and similar matters which do not prejudice the rights of his client.
+(2) Where a barrister knows that another barrister is concerned in a case he should not proceed by default without enquiry and warning.
+(3) A barrister shall not take advantage of or act without fair warning upon slips, irregularities or mistakes on the part of another barrister not going to the merits or involving the sacrifice of the client’s rights.
+(4) A barrister should not use a tape-recorder or other device to record a conversation with another barrister without first warning that other barrister.
+114 Informal discussions between barristers regarding a case should normally be treated as confidential unless it has been clearly established between them that the discussions are not so intended.

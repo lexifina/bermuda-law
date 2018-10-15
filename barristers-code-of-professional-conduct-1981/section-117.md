@@ -1,0 +1,11 @@
+# Avoidance of impropriety
+117 A barrister shall not make statements suggesting that he can or will attempt to circumvent the proper administration of justice.
+118 A Judge of the Supreme Court, other than an acting judge, who has been on the bench for more than six months and who returns to practice after leaving the bench shall not appear as a barrister in the courts.
+[Rule 118 amended by BR 14/2000 r.4 effective 10 March 2000]
+119 Without written instructions from the client a barrister shall not insert in the client’s will a clause directing the executor to retain his services in the administration of the estate.
+120 A barrister has a professional duty, quite apart from any legal liability, to meet the financial obligations incurred in his practice.
+121 If a barrister incurs an obligation on behalf of a client which he is not prepared to pay personally, he should make his position clear in writing at the time the obligation is incurred.
+122 A barrister who engages a foreign colleague to advise on a case or to co-operate in the handling of it, is responsible for the payment of the latter’s charges except in the case of express agreement to the contrary. If a barrister introduces a client to a foreign colleague the barrister is not responsible for the charges of that foreign colleague.
+123 Foreign lawyers admitted temporarily to the Bermuda Bar in accordance with section 51 (3) of the Supreme Court Act 1905 shall be subject to the provisions of this Code for the period of their admission as if they were generally admitted to practise as a barrister.
+124 A registered associate may not engage in legal practice other than in accordance with section 11 of the Bermuda Bar Act 1974 and every barrister employing a registered associate shall himself be held responsible for due observance by such registered associate of the provisions of this Code.
+125 A barrister’s conduct when dealing with a person who is not represented professionally should not depart from the conduct required of him when dealing with another barrister. He should not undertake to advise the unrepresented person but should urge him to obtain independent legal advice and, if the unrepresented person does not do so, the barrister must take care to see that such person is not proceeding under the impression that his interests will be protected by the barrister.
