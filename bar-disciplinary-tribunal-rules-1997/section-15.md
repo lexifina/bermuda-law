@@ -1,0 +1,5 @@
+# Evidence of decisions of a court or other tribunal at hearing
+15 (1) Subject to the provisions of this rule, where there is evidence before a disciplinary tribunal that a respondent has been the subject of a decision of a court or other tribunal and it is shown that the decision is relevant to the matters before the tribunal, that decision may be admitted in evidence at the hearing of the charge as prima facie proof that such a decision was made.
+(2) A conviction for a criminal offence may be proved by producing a certified copy of the certificate of conviction relating to the offence and proof of such a conviction in this manner shall constitute prima facie evidence that the respondent was guilty of such an offence.
+(3) A finding and sentence of a tribunal exercising a professional disciplinary jurisdiction in Bermuda or overseas may be proved by producing a certified copy of the finding and sentence and if so proved, shall constitute evidence of such finding or sentence.
+(4) The judgment of any civil court may be proved by producing a certified copy of the judgment as evidence thereof.
