@@ -1,0 +1,3 @@
+# Inspection of facilities of scheme
+9 Before approving a transfer or varying any of the specified terms of a licence the Minister shall defer consideration of the application until the Chief Fire Officer, the Chief Environmental Health Officer, and the Director of Planning or such one or more of them as having regard to the nature of the application the Minister may deem appropriate, have caused the facilities of the timesharing scheme in respect of which application is made to be inspected and have furnished to the Minister a report of such inspection in relation to such particulars as the Minister may specify.
+[Section 9 amended by 2014 : 33 s. 55 effective 1 January 2018; Section 9 amended by 2018 : 66 s. 2 effective 10 January 2019]

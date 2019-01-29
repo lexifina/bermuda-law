@@ -1,0 +1,2 @@
+# Power of Magistrate to issue warrant to enter premises
+16 Where it has been made to appear to a magistrate that premises not licensed as a timesharing scheme or not exempted from being licensed as a timesharing scheme are being operated as such he may issue a warrant to a police officer of or above the rank of sergeant authorizing him, with or without assistance, to enter upon and inspect the premises.

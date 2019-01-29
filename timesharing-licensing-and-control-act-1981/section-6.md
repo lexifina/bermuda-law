@@ -1,0 +1,2 @@
+# Capacity of purchaser to acquire, dispose of, etc. his right to use facilities of timesharing scheme
+6 A purchaser may take, acquire, hold, lease, assign and dispose of his right to occupy and use the facilities of a timesharing scheme in the same manner in all respects as a right in personal property and the title of a purchaser to the right to occupy and use the facilities of a timesharing scheme may be derived through, from or in succession to, another purchaser in the same manner in all respects as a right in personal property enforceable by action.

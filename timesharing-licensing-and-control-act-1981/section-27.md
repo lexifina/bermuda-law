@@ -1,0 +1,6 @@
+# Suspension of managing agent’s licence
+27 (1) Where as a result of an inspection made under section 26 the Minister determines that it is in the public interest that the licence of a managing agent should be suspended, the Minister may suspend the licence of the managing agent and by notice in writing require the developing owner before the date specified in the notice to appoint, subject to his approval, an interim managing agent for the orderly continuation of the timesharing scheme.
+(2) If a developing owner fails to comply with the requirements of a notice under subsection (1) before the date specified therein, the Minister may appoint an interim managing agent who shall continue in that office until the Minister grants a licence to another managing agent; and all costs incurred in connexion with the appointment of an interim managing agent shall be payable out of the moneys provided by the purchasers for the operation and management of the timesharing scheme.
+(3) A developing owner who fails to comply with the requirements of a notice under subsection (1) before the date specified therein commits an offence:
+Punishment on summary conviction: to a fine of $2,000.00 for each day during which such offence continues or imprisonment for one year or both such fine and imprisonment.
+[Section 27 subsection (3) amended by 2005:34 s.12 effective 1 May 2006]

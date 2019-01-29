@@ -1,0 +1,3 @@
+# Effect of registration of purchaser’s right
+19 (1) On the registration of any person under section 18 as the purchaser of the right to occupy and use the facilities of a timesharing scheme, a charge shall be created on the premises of the timesharing scheme and all estates and interests therein in favour of the purchaser to the extent and for the duration of the purchaser’s interest in the scheme.
+(2) A charge upon the premises of a timesharing scheme arising under subsection (1) shall prevail against any purchaser of the premises in good faith for value without actual notice of such charge.

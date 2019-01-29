@@ -1,0 +1,3 @@
+# Transfer of licence on divestment of licensee’s interest or on his death
+5 (1) Where a licensee divests himself of his interest in any real property under a timesharing scheme or dies, the Minister may, upon the application in that behalf made by any person claiming the right to succeed to such licensee, transfer the licence to that person subject to such terms and conditions as the Minister may think fit to impose.
+(2) Before transferring any licence under subsection (1), the Minister shall, where practicable, give to the licensee or to his estate representatives a reasonable opportunity to make any representations that they may wish to make in relation to any such application, and shall take into account any representations so made by them or on their behalf.
