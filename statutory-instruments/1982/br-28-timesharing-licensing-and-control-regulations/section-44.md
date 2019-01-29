@@ -1,0 +1,3 @@
+# Living room
+44 (1) There shall be a sitting area of living room in each unit which shall be provided with at least one and one half upholstered chairs or other such chairs for every bed authorized for a unit as in the opinion of the Minister are suitable for a living room. In addition the Minister may require the managing agent to provide other suitable furniture for the living room.
+(2) Where the sitting area or living room is to be used as a place for sleeping, there shall be provided a sofa or couch capable of being opened into a bed, and the living room shall also meet the requirements specified in these Regulations relating to bedrooms.

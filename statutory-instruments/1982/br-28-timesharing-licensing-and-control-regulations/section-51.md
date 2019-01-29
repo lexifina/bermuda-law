@@ -1,0 +1,2 @@
+# Contractual obligation to provide unit
+51 Where the developing owner or marketing agent of a timesharing scheme has made a contract with a purchaser to provide a unit for that purchaser and his guests, the managing agent shall provide, on the days and nights specified in such contract, a unit in the timesharing scheme of which he is the managing agent for the exclusive use and occupation of that purchaser and his guests, if any.
