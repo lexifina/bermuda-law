@@ -1,0 +1,4 @@
+# Waterclosets and urinals
+17 (1) In this regulation “watercloset” includes a urinal constructed in connection with a building and a room any part of which is partitioned or divided into cubicles, any one of which contains a receptacle, if the partitions or divisions are so constructed as to allow the free circulation of air through the room.
+(2) A water-closet shall wherever possible be situated on an external wall and be provided with a window of not less than two square feet in area, exclusive of frame, in the external wall of which area half is made to open.
+(3) Where it is impracticable to provide a closet with an external wall for natural lighting and ventilation then the closet shall be provided with sufficient ventilation by mechanical means to provide not less than ten air changes per hour and shall be adequately lighted.
