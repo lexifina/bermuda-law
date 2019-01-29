@@ -1,0 +1,4 @@
+# General duties of Returning Officer as to taking of poll
+19 (1) The Returning Officer, or a presiding officer appointed under section 11(3), shall be present at the polling room throughout the taking of the poll and shall conduct and have charge of the proceedings and it shall be his duty to keep good order in and about the polling room during the proceedings.
+(2) If any person during a referendum misconducts himself in or about the polling room or fails to obey the lawful order of the Returning Officer, he may immediately by order of the Returning Officer be removed from the polling room or the vicinity thereof by any police officer or other person authorized by the Returning Officer to remove him:
+Provided that the powers conferred by this subsection shall not be exercised so as to deprive any voter who is entitled to vote at a referendum of his opportunity so to vote.

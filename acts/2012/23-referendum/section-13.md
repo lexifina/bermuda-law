@@ -1,0 +1,4 @@
+## PART 4
+## TAKING OF REFERENDUM POLL
+# Special interpretation
+13 A Returning Officer may, if so directed by the Registrar, assume particular responsibility for the taking of the poll in relation to a particular part of the parliamentary register for a constituency including the supervision and control of a separate ballot box in relation to that part and in that event all references in this Part and in the Rules contained in Schedule 1 to the Returning Officer, a voter, a ballot box, the parliamentary register or ballot paper or a polling place within the polling room shall be construed as references to the particular Returning Officer and to those matters within his responsibility for the taking of the poll in relation to that particular part only of the parliamentary register, unless the context otherwise requires.

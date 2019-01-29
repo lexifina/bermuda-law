@@ -1,0 +1,2 @@
+# Spoilt ballot papers
+29 A person voting at a referendum who has inadvertently dealt with his ballot paper in such a manner that it cannot conveniently be used as a ballot paper may, on delivering it to the Returning Officer and on proving the fact of the inadvertence to the satisfaction of the Returning Officer, obtain another ballot paper in the place of the one so delivered up (hereinafter referred to as a “spoilt ballot paper”) and the spoilt ballot paper shall immediately be cancelled but shall be preserved by the Returning Officer.

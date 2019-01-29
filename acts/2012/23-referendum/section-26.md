@@ -1,0 +1,5 @@
+# Challenge of intending voters
+26 (1) The Returning Officer, at the request of an observer or on his own initiative, may require any person claiming to vote at a referendum to read aloud or repeat after him and sign before him a declaration in the form set out in Schedule 3, and if the person so required does not comply with that requirement, the Returning Officer shall not give him a ballot paper or allow him to vote, notwithstanding section 24(1):
+Provided that the reading and signing of such a declaration as aforesaid shall not entitle any person to vote at a referendum unless he is entitled to vote by section 4 or relieve him from any punishment to which he may be or become liable for so voting:
+Provided further that the requirements of this subsection shall be in addition to and not in derogation of section 25.
+(2) Every request made by the observer for the purposes of subsection (1) shall be made in writing, specifying the grounds of the request, and the Returning Officer shall disregard any request which is not so made.

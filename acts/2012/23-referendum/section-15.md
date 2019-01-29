@@ -1,0 +1,3 @@
+# Duration of poll
+15 (1) Subject to sections 16 to 18, the poll in a referendum shall be taken on the polling day between the hours of eight o’clock in the forenoon and eight o’clock in the afternoon.
+(2) If at the hour of closing of the poll there are any voters in the polling room, or in line at the door, who are qualified to vote and have not been able to do so since their arrival at the polling room, the poll shall be kept open a sufficient time to enable them to vote before the outer door of the polling room is closed, but no person who is not actually present at the polling room at the hour of closing shall be allowed to vote, even if the poll is still open when he arrives.

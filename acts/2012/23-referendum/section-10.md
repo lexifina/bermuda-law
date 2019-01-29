@@ -1,0 +1,10 @@
+# Power to postpone referendum
+10 (1) Where at any time between the publication of a referendum notice and the polling day appointed by that notice, the Premier is satisfied that it is expedient so to do by reason of—
+(a) Bermuda having become, or being likely to become, engaged in any war;
+(b) a state of emergency having been proclaimed under section 14(3) of the Constitution;
+(c) the occurrence of an earthquake, hurricane, flood or fire, or the outbreak of a pestilence or an infectious disease or other calamity whether similar to the foregoing or not;
+(d) the likelihood that the parliamentary register will not be available before the polling day; or
+(e) the occurrence of rioting, open violence or other civil disturbance which has caused, or is likely to cause, such interruption or abandonment of the electoral process as to prejudice the holding of a fair referendum,
+he may by notice published in the Gazette cancel the polling day and appoint another day, not being more than thirty days after that notice is published, to be the polling day instead.
+(2) Where the polling day (“the original day”) appointed by a referendum notice is postponed by virtue of this section to another day (“the substitute day”), any reference in this Act or in any Rules made under this Act to the original day shall, if the context so requires, be construed as a reference to the substitute day and not the original day.
+(3) Where the polling day appointed by a referendum notice is postponed by notice by virtue of this section, the Premier may by that notice or by a later notice published in the Gazette if, in his opinion, the polling room appointed for the original day (“the original polling room”) will not be available for the purposes of the referendum, appoint another polling room (a “substitute polling room”) for those purposes instead; and, where a substitute polling room has been so appointed, any reference in this Act or in any Rules made under this Act to the original polling room shall, if the context so requires, be construed as a reference to the substitute polling room and not the original polling room.
