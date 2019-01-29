@@ -1,0 +1,2 @@
+# Weekly return of punishments
+37 The Commissioner shall render to the Deputy Governor and to the Minister a weekly return setting out the names of inmates punished in respect of offences against discipline during the seven days last preceding the making of the return, the offences in question, the punishments imposed, the offences against discipline (if any) previously committed by each such inmate and any remarks which the Commissioner wishes to make.

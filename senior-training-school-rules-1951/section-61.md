@@ -1,0 +1,2 @@
+# Information to family of death or serious illness
+61 Upon the death or serious illness of an inmate or upon the certification of an inmate as insane, or upon the sustaining by an inmate of a serious injury, the Commissioner, if the inmate is married to a person whose address is known, shall at once inform the wife, and otherwise shall at once inform the nearest relative whose address is known and shall in any event inform any other person whom the inmate has requested may be so informed.

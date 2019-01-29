@@ -1,0 +1,3 @@
+# Prohibited articles
+41 (1) No person shall without authority convey into or deposit in the training school, or convey out of the training school, or convey to an inmate, or deposit in any place with the intent that it shall come into the possession of an inmate, any money, clothing, food, drink, tobacco, letter, paper, book, tool or other commodity or article whatsoever.
+(2) Without prejudice to any proceedings which may be taken against any person in respect of a contravention of the foregoing provisions of this rule anything so conveyed or deposited may be confiscated by order of the Commissioner or, in the Commissioner’s absence, then by the Chief Officer.

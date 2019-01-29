@@ -1,0 +1,2 @@
+# Payment for work done by appellant
+112 If an appellant is ordered by the Supreme Court, the Court of Appeal or Her Majesty-in-Council to be released from detention in the training school (whether under a recognizance pending the hearing or upon the determination of the appeal) he shall be entitled to be paid at the appropriate rate set out in the Second Schedule for any work upon which he has been employed during the time he has been treated as an appellant.

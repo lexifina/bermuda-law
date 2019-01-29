@@ -1,0 +1,3 @@
+# Assessment of compliance by person released under supervision
+130 The Parole Board shall, while a person released from the training school is under supervision, take such steps as it thinks necessary to satisfy itself that the person is duly complying with the requirements contained in the notice given to him in accordance with rule 129 on his release; and if it appears to the Parole Board that any such person has failed to comply with any of the requirements contained in the notice it shall consider the recall of that person to the training school or otherwise as it thinks expedient.
+[Rule 130 amended by 2001:2 s.13 & Sch 2 effective 1 October 2001]

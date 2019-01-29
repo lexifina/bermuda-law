@@ -1,0 +1,3 @@
+# Facilities for unconvicted inmate to prepare defence
+108 (1) An unconvicted inmate shall be allowed all reasonable facilities, including the provision of writing materials, for communicating by letter with his friends, or for conducting correspondence or preparing notes in connection with his defence at his forthcoming trial.
+(2) A confidential written communication prepared as instruction for the legal adviser of an unconvicted inmate may be delivered personally to such legal adviser, and shall not be treated as a letter to which rule 63(3) applies, unless the Commissioner has reasonable grounds for suspecting that the letter contains matter not relating to such instructions,

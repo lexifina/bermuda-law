@@ -1,0 +1,3 @@
+# Education
+55 (1) Provision shall be made for the continued education of all inmates by class teaching, individual study, and such cultural influences, including hobbies and handicrafts, as may encourage the development of valuable interests and good use of leisure.
+(2) Facilities shall so far as practicable be provided to enable every inmate to take part in such educational activities for at least six hours a week outside the normal working week; and, where it is desirable in the educational interests of any inmate, and particularly in respect of any inmate under eighteen years of age, arrangements may be made for his education within the normal working week.
