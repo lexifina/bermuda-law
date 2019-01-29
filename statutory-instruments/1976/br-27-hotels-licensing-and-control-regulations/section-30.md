@@ -1,0 +1,2 @@
+# Exclusive use of bedroom by guest who is a member of a group
+30 Where an operator has made a contract to provide sleeping accommodation for a group of persons all of whom are not related to each other, then, unless such contract contains a specific term to the contrary, the operator shall provide, on the days and nights specified in such contract, a separate bedroom at the hotel of which he is the operator for the exclusive use of each member of the group.

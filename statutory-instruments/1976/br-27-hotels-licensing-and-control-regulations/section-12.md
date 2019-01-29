@@ -1,0 +1,2 @@
+# Duty to take precautions to prevent fires, etc.
+12 It shall be the duty of every hotel operator and every hotel employee to take all reasonable precautions to prevent fire, explosion or spread of fire or smoke in a hotel and to ensure that exits and equipment for the protection of the premises and its occupants from fire are maintained in efficient condition and readily available for use in case of fire.
