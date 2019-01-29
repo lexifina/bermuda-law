@@ -1,0 +1,2 @@
+# Visits by special ministers
+49 Where an inmate is recorded as belonging to a religious denomination for which no Chaplain has been appointed to the training school, the Commissioner shall, if the inmate so requests, arrange for him, so far as possible, to be visited by a minister of that denomination, and every such inmate shall be informed of this rule on his reception into the training school.

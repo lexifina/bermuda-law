@@ -1,0 +1,2 @@
+# Medical examination
+14 Every inmate (unless he is transferred from a prison under section 60 of the Young Offenders Act 1950 [title 10 item 33]) shall, as soon as practicable after his reception in the training school, or (as the case may be) his recall thereto, be separately examined by the Medical Officer who may take a specimen of the inmate’s blood; and the Medical Officer shall record the state of health of the inmate and such other particulars as may be directed by the Commissioner.

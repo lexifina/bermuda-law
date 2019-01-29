@@ -1,0 +1,2 @@
+# Private property of unconvicted inmate
+102 The Commissioner may, on the application of an unconvicted inmate, allow him, so far as is consistent with good order and discipline in the training school, to have in his room any articles which were in his possession at the time of his arrest or committal to the training school and which are not required for the purposes of justice and are not reasonably suspected of forming part of any property improperly acquired by him.

@@ -1,0 +1,2 @@
+# Appellant seeking bail
+113 Where an inmate who is an appellant is detained in the training school in default of bail or of any person entering into a recognizance or giving other security in connection with the inmate’s appeal, then the inmate shall be allowed to have an interview at any reasonable hour, or to communicate with friends, for the purpose of obtaining bail or any such recognizance or other security.

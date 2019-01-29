@@ -1,0 +1,3 @@
+# Medical reports
+77 (1) The Medical Officer shall report to the Commissioner any matter which on medical grounds appears to him to require the consideration of the Commissioner or of the Board; and, where the Medical Officer considers the consideration of the Board to be required, the Commissioner shall forward the report to them.
+(2) Where a report on the physical or mental condition of an inmate is required by the Governor, by the Minister, or by any court, or by the Attorney-General or by the Commissioner of Police, then the Commissioner of Prisons shall cause a report to be prepared by the Medical Officer accordingly, and shall transmit the report to the person or court by whom it was required.

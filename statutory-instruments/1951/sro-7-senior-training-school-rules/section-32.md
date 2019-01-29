@@ -1,0 +1,4 @@
+# Reference to Board for investigation
+32 (1) Where an inmate who is undergoing corrective training is reported for any of the following offences against discipline, namely mutiny, incitement to mutiny or doing personal violence to an officer, and the Commissioner, having regard to the circumstances of the case, thinks it expedient that the Board should deal with the report, then the Commissioner shall report the offence to the Deputy Governor and to the Minister, and to the Board.
+(2) The Board shall, as soon may be, investigate the report and after such investigation may impose such one or more of the punishments upon the inmate as may lawfully be imposed under section 67 of the Young Offenders Act 1950.
+[Rule 32(2) substituted for paras (2) and (3) by 1999:51 s.4 & Sch effective 23 December 1999]

@@ -1,0 +1,3 @@
+# Request to see Commissioner or a member of the Board
+40 (1) Arrangements shall be made that every request by an inmate to see the Commissioner or a member of the Board is recorded by the officer to whom it is made and that the request is conveyed without delay to the Commissioner.
+(2) The Commissioner shall, at a convenient hour on every day, other than a Sunday or other public holiday, hear the applications of all inmates who have made a request to see him, and shall inform the next member of the Board who visits the training school of every such request made by an inmate to see a member of the Board.

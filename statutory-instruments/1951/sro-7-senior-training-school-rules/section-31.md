@@ -1,0 +1,3 @@
+# Investigation of report; adjudication
+31 (1) The Commissioner shall investigate every report of the commission by an inmate of an offence against discipline and shall, unless he reports the case to the Board under rule 32, adjudicate thereon; and where he finds the inmate to be guilty of an offence against discipline he may impose one or more of the punishments set out in section 67(3) (b) of the Young Offenders Act 1950 [title 10 item 33].
+(2) Every offence against discipline shall be reported forthwith and the Commissioner shall investigate such reports not later than the following day, unless that day is a Sunday or other public holiday.

@@ -1,0 +1,2 @@
+# Medical recommendations
+79 The Medical Officer shall report in writing to the Commissioner the case of any inmate to which he thinks it necessary on medical grounds to draw attention, and shall make such recommendations as he considers necessary for the alteration of the diet or treatment of the inmate or for his separation from other inmates, or for the supply to him of additional clothing, bedding or other articles; and the Commissioner shall so far as practicable carry such recommendations into effect.

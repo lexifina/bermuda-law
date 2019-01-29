@@ -1,0 +1,4 @@
+# Temporary leave of absence
+19 (1) An inmate undergoing corrective training may be allowed by the Commissioner, on conditions and for reasons approved by the Commissioner after consultation with the Board, to be temporarily absent from the training school on leave of absence, for a stated length of time.
+(2) If the Commissioner is satisfied that an inmate absent on leave of absence has broken any of the said conditions, the inmate shall notwithstanding that the stated length of time has not elapsed, be liable to be recalled to the training school by written order of the Commissioner; and if the inmate fails duly to comply with any such order he shall be deemed to be unlawfully at large.
+(3) If an inmate absent on leave of absence fails duly to return to the training school upon the elapse of the length of time for which the leave of absence was granted he shall be deemed to be unlawfully at large.

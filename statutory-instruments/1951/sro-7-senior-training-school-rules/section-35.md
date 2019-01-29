@@ -1,0 +1,2 @@
+# Frequency of visits by officers
+35 Every inmate who is undergoing confinement to a room either as a punishment imposed for an offence against discipline or under rule 39, or who is placed on restricted diet No. 1, shall be visited at least once a day either by the Commissioner or by the Chief Officer, and in addition either by the Medical Officer or by an officer trained as a medical orderly; and, if the inmate is undergoing confinement to a room he shall also be visited by an officer appointed for that purpose at intervals of not more than three hours during the day.

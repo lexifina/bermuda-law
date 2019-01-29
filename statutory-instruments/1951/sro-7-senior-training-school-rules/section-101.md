@@ -1,0 +1,2 @@
+# Private medical attendance on unconvicted inmate
+101 If an unconvicted inmate desires the attendance of a registered medical practitioner or registered dental practitioner, and is able and willing to defray any expense thereby incurred, the Commissioner may, if he is satisfied that there is reasonable ground for the application, allow him to be visited and treated by that medical or dental practitioner in consultation with the Medical Officer.

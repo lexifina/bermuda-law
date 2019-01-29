@@ -1,0 +1,2 @@
+# Quantity of food
+90 Except as provided by rule 36, or as provided by these rules in connection with the imposition of a punishment in respect of an offence against discipline, or on the written recommendation of the Medical Officer in the case of an inmate who persistently wastes his food, or on medical grounds by direction of the Medical Officer, no inmate shall have less food than is provided in the normal diet of the training school.

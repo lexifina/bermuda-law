@@ -1,0 +1,2 @@
+# Medical examination on release
+93 Every inmate shall, as short a time as is practicable before his release from the training school, be examined by the Medical Officer, and an inmate who is suffering from an acute or dangerous illness shall not be released until in the opinion of the Medical Officer it is safe to do so, unless, the period for which he may be detained in the training school having expired, he refuses to stay.
