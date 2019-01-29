@@ -1,0 +1,8 @@
+# Delivery from dairyfarms
+20 With respect to the distribution or delivery of milk for human consumption from dairyfarms the following provisions shall have effect—
+(a) any vehicle used for distributing or delivering milk from a dairyfarm (hereinafter in this regulation referred to as a “delivery truck”) shall be so constructed that the milk is adequately protected from contamination by flies, dust or dirt and is in addition adequately protected from heat, and shall be kept clean;
+(b) nothing liable to contaminate milk shall be carried in a delivery truck, and any empty container for milk shall be kept separate from full containers;
+(c) no person other than the driver of a delivery truck or any other dairyfarm employee holding a valid certificate of health granted under regulation 5, shall be allowed to be on any delivery truck while it is being used for the delivery of milk;
+(d) no milk shall be loaded in bulk on any vehicle unless the tank of that vehicle is of a design, construction and material approved by the Chief Environmental Health Officer; the tank and all ancillary fixtures and fittings which come into contact with the milk shall be clean and disinfected by a method approved by the Chief Environmental Health Officer before and after such use;
+(e) for the purposes of these regulations, milk is loaded in bulk on a vehicle when, instead of being loaded thereon in bottles, churns or other containers, it is discharged directly into the tank of the vehicle in a manner approved by the Chief Environmental Health Officer.
+[Regulation 20 amended by 2018 : 66 s.2 effective 10 January 2019]
