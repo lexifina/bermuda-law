@@ -1,0 +1,2 @@
+# This Act to prevail over Public Health Act 1949
+26 Nothing in this Act or the Regulations shall derogate from the Public Health Act 1949 [title 11 item 1] or any regulations made thereunder, but, in the event of any conflict, the provisions of this Act or the Regulations, as the case may be, shall, in so far as they relate to a hotel, prevail over the provisions of the Public Health Act 1949 or any regulations made thereunder.
