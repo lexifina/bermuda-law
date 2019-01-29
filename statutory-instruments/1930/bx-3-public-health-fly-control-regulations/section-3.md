@@ -1,0 +1,3 @@
+# Sale of food
+3 (1) The proprietor or manager of every store wherein meat, fish, game, poultry, or other food for human consumption liable to contamination by flies is sold or exposed for sale otherwise than in sealed or sufficiently covered containers, shall cause every portion of such premises where such articles are stored or sold to be constructed and maintained in such manner as to prevent access by flies.
+(2) No person shall sell or expose for sale any food for human consumption liable to contamination by flies unless the food is adequately protected from flies by screens, covers, or otherwise.
