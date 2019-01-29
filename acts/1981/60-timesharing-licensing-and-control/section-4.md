@@ -1,0 +1,6 @@
+# Restriction on the grant of licences
+4 (1) The Minister shall not grant a licence for the operation of a timesharing scheme unless the applicant satisfies the Minister that the purchasers of the facilities of the timesharing scheme will have a right to occupy and use those facilities for certain specified periods not in excess of six months of every year over a period of not less than forty years.
+(2) The Minister shall not grant a licence for the operation of a timesharing scheme whereby any legal or equitable estate or tenancy may be conferred upon the purchasers of rights to occupy and use the facilities of the scheme.
+(3) The Minister shall not grant a licence for the operation of a timesharing scheme until the contract to be executed by the purchasers of the rights to occupy and use the facilities of the scheme has been submitted to and approved by the Minister; and no material variation thereof shall be made without the written approval of the Minister.
+(4) The Minister shall not grant a licence for the operation of a timesharing scheme unless the Minister has approved the maximum number of units in the scheme and it shall be a term of the licence that the number of units in the scheme shall not exceed that maximum number.
+[Section 4 subsection (1) amended, and (4) inserted, by 2005:34 s.3 effective 1 May 2006]

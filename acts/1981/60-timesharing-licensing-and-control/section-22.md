@@ -1,0 +1,2 @@
+# Financial ability of applicant for licence under s.3(1)
+22 An applicant for a licence to develop a timesharing scheme shall, before a licence may be granted, satisfy the Minister of his financial ability to complete the development required for the scheme whether such development consists of the construction of a new building with all the requirements necessary for the proper operation of the scheme or the conversion of an existing building into one satisfying those requirements.
