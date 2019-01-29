@@ -1,0 +1,3 @@
+# Restoration of licence
+6 Where a licence has been suspended or revoked under regulation 5, the person who has held the licence may at any time represent to the Chief Environmental Health Officer in writing that the circumstances which occasioned the suspension or revocation have been remedied, and may apply for the restoration of the licence; and if the Chief Environmental Health Officer, after causing such inspections to be made as he thinks necessary, is satisfied that the circumstances have been remedied, he may, with the approval of the Minister or under any general authority given to him in that behalf by the Minister restore the licence accordingly.
+[Regulation 6 amended by 2018 : 66 s.2 effective 10 January 2019]

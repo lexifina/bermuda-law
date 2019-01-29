@@ -1,0 +1,2 @@
+# Contraventions
+12 In the event of any contravention of these Regulations in respect of a slaughter-house the person holding the licence to operate the slaughter-house in which the contravention occurred, shall, without prejudice to any proceedings that may be taken against any other person, be deemed to be guilty of the contravention unless he proves that the contravention occurred without his knowledge or that he exercised due diligence to prevent the contravention.
