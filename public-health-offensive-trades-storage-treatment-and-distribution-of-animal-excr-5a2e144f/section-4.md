@@ -1,0 +1,2 @@
+# Minister may prohibit treatment of manure
+4 The Minister may, for the purpose of preventing or mitigating noxious or offensive effects from the storage of manure, by order in writing, prohibit in any particular case any treatment of any manure which in the Minister’s opinion, is causing or aggravating any noxious or offensive effects therefrom, and any person who does any act in contravention of any such prohibition commits an offence against these Regulations.
