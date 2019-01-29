@@ -1,0 +1,2 @@
+# Exclusive use of bedroom by guest
+29 Where the operator of a hotel has made a contract with a person to provide sleeping accommodation for that person and his party, if any, then, unless such contract contains a specific term to the contrary, the operator shall provide, on the days and nights specified in such contract, a bedroom at the hotel of which he is the operator for the exclusive use of that person and his party, if any.

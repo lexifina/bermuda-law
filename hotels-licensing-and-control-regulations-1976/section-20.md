@@ -1,0 +1,2 @@
+# Provision of equipment utensils used in storage, preparation and service of food
+20 Every hotel in which food or drink is provided for guests or members of the public resorting thereto or both shall be provided with adequate equipment and utensils for the storage, preparation and service thereof and all such equipment and utensils shall, as the case may be, be designed, constructed, located, installed, maintained, handled, used, cleaned and washed in accordance regulations 21, 22, 23 and 24.

@@ -1,0 +1,5 @@
+# Equipment, utensils and the cleaning thereof
+24 (1) All equipment and utensils used in the preparation of food in a hotel, other than utensils used only on one occasion, shall be of such material, workmanship and design as to be smooth, easily cleaned, resistant to wear, denting, buckling, pitting, chipping and scoring and shall be capable of withstanding scrubbing, scouring and the repeated corrosive action of cleaning compounds and other usual conditions under which they are used or cleaned and all the surfaces thereof which are likely to come into contact with food or food debris,shall be readily accessible for cleaning and inspection and shall be of non-toxic material.
+(2) [revoked]
+(3) No cracked or chipped dish, glass or enamelware shall be used for the storage, preparation or service of any food or drink in a hotel and every cracked or chipped dish, glass or enamelware shall be removed from a hotel or destroyed so that it is not capable of use.
+[Regulation 24 para (2) revoked by BR73/2007 effective 17 August 2007]
