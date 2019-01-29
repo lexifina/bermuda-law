@@ -1,0 +1,3 @@
+# Record to be kept
+18 At every timesharing scheme there shall be kept a record in such form as may be approved by the Chief Fire Officer pursuant to section 40(1) of the Fire Safety Act 2014, in which shall be entered a record of every fire drill, fire training session, test of alarm system and outbreak of fire and each such entry shall be signed by the person conducting such drill, session or test or in the case of an outbreak of fire, by the person in charge of the premises at the time and such record shall be produced for inspection, upon request, by the Chief Fire Officer or any person authorized by him to make such request.
+[Regulation 18 amended by 2014 : 33 s. 55 effective 1 January 2018]

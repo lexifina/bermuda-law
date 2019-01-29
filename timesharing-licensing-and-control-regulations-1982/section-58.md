@@ -1,0 +1,4 @@
+# Managing agents licence
+58 (1) An application for the grant, transfer or variation of a licence to manage a timesharing scheme shall be made in such form as the Minister may from time to time determine and copies of the application form shall be made available to any person on request made to the Director.
+(2) An applicant for the grant, transfer or variation of a licence to manage a timesharing scheme shall furnish the Minister with a detailed plan of the operation of the timesharing scheme together with such number of copies thereof as the Minister may specify and with such other information, details or particulars as the Minister may consider necessary.
+(3) Any such applicant shall also satisfy the Minister that he is able to comply in all respects with the Act and the regulations made thereunder.

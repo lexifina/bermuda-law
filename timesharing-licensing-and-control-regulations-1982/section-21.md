@@ -1,0 +1,3 @@
+# Swimming pools and private beaches; life saving and first aid attendant
+21 (1) Where there are swimming pools or private beaches on the premises of a timesharing scheme every managing agent shall cause to be in attendance thereat during such times as the pools or beaches are open and in use by bathers such number of life saving attendants as he may deem necessary for the safe operation of the pools or beaches.
+(2) In paragraph (1) of this regulation and in regulation 23, a “life saving attendant” means a person possessing a valid certificate of competency in life saving and first aid issued by an association or body approved by the Director.
