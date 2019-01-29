@@ -1,0 +1,11 @@
+# Suspension of licence; revocation
+12 (1) Without prejudice to any of the foregoing provisions of this Act, where the Minister is satisfied that in relation to any hotel any provision of law or of the security guidelines or any condition of the licence is being contravened—
+(a) the Minister may serve upon the operator of that hotel a notice specifying the provision of law or of the security guidelines or the condition of the licence that is being contravened and requiring the operator to comply or ensure compliance therewith to the satisfaction of the Minister within such reasonable period as the Minister may specify in such notice and, if at the expiry of such period such person has failed so to comply or ensure compliance therewith to the satisfaction of the Minister, the Minister may suspend the licence; or
+(b) if the Minister is satisfied that such contravention is endangering the health or safety of any of the persons in or likely to use that hotel, the Minister may forthwith suspend or vary the licence granted in respect thereof until such time as he is satisfied that such provision of law or of the security guidelines or the condition of the licence is no longer being contravened.
+(2) A licence which has been suspended by the Minister shall, during the period of such suspension, be deemed to be no longer in force.
+(3) The Minister shall forthwith serve on the operator of the hotel notice of suspension of a licence effected pursuant to this section.
+(4) The Minister may revoke a licence when satisfied that the premises to which it relates are no longer operated as a hotel.
+(5) Where a licence is revoked or suspended under this section the operator shall, if the Permanent Secretary serves a notice upon him requiring him to surrender his licence, within seven days of the service of such notice surrender the licence to the Permanent Secretary.
+(6) Where the operator fails to comply with a notice under subsection (5) he commits an offence against this Act:
+Punishment on summary conviction: a fine of $3,000.
+[Section 12 subsections (1) and (6) amended by 2007:19 s.5 effective 1 September 2007; Section 12 subsection (5) amended by 2018 : 26 Schedule (s. 5) effective 1 July 2018]
