@@ -1,0 +1,2 @@
+# Supreme Court not to have jurisdiction in cases falling within Rhine Convention
+28 Notwithstanding anything contained in sections 24 to 27 inclusive the Court shall not have jurisdiction to determine any claim or question certified by one of Her Majesty’s Principal Secretaries of State to be a claim or question which, under the Rhine Navigation Convention, falls to be determined in accordance with the provisions thereof and any proceedings to enforce such a claim which are commenced in any such court shall be set aside.

@@ -1,0 +1,2 @@
+# Savings for rules of evidence and law relating to jurors, etc.
+22 Nothing in this Act or in any Rules of Court made under this Act, save as far as relates to the power of the Court for special reasons to allow depositions or affidavits to be read, shall affect the mode of giving evidence by the oral examination of witnesses in trials by juries, or the rules of evidence, or the law relating to jurors or juries.

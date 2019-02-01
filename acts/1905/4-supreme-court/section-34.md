@@ -1,0 +1,3 @@
+# Forfeiture of money
+34 After the lapse of twenty-five years from the date any sum of money has been paid into court if no claim valid in law is made thereto, such money shall be forfeited to the Crown and shall be appropriated to the general revenue:
+Provided that the Chief Justice may, from time to time after such appropriation, order the payment of any claim in respect of such money which, upon equitable or moral grounds is established by any person to the satisfaction of the Chief Justice; and thereupon the Minister of Finance shall authorize the Accountant General to pay the claim out of the Consolidated Fund.
