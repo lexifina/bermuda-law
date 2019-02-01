@@ -1,0 +1,24 @@
+## RULES OF COURT
+# Rules of Court
+62 (1) Rules of Court may be made by the Chief Justice under this Act for the following purposes—
+(a) for regulating and prescribing the procedure (including the method of pleading), the practice to be followed in the Court and the fees to be payable in the Court and the fees to be payable in all causes and matters whatsoever in or with respect to which the Court has for the time being jurisdiction (including the procedure and practice to be followed in the offices of the Court) and any matters incidental to or relating to any such procedure or practice, including (but without prejudice to the generality of the foregoing provision) the manner in which, and the time within which, any applications which under this or any other Act are to be made to the Court shall be made;
+(b) for regulating and prescribing the procedure on appeals from any court or person to the Court, and the procedure in connection with the transfer of proceedings from any inferior court to the Court or from the Court to an inferior court;
+(c) for regulating the sittings of the Court and of the judges of the Court whether sitting in court or in chambers, and whether in original or appellate jurisdiction;
+(d) for prescribing what part of the business which may be transacted and of the jurisdiction which may be exercised by judges of the Court in chambers may be transacted or exercised by the Registrar of the Court;
+(e) for regulating any matters relating to the costs of proceedings in the Court and the employment of barristers and attorneys in causes and matters and their fees;
+(f) for regulating the procedure and practice of the Court with respect to non-contentious or common form probate business;
+(g) for prescribing in what cases trials in the Court are to be with a jury and in what cases they are to be without a jury;
+(h) for regulating the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings or on any application in connection with or at any stage of any proceedings;
+(i) for regulating or making provision with respect to any other matters which were regulated or with respect to which provision was made by Rules of Court in force on the coming into operation of this Act, or by any rules or regulations so in force with respect to practice and procedure in matrimonial causes and matters or with respect to applications and proceedings relating to legitimacy declarations;
+(j) for making provision with respect to the practice and procedure—
+(i) of the Court in relation to the jurisdiction and powers conferred upon it by or under section 15 of the Constitution [title 2 item 1];
+(ii) of the Court in relation to appeals under section 15 of the Constitution from a determination of the Court;
+(iii) of other courts in relation to references to the court under subsection (3) of section 15 of the Constitution,
+and such provision may include provision with respect to the time within which any application of reference shall or may be made.
+(2) [Repealed by 1977:35]
+(3) Nothing in this section shall affect the power conferred by any Act to make general rules for carrying into effect the objects of such Act and the power to make rules of court under this section shall not extend to the matters with respect to which rules or orders may be made by virtue of any such Act.
+(4) To the extent, if any, to which the pleading, practice and procedure under Rules made under the authority of this Act differ from the law and practice in England regulating the winding-up of companies, the pleading, practice and procedure under the Rules shall have effect; and if any question arises as to the application of the provisions of this subsection the decision thereon of the Court, or of any Judge having cognizance of the matter in respect of which such question has arisen, shall be final, unless in the latter case on an appeal to the Court by any interested party the court determines otherwise, in which case the decision of the Court shall be final.
+(5) Subject to subsection (6), the Registrar shall—
+(a) cause a copy of all Rules of Court made or deemed to be made under this Act to be available at the Registry for inspection by any interested person free of charge at any time when the Registry is open to the public;
+(b) cause to be published in the Gazette a notice briefly describing the nature of any Rules of Court made or deemed to be made under this Act, stating the date on which such Rules are to come into operation and that such Rules may be inspected at the Registry.
+(6) Subsection (5) shall not apply, or shall cease to apply, as the case may be, to Rules of Court made or deemed to be made under this Act that are published in the Gazette or under the authority of the Computerization and Revision of Laws Act 1989 .
