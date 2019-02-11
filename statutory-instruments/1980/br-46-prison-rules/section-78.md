@@ -1,0 +1,2 @@
+# Duty to furnish report on prisoner’s mental condition when required
+78 Where a report on the physical or mental condition of a prisoner is required by the Minister, or by any court, or by the Attorney-General or by the Commissioner of Police, then the Commissioner shall cause a report to be prepared by the Medical Officer accordingly and shall transmit the report to the person or court by whom it was required.

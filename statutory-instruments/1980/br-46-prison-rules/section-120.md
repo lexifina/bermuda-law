@@ -1,0 +1,2 @@
+# Appellant seeking bail
+120 Where a prisoner who is an appellant is detained in prison in default of bail of any person entering into a recognizance or giving other security in connection with the prisoner’s appeal, then the prisoner shall be allowed to have an interview at any reasonable hour, or to communicate with friends, for the purpose of obtaining bail or any such recognizance or other security.

@@ -1,0 +1,2 @@
+# Information to family of death or serious illness
+63 Upon the death or serious illness of a prisoner, or upon the certification of a prisoner as insane, or upon the sustaining by a prisoner of a serious injury, the Commissioner, if the prisoner is married to a person whose address is known, shall at once inform the wife, or, as the case may be, the husband, and otherwise shall at once inform the nearest relative whose address is known and shall in any event inform any other person whom the prisoner has requested may be so informed.

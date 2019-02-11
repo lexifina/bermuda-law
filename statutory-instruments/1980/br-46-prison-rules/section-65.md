@@ -1,0 +1,4 @@
+# Supervision of letters and visits
+65 (1) Without prejudice to rule 64(1), the Commissioner may, notwithstanding anything in this or rules 66 to 73, impose such restriction upon and supervision over letters and visits as he considers necessary for maintaining discipline and good order, for preventing crime and criminal association, and for ensuring the welfare of individuals.
+(2) Except as provided in these Rules, no person shall without special authority be allowed to communicate with a prisoner.
+(3) Every letter to or from a prisoner shall (except as hereinafter provided in these Rules in case of certain communications to the legal adviser of a prisoner) be read by a prison officer deputed by the Commissioner for that purpose; and it may be stopped by the Commissioner on the grounds that its contents are objectionable or that it is of inordinate length.

@@ -1,0 +1,3 @@
+# Facilities for untried prisoners to prepare defence
+112 (1) An untried prisoner shall be allowed all reasonable facilities, including the provision of writing materials, for communicating by letter with his friends, or for conducting correspondence or preparing notes in connection with his defence at his forthcoming trial.
+(2) A confidential written communication prepared as instructions for the legal adviser of an untried prisoner may be delivered personally to such legal adviser, and shall not be treated as a letter to which rule 65(3) applies, unless the Commissioner has reasonable grounds for suspecting that the letter contains matter not relating to such instructions.

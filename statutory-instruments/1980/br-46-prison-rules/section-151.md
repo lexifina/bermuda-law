@@ -1,0 +1,2 @@
+# Modification of Rule 5 owing to small numbers
+151 Notwithstanding anything in rule 5 (which relates to the placing of prisoners in grades), where, owing to the small number of women prisoners or otherwise, suitable arrangements for grading women prisoners cannot be made, the Commissioner may, in consultation with the Board, modify the application of that rule to such extent as he thinks expedient.

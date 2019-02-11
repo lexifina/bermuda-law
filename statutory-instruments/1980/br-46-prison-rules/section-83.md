@@ -1,0 +1,3 @@
+# Medical report on danger to prisoner
+83 Whenever the Medical Officer has reason to believe that a prisoner’s mental or physical health is likely to be injuriously affected by continued detention in prison or by any condition of his detention, or that the life of a prisoner will be endangered by his detention in prison or that a convicted prisoner who is ill or injured will not survive the term of his sentence or is totally or permanently unfit for imprisonment, then the Medical Officer shall without delay report the case in writing and submit his recommendations to the Commissioner who shall forthwith forward a copy of such report and recommendations to the Board and the Minister.
+[Rule 83 amended by 2001:29 s.11(1) & Sch effective 29 October 2001]
