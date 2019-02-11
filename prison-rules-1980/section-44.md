@@ -1,0 +1,6 @@
+# Search of persons and vehicles
+44 (1) All persons and vehicles entering or leaving a prison may be examined and searched.
+(2) A person suspected of improperly bringing into the prison any article specified in rule 42, or of improperly carrying out any such article or any article belonging to the Department of Corrections, or while in a prison of being improperly in possession of any such article or of any article belonging to the Department of Corrections, shall be stopped and immediate notice shall be given to the Commissioner who may order that such person shall be examined and searched; but any such person shall not be searched except by a prison officer of the same sex as that person.
+(3) The Commissioner may refuse admittance to a prison of any person who being a visitor is not willing to be examined and searched, or who, in his opinion, is not a suitable person to admit as a visitor.
+(4) Without prejudice to paragraph (2), the Commissioner may direct the removal from a prison of any person who while within the prison is not willing to be examined and searched, or whose conduct is improper.
+[Rule 44 para (2) amended by 2002:17 s.4 effective 14 December 2002; amended by BR67/2002 effective 14 December 2002]

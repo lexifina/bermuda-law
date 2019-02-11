@@ -1,0 +1,3 @@
+# Investigation of reports; imposition of punishments by Commissioner
+33 (1) The nominated officer shall investigate every report of the commission by a prisoner of an offence against prison discipline and shall submit a report of the case to the Commissioner of Prisons who shall, unless he reports the case to the Board under rules 34 and 35, adjudicate thereon; and where he finds the prisoner to be guilty of an offence against prison discipline he may impose one or more of the punishments set out in section 22(3)(a) of the Act.
+(2) Every offence against prison discipline shall be reported forthwith, and the nominated officer shall investigate such reports not later than the following day, unless that day is a Sunday or other public holiday.

@@ -1,0 +1,6 @@
+# Assessment of conduct of prisoners; suitability for release
+166 (1) The Parole Board shall review at such intervals as are hereinafter specified the sentences of prisoners—
+(a) in the case of prisoners serving a term of imprisonment for life or ordered to he detained during Her Majesty’s pleasure, the review shall be rendered in the first instance when such prisoner first becomes eligible for release on licence under the Criminal Code and thereafter at intervals of 12 months;
+(b) in the case of prisoners serving a fixed term of imprisonment and in the case of prisoners who are under the age of eighteen years at the date of sentence, the review shall be rendered, in the first instance, at the expiration of one-third of the adjudged term of imprisonment or a period of twelve months from the date of sentence, whichever is the greater, and thereafter at such intervals as may be deemed appropriate by the Board.
+(2) The Parole Board may, in the case of any such prisoner who is, in the opinion of the Parole Board, suitable for release from prison on licence or under supervision, grant such release from prison.
+[Rule 166 para (1) amended, para (2) substituted, by 2001:2 s.13 & Sch 2 effective 1 October 2001; para (1)(b) amended by 2001:20 s.7(1) & Sch 2 effective 1 November 2001; para (1)(a) and (b) amended by 2001:29 s.11(1) & Sch effective 29 October 2001]

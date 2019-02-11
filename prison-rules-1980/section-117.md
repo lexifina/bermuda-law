@@ -1,0 +1,2 @@
+# Untried prisoner mentally ill
+117 Where it appears to the Medical Officer that an untried prisoner is insane or mentally deficient, or is exhibiting symptoms of insanity or of mental deficiency, or may be unfit to plead, or exhibits any physical symptoms, deformities or aberrations which may be relevant in connection with the criminal or other proceedings to be taken against him, then in any such case the Medical Officer shall as soon as may be prepare a report accordingly; and the Commissioner shall transmit the report to the Attorney-General.

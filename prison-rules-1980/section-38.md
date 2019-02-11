@@ -1,0 +1,2 @@
+# Returns to Minister
+38 The Commissioner shall render to the Minister a weekly return setting out the names of prisoners punished in respect of offences against prison discipline during the seven days last preceding the making of the return, the offences in question, the punishments imposed, the offences against prison discipline (if any) previously committed by each prisoner, and any remarks which the Commissioner wishes to make.

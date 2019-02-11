@@ -1,0 +1,2 @@
+# Visits during certain punishment
+37 Every prisoner who is undergoing confinement to a cell either as a punishment in respect of an offence against prison discipline or under rule 40, shall be visited at least once a day by the Commissioner and in addition either by the Medical Officer or by a prison officer trained as a medical orderly and he shall also be visited by a prison officer appointed for that purpose at intervals of not more than three hours during the day.

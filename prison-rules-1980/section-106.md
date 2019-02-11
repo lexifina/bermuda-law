@@ -1,0 +1,2 @@
+# Private property of untried prisoners
+106 The Commissioner may, on the application of an untried prisoner, allow him, so far as is consistent with good order and discipline in the prison, to have in his cell any articles which were in his possession at the time of his arrest or committal to prison and which are not required for the purposes of justice and are not reasonably suspected of forming part of any property improperly acquired by him.
