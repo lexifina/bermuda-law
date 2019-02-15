@@ -1,0 +1,10 @@
+# Issue of certificates by the Minister
+6 (1) Subject to subparagraph (2), if the Minister is satisfied on the application for such a certificate as is mentioned in paragraph 5 in respect of—
+(a) a Bermuda ship; or
+(b) a ship registered in any country that is not a State Party,
+that there will be insurance in force throughout the period for which the certificate is to be issued, the Minister may issue such a certificate to the carrier or performing carrier.
+(2) If the Minister is of the opinion that there is doubt whether the person providing the insurance will be able to meet his obligations thereunder, the Minister may, after taking into account any other matters which appear to be relevant, refuse to issue the certificate.
+(3) Where, at any time while a certificate is in force, the person to whom the certificate has been issued ceases to be the performing carrier in relation to the ship to which the certificate relates, the certificate shall be delivered up forthwith to the Minister or to a proper officer and in such case shall be cancelled by the Minister.
+(4) Where, at any time while a certificate is in force, it is established that the contract of insurance in respect of which the certificate is issued is or may be treated as invalid, the certificate may be cancelled by the Minister and if so cancelled, shall on demand be delivered up to the Minister by the person to whom it was issued.
+(5) Where at any time while a certificate is in force, circumstances arise in relation to the insurer or guarantor named in the certificate (or where more than one is so named, any of them) such that if the certificate were applied for at that time, the Minister would have been entitled to refuse the application under subparagraph (2), the certificate may be cancelled by the Minister and if so cancelled, the certificate shall on demand be delivered up to the Minister by the person to whom it was issued.
+(6) The Minister shall send a copy of any certificate issued under this paragraph, in respect of a Bermuda ship, to the Registrar of Shipping and the Registrar shall make the copy available for public inspection.
