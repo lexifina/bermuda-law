@@ -1,0 +1,2 @@
+# Offences committed due to the act or default of another person
+17 Where an offence under Regulation 14 is committed, or would be committed but for the operation of Regulation 19, by any person due to the act or default of some other person, that other person also commits the offence, and a person may be charged with and convicted of an offence by virtue of this Regulation whether or not proceedings are taken against the first mentioned person.
