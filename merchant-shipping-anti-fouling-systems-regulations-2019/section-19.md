@@ -1,0 +1,2 @@
+# Defences
+19 In any proceedings for an offence under Regulation 14, it is a defence for the person charged to prove that, that person took all reasonable steps and exercised all due diligence to ensure that the requirement in question was complied with.
