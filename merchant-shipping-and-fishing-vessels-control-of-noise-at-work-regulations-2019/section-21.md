@@ -1,0 +1,2 @@
+# Right of appeal and compensation
+21 Regulations 14 and 24 (right of appeal and compensation) of the Merchant Shipping (Port State Control) Regulations 2019 (which by virtue of Regulation 22 of those Regulations, apply in relation to the exercise of powers of detention contained in safety Regulations) apply in relation to a detention notice served on a Government ship, under these Regulations, as if these Regulations were for all purposes made under section 93 of the Act.
