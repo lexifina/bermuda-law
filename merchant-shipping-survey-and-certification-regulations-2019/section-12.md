@@ -1,0 +1,5 @@
+# Procedure to be adopted when the ship is deficient
+12 (1) Where a surveyor determines that the condition of a ship to which this Regulation applies, does not correspond substantially with the particulars on one or more of the certificates referred to in these Regulations or is such that the ship is not fit to proceed to sea without danger to the ship or persons on board, the surveyor shall advise the owner or master, of the corrective action which in the surveyor’s opinion is required, and shall notify the Certifying Authority.
+(2) If such corrective action is not taken within such reasonable period as a surveyor may specify, the surveyor, or Certifying Authority, shall notify the Minister who may suspend the validity of the particular certificate issued to the ship.
+(3) The Minister shall give notice of any such suspension, to the owner, to the surveyor, and to the Certifying Authority who in turn shall notify the master.
+(4) This Regulation applies to Bermuda ships and other ships which have been surveyed pursuant to these Regulations.
