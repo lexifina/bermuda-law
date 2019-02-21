@@ -1,0 +1,3 @@
+# Offences by body corporate
+23 (1) Where a body corporate commits an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of any director, manager, secretary or other similar officer of the body corporate, or a person who was purporting to act in any such capacity, that person as well as the body corporate commits that offence and is liable to be proceeded against and punished accordingly.
+(2) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with that member’s functions of management as if that member were a director of the body corporate.

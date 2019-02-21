@@ -1,0 +1,4 @@
+# Classification of biological agents
+7 (1) Where a biological agent, other than a group 1 biological agent, does not appear in the Approved List of biological agents the employer shall provisionally classify that agent as a group 2, group 3 or group 4 biological agent according to its level of risk of infection and if in doubt as to which of two alternative groups is the most appropriate, the employer shall provisionally classify it as the higher of the two.
+(2) The employer shall immediately inform the Minister and the Authority, of any provisional classification done under paragraph (1).
+(3) Where a biological agent has been provisionally classified by an employer under paragraph (1), these Regulations apply to that employer, as if that agent appeared in the Approved List of biological agents.
