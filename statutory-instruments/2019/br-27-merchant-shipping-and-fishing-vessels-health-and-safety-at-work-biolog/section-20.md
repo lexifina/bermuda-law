@@ -1,0 +1,11 @@
+# Special measures for industrial processes, laboratories and animal rooms
+20 (1) For ships containing laboratories or rooms for laboratory animals that have been deliberately infected with group 2, group 3 or group 4 biological agents or which are, or are suspected to be carriers of such agents, the employer shall—
+(a) for laboratories carrying out work which involves the handling of such agents for research, development, teaching or diagnostic purposes, determine the relevant containment measures that are necessary to minimise the risk of infection;
+(b) following a Regulation 6 assessment and after fixing the physical containment level required for the biological agents according to the degree of risk, determine the relevant containment measures;
+(c) following a Regulation 6 assessment and after fixing the physical containment level required for the biological agents according to the degree of risk, determine the relevant containment measures;
+(d) for laboratories, handling materials in respect of which there exist uncertainties about the presence of biological agents, which may cause human disease but which do not have as their aim, working with biological agents as such—
+(i) adopt at least containment level 2; and
+(ii) use containment levels 3 or 4, when appropriate, where it is known or it is suspected that they are necessary.
+(2) For industrial processes using group 2, group 3 or group 4 biological agents, the employer shall apply the containment principles in paragraph (1)(c) on the basis of the practical measures and appropriate procedures.
+(3) An employer shall not cause or permit the industrial use of group 2, group 3 or group 4 biological agents otherwise than in accordance with the written approval of the Minister and any conditions subject to which such approval is given.
+(4) For activities described in paragraphs (1) to (3), where it has not been possible to carry out a conclusive assessment of a biological agent, but concerning which it appears that the use envisaged might involve a serious health risk for workers, the employer shall ensure that those activities are carried out in workplaces where the containment level corresponds at least to level 3.
