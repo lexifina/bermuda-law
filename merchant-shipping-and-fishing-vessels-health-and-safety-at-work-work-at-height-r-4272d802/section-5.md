@@ -1,0 +1,3 @@
+# Application of related legislation
+5 (1) The General Duties Regulations and the Work Equipment Regulations continue to apply to the provision and use of work equipment to which these Regulations apply, but where these Regulations contain more stringent or specific provisions, then these Regulations apply.
+(2) Where applicable, the Merchant Shipping (Safety of Navigation) Regulations 2010 shall continue to apply to equipment provided and used in accordance with those Regulations, but without prejudice to any more stringent or specific provisions contained in these Regulations, where such equipment is used for the carrying out of work at height.
