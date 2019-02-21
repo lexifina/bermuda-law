@@ -1,0 +1,7 @@
+# Controls
+20 (1) The employer shall ensure that all controls for work equipment are clearly visible and identifiable, including by appropriate marking, where necessary.
+(2) Except where necessary, the employer shall ensure that no control for work equipment is in a position where any worker operating the control is exposed to a risk to his health or safety, including any risk as a result of unintentional operation.
+(3) The employer shall, as far as is reasonably practicable, ensure that the user of any controls for work equipment can ensure from the position of those controls that no other worker would be exposed to any risk to health or safety as a result of the starting up or use of that work equipment.
+(4) If compliance with the requirement in paragraph (3) is not reasonably practicable, the employer shall ensure that the systems of work are such that no worker is in a place where he would be exposed to any risk to his health or safety as a result of the starting up or use of the work equipment.
+(5) The system of work referred to in paragraph (4) may include an audible, visible or other suitable warning device required under Regulation 27, which device shall enable all workers affected, or likely to be affected, to know that use of the work equipment is about to start.
+(6) The employer shall take appropriate measures to ensure that any worker who is in a place where he would be exposed to a risk to his health or safety as a result of the starting or stopping of work equipment has sufficient time and suitable means to avoid that risk.
