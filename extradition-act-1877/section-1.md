@@ -1,0 +1,3 @@
+# Powers of magistrates
+1 All powers vested in, and acts authorized and required to be done by, a Magistrate or any Justice of the Peace in relation to the surrender of fugitive criminals in the United Kingdom under the Extradition Act 2003, are (insofar as the said Act extends to Bermuda) hereby vested in, and may in Bermuda be exercised and done by, any magistrate, in relation to the surrender of fugitive criminals under the said Act.
+[Section 1 changed to insert the words “(insofar as the said Act extends to Bermuda)” under the powers of the Computerization and Revision of Laws Act 1989 s.11(n) on 14 March 2019]
