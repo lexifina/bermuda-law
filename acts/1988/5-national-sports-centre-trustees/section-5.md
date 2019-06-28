@@ -1,0 +1,3 @@
+# Trustees responsible to Minister
+5 (1) The Trustees are responsible to the Minister who may overrule any decision of the Trustees which appears to the Minister not to be in the public interest.
+(2) The Minister may, after consultation with the Trustees, give to the Trustees such general directions as to policy to be followed by the Trustees in the performance of their functions as appear to the Minister to be necessary in the public interest; the directions may include directions to discontinue or to restrict or vary any of their activities and the Trustees shall give effect to such directions.
