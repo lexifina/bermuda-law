@@ -1,0 +1,6 @@
+# Determination of appeals
+41 (1) On an appeal made under section 39, the question for the determination of the tribunal shall be whether, for the reasons adduced by the appellant, the decision was unlawful or not justified by the evidence on which it was based.
+(2) On any such appeal, the tribunal may confirm or reverse the decision which is the subject of the appeal but shall not have power to vary it except that—
+(a) where the decision was to impose or vary any restriction, the tribunal may direct the Authority to impose different restrictions or to vary them in a different way; or
+(b) where the decision was to revoke a licence, the tribunal may direct the Authority to restrict it instead.
+(3) Notice of a tribunal’s determination, together with a statement of its reasons, shall be given to the appellant and to the Authority; and, unless the tribunal otherwise directs, the determination shall come into operation when the notice is given to the appellant and to the Authority.
