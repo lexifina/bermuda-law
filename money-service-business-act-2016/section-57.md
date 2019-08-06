@@ -1,0 +1,5 @@
+## PART 9
+## CERTIFICATE OF COMPLIANCE
+# Certificates of compliance
+57 (1) Every licensed undertaking shall, within four months from the end of its financial year, deliver to the Authority a certificate of compliance, signed by an officer of the undertaking, made up to the end of its financial year, certifying that the undertaking has complied with the minimum criteria and codes of practice.
+(2) A licensed undertaking that fails to deliver a certificate as required by subsection (1) within the time specified therein shall be liable to a civil penalty not exceeding $5,000 for each week or part of a week that the undertaking is in default.
