@@ -1,0 +1,2 @@
+# Dispensing with production of certificate
+84 Where a certificate of registry is required by these Regulations to accompany any application and it is shown to the satisfaction of the Registrar that for any reasonable cause (which includes, but is not limited to, the ship being in a port outside Bermuda, or the certificate being needed for an imminent voyage, at the time the application was made) the certificate cannot be produced, the Registrar may, subject to such conditions as he thinks fit, dispense with its production.

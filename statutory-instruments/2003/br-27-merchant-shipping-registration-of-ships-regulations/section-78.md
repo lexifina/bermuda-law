@@ -1,0 +1,3 @@
+# Dispensing with declarations
+78 (1) Where under these Regulations, any person is required to make a declaration on behalf of himself or any body corporate, but is unable to do so and can satisfy the Registrar that it is due to reasonable cause, the Registrar may on such terms as he thinks fit, dispense with the declaration.
+(2) Where under these Regulations, any evidence is required to be produced to the Registrar, but such evidence cannot be produced and the Registrar is satisfied that it is due to reasonable cause, the Registrar may on production of such other evidence as he considers appropriate, dispense with the evidence.

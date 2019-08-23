@@ -1,0 +1,3 @@
+# Custody of certificate
+82 (1) A certificate of registry shall be used only for the lawful navigation of the ship, and shall not be subject to detention by reason of any title, lien, charge or interest whatever had or claimed by any owner, mortgagee or other person to, on, or in the ship.
+(2) If any person refuses to surrender the certificate of registry when in his possession or under his control to the person entitled to its custody for the purposes of the lawful navigation of the ship, or to the Registrar, proper officer or any other person entitled by law to demand such delivery, he shall be guilty of an offence.
