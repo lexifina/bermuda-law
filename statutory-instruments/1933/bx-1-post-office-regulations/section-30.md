@@ -1,0 +1,2 @@
+# Parcels becoming offensive or injurious; disposal
+30 A parcel becoming offensive or injurious to any officer of the Post Office or other person, or which is found to be dangerous, or any parcel arriving by parcel post found to contain goods of a dangerous or offensive nature, or to be in an offensive condition, may be dealt with or disposed of as the officer in whose possession the parcel may be may determine.

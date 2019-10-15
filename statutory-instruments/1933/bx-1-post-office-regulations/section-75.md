@@ -1,0 +1,2 @@
+# Compulsory registration
+75 If an inland postal packet containing coin, bank notes, currency notes, negotiable instruments payable to bearer, platinum, gold or silver (manufactured or not), precious stones, jewels, or other valuable articles is posted as an ordinary postal packet instead of being tendered for registration, it must be compulsorily registered and charged with a double registration fee, after having been indorsed “Compulsory Registration”.

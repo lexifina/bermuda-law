@@ -1,0 +1,2 @@
+# Insured letters and boxes
+77 Under the Insurance Agreement of the Universal Postal Union letters containing valuables, paper money, securities, etc., or documents of value, as well as boxes containing jewellery or valuables on which a value has been declared, may be sent from Bermuda, insured to the amount of the declared value, to any country or place with which the Post Office of the United Kingdom has come to an agreement to that effect.
