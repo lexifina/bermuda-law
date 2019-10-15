@@ -1,0 +1,2 @@
+# Application of general international conditions to telegrams sent in connection with Money Orders
+103 The general international conditions for deferred telegrams, together with the Regulations of the International Telegraph Convention or any regulations which may in future be substituted therefor, shall apply to the telegrams of advice and other telegrams sent in connection with Money Orders, to the apportionment of the telegraph charges, and to the reimbursement of such charges.

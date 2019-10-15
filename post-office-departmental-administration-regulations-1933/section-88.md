@@ -1,0 +1,2 @@
+# Accounting for Money Orders with United States, Canada and West Indies
+88 In the Money Order service with the United States, Canada, and the West Indies, the paid Money Orders being the basis of settlement of account, a list of all Money Orders issued in the above named countries and paid in Bermuda shall be prepared immediately after the end of each month and forwarded to the head Money Order office of such countries.

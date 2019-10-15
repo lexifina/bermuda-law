@@ -1,0 +1,2 @@
+# Entry of registered packets in delivery receipt book
+54 When a registered parcel packet is received for delivery at any post office, whether from abroad or from another post office in Bermuda, the address of the postal packet must be duly entered in the delivery receipt book, and the officer of the Post Office who makes the entry must take care that the registered packet does not go out of his possession without obtaining a receipt for the same either from another officer of the Post Office or other person to whom it is delivered.

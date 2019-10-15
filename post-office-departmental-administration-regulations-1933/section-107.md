@@ -1,0 +1,3 @@
+# Responsibility for losses involved in transmission
+107 (1) In the case of errors or fictitious telegrams the responsibility for any losses involved, other than the loss of telegraph charges, shall be borne by the administration in whose service the error or fraud was committed.
+(2) In case it may be impossible to determine in which service the error or fraud was committed, or in cases of fraud or error in connection with the transmission of telegrams over the wires of intermediate countries or cable companies, the responsibility for any losses involved, other than the loss of telegram charges, shall be shared equally by the United Kingdom and Bermuda Post Offices.
