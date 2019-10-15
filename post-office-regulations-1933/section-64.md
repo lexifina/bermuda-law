@@ -1,0 +1,2 @@
+# Disposal of undelivered parcels
+64 When a parcel arriving by parcel post is addressed to a person unknown or who cannot be found, or who is dead, or is not claimed or accepted by the person to whom addressed or his authorized agent or is improperly or illegibly addressed or so torn or defaced that it cannot be ascertained for whom it is intended, or for any other reason cannot be delivered, the same shall, within one month after receipt thereof, be returned to the sender or office of origin for disposal.

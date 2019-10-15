@@ -1,0 +1,3 @@
+# Newspapers
+15 (1) Newspapers as defined by section 2 of the Post Office Act shall be subject, so far as regards conditions of transmission by post, to the foregoing regulations regarding printed papers.
+(2) A newspaper supplement consisting in great part of printed paper matter like that of a newspaper or of advertisements, printed on a sheet or sheets or on a piece or pieces of paper unstitched, or wholly or in part of engravings, prints, or lithographs illustrative of articles in the newspaper and bearing the title and date of publication of the newspaper printed at the top of the first page, or if it consists of engravings, prints or lithographs, at the top of every sheet, may be sent by post as a newspaper.

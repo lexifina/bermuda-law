@@ -1,0 +1,2 @@
+# Dispute as to accuracy of tax
+52 If the accuracy of the tax on any postal packet is disputed by the addressee, the officer in charge of the post office to which the postal packet has been sent for delivery must not deliver such postal packet until the sum taxed has been paid even if he himself believes the tax to be inaccurate; but, after testing the weight, he must report the facts to the Postmaster-General, who may, if he is satisfied that the tax was either wholly or partially inaccurate, direct that the amount overcharged be remitted.

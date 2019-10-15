@@ -1,0 +1,2 @@
+# Commission on money orders drawn on Canada or United States
+102 Wherever the local banks charge a premium on bank drafts drawn on Canada or the United States of America the rate of commission on Money Orders drawn on these countries shall be at the per centum rates calculated to the nearest cent on the actual amount of the order in accordance with the bank’s rate of exchange for the time being, with a minimum charge of three cents on every order.

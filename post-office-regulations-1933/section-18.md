@@ -1,0 +1,5 @@
+# Posting of parcels
+18 The following provisions shall apply to the posting of parcels, that is to say—
+(a) it shall be the duty of a person bringing a parcel to hand it to the officer on duty at the post office;
+(b) such parcel must be accompanied by or have affixed to it the declaration referred to in regulation 25;
+(c) such parcel shall be measured and weighed by such officer, and (if such parcel does not exceed the limits of measurement or weight specified in regulations 43 and 44) the postage thereof, according to the rates hereinbefore mentioned, shall, subject as hereinbefore mentioned, be prepaid as hereinafter provided, and shall be verified by such officer, and no parcel shall be forwarded by post without the before mentioned requirements being complied with; and if any such parcel is left at a post office without such requirements being complied with, then such parcel shall be detained, and may be returned or given up to the sender thereof, or otherwise dealt with or disposed of in such manner as may be authorized by the Postmaster-General.

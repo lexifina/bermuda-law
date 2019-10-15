@@ -1,0 +1,13 @@
+# Facts to be ascertained before payment of indemnity for loss of registered postal packet
+96 (1) Before paying any indemnity for the loss of a registered postal packet alleged to have been sent from, or addressed to, a country of the Universal Postal Union and not to have reached its destination, the Postmaster-General is required to ascertain—
+(a) in the case of a registered postal packet alleged to have been sent to Bermuda from another country of the Universal Postal Union—
+(i) that the indemnity is claimed by the Post Office of the country from which the letter is alleged to have been sent;
+(ii) that the postal packet was actually registered and was not a postal packet prohibited to be sent by post when forwarded from a country of the Universal Postal Union, and that the country of origin has accepted the terms of the Universal Postal Union as regards the payment of indemnities for lost registered postal packets;
+(iii) that the address of the lost postal packet was duly entered on a list of registered postal packets received in Bermuda and that the list has been acknowledged as correct; and
+(iv) that the postal packet has not been delivered at the place of its address, and that no delivery receipt for it has been signed by any person considered to be authorized to receive postal packets similarly addressed;
+(b) in the case of a registered postal packet alleged to have been posted in Bermuda addressed to another country of the Universal Postal Union—
+(i) that the postal packet was actually registered and that the sender claiming the indemnity can produce the receipt for it given at the time of registration;
+(ii) that it was not a postal packet prohibited by the regulations of the Postal Union, and that the country to which it was addressed has accepted the terms of the Universal Postal Union;
+(iii) that it was not entered on a list of registered postal packets forwarded from Bermuda to another country, or if it were entered on such a list, that the list has not been accepted as correct as regards the missing postal packet by the country to which the list was sent;
+(iv) that the Post Office of the country to which the postal packet was addressed, has made thorough enquiry of the addressee, in order to ascertain that the postal packet has not been delivered as addressed.
+(2) If it is proved to his satisfaction that a letter or packet duly admitted to registration has been entirely lost whilst in his custody, the Postmaster-General undertakes, subject to the conditions set out in subparagraph (b) of the foregoing paragraph, to pay to the sender the sum of fifteen dollars and seventy-six cents.

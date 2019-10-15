@@ -1,0 +1,2 @@
+# Re-direction of postal packets which have been opened
+57 Any re-directed closed postal packet which appears to have been opened before being re-directed, and any packet which purports to be redirected, but which appears to have been treated in a manner designed to evade the payment of any postage chargeable thereon, shall be dealt with and charged as an unpaid packet of the same description or otherwise dealt with as may be authorized by the Postmaster-General.

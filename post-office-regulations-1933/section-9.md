@@ -1,0 +1,4 @@
+# Printed papers
+9 The following articles shall be allowed to pass at the reduced postage applicable to printed papers, that is to say—
+(a) books, stitched or bound, pamphlets, sheets of music, visiting cards, address cards, proofs of printing with or without the manuscripts relating thereto, engravings, photographs and albums containing photographs, pictures, drawings, plans, maps, catalogues, prospectuses, announcements, and notices of various kinds, printed, engraved, lithographed or autographed, and in general all impressions or copies obtained upon paper, parchment or cardboard, by means of printing, engraving, lithography, photography, or any other mechanical process easy to recognize, except the copying press and the typewriter; and
+(b) reproductions of a manuscript or typewritten original when obtained by a mechanical process or polygraphy.

@@ -1,0 +1,2 @@
+# Re-direction and evasion of postage
+56 In any case where an officer of the Post Office has reasonable cause to believe that a postal packet, purporting to be re-directed, has been posted as a re-directed packet with a view to evading the payment of any postage chargeable on such packet, he may, before the delivery of such packet, require the addressee (who shall furnish proof of identity to the satisfaction of such officer) to sign a receipt for the same.
