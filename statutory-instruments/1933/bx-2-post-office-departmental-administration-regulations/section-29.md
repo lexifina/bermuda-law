@@ -1,0 +1,2 @@
+# Provisions relating to taxing of packets
+29 An inland postal packet, liable to postage, which is unpaid or insufficiently prepaid, and which has been forwarded untaxed from the post office where it was posted, must be taxed at the first post office where it is noticed, whether that post office is an intermediate post office or the post office of destination; and the same rule shall be observed in the case of unpaid or insufficiently prepaid postal packets received from abroad, which have escaped taxation at the post office where the mail was made up or sorted.

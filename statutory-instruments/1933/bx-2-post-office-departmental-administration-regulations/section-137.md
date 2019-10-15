@@ -1,0 +1,2 @@
+# Applications for supplies of postage stamps, etc.
+137 Every Postmaster or Sub-Postmaster shall apply to the Postmaster General at the end of each week for a fresh supply of postage stamps, etc., to the full amount sold, at the same time forwarding the equivalent in cash enclosed in a registered packet; and the same course must be pursued whenever half the credit stock of postage stamps, etc., has been sold.

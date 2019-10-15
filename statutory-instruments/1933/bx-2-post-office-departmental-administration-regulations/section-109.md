@@ -1,0 +1,2 @@
+# Cash advances to Money Order offices
+109 Out of the credit balance authorized by the last foregoing regulation, the Postmaster-General is authorized to make an advance of forty-eight dollars to each Money Order office, which sum is to be held as a permanent credit on Money Order account in the respective offices, any payments made from the amount being refunded from monies received for orders issued in those offices.

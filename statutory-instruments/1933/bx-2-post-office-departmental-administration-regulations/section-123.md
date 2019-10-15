@@ -1,0 +1,2 @@
+# Audit of postage stamps
+123 The Postmaster-General shall also produce all the postage stamps on hand and all cash on hand derived from the sale of postage stamps; these, with the receipts for stamps issued to other post offices in Bermuda, should represent a total sum of three hundred and sixty-thousand dollars, the full amount of the credit stock of postage stamps, etc., allowed to be held by the Postmaster-General.

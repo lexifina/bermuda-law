@@ -1,0 +1,2 @@
+# Receipts for registered packets
+55 No registered postal packet shall be sent out for delivery by a letter carrier without a receipt being sent with it, and the letter carrier must sign the counterfoil or duplicate in the delivery receipt book at the time of receiving the registered postal packet, to show that the postal packet has been given into his charge and that he is responsible for its delivery to the addressee.

@@ -1,0 +1,4 @@
+## Payment of Indemnities for Loss of a Registered Postal Parcel
+# Enquiries, etc., prior to payment for indemnity for loss of registered packet
+61 (1) Before paying any indemnity for the loss of a registered inland postal packet the Postmaster-General shall make careful enquiry of the sender and addressee of the postal packet, and of every person through whose hands the postal packet would have passed in the course of transmission to ascertain that the postal packet was actually registered and has not been delivered to the addressee, that all the Post Office Regulations affecting inland registration were complied with, and that the sender can produce the receipt given at the time of registration.
+(2) Unless the foregoing conditions are fulfilled the Postmaster- General may refuse to pay any indemnity under section 43 or section 45 of the Post Office Act without the special authority of the Minister.
