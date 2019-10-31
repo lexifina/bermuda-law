@@ -1,0 +1,5 @@
+# Requirement to provide adequate waste reception facilities
+4 (1) Every harbour authority and terminal operator shall provide waste reception facilities adequate to meet the needs of ships normally using the harbour or terminal in question without causing undue delay to ships.
+(2) In paragraph (1) “adequate” means capable of receiving the types and quantities of prescribed wastes from ships normally using that harbour or terminal, taking into account the operational needs of the users of the harbour or terminal, its size and geographical location, the types of ships calling there and any exemptions provided for under Regulation 15.
+(3) A harbour authority or terminal operator may, in discharging their duty under paragraph (1), join with any other person in providing the waste reception facilities, and references in these Regulations to the provision of such facilities by a harbour authority or terminal operator shall be construed accordingly; and any such power shall also include power to arrange for the provision of such reception facilities by any other person.
+(4) This Regulation is subject to Regulation 15(1).
