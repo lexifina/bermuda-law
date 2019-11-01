@@ -1,0 +1,4 @@
+# Restriction on newspaper reports
+14 Subject as hereinafter provided, no newspaper report of any proceedings in a Family Court shall reveal the name, address or school, or include any particulars likely to lead to the identification any child concerned in the proceedings, either as being the person against or in respect of whom the proceedings are taken or as being a witness therein, nor shall any picture be published in any newspaper being or including a picture of any child so concerned in any such proceedings as aforesaid:
+Provided that the court or the Governor acting in his discretion may in any case, if satisfied that it is in the interests of justice to do so, by order dispense with the requirements of this section to such extent as may be specified in the order.
+[Section 14 amended by 1998:38 effective 1 January 2000]
