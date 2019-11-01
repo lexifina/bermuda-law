@@ -1,0 +1,2 @@
+# Lawful custody
+66 Any person who has been sentenced to undergo corrective training or who has otherwise been ordered to be committed to and detained in a senior training school shall be deemed to be in lawful custody while he is confined in, or being taken to or from any senior training school and while he is working, or is for any other reason, outside the senior training school in the custody or under the control of some other person.

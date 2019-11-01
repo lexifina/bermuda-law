@@ -1,0 +1,6 @@
+# Senior training school rules
+55 (1) The Governor acting after consultation with the Minister may make rules for the regulation and management of a senior training school and for the classification, treatment, employment, payment, discipline and control of inmates of such school; and rules made as aforesaid are hereinafter in this Act referred to as “senior training school rules”.
+(2) Senior training school rules may provide for the division of the inmates of a senior training school into groups or houses.
+(3) Senior training school rules shall, in the interests of good conduct and training, provide for the establishment of such system or systems of privileges to be enjoyed by inmates of senior training schools undergoing corrective training as may be appropriate for different classes of such inmates; and any such system shall, as respects such inmates of a senior training school, include arrangements under which such inmates may, if of good conduct, progressively advance, as respects the privileges enjoyed by them, by way of grades during their detention in senior training school.
+(4) [repealed by 1982:47]
+(5) The negative resolution procedure shall apply to rules made under this section.

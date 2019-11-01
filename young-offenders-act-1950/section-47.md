@@ -1,0 +1,11 @@
+# Conviction while undergoing corrective training
+47 (1) Where a young person who is undergoing corrective training is convicted before the Supreme Court of an offence punishable with imprisonment, or, having been convicted by a court of summary jurisdiction of such an offence, is committed to the Supreme Court for sentence under section 43 of the Criminal Jurisdiction and Procedure Act 2015—
+(a) if he is sentenced for that offence to undergo corrective training, his original sentence of corrective training shall cease to have effect;
+(b) if he is sentenced for that offence to imprisonment for a term of two years or more, his sentence of corrective training shall cease to have effect;
+(c) if he is sentenced for that offence to imprisonment for a term of less than two years, then—
+(i) if the term of imprisonment to which he is sentenced is equal to or more than the remainder of the maximum period for which he is liable to undergo corrective training, then the sentence of corrective training shall cease to have effect;
+(ii) if the term of imprisonment to which he is sentenced is less than the remainder of such maximum period, the sentence of imprisonment shall not be carried into effect.
+(2) Where a young person who is undergoing corrective training is convicted before the Supreme Court, during the course of a particular criminal session of the Supreme Court, of two or more offences punishable with imprisonment and the Supreme Court in respect of one or more of the offences sentences the young person to undergo corrective training, and in respect of any other one or more of the offences sentences the young person to imprisonment—
+(a) if the term of imprisonment (apart from any remission) which the young person is required to serve by reason of the sentence or sentences of imprisonment amounts to two years or more, the sentence or sentences of corrective training then imposed shall not be carried into effect and the original sentence of corrective training shall cease to have effect;
+(b) if such term of imprisonment amounts to less than two years the sentence or sentences of imprisonment shall not be carried into effect and the sentence or sentences of corrective training then imposed shall have effect in lieu of the original sentence of corrective training.
+[Section 47 amended by 2015 : 38 s. 91 effective 6 November 2015]

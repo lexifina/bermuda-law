@@ -1,0 +1,4 @@
+# Sentences of corrective training where convicted while serving term of imprisonment
+46 Where a young person who is serving a term of imprisonment is convicted of an offence punishable with imprisonment, then, in relation to a sentence of corrective training, the following provisions shall have effect, that is to say—
+(a) if at the date of the conviction the remainder of the term of imprisonment (apart from any remission) amounts to one year or more the court shall not sentence him to undergo corrective training;
+(b) if at the date of the conviction the remainder of the term of imprisonment (apart from any remission) amounts to less than one year and the court sentences the young person to undergo corrective training, then the sentence or sentences of imprisonment shall cease to have effect.

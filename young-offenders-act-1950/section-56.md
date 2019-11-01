@@ -1,0 +1,7 @@
+# Functions of Treatment of Offenders Board
+56 (1) The Board, subject to the Treatment of Offenders Board Act 1979 [title 10 item 31] 1950, shall, as respects a senior training school and persons detained therein, have the powers and discharge the duties conferred or imposed upon them by or under this Act.
+(2) Without prejudice to anything in the succeeding provisions of this Act, senior training school rules shall prescribe the functions of the Board, and shall among other things require the Board to pay visits to the senior training schools and to hear and deal with complaints which may be made by persons detained therein; and such rules shall also require the Board to report to the Governor and to the Minister any matter which they think it expedient to report; and any member of the Board may at any time enter a senior training school and shall have free access to every part thereof and to every person detained therein.
+(3) Senior training school rules shall require the Parole Board to consider periodically the character, conduct and prospects of each person detained in a senior training school who is undergoing corrective training, and to consider his release under supervision, or, as the case may be, on licence.
+[Section 56 subsection (3) amended by 2001:2 s.13 & Sch 2 effective 1 October 2001]
+57 [Section 57 repealed by 1982:47 effective 3 May 1983]
+58 [Section 58 repealed by 1982:47 effective 3 May 1983]
