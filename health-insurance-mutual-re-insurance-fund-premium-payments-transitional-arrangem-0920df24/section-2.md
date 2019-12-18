@@ -1,0 +1,4 @@
+# Transitional arrangements for Mutual Re-insurance Fund premium payments
+2 (1) In respect of each of the first twelve months (June 2019 to May 2020) from the commencement of the Health Insurance Amendment Act 2019, payments of the Mutual Re-insurance Fund premium that must be made into the Mutual Re-insurance Fund under section 3A(1A) of the Health Insurance Act 1970 shall be made by every licensed insurer and every employer who operates an approved scheme no later than 60 days after the start of the week or month (as the case may be) covered by the payment.
+(2) Accordingly, in respect of payments of the Mutual Re-insurance Fund premium for the months of June 2019 to May 2020, in section 3A(1A) of the Health Insurance Act 1970, “30 days” shall be construed as “60 days”.
+[Regulation 2 paragraphs (1) and (2) amended by BR 120 / 2019 reg. 2 effective 30 November 2019]
