@@ -1,0 +1,4 @@
+# Transitional
+68 (1) A person who, on the commencement of this Act is carrying on corporate service provider business may continue to carry on corporate service provider business without a licence under this Act during the period of two years beginning from the date of commencement of this Act or such longer period as the Minister may appoint by notice published in the Gazette.
+(2) Where within the period specified in subsection (1) the person referred to in subsection (1) makes an application for a licence, he may continue to carry on corporate service provider business without a licence until that application is finally disposed of or withdrawn, and if the application is refused and an appeal is brought against the refusal, until it has been determined or withdrawn.
+[Section 68 amended by 2014 : 3 s. 4 effective 31 December 2013]
