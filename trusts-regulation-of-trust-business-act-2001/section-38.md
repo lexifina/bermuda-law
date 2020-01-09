@@ -1,0 +1,3 @@
+# Right of entry to obtain information and documents
+38 (1) Any officer, servant or agent of the Authority may, on producing if required evidence of his authority, enter any premises occupied by a person on whom a notice has been served under sections 36(1) and 37(1) for the purpose of obtaining there the information or documents required by that notice and of exercising the powers conferred by section 37(3).
+(2) Any person who intentionally obstructs a person exercising rights conferred by this section shall be guilty of an offence and liable on summary conviction to a fine of $10,000 or to imprisonment for six months or to both.
