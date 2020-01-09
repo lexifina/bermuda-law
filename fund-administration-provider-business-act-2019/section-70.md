@@ -1,0 +1,4 @@
+# Transitional
+70 (1) This section applies to an undertaking which on the commencement of this Act is a licensed undertaking carrying on fund administration provider business by virtue of a licence issued by the Authority under an enactment repealed under Schedule 2.
+(2) On the commencement of this Act the Authority shall issue to an undertaking to which this section applies, a fund administration provider business licence, and thereupon the provisions of this Act shall apply to the licensed undertaking as if such licence were issued pursuant to an application made under section 10.
+(3) An undertaking shall not be liable to pay the fee prescribed by virtue of section 12(1)(a) on the issue of its licence under subsection (2), but shall be liable to pay the fee prescribed thereby on or before 31 March and annually thereafter, and the provisions of section 12(2) shall apply in relation to failure to pay such fee.
