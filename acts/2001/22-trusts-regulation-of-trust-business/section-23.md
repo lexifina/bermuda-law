@@ -1,0 +1,3 @@
+# Transfer of trusts to new trustees
+23 (1) Notwithstanding anything to the contrary in any declaration of trust, where the Authority is satisfied that in the interests of clients of a licensed undertaking it is necessary for all or any of the trusts managed by the undertaking to be transferred to a new trustee for administration by such trustee, the Authority may petition the court for that purpose.
+(2) In any such case, the court, after hearing representations from the Authority or any other person appearing to the court to be affected, may order the transfer of any such trust to a new trustee, and in that connection may make such supplemental or incidental orders or give such directions, as the court thinks fit.
