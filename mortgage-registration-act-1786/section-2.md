@@ -1,0 +1,3 @@
+# Registrar-General or Land Title Registrar to record memorandum
+2 The Registrar-General or, as the case may be, the Land Title Registrar shall record and register any memorandum of the substance of a mortgage duly deposited in his office in accordance with section 1 in the manner provided by, and subject to the provisions of, the Registrar-General (Recording of Documents) Act 1955 or the Land Title Registrar (Recording of Documents) Act 2017 respectively.
+[Section 2 heading and section amended by 2017 : 9 s. 11 effective 20 February 2017; Section 2 heading and section amended by 2020 : 1 s. 2 effective 20 February 2017]
