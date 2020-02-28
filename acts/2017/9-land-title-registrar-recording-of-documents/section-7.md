@@ -1,0 +1,5 @@
+# Change in ownership of freehold estate not by way of mortgage to be registered
+7 (1) Any person who becomes entitled to a freehold estate (except by way of mortgage) in any land in Bermuda shall, within three months after becoming so entitled, give written notice thereof to the Land Title Registrar.
+(2) A notice under subsection (1) shall be given in duplicate in the form in Schedule 2, and shall be accompanied by a certified copy of the deed of conveyance sufficient to indicate if stamp duty has been paid thereon.
+(3) The Land Title Registrar shall, on receipt of a notice given under subsection (1) and upon payment of such fee, if any, as may be prescribed under the Government Fees Act 1965, register the name of the person entitled and such other particulars as may be appropriate in the parish assessment books (which were transferred to the custody of the Registrar-General in pursuance of the First Schedule to the Parish Councils Act 1971).
+(4) Any person who fails to give the notice required of him by subsection (1) within the requisite time shall be liable on summary conviction to a fine not exceeding $200.
