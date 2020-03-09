@@ -1,0 +1,4 @@
+# Offences committed by partnerships or incorporated firms
+36 (1) Proceedings for an offence under this Act alleged to have been committed by a partnership or an incorporated firm shall be brought in the name of the partnership or incorporated firm and not in that of the partners or members of the firm; but without prejudice to any liability of the partners or members of the firm under subsection (3).
+(2) A fine imposed on a partnership or an incorporated firm on its conviction in such proceedings shall be paid out of the partnership’s or incorporated firm’s assets.
+(3) Where a partnership or an incorporated firm is guilty of an offence under this Act, every partner or member, who knowingly committed the offence or permitted or authorized the committal of the offence, shall also be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
