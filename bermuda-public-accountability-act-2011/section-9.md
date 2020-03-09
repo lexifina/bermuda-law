@@ -1,0 +1,5 @@
+# Immunity from suit
+9 (1) No action, suit, prosecution or other proceeding shall be brought or instituted personally against an officer, servant or agent of the BPAB, or any member of the Board, or the Minister, in respect of any act done bona fide in pursuance or execution or intended execution of their functions under this Act or any other Act and regulations made thereunder.
+(2) Where any member of the Board is exempt from liability by reason only of subsection (1), the BPAB shall be liable to the extent that it would be if that member were a servant or agent of the BPAB.
+(3) Neither the BPAB nor any person who is, or is acting as, the Secretary to the Board or an officer, servant or agent of the BPAB, or a member of the Board, or the Minister, is liable in damages for anything done or omitted to be done in the discharge or purported discharge of the BPAB’s functions under this Act or any other Act and Regulations made thereunder, unless it is shown that the person acted, or omitted to act, in bad faith.
+[Section 9 effective 11 July 2012 by BR 51 / 2012 para. 2]
