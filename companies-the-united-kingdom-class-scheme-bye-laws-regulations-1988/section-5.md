@@ -1,0 +1,2 @@
+# Exchanges and markets
+5 The exchanges and markets specified for the purpose of the definition of “approved market” and “approved options and futures market” in Part I of these Regulations and the countries and territories specified in the definition of “Government and other public securities” in Part I of these Regulations shall be those specified in the Schedules to these Regulations as amended from time to time by the Minister.
