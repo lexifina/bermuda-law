@@ -1,0 +1,4 @@
+BERMUDA
+FOREIGN CURRENCY PURCHASE TAX ACT 1975
+[formerly the Overseas Investment Tax Act 1975]
+1975 : 32
