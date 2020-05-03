@@ -1,0 +1,2 @@
+# Insurers to make statutory financial return in accordance with these Regulations
+3 Except as otherwise allowed by a direction made under section 56 of the Act affecting any insurer, the form of statutory financial return that every insurer is to send to the Authority pursuant to section 18(1) of the Act is the form that is prescribed in these Regulations; and, except as aforesaid, it shall be the duty of every insurer to send to the Authority pursuant to section 18(1) of the Act a return in that form.
