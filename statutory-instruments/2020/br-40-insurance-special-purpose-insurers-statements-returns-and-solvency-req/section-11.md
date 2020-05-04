@@ -1,0 +1,6 @@
+# Annual Statutory Declaration
+11 (1) The Annual Statutory Declaration shall state—
+(a) whether the information in the Statutory Financial Statements, including any supporting attachments, fairly represents the financial condition and position of the Special Purpose Insurer in all material respects and are in compliance with the Act, any applicable Rules and Regulations, the Insurance Code of Conduct, and any direction, condition or restriction imposed on the Special Purpose Insurer by the Authority;
+(b) whether the Special Purpose Insurer has sufficient resources as at the date of the Statutory Financial Statements to enable the Insurer to continue as a going concern, and to satisfy its obligations as and when they fall due for a period of twelve months past the date of the relevant Statutory Financial Statements; and
+(c) if any statement in clause (a) or (b) has been confirmed in the negative, whether the Special Purpose Insurer has taken corrective action in any case and, where the Insurer has taken such action, a description of the action in a statement attached to the Declaration.
+(2) The Annual Statutory Declaration shall be signed by at least two directors of the Special Purpose Insurer, and by the Insurer’s principal representative in Bermuda.
