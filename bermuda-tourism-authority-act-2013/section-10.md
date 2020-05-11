@@ -1,0 +1,3 @@
+# Immunity from suit
+10 (1) No action, suit, prosecution or other proceeding shall be brought or instituted personally against an officer, employee or agent of the Authority, or any member of the Board, or the Minister, in respect of any act done bona fide in pursuance or execution or intended execution of their functions under this Act or any other Act and regulations made thereunder.
+(2) Where any member of the Board is exempt from liability by reason only of subsection (1), the Authority shall be liable to the extent that it would be if that member were an employee or agent of the Authority.
