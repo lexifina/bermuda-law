@@ -1,0 +1,3 @@
+# Declaration of interest by job-seeker
+8 (1) Any person who seeks employment as an officer or employee of the Authority who has, directly or indirectly, by himself or with his business or other partner, entered into any contract with, for or on behalf of the Authority, shall make a declaration of such contract in such manner as the Board may determine in its rules.
+(2) Any officer or employee of the Authority who has entered into or acquires any such contract and did not make a declaration in terms of subsection (1), or who subsequently enters into or acquires any such contract as provided for in subsection (1) but fails to disclose the contract entered into, shall be liable, in the discretion of the Board, to summary dismissal without notice.
