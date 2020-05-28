@@ -1,0 +1,15 @@
+# Objection to new or increased control
+39 (1) The Authority may serve a notice of objection under this section on a person who has given notice under section 38 unless it is satisfied—
+(a) that the person concerned is a fit and proper person to become a controller of the description in question of the authorised undertaking;
+(b) that the interests of digital asset acquirers and potential digital asset acquirers of the authorised undertaking would not be in any manner threatened by that person becoming a controller of that description of the authorised undertaking; and
+(c) without prejudice to paragraphs (a) and (b), that, having regard to that person’s likely influence on the authorised undertaking as a controller of the description in question, the criteria in Schedule 1 would continue to be fulfilled in the case of the authorised undertaking or, if any of those criteria is not fulfilled, that that person is likely to undertake adequate remedial action.
+(2) Before serving a notice of objection under this section, the Authority shall serve the person concerned with a preliminary written notice stating that the Authority is considering service on that person of a notice of objection and that notice—
+(a) shall specify which of the matters mentioned in subsection (1) the Authority is not satisfied with and, subject to subsection (5), the reasons for which it is not satisfied; and
+(b) shall give particulars of the rights conferred by subsection (3).
+(3) A person served with a notice under subsection (2) may, within a period of 28 days beginning with the day on which the notice is served, make written representations to the Authority; and where such representations are made the Authority shall take them into account in deciding whether to serve a notice of objection.
+(4) A notice of objection under this section shall—
+(a) specify which of the matters mentioned in subsection (1) the Authority is not satisfied with and, subject to subsection (5), the reasons for which it is not satisfied; and
+(b) give particulars of the rights conferred by section 52.
+(5) Subsections (2)(a) and (4)(a) shall not require the Authority to specify any reason which would in its opinion involve the disclosure of confidential information the disclosure of which would be prejudicial to a third party.
+(6) Where a person required to give a notice under section 38 in relation to becoming a controller of any description becomes a controller of that description without having given the notice, the Authority may serve him with a notice of objection under this section at any time within three months after becoming aware of his having done so and may, for the purpose of deciding whether to serve him with such a notice, require him by notice in writing to provide such information or documents as the Authority may reasonably require.
+(7) The period mentioned in section 38(1)(b) (with any extension under subsection (4) of that section) and the period mentioned in subsection (6) shall not expire, if they would otherwise do so, until 14 days after the end of the period within which representations can be made under subsection (3).
