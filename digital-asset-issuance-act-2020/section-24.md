@@ -1,0 +1,21 @@
+# Civil liability for misstatements in issuance document
+24 (1) Where an issuance document invites persons to purchase digital assets of an authorised undertaking, the following persons shall be liable to pay compensation to any person who proves that he purchased any digital assets in reliance to his detriment on the issuance document for the loss or damage he sustained by reason of any untrue statement included therein which is relevant to the offering via the digital asset issuance that is to say—
+(a) every person who is an officer of the undertaking at the time of the publication of the issuance document;
+(b) every person who has consented to be named and is named in the issuance document as an officer or as having agreed to become an officer either immediately or after an interval of time; and
+(c) a promoter of the offer via the digital asset issuance.
+(2) No person shall be liable under subsection (1) if he proves—
+(a) that, having consented to become an officer of the undertaking, he withdrew his consent before the issue of the issuance document, and that it was issued without his authority or consent;
+(b) that the issuance document was issued without his knowledge or consent, and that on becoming aware of its issue he forthwith gave reasonable public notice that it was issued without his knowledge or consent;
+(c) that, after the issue of the issuance document and before any offering of digital assets offered via the issuance document, he, on becoming aware of an untrue statement therein, withdrew his consent thereto and gave reasonable public notice of the withdrawal and of the reason therefor; or
+(d) that as regards—
+(i) every untrue statement not purporting to be made on the authority of an expert or of a public official document or statement, he had reasonable grounds to believe, and did believe up to the time of the offering of the digital assets via the issuance document, that the statement was true;
+(ii) every untrue statement purporting to be a statement made by an expert or contained in what purports to be a copy of or extract from a report or valuation of an expert, it—
+(A) fairly represented the statement, or was a correct and fair copy of or extract from the report or valuation; and
+(B) he had reasonable grounds to believe and did up to the time of the issue of the issuance document believe that the person making the statement was competent to make it and had not withdrawn or altered it; and
+(iii) every untrue statement purporting to be a statement made by an official person or contained in what purports to be a copy of or extract from a public official document, it was a correct and fair representation of the statement or copy of or extract from the document.
+(3) Where the issuance document contains—
+(a) the name of a person as an officer of the undertaking or as having agreed to become an officer of the undertaking thereof, and he has not consented to become an officer, or has withdrawn his consent before the publication of the issuance document, and has not authorised or consented to the issue thereof; or
+(b) a statement by an expert or containing what purports to be a copy of or extract from a report or valuation of an expert, which the expert has withdrawn or altered,
+the officers of the undertaking, except any without whose knowledge or consent the issuance document was issued, and any other person who authorised the issue thereof, shall be liable to indemnify the person named as aforesaid or whose consent was required as aforesaid, as the case may be, against the matters set forth in subsection (4).
+(4) With respect to subsection (3), the officers of the undertaking referred to in that subsection shall indemnify any such person referred to in that subsection against all damages, costs and expenses to which he may be made liable by reason of his name having been inserted in the issuance document or of the inclusion therein of a statement purporting to be made by him as an expert or, as the case may be, in defending himself against any action or legal proceeding brought against him in respect thereof.
+(5) Notwithstanding subsection (2)(d), a person shall not be deemed for the purposes of that subsection to have authorised the issue of an issuance document by reason only of the inclusion therein of a statement purporting to be made by him as an expert.

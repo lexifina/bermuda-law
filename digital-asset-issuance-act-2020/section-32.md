@@ -1,0 +1,3 @@
+# Winding up on petition from the Authority
+32 (1) On a petition presented by the Authority by virtue of this section, the Court may wind up an authorised undertaking which is a company, a limited liability company or a partnership in respect of which an authorisation is revoked, if the Court is of the opinion that it is just and equitable that the undertaking be wound up.
+(2) Part XIII (Winding Up) of the Companies Act 1981, Part 13 (Dissolution) of the Limited Liability Company Act 2016 or section 35 of the Partnership Act 1902 (as the case may be) shall apply to the winding up of an authorised undertaking under this section.
