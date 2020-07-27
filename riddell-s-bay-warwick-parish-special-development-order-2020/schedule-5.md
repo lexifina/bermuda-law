@@ -1,0 +1,3 @@
+## SCHEDULE 5
+(paragraph 2(1))
+## WEST DEVELOPMENT PLAN
