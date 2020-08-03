@@ -1,0 +1,5 @@
+# Allowance to children
+15 Where a member or officer dies—
+(a) after he has been granted a pension; or
+(b) before becoming entitled to a pension,
+in addition to any pension payable under section 14, ten per centum of any pension he was receiving or might have received on his death shall be paid to each child of the member or officer concerned, up to a maximum of four children, who has not attained the age of eighteen years or twenty-five years in the case of a child who is attending on a full-time basis an educational institution recognized as such by the Minister of Finance, and who annually submits evidence of such attendance in a form satisfactory to the Minister and until he attains that age, provided that if the member or officer leaves no widow or widower, as the case may be, surviving, or his widow or widower dies, fifty per centum of the pension he would be entitled to shall be paid in respect of the said children in substitution for the ten per centum in respect of each child.

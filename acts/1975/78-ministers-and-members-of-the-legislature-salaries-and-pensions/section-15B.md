@@ -1,0 +1,2 @@
+# Reinstatement after refund
+15B A person who has received a refund under section 15A(4) and who within the period of five years from the date he ceased to be a member again becomes eligible to contribute under this Act may within the period of two years after becoming so eligible pay into the Fund the amount of the refund together with compound interest thereon at the rate of six per centum per annum and he shall thereupon be entitled to be credited with the service for the amount so paid.
