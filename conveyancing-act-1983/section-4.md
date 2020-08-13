@@ -1,0 +1,7 @@
+# Lands lie in grant only, technicalities abolished and certain covenants not implied
+4 (1) A conveyance of land to any person without words of limitation, or any equivalent expression, shall pass to the grantee the fee simple or other the whole interest which the grantor had power to convey in such land, unless a contrary intention appears in the conveyance.
+(2) A conveyance of freehold land to a corporation sole by his corporate designation without the word “successors” shall pass to the corporation the fee simple or other the whole interest which the grantor had power to convey in such land, unless a contrary intention appears in the conveyance.
+(3) In a voluntary conveyance a resulting trust for the grantor shall not be implied merely by reason that the property is not expressed to be conveyed for the use or benefit of the grantee.
+(4) An exchange or other conveyance of land shall not imply any condition or covenant in law other than those provided in this Act.
+(5) All lands and all interests therein lie in grant and are incapable of being conveyed by livery or livery and seisin, or by feoffment, or by bargain and sale; and a conveyance of an interest in land may operate to pass the possession or right to possession thereof, without actual entry, but subject to all prior rights thereto.
+(6) The use of the word “grant” or the words “grant and release” shall not be necessary to convey land or to create any interest therein.

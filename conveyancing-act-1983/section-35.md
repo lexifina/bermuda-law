@@ -1,0 +1,14 @@
+# Appointment, powers and remuneration of receiver
+35 (1) A mortgagee entitled to appoint a receiver shall not appoint a receiver until he has become entitled to exercise a power of sale but may then, by writing under his hand, appoint such person as he thinks fit to be receiver.
+(2) The receiver shall be deemed to be the agent of the mortgagor; and the mortgagor shall be solely responsible for the receiver’s acts or defaults, unless the mortgage deed otherwise provides.
+(3) The receiver shall have power to demand and recover all the income of the property of which he is appointed receiver, by action, distress or otherwise, in the name either of the mortgagor or of the mortgagee, to the full extent of the estate or interest which the mortgagor could dispose of, and to give effectual receipts accordingly, for the same.
+(4) A person paying money to the receiver shall not be concerned to inquire whether any case has happened to authorize the receiver to act.
+(5) The receiver may be removed, and a new receiver may be appointed, from time to time by the mortgagee by writing under his hand.
+(6) The receiver shall be entitled to retain out of any money received by him, for his remuneration, and in satisfaction of all costs, charges, and expenses incurred by him as receiver, a commission at such rate of interest, not exceeding the statutory rate on the gross amount of all money received, as is specified in his appointment, and if no rate of interest is so specified, then at the statutory rate on that gross amount, or at such higher rate as the Court thinks fit to allow, on application made to it for that purpose.
+(7) The receiver shall, if so directed in writing by the mortgagee, insure and keep insured against loss or damage, out of the money received by him, any building, effects, or property comprised in the mortgage, whether affixed to the freehold or not, being of an insurable nature.
+(8) The receiver shall apply all money received by him as follows—
+(i) in discharge of all rents, taxes and outgoings whatever affecting the mortgaged property;
+(ii) in keeping down all annual sums or other payments, and the interest on all principal sums, having priority to the mortgage in right whereof he is receiver;
+(iii) in payment of his commission, and of the premiums on fire, life, or other insurances, if any, properly payable under the mortgage deed or under this Act, and the cost of executing necessary or proper repairs directed in writing by the mortgagee; and
+(iv) in payment of any sum falling to be paid in accordance with the terms of the mortgage deed,
+and shall pay the residue of the money received by him to the person who, but for the possession of the receiver, would have been entitled to receive the income of the mortgaged property, or who is otherwise entitled to that property.

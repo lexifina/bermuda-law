@@ -1,0 +1,4 @@
+# Effect of covenant with two or more jointly
+25 (1) A covenant, and a contract under seal, and a bond or obligation under seal, made with two or more jointly, to pay money or to make a conveyance, or to do any other act, to them or for their benefit, shall be deemed to include, and shall, by virtue of this Act, imply, an obligation to do the act to, or for the benefit of, the survivor or survivors of them, and to, or for the benefit of, any other person to whom the right to sue on the covenant, contract, bond, or obligation devolves, and where made after 2 January 1984 shall be construed as being also made with each of them.
+(2) This section extends to a covenant implied by virtue of this Act.
+(3) This section applies only if and as far as a contrary intention is not expressed in the covenant, contract, bond, or obligation, and has effect subject to the covenant, contract, bond, or obligation, and to the provisions therein contained.

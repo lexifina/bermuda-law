@@ -1,0 +1,4 @@
+# Confirmation of past transactions
+10 (1) A deed containing a declaration by the owner of the legal estate that his estate shall go and devolve in such a manner as may be requisite for confirming any interests intended to affect his estate and capable of subsisting at law, which at some prior date were expressed to have been transferred or created, and any dealings therewith which would have been legal if those interests had been legally and validly transferred or created, shall, to the extent of the estate of such owner, operate to give legal effect to the interests so expressed to have been transferred or created and to the subsequent dealings aforesaid.
+(2) The powers conferred by this section may be exercised by a trustee for sale or estate representative as well as by an absolute owner.
+(3) This section applies only to deeds containing such a declaration as aforesaid if executed after 2 January 1984
