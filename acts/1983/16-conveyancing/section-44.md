@@ -1,0 +1,4 @@
+# Validity of conveyance by husband to his wife
+44 For the avoidance of doubt it is hereby declared that—
+(a) a husband may and shall always be deemed to have been enabled to convey land in Bermuda to his wife without the intervention of a trustee or a grantee to uses; and
+(b) every deed or conveyance of land in Bermuda heretofore executed by any married woman, either alone or in conjunction with her husband for any valuable consideration, is as effectual for the assuring or conveying of such land to the grantee named in such deed or conveyance as if such woman had been a feme sole at the time of such execution, and whether such deed or conveyance was or was not recorded, registered or acknowledged in accordance with any Act for the time being in force in Bermuda, relating to deeds or conveyances executed by any married woman for valuable consideration.

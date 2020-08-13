@@ -1,0 +1,4 @@
+# Stipulation restricting right of a party to employ own attorney to be void
+45 (1) Any stipulation made on the sale, mortgage, lease or rental of any land which in any way restricts the right of any party to be advised or represented by an attorney appointed by him shall be void.
+(2) Any stipulation made on the sale, mortgage, lease or rental of any land which in any way restricts the right of the purchaser, mortgagee, lessor or landlord, as the case may be, to have a conveyance, mortgage, lease or rental agreement drawn by an attorney appointed by him shall be void.
+(3) Nothing in this section shall affect the right of one party to a transaction mentioned in this section to furnish a form, of conveyance, mortgage, lease or rental agreement from which a draft can be prepared to another party to the transaction and to charge therefor a reasonable fee.

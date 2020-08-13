@@ -1,0 +1,7 @@
+# Registration of voluntary conveyance
+39 (1) Every voluntary conveyance shall, within thirty days of its being duly stamped in accordance with the Stamp Duties Act 1976 [title 14 item 24], be deposited for registration in the office of the Land Title Registrar with a memorandum, signed by or on behalf of the grantor and grantee, or if there are more than one grantor or grantee, then by or on behalf of the grantor or grantee first named in such conveyance, containing the date of such voluntary conveyance, the names of the parties thereto, and the description of the property thereby conveyed.
+(2) The Land Title Registrar shall record and register any memorandum of the substance of a voluntary conveyance duly deposited in his office in accordance with subsection (1) in the manner provided by, and subject to the provisions of, the Land Title Registrar (Recording of Documents) Act 2017.
+(3) Subsections (1) and (2) shall not apply to—
+(a) any disposition of registered land within the meaning of the Land Title Registration Act 2011; or
+(b) any voluntary conveyance of an estate which is required to be registered under the Land Title Registration Act 2011 by virtue of sections 24 and 25 of that Act.
+[Section 39 amended by 1995:42 effective 21 December 1995; subsections (1) and (2) amended by 2017 : 9 s. 11 effective 20 February 2017; Section 39 subsection (3) inserted by 2011 : 51 Sch. 9 effective 2 July 2018]

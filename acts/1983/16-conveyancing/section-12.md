@@ -1,0 +1,2 @@
+# Effect of payments to trustees, mortgagees
+12 The bona fide payment to, and the receipt of, any person to whom any money is payable upon any express or implied trust or for any limited purpose or of the survivors or survivor of two or more mortgagees or holders, or the executors or administrators of such survivor, or their or his assigns, shall effectually discharge the person paying the same from seeing to the application or being answerable for the misapplication thereof, unless the contrary is expressly declared by the instrument creating the trust or security.

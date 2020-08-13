@@ -1,0 +1,4 @@
+# Covenants running with the land
+24 (1) Every covenant running with the land, whether entered into before, on or after 3 January 1984, shall take effect in accordance with any statutory enactment affecting the devolution of the land, and accordingly the benefit or burden of every such covenant shall vest in or bind the persons who by virtue of any such enactment or otherwise succeed to the title of the covenantee or the covenantor, as the case may be.
+(2) The benefit of a covenant relating to land entered into after 2 January 1984 may be made to run with the land without the use of any technical expression if the covenant is of such a nature that the benefit could have been made to run with the land before 3 January 1984.
+(3) For the purposes of this section, a covenant runs with the land when the benefit or burden of it, whether at law or in equity, passes to the successors in title of the covenantee or the covenantor, as the case may be.
