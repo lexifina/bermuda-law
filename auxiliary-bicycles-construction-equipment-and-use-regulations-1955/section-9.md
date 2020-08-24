@@ -1,0 +1,2 @@
+# Maximum decibels
+9 For the purposes of section 13 of the Auxiliary Bicycles Act 1954 [title 21 item 7], the maximum standard of noise permitted in relation to any auxiliary bicycle shall be such volume and intensity of noise measured in decibels and in such manner as the Minister may from time to time determine, when the engine of the auxiliary bicycle is being run at a speed which would propel the auxiliary bicycle, together with a driver, at 20 miles per hour on a level road under windless conditions, or at full throttle, whichever condition is first reached on test.
