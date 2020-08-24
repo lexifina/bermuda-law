@@ -1,0 +1,6 @@
+# Periodical reissue of auxiliary bicycle licence
+9 (1) Subject to the provisions of this regulation, an auxiliary bicycle licence in respect of the use of a duly registered auxiliary bicycle shall be reissued by the Minister in respect of any licence period subsequent to the initial licence period—
+(a) upon surrender of the licence to the Minister for the necessary alterations; and
+(b) upon payment of the appropriate licence duty calculated in accordance with the provisions of the Auxiliary Bicycles Act.
+(2) The Minister, where he thinks it expedient to do so, may fix a date on or before which applications for the reissue of auxiliary bicycle licences should be forwarded to him being a day not earlier than the fifteenth day of March in each year.
+(3) The Minister shall cause notice to be given of any such date by public advertisement or otherwise, and if any person fails to comply with any such requirements of the Minister, his application shall be dealt with as time allows, and no remedy shall lie against the Minister if an auxiliary bicycle licence is reissued in respect of such application after the first day of the licence period, that is to say, the first day of September in that year.
