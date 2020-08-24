@@ -1,0 +1,2 @@
+# Minister may prohibit use of auxiliary bicycle on account of design or build of body
+2B (1) Where the design or the build of the body of any auxiliary bicycle is, in the opinion of the Minister unsuitable having regard to the preservation of road safety or the amenities of Bermuda, the Minister may by order prohibit the use of such auxiliary bicycle on any road while it is so designed or while the body of such auxiliary bicycle is so built.
