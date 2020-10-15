@@ -1,0 +1,3 @@
+# Determination
+4 (1) This General Determination is made pursuant to the Consultation Document entitled “Applications for Integrated Communications Operating Licences (“ICOLs”); Application for Other Communications Operating Licence (“COL”)” dated 29 April 2020 and the Regulatory Authority’s Decision on it.
+(2) Taking into account the responses received to the Consultation Document and the Preliminary Report and Preliminary Decision and Order, and for the reasons given in the Decision, the Authority determines that the terms and conditions of the SubCOL shall be those set out in the template set out in the Schedule.
