@@ -1,0 +1,5 @@
+# General purpose
+3 (1) This General Determination establishes the terms and conditions of a specific type of individual Communications Operating Licence, as provided for in section 17 of the Electronic Communications Act 2011, which shall be known as the Submarine Cable Communications Operating Licence or “SubCOL.”
+(2) The SubCOL shall be available to qualified applicants authorized by the Regulatory Authority in accordance with the procedures for the grant of Communications Operating Licences other than ICOLs that are set out in the Regulatory Authority (Master Communications Operating Licence Application Process) General Determination 2019, provided that the applicant is the operator of a submarine cable landing in Bermuda and that—
+(a) such cable was lawfully installed in the territorial waters of Bermuda before the commencement of the Submarine Communications Cables Act 2020; or
+(b) such operator has obtained a submarine cable licence pursuant to Part 6 of the Submarine Communications Cables Act 2020.
