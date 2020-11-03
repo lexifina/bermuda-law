@@ -1,0 +1,3 @@
+# Duty of mental welfare officer
+32 (1) It shall be the duty of a mental welfare officer to make an application for admission to the Mental Hospital in respect of any patient in any case where he is satisfied that such an application ought to be made and is of the opinion, having regard to any wishes expressed by relatives of the patient or any other relevant circumstances, that it is necessary or proper for the application to be made by him.
+(2) Nothing in this section shall be construed as authorising or requiring an application to be made by a mental welfare officer in contravention of section 11(2), or as restricting the power of a mental welfare officer to make any application under this Act.

@@ -1,0 +1,7 @@
+# Special provisions as to patients absent without leave
+24 (1) If on the day on which, apart from this section, a patient would cease to be liable to be detained under this Part, or, within the period of one week ending with that day, the patient is absent without leave, he shall not cease to be so liable—
+(a) in any case, until after the expiration of the period during which he can be taken into custody under section 21, or the day on which he is returned or returns himself to the hospital or place where he ought to be, whichever is the earlier; and
+(b) if he is returned or returns himself to the hospital or place where he ought to be within the period during which he can be taken into custody under section 21, until the expiration of the period of one week beginning with the day on which he is returned or returns to the hospital or place where he ought to be.
+(2) Where the period for which a patient is liable to be detained is extended by virtue of this section, any examination and report to be made and furnished under section 22(3) may be made and furnished within that period as so extended.
+(3) Where the authority for the detention of a patient is renewed by virtue of this section after the day on which, apart from this section, that authority would have expired under section 22, the renewal shall take effect as from that day.
+[Section 24 amended by 1998:32 effective 13 July 1998]

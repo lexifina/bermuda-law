@@ -1,0 +1,4 @@
+# Provision as to custody, conveyances and detention
+73 (1) Any person required or authorised by or by virtue of this Act to be conveyed to any place or to be kept in custody or detained in a place of safety or at any place to which he is taken under section 39(5) shall, while being so conveyed, detained or kept, as the case may be, be deemed to be in legal custody.
+(2) A police officer or any other person required or authorised by or by virtue of this Act to take any person into custody, or to convey or detain any person shall, for the purposes of taking him into custody or conveying or detaining him, have all the powers, authorities, protection and privileges of a police officer acting in the execution of his duty.
+(3) In this section “convey” includes any other expression denoting removal from one place to another.

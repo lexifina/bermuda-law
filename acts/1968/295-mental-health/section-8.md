@@ -1,0 +1,20 @@
+# Definition of nearest relative
+8 (1) In this Part, “relative” means any of the following persons, that is to say, husband or wife, son or daughter, father, mother, brother or sister, grandparent, grandchild, uncle or aunt, nephew or niece.
+(2) In deducing relationships for the purposes of this section, an adopted person shall be treated as the child of the person or persons by whom he was adopted and not as the child of any other person, and subject as aforesaid, any relationship of the half-blood shall be treated as a relationship of the whole blood.
+(3) Subject to this section, the “nearest relative” means the person first described in subsection (1) who is for the time being surviving, relatives of the whole blood being preferred to relatives of the same description of the half-blood and the elder or eldest of two or more relatives of the same degree being preferred to the other or others of those relatives, regardless of sex.
+(4) Where a person who under subsection (3) would be the nearest relative of a patient,
+(a) [Deleted by 1998 : 32]
+(b) being the husband or wife of the patient, is permanently separated from the patient, either by agreement or under an order of a court, or has deserted or has been deserted by the patient for a period which has not come to an end; or
+(c) not being the husband, wife, father or mother of the patient, is for the time being under eighteen years of age; or
+(d) is a person who has been deprived by the order of a court of the custody or control over the patient; or
+(e) is a patient in a hospital,
+the nearest relative of the patient shall be determined as if that person were unrelated.
+(5) For the purposes of this section, “husband” and “wife” include a person who is living with the patient as the patient’s husband or wife, as the case may be (or, if the patient is for the time being an in-patient in a hospital, was so living until the patient was admitted) and has been or had been so living for a period of not less than six months; but a person shall not be treated by virtue of this subsection as the nearest relative of a married patient unless the husband or wife of the patient is disregarded by virtue of subsection (4)(b).
+(6) Subject to the provisions of this section, where a patient ordinarily resides with or is cared for by one or more of his relatives (or, if he is for the time being an in-patient in a hospital, he last ordinarily resided with or was cared for by one or more of his relatives) his nearest relative shall be determined—
+(a) by giving preference to that relative or those relatives over the other or others; and
+(b) as between two or more such relatives, in accordance with subsection (3).
+(7) A person, other than a relative, with whom the patient ordinarily resides (or, if the patient is for the time being an in-patient in a hospital, last ordinarily resided before he was admitted), and with whom he has or had been ordinarily residing for a period of not less than five years, shall be treated for the purposes of this section as if he were a relative but—
+(a) shall be treated for the purposes of subsection (3) as if mentioned last in subsection (1); and
+(b) shall not be treated by virtue of this subsection as the nearest relative of a married patient unless the husband or wife of the patient is disregarded by virtue of subsection 4(b).
+(8) In this section “husband” and “wife” include a person who is living with the patient as the patient’s husband or wife, as the case may be (or, if the patient is for the time being an in-patient in a hospital, was so living until the patient was admitted), and has been or had been so living for a period of not less than six months; but a person shall not be treated by virtue of this subsection as the nearest relative of a married patient unless the husband or wife of the patient is disregarded by virtue of subsection (4)(b).
+[Section 8 amended by 1998:32 effective 13 July 1998; subsection (4)(c) amended by 2001:20 s.7(1) & Sch 2 effective 1 November 2001; subsection (2) amended by 2002:36 s.8 & Sch effective 19 January 2004]

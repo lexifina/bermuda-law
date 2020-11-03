@@ -1,0 +1,6 @@
+# Vesting of stock in curator appointed outside Bermuda
+55 (1) Where the judge is satisfied—
+(a) that under the law prevailing in any place outside Bermuda a person has been appointed to exercise powers with respect to the property or affairs of any other person on the ground (however formulated) that that other person is incapable by reason of mental disorder of managing and administering his property and affairs; and
+(b) that having regard to the nature of the appointment and to the circumstances of the case it is expedient that the judge should exercise his powers under this section,
+the judge may direct any stock standing in the name of the said other person or the right to receive the dividends thereof to be transferred into the name of the person so appointed or otherwise dealt with as requested by that person, and may give such directions as the judge thinks fit for dealing with accrued dividends thereof
+(2) In this section “stock” includes shares and also any fund, annuity or security transferable in the books kept by any body corporate or unincorporated company or society, or by an instrument of transfer either alone or accompanied by other formalities, and “dividends” shall be construed accordingly.
