@@ -1,0 +1,5 @@
+# Treatment not requiring consent
+48X (1) The consent of a patient shall not be required for any medical treatment, not being a form of treatment to which section 48P, 48Q or 48R applies, given to him for the mental disorder from which he is suffering if the treatment is given by or under the direction of the responsible medical officer in charge of the treatment.
+(2) Notwithstanding subsection (1), where any medical treatment, not being a form of treatment to which section 48P, 48Q or 48R applies, is given to a patient for the mental disorder from which he is suffering, the consent of the patient shall wherever practicable be sought and the patient’s consent, refusal to consent or a lack of capacity to give consent must be recorded.
+(3) Subsection (2) shall not apply to medical treatment given to a patient in the circumstances set out in section 48V if the treatment is given by or under the direction of the responsible medical officer in charge of the treatment.
+[Section 48X inserted by 2019 : 1 s. 14 effective 31 October 2020]

@@ -1,0 +1,5 @@
+# Special provisions as to community patients absent without leave for less than twenty-eight days
+48K (1) This section applies where a community patient who is absent without leave from a hospital to which he is recalled is taken into custody and returned to hospital under section 48J, or returns himself to the hospital, within twenty-eight days beginning with the first day of his absence without leave.
+(2) Where a community patient is absent without leave under this section, the community treatment order may be extended under section 48F and any examination and report to be made and furnished in respect of the patient under that section may be made and furnished within the period so extended.
+(3) Where the community treatment period is extended by virtue of subsection (2), after the day on which the order would have ceased to be in force, the extension shall take effect as from the day the order would have ceased to be in force.
+[Section 48K inserted by 2019 : 1 s. 14 effective 31 October 2020]

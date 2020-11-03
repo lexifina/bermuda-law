@@ -1,0 +1,5 @@
+# Re-classification of patients
+19 (1) If, in the case of a patient who is for the time being detained in a hospital in pursuance of an application for admission for treatment, it appears to the responsible medical officer that the patient is suffering from a form of mental disorder other than the form or forms specified in the application, he may furnish to the Chief of Psychiatry a report to that effect; and where a report is so furnished, the application shall have effect as if that other form of mental disorder were specified therein.
+(2) Where a report is furnished under this section, in respect of a patient who has attained the age of sixteen years, the Chief of Psychiatry shall cause the patient and the nearest relative to be informed, and the patient or that relative may, within the period of twenty-eight days beginning with the day on which he is so informed, apply to the Review Tribunal:
+Provided that in the case of a patient who is under the age of sixteen years, the patient need not be so informed.
+[Section 19 amended by 1991:85 effective 15 July 1991; and by 1998:32 effective 13 July 1998]

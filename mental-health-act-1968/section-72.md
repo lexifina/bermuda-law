@@ -1,0 +1,3 @@
+# Mentally disordered persons found in public places
+72 (1) If a police officer finds in a place to which the public have access a person who appears to him to be suffering from mental disorder and to be in immediate need of care or control, the officer may, if he thinks it necessary to do so in the interests of that person or for the protection of other persons, remove that person to a place of safety within the meaning of section 71.
+(2) A person removed to a place of safety under this section may be detained there for a period not exceeding seventy-two hours for the purpose of enabling him to be examined by a medical practitioner and to be interviewed by a mental welfare officer and of making any necessary arrangements for his treatment or care.

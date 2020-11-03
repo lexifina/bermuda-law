@@ -1,0 +1,3 @@
+# General powers of the judge with respect to proceedings
+59 (1) For the purposes of any proceedings before him with respect to persons suffering or alleged to be suffering from mental disorder, the judge shall have the like powers as are vested in the Supreme Court in respect of securing the attendance of witnesses and the production of documents.
+(2) Subject to this section, any act or omission in the course of such proceedings as aforesaid which, if occurring in the course of proceedings in the Supreme Court would have been a contempt of court, shall be punishable by the judge in any manner in which it could have been punished by the Supreme Court.

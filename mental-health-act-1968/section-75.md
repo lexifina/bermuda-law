@@ -1,0 +1,5 @@
+# Protection for acts done on pursuance of this Act
+75 (1) No person shall be liable, whether on the ground of want of jurisdiction or on any other ground, to any civil or criminal proceedings to which he would have been liable apart from this section in respect of any act purporting to be done in pursuance of this Act or any regulations or rules or Code thereunder, unless the act was done in bad faith or without reasonable care.
+(2) No civil or criminal proceedings shall be brought against any person in any court in respect of any such act without the leave of the Supreme Court and the Supreme Court shall not give leave under this section unless satisfied that there is substantial ground for the contention that the person to be proceeded against has acted in bad faith or without reasonable care.
+(3) This section does not apply to proceedings for an offence under this Act, being proceedings which, under this Act, can be instituted only by or with the consent of the Director of Public Prosecutions.
+[Section 75 subsection (3) amended by 1999:8 s.2 & Sch 1 effective 1 April 1999; Section 75 subsection (1) amended by 2019 : 1 s. 20 effective 31 October 2020]

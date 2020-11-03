@@ -1,0 +1,20 @@
+# Appointment by court of acting nearest relative
+29 (1) A court of summary jurisdiction may, upon application made in accordance with this section in respect of a patient, by order direct that the functions under this Part of the nearest relative of the patient shall, during the continuance in force of the order be exercisable by the applicant, or by any other person specified in the application, being a person who, in the opinion of the court, is a proper person to act as the patient’s nearest relative and is willing to do so.
+(2) An order made under this section may be made on the application of—
+(a) any relative of the patient;
+(b) any other person with whom the patient is residing (or, if the patient is then an in-patient in a hospital, was last residing before he was admitted); or
+(c) a mental welfare officer,
+but in relation to an application made by such an officer, subsection (1) shall have effect as if the words “by the applicant or” had been deleted.
+(3) An application for an order under this section may be made upon any of the following grounds—
+(a) that the patient has no nearest relative within the meaning of this Act, or that it is not reasonably practicable to ascertain whether he has such a relative, or who that relative is;
+(b) that the nearest relative of the patient is incapable of acting as such by reason of mental disorder or other illness;
+(c) that the nearest relative unreasonably objects to the making of an application for admission for treatment in respect of the patient; or
+(d) that the nearest relative of the patient has exercised without due regard to the welfare of the patient or the interests of the public his power to discharge the patient from hospital under this Part, or is likely to do so.
+(4) If immediately before the expiration of the period for which a patient is liable to be detained by virtue of an application for admission for assessment, an application under this section, being an application made on the ground specified in subsection (3)(c) or (d), is pending in respect of the patient, that period shall be extended—
+(a) in any case, until the application under this section has been finally disposed of; and
+(b) if an order is made in pursuance of the application under this section, for a further period of seven days;
+and for the purposes of this subsection, an application under this section shall be deemed to have been finally disposed of at the expiration of the time allowed for appealing from the decision of the court, or if notice of appeal has been given within that time, when the appeal has been heard or withdrawn, and “pending” shall be construed accordingly.
+(5) While an order made under this section is in force, this Part (other than this section and section 30) shall apply in relation to a patient as if for any reference to the nearest relative of the patient there were substituted a reference to the person having the functions of that relative and (without prejudice to section 30) shall so apply notwithstanding that the person who was the nearest relative of the patient when the order was made is no longer his nearest relative.
+(6) Where an order is made under this section in respect of a patient who is or subsequently becomes liable to be detained under this Part, the nearest relative of the patient may make an application to the Review Tribunal in respect of the patient within the period of twelve months beginning with the date of the order, and in any subsequent period of twelve months during which the order continues in force.
+(7) Where an order is made under this section in respect of a patient who is or subsequently becomes a community patient pursuant to Part IIIA, the nearest relative of the patient may make an application to the Review Tribunal in respect of the patient within the period of six months beginning with the date of the order, and in any subsequent period of twelve months during which the order continues in force.
+[Section 29 amended by 1998 : 32 effective 13 July 1998; Section 29 subsection (7) inserted by 2019 : 1 s. 10 effective 31 October 2020]

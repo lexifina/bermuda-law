@@ -1,0 +1,15 @@
+## PART III
+## ADMISSION OF PATIENTS CONCERNED IN CRIMINAL PROCEEDINGS, ETC., AND
+## TRANSFER OF PATIENTS UNDER SENTENCE
+# Powers of court to order hospital admission
+33 (1) Where a person is convicted before the Supreme Court of an offence other than an offence the sentence for which is fixed by law, or is convicted by a court of summary jurisdiction of an offence punishable on summary conviction with imprisonment and the following conditions are satisfied—
+(a) the court is satisfied, on the written or oral evidence of two medical practitioners (complying with section 35)—
+(i) that the offender is suffering from mental illness, severe personality disorder, mental impairment or severe mental impairment;
+(ii) that the mental disorder is of a nature or degree which warrants the detention of the patient in a hospital for medical treatment; and
+(b) the court is of the opinion, having regard to all the circumstances, including the nature of the offence, and the character and antecedents of the offender, and to the other available methods of dealing with him, that the most suitable method of disposing of the case is by means of an order under this section,
+the court may by order authorise his admission to and detention in a hospital.
+(2) Where a person is charged before a court of summary jurisdiction with any act or omission as an offence and the court would have power, on convicting him of that offence, to make an order under subsection (1) in his case as being a person suffering from mental illness or severe mental impairment, then, if the court is satisfied that the accused did the act or made the omission charged, the court may, if it thinks fit, make such an order without convicting him.
+(3) A hospital order for the admission of an offender to a hospital shall not be made under this section unless the court is satisfied that arrangements have been made for the admission of the offender to the Hospital in the event of such an order being made by the court, and for his admission thereto within a period of twenty-eight days beginning with the date of making such an order.
+(4) A hospital order shall specify the form or forms of mental disorder referred to in subsection (1)(a) from which, upon the evidence taken into account under that paragraph, the offender is found by the court to be suffering; and no such order shall be made unless the offender is described by each of the practitioners whose evidence is taken into account as aforesaid as suffering from the same one of those forms of mental disorder, whether or not he is also described by either of them as suffering from another of those forms.
+(5) Where an order is made under this section, the court shall not pass sentence of imprisonment or impose a fine or make a probation order in respect of the offence, but may make any other order which the court has power to make apart from this section; and for the purposes of this subsection “sentence of imprisonment” includes any sentence or order for detention, including a sentence of corrective training.
+[Section 33 amended by 1998:32 effective 13 July 1998]
