@@ -1,0 +1,3 @@
+# Defect in process
+77 (1) No objection shall be allowed to any information, or to any summons or warrant to procure the presence of the accused person, for any defect in it in substance or in form, or for any variance between it and the evidence adduced on behalf of the prosecutor or informant at the hearing of the information.
+(2) If it appears to the magistrates’ court that any variance between a summons or warrant and the evidence adduced on behalf of the prosecutor or informant is such that the accused person has been misled by the variance, the magistrates’ court shall, on the application of the accused person, dismiss the hearing.

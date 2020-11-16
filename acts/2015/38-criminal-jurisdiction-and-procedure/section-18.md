@@ -1,0 +1,2 @@
+# Procedure where trial on indictment appears more suitable
+18 If the magistrates’ court decides under section 15 that the offence appears to it more suitable for trial on indictment, the magistrates’ court shall tell the accused person that the magistrates’ court has decided that it is more suitable for him to be tried on indictment, and shall proceed in relation to the offence in accordance with section 23.

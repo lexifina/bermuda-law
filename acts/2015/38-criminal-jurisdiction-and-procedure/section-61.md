@@ -1,0 +1,4 @@
+# Application of money found on defaulter to satisfy sum adjudged
+61 (1) Where the magistrates’ court has adjudged a person to pay a sum by a conviction, the magistrates’ court may order him to be searched.
+(2) Any money found on the arrest of a person adjudged to pay such a sum as aforesaid, or on a search as aforesaid, or on his being taken to a prison or other place of detention in default of payment of such a sum or for want of sufficient distress to satisfy such a sum, may, unless the magistrates’ court otherwise directs, be applied towards payment of the said sum; and the balance, if any, shall be returned to him.
+(3) The magistrates’ court shall not allow the application as aforesaid of any money found on a person if it is satisfied that the money does not belong to him or that the loss of the money would be more injurious to his family than would be his detention.
