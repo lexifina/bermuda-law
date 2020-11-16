@@ -1,0 +1,3 @@
+# Application of Part III to statutory arbitrations
+43 (1) Subject to section 44, this Part, except the provisions thereof specified in subsection (2), shall apply to every arbitration under any other enactment other than the Labour Relations Act 1975 [title 18 item 1], whether passed before or after 25 August 1986, as if the arbitration were pursuant to an arbitration agreement and as if that other enactment were an arbitration agreement, except in so far as this Act is inconsistent with that other enactment or with any rules or procedure authorized or recognized thereby.
+(2) The provisions referred to in subsection (1) are sections 5(1), 6, 10, 26(3), 35 and 38.

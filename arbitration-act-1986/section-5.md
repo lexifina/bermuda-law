@@ -1,0 +1,4 @@
+# Death of party
+5 (1) An arbitration agreement shall not be discharged by the death of any party thereto, either as respects the deceased or any other party, but shall in such an event be enforceable by or against the estate representative of the deceased.
+(2) The authority of an arbitrator shall not be revoked by the death of any party by whom he was appointed.
+(3) Nothing in this section shall be taken to affect the operation of any enactment or rule of law by virtue of which any right of action is extinguished by the death of a person.

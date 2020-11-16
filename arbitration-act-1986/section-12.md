@@ -1,0 +1,5 @@
+# Power of parties in certain cases to supply vacancy
+12 Where an arbitration agreement provides that the reference shall be to two arbitrators, one to be appointed by each party, then, unless a contrary intention is expressed therein—
+(a) if either of the appointed arbitrators refuses to act, or is incapable of acting, or dies, the party who appointed him may appoint a new arbitrator in his place;
+(b) if, on such a reference, one party fails to appoint an arbitrator, either originally, or by way of substitution as aforesaid, for fourteen clear days after the other party, having appointed his arbitrator, has served the party making default with notice to make the appointment, the party who has appointed an arbitrator may appoint that arbitrator to act as sole arbitrator in the reference and his award shall be binding on both parties as if he had been appointed by consent:
+Provided that the Court or a judge thereof may set aside any appointment made in pursuance of this section.
