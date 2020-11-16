@@ -1,0 +1,4 @@
+# Remand of accused already in custody
+69 (1) When the magistrates’ court remands an accused person in custody and he is already detained under a custodial sentence, the period for which he is remanded may be up to 28 clear days.
+(2) But the magistrates’ court shall inquire as to the expected date of his release from that detention; and if it appears that it will be before 28 clear days have expired, he shall not be remanded in custody for more than 8 clear days or (if longer) a period ending with that date.
+(3) Where the accused person is serving a sentence of imprisonment to which an intermittent custody order under section 70L of the Criminal Code Act 1907 relates, the reference in subsection (2) to the expected date of his release is to be read as a reference to the expected date of his next release.

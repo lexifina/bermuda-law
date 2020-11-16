@@ -1,0 +1,3 @@
+# Non-appearance of prosecutor
+10 (1) Where at the time and place appointed for the trial or adjourned trial of an information the accused person appears or is brought before the magistrates’ court and the prosecutor does not appear, the magistrates’ court may dismiss the information or, if evidence has been received on a previous occasion, proceed in the absence of the prosecutor.
+(2) Where, instead of dismissing the information or proceeding in the absence of the prosecutor, the magistrates’ court adjourns the trial, it shall not remand the accused person in custody unless he has been brought from custody or cannot be remanded on bail by reason of his failure to find sureties.

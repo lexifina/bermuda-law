@@ -1,0 +1,5 @@
+# Extension of time limit for service of documents
+30 (1) The prosecutor may apply orally or in writing to the Supreme Court for any period prescribed by section 29 to be extended or, where that period has already been extended, for it to be further extended.
+(2) Where the prosecutor proposes to make an oral application under subsection (1), he shall give notice in writing of his intention to the Supreme Court; and a copy thereof shall be given at the same time to the person sent for trial.
+(3) Any written application made under subsection (1) shall be sent by the prosecutor to the Supreme Court specifying the grounds for the application; and a copy thereof shall be given at the same time to the person sent for trial who may make written representations in response within 3 days of service of the application on him.
+(4) Where an application under subsection (1) is determined otherwise than at an oral hearing, the Supreme Court shall, as soon as reasonably practicable, send to all the parties to the case a notice of the outcome of the application.
