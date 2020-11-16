@@ -1,0 +1,7 @@
+# Power of judges to take arbitrations
+17 (1) Subject to the following provisions of this section, a judge, magistrate or public officer, may, if in all the circumstances he thinks fit, accept appointment as a sole or joint arbitrator, or as umpire, by or by virtue of an arbitration agreement.
+(2) A judge or a magistrate shall not accept appointment as an arbitrator or umpire unless the Chief Justice has informed him that he can be made available to do so.
+(3) A public officer shall not accept appointment as an arbitrator or umpire unless the Attorney General has informed him that he can be made available to do so.
+(4) The fees payable (if any) for the services of a judge, magistrate or public officer as an arbitrator or umpire shall be paid into the Consolidated Fund.
+(5) The Schedule shall have effect for modifying, and in certain cases replacing, provisions of this Act in relation to arbitration by a judge as a sole arbitrator or umpire and, in particular, for substituting the Court of Appeal for the Court in provisions whereby arbitrators and umpires, their proceedings and awards, are subject to control and review by the Court.
+(6) Subject to section 32(3), any jurisdiction which is exercisable by the Court in relation to arbitrators and umpires otherwise than under this Act shall, in relation to a judge appointed as a sole arbitrator or umpire, be exercisable instead by the Court of Appeal.

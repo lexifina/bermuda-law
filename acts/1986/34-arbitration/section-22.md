@@ -1,0 +1,2 @@
+# Interim awards
+22 Unless a contrary intention is expressed therein, every arbitration agreement shall, where such a provision is applicable to the reference, be deemed to contain a provision that the arbitrator or umpire may, if he thinks fit, make an interim award, and any reference in this Part to an award includes a reference to an interim award.
