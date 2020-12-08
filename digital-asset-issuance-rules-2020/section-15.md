@@ -1,0 +1,2 @@
+# Data audit node
+15 Further to rule 14, the issuer shall also establish, and have at all times in place, for the duration of its authorization and thereafter for the period of five years beginning from the end of its offering via its digital asset issuance, a data audit node in Bermuda, where all information relevant to the digital asset issuance will be stored real-time in an accurate and tamper-proof manner, including transactions and other events taking place on-chain or off-chain.
