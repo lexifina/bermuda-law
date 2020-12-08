@@ -1,0 +1,2 @@
+# Prevention of insider market abuse in secondary trading
+12 Where the issuer’s digital assets offered via its digital asset issuance are or will be traded on the secondary market, the issuer shall implement effective internal arrangements, systems and procedures to prevent, detect and report market abuse carried out by any one of the persons referred to in rule 6(1), any other employee, any seconded member of staff, or any service provider of the issuer not otherwise captured under the said rule.
