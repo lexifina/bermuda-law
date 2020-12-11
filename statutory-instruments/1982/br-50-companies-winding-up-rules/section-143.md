@@ -1,0 +1,3 @@
+# Affidavit of no receipts or payments
+143 Where in a voluntary winding-up a liquidator has not during any period for which a statement has to be sent under rule 142, received or paid any money on account of the company he shall, at the period he is required to transmit his statement, send to the Registrar of Companies the prescribed statement in the Form 78, in duplicate containing the particulars therein required with respect to the proceedings in and position of the liquidation and with such statement shall also send an affidavit of no receipts or payments in the Form No. 79.
+### UNCLAIMED FUNDS AND UNDISTRIBUTED ASSETS IN THE HANDS OF A LIQUIDATOR

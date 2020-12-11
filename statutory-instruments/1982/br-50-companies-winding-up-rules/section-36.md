@@ -1,0 +1,3 @@
+# Information subsequent to statement of affairs
+36 After the statement of affairs of a company has been submitted to the Official Receiver or provisional liquidator it shall be the duty of each person who has made or concurred in making it, if and when required, to attend on the Official Receiver or provisional liquidator and answer all such questions as may be put to him, and give all such further information as may be required of him by the Official Receiver or provisional liquidator in relation to the statement of affairs.
+[Rule 36 amended by BR 120 / 2020 rule 16 effective 12 November 2020]

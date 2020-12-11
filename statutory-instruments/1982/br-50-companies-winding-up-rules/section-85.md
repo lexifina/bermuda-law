@@ -1,0 +1,6 @@
+## GENERAL MEETINGS OF CREDITORS AND CONTRIBUTORIES IN RELATION TO A
+## WINDING-UP BY THE COURT
+# First meetings of creditors and contributories
+85 (1) Unless the Court otherwise directs, the meetings of creditors and contributories under section 171 of the Act (hereinafter referred to as the first meetings of creditors and contributories) shall be held within three months after the date of the winding-up order. The dates of such meetings shall be fixed by the Official Receiver or provisional liquidator who shall give notice [Forms 64 and 65] of the time, date and place of the meeting to the creditors and contributories.
+(2) The Official Receiver or provisional liquidator shall also give to each of the officers of the company, who in his opinion ought to attend the first meetings of creditors and contributories, seven days’ [Form 66] notice of the time and place appointed for each meeting. The notice may either be delivered personally or sent by prepaid post letter, as may be convenient. It shall be the duty of every officer who receives notice of such meeting to attend if so required by the Official Receiver or provisional liquidator, and if any such officer fails to attend the Official Receiver or provisional liquidator shall report such failure to the Court.
+[Rule 85 amended by BR 120 / 2020 rule 36 effective 12 November 2020]

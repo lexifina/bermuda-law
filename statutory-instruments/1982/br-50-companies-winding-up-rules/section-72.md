@@ -1,0 +1,3 @@
+# Production of bills of exchange and promissory notes
+72 Where a creditor seeks to prove in respect of a bill of exchange, promissory note, or other negotiable instrument or security on which the company is liable, such bill of exchange note, instrument, or security must, subject to any special order of the Court made to the contrary, be produced to the Official Receiver, chairman of a meeting, provisional liquidator or liquidator, as the case may be and be marked by him before the proof can be admitted either for voting or for any purpose.
+[Rule 72 amended by BR 120 / 2020 rule 30 effective 12 November 2020]

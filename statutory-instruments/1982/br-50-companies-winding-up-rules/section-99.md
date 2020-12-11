@@ -1,0 +1,2 @@
+# Admission and rejection of proofs for purpose of voting
+99 The chairman shall have power to admit or reject a proof for the purpose of voting, but his decision shall be subject to appeal to the Court. If he is in doubt whether a proof shall be admitted or rejected he shall mark it as objected to and allow the creditor to vote reject to the vote being declared invalid in the event of the objection being sustained.

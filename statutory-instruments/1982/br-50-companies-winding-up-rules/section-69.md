@@ -1,0 +1,2 @@
+# Proof for debt payable at future time
+69 A creditor may prove for a debt not payable at the date of the winding-up order or resolution, as if it were payable presently, and , may receive dividends equally with the other creditors, deducting only thereout a rebate of interest at the rate of five per centum per annum computed from the declaration of a dividend to the time when the debt would have become payable according to the terms on which it was contracted.

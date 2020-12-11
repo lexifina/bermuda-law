@@ -1,0 +1,2 @@
+# Orders
+10 Every order, whether made in Court or in chambers, shall be drawn up by the Registrar, unless in any proceedings, or classes of proceedings, the Judge or Registrar who makes the order shall direct that no order need be drawn up. Where a direction is given that no order need be drawn up, the note or memorandum of the order, signed or initialled by the Judge or the Registrar making the order, shall be sufficient evidence of the order having been made.

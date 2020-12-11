@@ -1,0 +1,2 @@
+# Application of existing procedure
+159 In all proceedings in or before the Court, or any Judge, Registrar or Officer thereof, or over which the Court has jurisdiction under the Act and Rules, where no other provision is made by the Act or Rules, the practice, procedure and regulations shall, unless the Court otherwise in any special case directs, in the Court be in accordance with its rules and practice.

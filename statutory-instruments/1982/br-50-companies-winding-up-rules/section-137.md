@@ -1,0 +1,2 @@
+# Copy of the bill to be furnished
+137 Every person whose bill or charges in a winding-up by the Court is or are to be taxed shall, on application either of the Official Receiver or the liquidator, furnish a copy of his bill or charges so to be taxed, on payment of the prescribed charge, which payment shall be charged on the assets of the company. The Official Receiver shall call the attention of the liquidator to any items which, in his opinion, ought to be disallowed or reduced, and may attend or be represented on the taxation.

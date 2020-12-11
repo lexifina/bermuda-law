@@ -1,0 +1,4 @@
+# Creditor required to give up security
+98 The Official Receiver, provisional liquidator or liquidator may, within twenty-eight days after a proof or in a voluntary liquidation a statement estimating the value of a security as aforesaid has been used in voting at a meeting, require the creditor to give up the security for the benefit of the creditors generally on payment of the value so estimated with an addition thereto of twenty per cent:
+Provided that where a creditor has valued his security he may at any time before being required to give it up correct the valuation by a new proof and deduct the new value from his debt, but in that case the said addition of twenty per cent shall not be made if the security is required to be given up.
+[Rule 98 amended by BR 120 / 2020 rule 42 effective 12 November 2020]

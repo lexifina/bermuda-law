@@ -1,0 +1,3 @@
+# Solicitation by liquidator or provisional liquidator to obtain proxies
+106 Where it appears to the satisfaction of the Court that any solicitation has been used by or on behalf of a liquidator or provisional liquidator in obtaining proxies or in procuring his appointment as liquidator or provisional liquidator except by the direction of a meeting of creditors or contributories, the Court if it thinks fit may order that no remuneration be allowed to the person by whom or on whose behalf the solicitation was exercised notwithstanding any resolution of the committee of inspection or of the creditors or contributories to the contrary.
+[Rule 106 amended by BR 120 / 2020 rule 45 effective 12 November 2020]
