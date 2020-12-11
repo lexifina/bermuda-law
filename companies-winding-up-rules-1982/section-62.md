@@ -1,0 +1,2 @@
+# Service of notice of a call
+62 When a call has been made by the liquidator in a winding-up by the Court, a copy of the resolution of the committee of inspection or order of the Court, as the case may be, shall forthwith after the call has been made be served upon each of the contributories included in such call, together with a notice [Forms 45 and 50] from the liquidator specifying the amount or balance due from such contributory in respect of such call.

@@ -1,0 +1,2 @@
+# Appointment of time and place for settlement of list
+55 The liquidator shall give notice [Forms 35 and 36] in writing of the time and place appointed for the settlement of the list of contributories to every person whom he proposes to include in the list, and shall state in the notice to each person in what character and for what number of shares or interest he proposes to include such person in the list and what amount has been called up and what amount paid up in respect of such shares or interest.

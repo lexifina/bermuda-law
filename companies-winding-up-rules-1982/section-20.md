@@ -1,0 +1,3 @@
+# Service of petition
+20 Every petition shall, unless presented by the company, be served [Forms 5 and 6] upon the company at the registered office, if any, of the company, and if there is no registered office, then at the principal or last known principal place of business of the company in Bermuda, if any such can be found, by leaving a copy at such registered office or principal place of business, or by serving it on such member, officer or servant of the company as the court may direct; and where the company is being wound up voluntarily, the petition shall also be served upon the liquidator, if any, appointed for the purpose of winding-up the affairs of the company.
+[Rule 20 amended by BR 120 / 2020 rule 7 effective 12 November 2020]

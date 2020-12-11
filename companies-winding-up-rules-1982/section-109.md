@@ -1,0 +1,4 @@
+# Proxies
+109 (1) A proxy intended to be used at the first meeting of creditors or contributories, or an adjournment thereof, shall be lodged with the Official Receiver or provisional liquidator not later than the time mentioned for that purpose in the notice convening the meeting or the adjourned meeting.
+(2) In every other case a proxy shall be lodged with the Official Receiver or liquidator in a winding-up by the Court, with the company at its registered office for a meeting under section 216 of the Act, and with the liquidator or if there is no liquidator with the person named in the notice convening the meeting to receive the same in a voluntary winding-up not later than the day before the meeting or adjourned meeting at which it is to be used.
+[Rule 109 paragraph (1) amended by BR 120 / 2020 rule 47 effective 12 November 2020]

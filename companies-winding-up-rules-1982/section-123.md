@@ -1,0 +1,4 @@
+## BOOKS
+# Record Book
+123 In a winding-up by the Court the provisional liquidator, until a liquidator is appointed by the Court, and thereafter the liquidator, shall keep a book to be called the “Record Book” in which he shall record all minutes, all proceedings had and resolutions passed at any meeting of creditors or contributories, or of the committee of inspection, and all, such matters as may be necessary to give a correct view of his administration of the company’s affairs; but he shall not be bound to insert in the “Record Book” any document of a confidential nature (such as the opinion of an attorney on any matter affecting the interest of the creditors or contributories), nor need he exhibit such document to any person other than a member of the committee of inspection, the Official Receiver, or the Registrar of Companies.
+[Rule 123 amended by BR 120 / 2020 rule 51 effective 12 November 2020]

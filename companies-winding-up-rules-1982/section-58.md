@@ -1,0 +1,4 @@
+# Application to the Court to vary list
+58 (1) Subject to the power of the Court to extend the time or to allow an application to be made notwithstanding the expiration of the time for that purpose, no application to the Court by any person who objects [Form 41] to the list of contributories as finally settled by the liquidator shall be entertained after the expiration of 21 days from the date of the service on such person of notice of the settlement of the list.
+(2) The Official Receiver or liquidator shall not in any case be personally liable to pay any costs of or in relation to an application to set aside or vary his act or decision settling the name of a person on the list of contributories of a company.
+[Rule 58 paragraph (2) amended by BR 120 / 2020 rule 26 effective 12 November 2020]

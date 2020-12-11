@@ -1,0 +1,5 @@
+## DISCLAIMER
+# Disclaimer
+51 (1) Any application for leave to disclaim any part of the property of a company pursuant to of section 240(1) of the Act shall be by ex parte summons. Such summons shall be supported by an affidavit showing who are the parties interested and what their interests are. On the hearing of the summons the Court shall give such directions as it sees fit and in particular directions as to the notices to be given to the parties interested or any of them and the Court may adjourn the application to enable any such party to attend.
+(2) Where a liquidator disclaims a leasehold interest he shall forthwith file the disclaimer at the office of the Registrar. The disclaimer [Forms 31 and 32] shall contain particulars of the interest disclaimed and a statement of the persons to whom notice of the disclaimer has been given. Until the disclaimer is filed by the liquidator the disclaimer shall be inoperative.
+(3) Where any person claims to be interested in any part of the property of a company which the liquidator wishes to disclaim he shall at the request of the liquidator furnish a statement of the interest so claimed by him.

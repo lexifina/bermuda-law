@@ -1,0 +1,2 @@
+# Copy of accounts to be filed
+129 When the liquidator’s accounts have been audited, the Registrar of Companies shall certify the fact upon the account and thereupon the duplicate copy bearing a like certificate, shall be filed with the Registrar and that copy together with a copy of the said account delivered to the Court for filing in accordance with section 180 of the Act, shall be open to the inspection of any person on payment of the same fee as is payable with respect to the inspection of the file of proceedings under rule 12.

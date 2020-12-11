@@ -1,0 +1,7 @@
+# Time for dealing with proofs by liquidator
+82 (1) In a winding-up by the Court, the liquidator is not required to examine proofs of debt lodged by creditors if in his opinion there will be no assets available to declare a dividend to creditors or where it is unclear that there will be sufficient assets available to declare a dividend.
+(2) Notwithstanding paragraph (1), the liquidator may examine a particular proof if he is satisfied that the creditor has provided sufficient security to meet the cost of proving his debt.
+(3) A creditor may, at any time after twenty-eight days of lodging his proof, apply to the Court for an order that the liquidator either admit or reject the proof, wholly or in part.
+(4) Notwithstanding paragraph (3), where the liquidator has given notice of his intention to declare a dividend, he shall within twenty-eight days after the date mentioned in the notice as the latest date up to which proofs must be lodged, examine, and in writing admit or reject, or require further evidence in support of, every proof which has not been already dealt with, and shall give notice of his decision, rejecting a proof wholly or in part, to the creditors affected thereby.
+(5) Where a creditor's proof has been admitted the notice of dividend specifying the amount in which it has been admitted shall be a sufficient notification of the admission.
+[Rule 82 revoked and replaced by BR 120 / 2020 rule 34 effective 12 November 2020]

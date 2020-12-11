@@ -1,0 +1,3 @@
+# Liquidator carrying on business
+128 (1) Where the liquidator carries on the business of the company, he shall keep a distinct account of the trading, and shall incorporate in the cash book the total weekly amounts of the receipts and payments on such trading account.
+(2) The trading account shall from time to time, and not less than once in every month, be verified by affidavit [Form 75], and the liquidator shall thereupon submit such account to the committee of inspection, if any, or such member thereof as may be appointed by the committee for that purpose, who shall examine and certify the same.

@@ -1,0 +1,3 @@
+# Minister may call for verified accounts
+146 (1) In a voluntary winding-up, the Minister may at any time order any such person as is mentioned in rule 145 to submit to him an account verified by affidavit of the sums received and paid by him as liquidator of the company, and may direct and enforce an audit of the account.
+(2) For the purposes of section 257 of the Act, and the Rules, the Court has and may exercise all the powers conferred by the Bankruptcy Act 1870, with respect to the discovery and realization of the property of a debtor, and the provisions of that Act with respect thereto shall, with any necessary modification, apply to proceedings under section 257 of the Act.

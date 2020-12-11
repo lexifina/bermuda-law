@@ -1,0 +1,3 @@
+# Expenses of statement of affairs
+38 A person who is required to make or concur in making any statement of affairs of a company shall, before incurring any costs or expenses in and about the preparation and making of the statement, apply to the Court for its sanction and submit a statement of the estimated costs and expenses which it is intended to incur; and, except by order of the Court, no person shall be allowed out of the assets of the company any costs or expenses which have not before being incurred been sanctioned by the Court.
+[Rule 38 amended by BR 120 / 2020 rule 18 effective 12 November 2020]

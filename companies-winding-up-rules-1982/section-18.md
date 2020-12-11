@@ -1,0 +1,2 @@
+# Presentation of petition
+18 A petition shall be presented at the Registry and the Registrar shall appoint the time and place at which the petition is to be heard. Notice of the time and place appointed for hearing the petition shall written on the petition and sealed copies thereof, and the Registrar may, at any time before the petition has been advertised, alter the time appointed and fix another time.

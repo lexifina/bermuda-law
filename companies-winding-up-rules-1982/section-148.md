@@ -1,0 +1,2 @@
+# Application for payment out by person entitled
+148 An application by a person claiming to be entitled to any money paid into the Consolidated Fund in pursuance of section 257 of the Act, shall be made in such form and manner as the Minister may from time to time direct, and shall, unless the Minister otherwise directs, be accompanied by the certificate of the liquidator that the person claiming is entitled and such further evidence as the Minister may direct.
