@@ -1,0 +1,2 @@
+# Exemptions
+8 The Minister may exempt any ship or description of ships from all or any provision of these Regulations (as may be specified in the exemption), if he is satisfied that compliance with such provisions is either impracticable or unreasonable in the case of that ship or description of ships, on such terms as he may specify and may, subject to giving reasonable notice, alter or cancel any such exemption.
