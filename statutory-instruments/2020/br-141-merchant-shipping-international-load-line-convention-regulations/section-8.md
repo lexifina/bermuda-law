@@ -1,0 +1,5 @@
+# Equivalents
+8 (1) Subject to paragraph (2), an Assigning Authority may—
+(a) allow any fitting, material, appliance or apparatus to be fitted in a ship, or allow other provisions to be made in a ship, in the place of any fitting, material, appliance, apparatus or provision which is required under these Regulations, if satisfied by trial or otherwise that it is at least as effective as that so required by the applicable Convention requirements; or
+(b) allow in an exceptional case, departure from the applicable Convention requirements on condition that the freeboards to be assigned to the ship are increased to such an extent as to satisfy the Minister that the safety of the ship and protection afforded to the crew will be no less effective than would be the case if the ship fully complied with those requirements and there were no such increase of freeboards.
+(2) Where the Assigning Authority is not the Minister, the Assigning Authority may allow an equivalent under paragraph (1), only with the approval of the Minister.

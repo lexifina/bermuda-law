@@ -1,0 +1,23 @@
+# Extension of periods of validity of an International Load Line Certificate
+18 (1) If an International Load Line Certificate is issued for a period of less than five years, the Assigning Authority may extend the validity of the certificate beyond the expiry date, to a period not exceeding five years beginning with the date of completion of the initial or renewal survey, provided that the annual surveys applicable when a certificate is issued for a period of five years are carried out, as appropriate.
+(2) If, after the renewal survey, a new certificate cannot be issued to the ship before the expiry of the existing certificate, the Assigning Authority may extend the validity of the existing certificate for a period which must not exceed five months, if the Assigning Authority is satisfied that there have been no alterations in the structure, equipment, arrangements, materials or scantlings which affect the ship’s freeboard.
+(3) Where an extension is granted pursuant to paragraph (2), the Assigning Authority must endorse the extension on the existing certificate.
+(4) If, at the time when a certificate expires, a ship is not in the port in which it is to be surveyed, the Assigning Authority may extend the validity of the certificate for a period no longer than three months beginning with the date of expiry of the certificate if—
+(a) the Assigning Authority is satisfied that it is proper and reasonable to extend the validity of the certificate, for the purpose of allowing the ship to complete its voyage to the port in which it is to be surveyed; and
+(b) the Assigning Authority, if not the Minister, has the authority of the Minister to grant such an extension.
+(5) Where a ship has been granted an extension pursuant to paragraph (4), on its arrival in the port in which it is to be surveyed, the ship must be subject to a renewal survey.
+(6) Subject to paragraph (9), a certificate issued following a renewal survey referred to in paragraph (5), must have an expiry date not exceeding five years from the date of expiry of the previous certificate before the extension was granted pursuant to paragraph (4).
+(7) Where a certificate has been issued to a ship engaged on short voyages and the validity of that certificate has not been extended pursuant to paragraph (1), (2) or (4), the Assigning Authority may extend the validity of that certificate for a period of not more than one month beginning with the date of its expiry.
+(8) Subject to paragraph (9), where a renewal survey is completed following an extension granted pursuant to paragraph (7), the Assigning Authority must ensure that the new certificate is valid for a period ending on a date which does not exceed five years from the expiry of the previous certificate before the extension was granted.
+(9) In special circumstances, as determined by the Assigning Authority, a new certificate need not be dated from the expiry of the existing certificate as required by paragraphs (4) and (6) to (8) and may instead, be valid for a period ending on a date which is not more than five years from the date of completion of the renewal survey.
+(10) If an annual survey is completed before the period specified in regulation 12(1) (c), then—
+(a) the Assigning Authority must endorse a new anniversary date on the certificate which is not more than three months later than the date on which the annual survey was completed;
+(b) the Assigning Authority must complete the subsequent annual survey at the intervals prescribed by regulation 12(1)(c), using the new anniversary date; and
+(c) the Assigning Authority may permit the expiry date to remain unchanged, provided one or more annual surveys are carried out so that the maximum intervals between surveys prescribed by regulation 12(1)(c) are not exceeded.
+(11) An International Load Line Certificate issued in respect of a Bermuda ship ceases to be valid where—
+(a) material alterations have taken place in the hull or superstructures such as would necessitate the assignment of an increased freeboard;
+(b) the fittings and appliances mentioned in regulation 12(1)(c)(ii) are not maintained in an effective condition;
+(c) the certificate is not endorsed in accordance with regulation 12(2), to show the ship has been surveyed in accordance with regulation 12(1)(c);
+(d) the structural strength of the ship is lowered to such an extent that the ship is unsafe; or
+(e) the ship ceases to be a Bermuda ship.
+(12) In this regulation “short voyages” means voyages where neither the distance from the port in which a voyage begins and the final port of destination nor the return voyage exceeds 1,000 nautical miles.
