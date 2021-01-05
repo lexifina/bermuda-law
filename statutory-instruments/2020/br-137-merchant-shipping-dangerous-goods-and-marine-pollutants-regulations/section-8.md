@@ -1,0 +1,3 @@
+# Misconduct endangering a Bermuda ship or persons aboard
+8 (1) In connection with the handling, stowage and carriage of dangerous goods in a Bermuda ship, no person shall intentionally or recklessly interfere with or misuse anything provided on, or disobey instructions displayed on the ship in the interests of health or safety, in pursuance of the Merchant Shipping Act 2002 or any Regulations or Rules made thereunder.
+(2) If any person aboard a ship carrying dangerous goods fails to comply with paragraph (1), he commits an offence and is liable on summary conviction, to a fine not exceeding $10,000.
