@@ -1,0 +1,5 @@
+# Application
+3 (1) These Regulations apply, subject to this regulation, to 1986-1994 gas carriers and to new gas carriers.
+(2) Where a ship is constructed or adapted to carry one or more of the substances listed both in Chapter 17 of the IBC Code and in Chapter 19 of the IGC Code and is not constructed or adapted to carry any substance listed only in Chapter 19 of the IGC Code, then these Regulations shall not apply to that ship.
+(3) These Regulations apply to all ships specified in paragraph (1), which are Bermuda ships, wherever they may be and to other such ships while they are in inland waters or in the territorial waters of Bermuda.
+(4) In the case of a ship registered in a State which is not a party to the SOLAS Convention, these Regulations shall not apply, by reason of the ship being in the inland waters or in the territorial waters of Bermuda, if the ship would not have been there, but for stress of weather or any circumstances which could not have been prevented by the owner, the master or the charterer (if any).
