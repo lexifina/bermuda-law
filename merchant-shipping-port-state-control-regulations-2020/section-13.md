@@ -1,0 +1,3 @@
+# Power to permit detained ship to proceed to repair yard
+13 (1) Where deficiencies referred to in regulation 9(1) cannot be rectified in the port of inspection, an inspector may allow the ship to proceed without delay to the appropriate repair yard nearest to the port of detention, as chosen by the master and authorities concerned, where follow-up action can be taken, provided the conditions determined by the competent authority of the flag administration and agreed to by the inspector, are complied with.
+(2) Such conditions must ensure that the ship can proceed without risk to the safety and health of passengers or crew, or risk to other ships, or without there being an unreasonable threat of harm to the marine environment.
