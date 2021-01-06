@@ -1,0 +1,4 @@
+# Professional profile of inspectors
+8 (1) Subject to paragraph (2), inspections under these Regulations must be carried out by inspectors qualified and trained as per Chapters 1.8 and 1.9 of IMO Resolution A 1119(30) and employed by the Authority.
+(2) Where an inspector with the required professional expertise cannot be provided by the Minister, the inspector may be assisted by any person with the required professional expertise.
+(3) An inspector and any person assisting an inspector must have no commercial interest either in the port of inspection or in the ships inspected, nor must the inspectors be employed by, or undertake work on behalf of non-governmental organisations which issue statutory and classification certificates or which carry out surveys necessary for the issue of those certificates, to ships.
