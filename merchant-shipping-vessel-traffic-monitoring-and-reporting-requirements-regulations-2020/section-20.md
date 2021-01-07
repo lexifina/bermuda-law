@@ -1,0 +1,2 @@
+# Offences due to the fault of another person
+20 Where an offence under these Regulations is committed, or would have been committed but for the operation of regulation 19, by any person due to the act or default of some other person, that other person commits the offence, and a person may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first mentioned person.
