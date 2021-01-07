@@ -1,0 +1,8 @@
+# Penalties
+55 (1) An owner who contravenes regulation 42(2) commits an offence and is liable on summary conviction, to a fine not exceeding $10,000 or on conviction on indictment, to a fine not exceeding $20,000, or to imprisonment not exceeding 6 months, or both.
+(2) Any company which contravenes regulation 46(2), 47(1) or (2), 48, 49, 51(6) or 52 commits an offence and is liable on summary conviction, to a fine not exceeding $10,000, or on conviction on indictment, to a fine not exceeding $20,000 or to imprisonment not exceeding 6 months, or both.
+(3) Any master who contravenes regulation 46(2), 47(1) or (2), 48, 49, 51(6) or 52 commits an offence and is liable on summary conviction, to a fine not exceeding $10,000, or on conviction on indictment, to a fine not exceeding $20,000 or to imprisonment not exceeding 6 months, or both.
+(4) Any member of the crew who contravenes regulation 51(6) commits an offence and is liable on summary conviction, to a fine not exceeding $10,000.
+(5) Any chief engineer who contravenes regulation 47(3) commits an offence and is liable on summary conviction, to a fine not exceeding $10,000.
+(6) It is a defence for a person charged with an offence under these Regulations, that the person took all reasonable steps to avoid commission of the offence.
+(7) In any proceedings for an offence under these Regulations consisting of a failure to comply with a duty or requirement to do something, so far as is reasonably practicable, it is for the person charged to prove that it was not reasonably practicable to do more than was in fact done to satisfy the duty or requirement.
