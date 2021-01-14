@@ -1,0 +1,2 @@
+# Penalty for false representations, etc., to obtain registration
+30 If a person procures or attempts to procure the entry of any name on the register by wilfully making or producing, or causing to be made or produced, either orally or in writing, any declaration, certificate or representation which he knows to be false, he commits an offence and is liable on summary conviction to a fine of $20,000.
