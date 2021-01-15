@@ -1,0 +1,4 @@
+# Metric system and imperial system
+2 For the purposes of these Regulations—
+(a) a controlled drug shall not be regarded as supplied otherwise than on a prescription or other order by reason only that the prescription or order specifies a quantity of the controlled drug in terms of’ the imperial system and the quantity supplied is the equivalent of that amount In the metric system;
+(b) where any person may lawfully be in possession of a quantity of a controlled drug determined by or under these Regulations in terms of the imperial system he shall be deemed not to be in possession of a quantity of that controlled drug in excess of the first-mentioned quantity by reason only that he is in possession of a quantity of that drug which is the equivalent of the first-mentioned quantity in the metric system.

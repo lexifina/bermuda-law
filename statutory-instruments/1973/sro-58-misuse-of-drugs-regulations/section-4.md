@@ -1,0 +1,6 @@
+# Licences to produce controlled drugs
+4 (1) Where any person is authorised by a licence of the Minister issued under this regulation and for the time being in force to import, export, produce, supply, offer to supply or have in his possession any controlled drug, it shall not by virtue of section 4(1), 5(1) or 6(1) of the Act be unlawful for that person to import, export, produce, supply, offer to supply or have in his possession that drug in accordance with the terms of the licence and in compliance with any conditions attached to the licence.
+(2) Any person entering Bermuda who imports or has in his possession any of the controlled drugs specified in Schedule 2 shall be deemed to be licensed under this regulation if—
+(a) he has possession of those drugs upon the authority of a prescription issued by a duly qualified medical practitioner outside Bermuda and in such quantity as shall be necessary for his own use for a period not exceeding 7 days; and
+(b) he has made full declaration of all drugs in his possession to a customs officer; and
+(c) he has deposited with a customs officer any quantity of those drugs in excess of 7 days supply which shall not be returned to him before his departure from Bermuda except with the written authority of a physician.
