@@ -1,0 +1,12 @@
+# Revocation and discharge of legal aid certificate
+17 (1) Where the Committee is satisfied that an assisted person has wilfully failed to comply with any provision of this Act or the regulations as to information to be supplied by him, or in furnishing such information has wilfully or recklessly made a false statement or false representation, they may if they think fit—
+(a) where such act or omission took place prior to the grant of the certificate, revoke the certificate ab initio; or
+(b) where the act or omission took place after the grant of the certificate, discharge the certificate with effect from the date when the act or omission occurred.
+(1A) If on account of information received by him from any source assigned counsel is at any time of the opinion that by reason of a change in the circumstances of the assisted person the continued extension of legal aid to the assisted person can or may no longer be justified, assigned counsel shall—
+(a) inform the Committee by notice in writing of the facts so far as they are known to him, specifying to the best of his ability the time when the change occurred; and
+(b) give a copy of the notice to the assisted person.
+(1B) Upon receipt of a notice under subsection (1A), the Committee may adjudge that such a change as aforesaid has indeed occurred, determine the date on which it occurred and discharge the certificate.
+(1C) The Committee shall not exercise any of its powers under subsection (1) or (1B) until the assisted person has been given an opportunity to show cause why the certificate should not be revoked or discharged, as the case may be.
+(2) The revocation or discharge of a certificate shall not affect the right of counsel to receive remuneration under section 13 in respect of any work done by him which is included within the scope of that certificate before the revocation or discharge thereof took effect.
+(3) Notice of revocation or discharge of a legal aid certificate shall forthwith be given in writing to the Registrar and to assigned counsel.
+(4) The Attorney-General may, by action in any Court of competent jurisdiction, recover from an assisted person whose certificate has been revoked or discharged, for the benefit of the Consolidated Fund, any amount which has been paid thereout in consequence of the grant of that certificate, with effect in the case of revocation from the date of the grant and in the case of discharge from the date of the discharge.

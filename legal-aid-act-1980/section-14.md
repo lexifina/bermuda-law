@@ -1,0 +1,2 @@
+# Prohibition against taking fees from assisted person
+14 No counsel who acts for an assisted person under the authority of a certificate shall take or agree to take or seek from that assisted person or from any other person any fee, profit or reward, pecuniary or otherwise in respect of any work done for or on behalf of the assisted person after the issue of that certificate and included within the scope of that certificate.
