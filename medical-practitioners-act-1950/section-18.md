@@ -1,0 +1,4 @@
+# Reprimand
+18 (1) Where it appears to the Council that a condition specified in section 17(1)(a), (b), (c), (e) or (f) obtains in the case of a registered medical practitioner, the Council may, subject to subsection (2) of this section, direct the Registrar to record in the register, against the name of the registered medical practitioner, a reprimand in such terms as the Council consider appropriate to the circumstances of the case.
+(2) The provisions of sections 13 and 14 relating to inquiries to be held by the Council, notification of findings and decisions of the Council and a right of appeal against any such finding or decision shall apply as nearly as may be in relation to any proceedings under this section as those provisions apply in relation to proceedings under those sections.
+[Section 18 amended by 2020 : 47 s. 51 effective 11 December 2020]
