@@ -1,0 +1,2 @@
+# Adjournment
+8 The Council may at any stage of the proceedings adjourn the inquiry to a subsequent hearing of the Council and, where the day, hour and place for such hearing are not appointed at the time of the adjournment, the Chairman shall, not less than twenty-one days before the day appointed, and in the manner specified in regulation 7 give notice to the person affected and to the complainant, if any, of the day, hour and place appointed; but if the person affected and the complainant, if any, so agree the notice may be waived or modified.

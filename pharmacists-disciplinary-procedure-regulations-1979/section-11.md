@@ -1,0 +1,2 @@
+# Validity of later proceedings
+11 Where under any of the foregoing provisions of these regulations an inquiry is adjourned from one hearing to another, or a decision or any part of it is postponed to a future hearing, the validity of the proceedings at the later hearing shall not be called into question by reason only that members of the Council who were present at the earlier hearing were not present at a later hearing, or that members of the Council who were present at the later hearing were not present at the earlier hearing.
