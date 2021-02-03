@@ -1,0 +1,5 @@
+# Unqualified persons; offences
+3 (1) A person who is not a dental hygienist shall not take or use any name, title or description (whether by initials or otherwise) stating or implying that he is a dental hygienist.
+(2) A person, whether or not a dental hygienist, shall not take or use, or affix to or use in connection with any premises, any name, title or description (whether by initials or otherwise) reasonably calculated to suggest that he possesses any professional status or qualification as a dental hygienist other than a professional status or qualification which he in fact possesses, and which, in the case of a dental hygienist, is indicated by particulars entered in pursuance of regulation 7 in the dental hygienists’ register in respect of him.
+(3) Any person who contravenes any of the foregoing provisions of this regulation commits an offence against these Regulations and is liable on summary conviction to the penalty set forth in section 2(3) of the Dental Practitioners Act 1950.
+[Regulation 3 paragraph (3) amended by 2020 : 47 s.133 effective 11 December 2020]
