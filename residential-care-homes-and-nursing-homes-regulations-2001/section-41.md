@@ -1,0 +1,3 @@
+# Record to be kept
+41 An operator shall keep a record in such form as may be approved by the Chief Fire Officer pursuant to section 40(1) of the Fire Safety Act 2014 in the home in which shall be recorded every fire drill, fire training session, test of fire alarm system and any outbreak of fire and each such entry shall be signed by the person conducting the drill, training session or testing of the fire alarm system or, in the case of an outbreak of fire, by the person in charge of the home at the time of the outbreak; and such a record shall be produced for inspection, upon request, by the Chief Fire Officer or any person authorised by him to make such request.
+[Regulation 41 amended by 2014 : 33 s. 55 effective 1 January 2018]
