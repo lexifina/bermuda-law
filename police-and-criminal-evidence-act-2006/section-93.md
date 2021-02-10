@@ -1,0 +1,5 @@
+## Miscellaneous
+# Exclusion of unfair evidence
+93 (1) In any proceedings the court may refuse to allow evidence on which the prosecution proposes to rely to be given if it appears to the court that, having regard to all the circumstances, including the circumstances in which the evidence was obtained, the admission of the evidence would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+(2) Nothing in this section shall prejudice any rule of law requiring a court to exclude evidence.
+(3) This section shall not apply in the case of proceedings before the Magistrates Court inquiring into an offence as examining magistrates.

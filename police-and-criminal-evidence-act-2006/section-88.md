@@ -1,0 +1,7 @@
+# Conviction as evidence of commission of offence
+88 (1) In any proceedings the fact that a person other than the accused has been convicted of an offence by or before any court in Bermuda shall be admissible in evidence for the purpose of proving, where to do so is relevant to any issue in those proceedings, that that person committed that offence, whether or not any other evidence of his having committed that offence is given.
+(2) In any proceedings in which by virtue of this section a person other than the accused is proved to have been convicted of an offence by or before any court in Bermuda, he shall be taken to have committed that offence unless the contrary is proved.
+(3) In any proceedings where evidence is admissible of the fact that the accused has committed an offence, in so far as that evidence is relevant to any matter in issue in the proceedings for a reason other than a tendency to show in the accused a disposition to commit the kind of offence with which he is charged, if the accused is proved to have been convicted of the offence by or before any court in Bermuda, he shall be taken to have committed that offence unless the contrary is proved.
+(4) Nothing in this section shall prejudice—
+(a) the admissibility in evidence of any conviction which would be admissible apart from this section; or
+(b) the operation of any enactment whereby a conviction or a finding of fact in any proceedings is for the purposes of any other proceedings made conclusive evidence of any fact.
