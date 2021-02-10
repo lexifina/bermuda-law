@@ -1,0 +1,22 @@
+# Access and copying
+21 (1) A police officer who seizes anything in the exercise of a power conferred by any enactment, including an enactment contained in an Act passed after this Act shall, if so requested by a person showing himself—
+(a) to be the occupier of premises on which it was seized; or
+(b) to have had custody or control of it immediately before the seizure,
+provide that person with a record of what he seized.
+(2) The officer shall provide the record within a reasonable time from the making of the request for it.
+(3) Subject to subsection (8), if a request for permission to be granted access to anything which—
+(a) has been seized by a police officer; and
+(b) is retained by the police for the purpose of investigating an offence,
+is made to the officer in charge of the investigation by a person who had custody or control of the thing immediately before it was so seized or by someone acting on behalf of such a person, the officer shall allow the person who made the request access to it under the supervision of a police officer.
+(4) Subject to subsection (8), if a request for a photograph or copy of any such thing is made to the officer in charge of the investigation by a person who had custody or control of the thing immediately before it was so seized, or by someone acting on behalf of such a person, the officer shall—
+(a) allow the person who made the request access to it under the supervision of a police officer for the purpose of photographing or copying it; or
+(b) photograph or copy it, or cause it to be photographed or copied.
+(5) A police officer may also photograph or copy, or have photographed or copied, anything which he has power to seize, without a request being made under subsection (4).
+(6) Where anything is photographed or copied under subsection (4)(b), the photograph or copy shall be supplied to the person who made the request.
+(7) The photograph or copy shall be so supplied within a reasonable time from making of the request.
+(8) There is no duty under this section to grant access to, or to supply a photograph or copy of, anything if the officer in charge of the investigation for the purposes of which it was seized has reasonable grounds for believing that to do so would prejudice—
+(a) that investigation;
+(b) the investigation of an offence other than the offence for the purposes of investigating which the thing was seized; or
+(c) any criminal proceedings which may be brought as a result of—
+(i) the investigation of which he is in charge; or
+(ii) any such investigation as is mentioned in paragraph (b).

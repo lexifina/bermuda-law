@@ -1,0 +1,20 @@
+# Impressions of footwear
+64A (1) Except as provided by this section, no impression of a person’s footwear may be taken without the appropriate consent.
+(2) Consent to the taking of an impression of a person’s footwear must be in writing if it is given at a time when he is at a police station.
+(3) Where a person is detained at a police station, an impression of his footwear may be taken without the appropriate consent if—
+(a) he is detained in consequence of his arrest for a recordable offence, or has been charged with a recordable offence, or informed that he will be reported for a recordable offence; and
+(b) he has not had an impression taken of his footwear in the course of the investigation of the offence by the police.
+(4) Where a person mentioned in subsection (3)(a) has already had an impression taken of his footwear in the course of the investigation of the offence by the police, that fact shall be disregarded for the purposes of that subsection if the impression of his footwear taken previously is—
+(a) incomplete; or
+(b) is not of sufficient quality to allow satisfactory analysis, comparison or matching (whether in the case in question or generally).
+(5) If an impression of a person’s footwear is taken at a police station, whether with or without the appropriate consent—
+(a) before it is taken, an officer shall inform him that it may be the subject of a speculative search; and
+(b) the fact that the person has been informed of this possibility shall be recorded as soon as is practicable after the impression has been taken, and if he is detained at a police station, the record shall be made on his custody record.
+(6) In a case where by virtue of subsection (3), an impression of a person’s footwear is taken without the appropriate consent—
+(a) he shall be told the reason before it is taken; and
+(b) the reason shall be recorded on his custody record as soon as is practicable after the impression is taken.
+(7) The power to take an impression of the footwear of a person detained at a police station without the appropriate consent shall be exercisable by any police officer or a person employed in the Bermuda Police Service.
+(8) Nothing in this section applies to any person—
+(a) arrested or detained under any law relating to terrorism; or
+(b) arrested or detained under any law pertaining to extradition.
+[Section 64A inserted by 2009:33 s.11 effective 7 September 2009; amended by 2009:52 s.3 effective 4 January 2010]

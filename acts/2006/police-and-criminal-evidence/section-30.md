@@ -1,0 +1,7 @@
+# Arrest for further offence
+30 Where—
+(a) a person—
+(i) has been arrested for an offence; and
+(ii) is at a police station in consequence of that arrest; and
+(b) it appears to a police officer that, if he were released from that arrest, he would be liable to arrest for some other offence,
+he shall be arrested for that other offence.
