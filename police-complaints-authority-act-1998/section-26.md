@@ -1,0 +1,4 @@
+# Privilege
+26 (1) No proceedings, civil or criminal, shall lie against the Authority, or against any person acting under the direction of the Authority, for anything done or reported or said by the Authority or person in the course of the exercise or intended exercise of their functions under this Act, unless it is shown that the Authority or person acted in bad faith.
+(2) No member of the Authority or person acting under the direction of the Authority, shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to their knowledge in the exercise of their functions under this Act.
+(3) Anything said or any information given or any document or thing produced by any person in the course of any investigation conducted by, or proceedings before, the Authority under this Act shall be privileged in the same manner as if the investigation or proceedings were proceedings in a court.
