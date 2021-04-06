@@ -1,0 +1,4 @@
+# Limitations
+4 (1) The Minister may not issue a permit to a restricted person unless the annual rental value of the licensed land in respect of which the permit is sought exceeds the prescribed minimum annual rental value applicable to that person in respect of that land.
+(2) Despite subsection (1), if the annual rental value of the licensed land in respect of which a restricted person seeks a permit does not exceed the prescribed minimum annual rental value, then, subject to subsection (3), the Minister may issue a permit for that person to enter into a rental agreement in respect of the licensed land for a maximum of six months in any twelve month period.
+(3) The Minister may not issue a permit under subsection (2) to a restricted person who is to reside in Bermuda during the period of the rental agreement unless that person has the Minister’s permission to reside in Bermuda during that period.
