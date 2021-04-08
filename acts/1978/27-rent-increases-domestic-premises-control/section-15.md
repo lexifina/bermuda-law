@@ -1,0 +1,6 @@
+# Grant of certificate
+15 (1) Where a landlord applies for an increase in rent under section 14, the Commissioner, on receipt of the comments of the tenant under section 14(4) or after one month from the service of a copy of the application on the tenant in accordance with section 14(3), whichever is the sooner, may—
+(a) if satisfied that an increase in rent would be reasonable in the circumstances of the tenancy, issue free of charge and serve on the landlord and on the tenant certificates in the specified form stating a fair increase which shall not exceed the increase specified in the application under section 14; or
+(b) if not satisfied that an increase in rent would be reasonable in the circumstances of the tenancy, issue free of charge and serve on the landlord and on the tenant certificates in the specified form to that effect, and he may endorse on the certificates such comments as he may think proper relating to such application.
+(2) The Commissioner shall determine any application and any dispute of fact arising out of an application in an informal and summary manner.
+(3) The landlord or the tenant may within 7 days of the service upon him of a certificate issued under subsection (1)(a) or (b) require the Commissioner to state his reasons for issuing such certificate.
