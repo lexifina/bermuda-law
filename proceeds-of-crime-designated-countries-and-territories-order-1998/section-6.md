@@ -1,0 +1,2 @@
+# Certificate as to appropriate authority of a designated country
+6 Where in relation to any designated country no authority is specified in Schedule 1, a certificate made by the Attorney-General to the effect that the authority specified therein is the appropriate authority for the purposes of sections 53 and 54 of the Act, and of the other relevant provisions of the Act as applied by article 3(2) of this Order shall be sufficient evidence of that fact.
