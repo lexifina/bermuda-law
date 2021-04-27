@@ -1,0 +1,12 @@
+# Evidence in relation to proceedings and orders in a designated country
+5 (1) For the purposes of sections 53 and 54 of the Act, and of the other relevant provisions of the Act as applied under article 3(2), a certificate purporting to be issued by or on behalf of the appropriate authority of a designated country, stating—
+(a) that proceedings have been instituted there and have not been concluded, or that proceedings are to be instituted there;
+(b) in a case to which section 8 of the Act (institution of proceedings), as modified by Schedule 2, applies, that the defendant has been notified as specified in that paragraph;
+(c) that an external confiscation order is in force and is not subject to appeal;
+(d) that all or a certain amount of the sum payable under an external confiscation order remains unpaid in the designated country, or that other property recoverable under an external confiscation order remains unrecovered there;
+(e) that any person has been notified of any proceedings in accordance with the law of the designated country; or
+(f) that an order (however described) made or to be made by a court of the designated country has the purpose, or, as the case may be, will have the purpose, of recovering payments or other rewards received in connection with drug trafficking or relevant offences or their value;
+shall, in any proceedings in the Supreme Court, be admissible as evidence of the facts so stated.
+(2) In any such proceedings a statement contained in a document, duly authenticated, which purports to have been received in evidence or to be a copy of a document so received, or to set out or summarise evidence given in proceedings in a court in a designated country, shall be admissible as evidence of any fact stated therein.
+(3) A document is duly authenticated for the purposes of paragraph (2) if it purports to be certified by any person in his capacity as a judge, magistrate or officer of the court in a designated country, or by or on behalf of the appropriate authority of the designated country, to have been received in evidence or to be a copy of a document so received, or, as the case may be, to be the original document containing or summarising the evidence or a true copy of that document.
+(4) Nothing in this article shall prejudice the admission of any evidence, whether contained in any document or otherwise, which is admissible apart from this article.
