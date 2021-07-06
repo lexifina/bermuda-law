@@ -1,0 +1,17 @@
+# Report of suspicious wagers
+8 (1) If a betting operator forms the opinion that—
+(a) a bet is a suspicious wager; or
+(b) an event is a suspicious event,
+it shall promptly report the bet or the event to the Financial Intelligence Agency and to the Commission, together with the reasons for the opinion.
+(2) The report to the Commission shall be in such form as the Commission may require.
+(3) Each person involved in the formation of the opinion or the reporting of it shall keep the fact of the report confidential.
+(4) The betting operator may inform a patron of the report if it is refusing to pay the patron a winning bet on the instruction of the Commission.
+(5) In this regulation—
+“suspicious event” means an event—
+(a) in relation to which the betting operator accepted or offered to accept bets; and
+(b) which the betting operator knows or suspects has been or will be subject to interference or attempted interference;
+“suspicious wager” means a bet to which any of the following apply—
+(a) it is above $5,000 (as a single wager or as an aggregate over a 24-hour period);
+(b) the betting operator reasonably believes it may be a violation of any provision of law;
+(c) the betting operator reasonably believes it is not the sort of bet which that patron would normally be expected to place, and the betting operator knows of no reasonable explanation for the wager after considering the known facts; or
+(d) the bet relates to an event that has attracted unusual betting activity, such that the integrity of the event is called into question.
