@@ -1,0 +1,3 @@
+# Recovery of fees
+7 (1) Any fee or any penalty payable under these Regulations may be recovered by the Commission in its own name in a court of summary jurisdiction as a civil debt, irrespective of the amount so payable, and any officer of the Commission may conduct such proceedings.
+(2) A certificate signed by an officer of the Commission stating the amount of any fees and costs due and unpaid shall in the absence of manifest error be conclusive evidence that the sum stated in the certificate is unpaid and is due to the Commission, and any document purporting to be such a certificate shall be deemed to be such a certificate until the contrary is proved.
