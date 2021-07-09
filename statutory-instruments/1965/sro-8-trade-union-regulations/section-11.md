@@ -1,0 +1,3 @@
+# Amalgamation
+11 (1) Where two or more trade unions become amalgamated together, notice shall be given to the Registrar in duplicate by the secretary and seven members of each or every trade union which is a party to the amalgamation, and shall be given in duplicate in Form N in the First Schedule and shall be accompanied by certificates of each secretary made in Form O in the First Schedule, and by a printed or typewritten copy of the rules of the amalgamated trade union.
+(2) The Registrar shall return to the amalgamated trade union one copy of the notice endorsed with the word “registered” and duly authenticated.
