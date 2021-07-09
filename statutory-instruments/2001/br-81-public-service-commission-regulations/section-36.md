@@ -1,0 +1,3 @@
+# Improper influence
+36 (1) Any person who otherwise than in the course of his duty directly or indirectly by himself or by any other person in any manner whatsoever influences or attempts to influence any decision of the Commission or of the Chairman or of any member or any person acting under delegation powers commits an offence and is liable on summary conviction to imprisonment for 6 months or a fine of $1200, or both.
+(2) Nothing in paragraph (1) prohibits any person who may properly do so from giving a certificate or testimonial to any applicant or candidate for any office or from supplying any information or assistance upon formal request by the Commission.

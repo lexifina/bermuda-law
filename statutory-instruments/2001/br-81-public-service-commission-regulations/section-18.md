@@ -1,0 +1,7 @@
+## PART IV
+## PROCEDURE FOR MAKING APPOINTMENTS
+# Cabinet specification of qualifications and emoluments
+18 (1) Subject to these Regulations, the qualifications or relevant experience, or both, for any office shall be those for the time being specified by the Head of the Public Service for that office or for the class or grade to which that office belongs and the Commission shall recommend for appointment thereto a person who possesses such qualifications or relevant experience, or both.
+(1A) Notwithstanding paragraph (1), the Commission may recommend for appointment a person who does not possess the qualifications or relevant experience, or both, as specified by the Head of the Public Service, if the Commission is satisfied that the person is of sufficient merit to enable it to make the recommendation.
+(2) The emoluments attaching to any office shall be such as may be approved by the Cabinet, and no person shall be recommended by the Commission for appointment to an office except at the salary so approved for that office or at a salary in a scale so approved for the class or grade to which that office belongs.
+[Regulation 18 amended by BR 51/2003 effective 29 August 2003; regulation 18 para 1 amended by BR 86/2007 reg. 2 effective 28 September 2007; para (1) amended and para (1A) inserted by BR 34 / 2017 reg. 2 effective 10 April 2017; Regulation 18 amended by BR 85 / 2021 reg. 2 effective 7 June 2021]
