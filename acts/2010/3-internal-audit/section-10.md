@@ -1,0 +1,3 @@
+# Conflict of interest
+10 (1) Where the Director or the Committee considers that there would be a conflict of interest if the Director were to conduct an internal audit, the Committee may appoint a senior public officer from amongst the officers of the Department to conduct that investigation in the Director’s stead.
+(2) An officer of the Department who has any form of a conflict of interest in an internal audit that officer is assigned to work upon, whether such conflict is direct or indirect, shall immediately disclose to the Director (and if the officer is the Director, immediately disclose to the Committee) that officer’s interest and shall refrain completely from being involved in that internal audit.

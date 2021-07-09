@@ -1,0 +1,3 @@
+# Confidentiality of information furnished by auditee
+13 (1) All information furnished by an auditee during the course of any internal audit shall at all times be treated by the Department as confidential and shall be used by the Department solely for the purpose of carrying out the internal audit.
+(2) The Director shall treat internal audit reports as strictly confidential and shall, except in pursuance of section 11 or for the purpose of any criminal investigation or prosecution, only disclose their contents to the Permanent Secretary and, if a report deals with a suspected case of irregularity or fraud, or if the Director thinks it necessary, to the Committee and to the Auditor General.
