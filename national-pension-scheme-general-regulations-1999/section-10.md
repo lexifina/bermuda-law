@@ -1,0 +1,5 @@
+# Administrator to provide information to eligible persons, etc.
+10 For the purposes of the information required to be provided by an administrator under section 13 of the Act, that information shall be provided—
+(a) in the case of a person who is eligible to be a member of a pension plan upon commencement of employment, within thirty days after the date of such commencement, or, where prior notice of commencement is not provided to the administrator, within thirty days after the administrator receives notice of such commencement;
+(b) in the case of a person who is a member of a pension plan on the date that the plan is established within thirty days after the date of such establishment; and
+(c) in the case of a person who at some date in the future will become eligible to be a member of a pension plan, within sixty days prior to such date, or, where prior notice of such eligibility is not provided to the administrator, within thirty days after the administrator receives notice of such eligibility.
