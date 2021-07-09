@@ -1,0 +1,3 @@
+# Acceptance of bonds, etc. by pension fund
+37 Where a pension fund owns investments in a company and, as a result of arrangements for the reorganisation or liquidation of the company, or for the amalgamation of the company with another company, the investments are to be exchanged for bonds, debentures or other evidences of indebtedness, or shares that result in the limitations set out in this Part being exceeded, the pension fund may accept and hold such bonds, debentures or other evidence of indebtedness or shares for a period not exceeding one year unless approved by the Commission.
+[Regulation 37 inserted by BR70/2000 effective 20 September 2000]

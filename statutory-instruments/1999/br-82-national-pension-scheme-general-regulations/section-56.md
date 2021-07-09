@@ -1,0 +1,10 @@
+# Employer holds money in trust for member
+56 (1) Where an employer receives money from a member under an arrangement that the employer will pay the money into a pension fund as the member’s contribution under the pension plan, the employer shall be deemed to hold the money in trust for the member until the employer pays the money into the pension fund.
+(2) For the purposes of paragraph (1), money withheld by an employer, whether by payroll deduction or otherwise, from money payable to a member shall be deemed to be money received by the employer from the member.
+(3) An employer who is required to pay contributions to a pension fund shall be deemed to hold in trust for the beneficiaries of the pension plan an amount of money equal to the employer contributions due and not paid into the pension fund.
+(4) Where a pension plan is wound up in whole or in part, an employer who is required to pay contributions to the pension fund shall be deemed to hold in trust for the beneficiaries of the pension plan an amount of money equal to employer contributions, including money received by the employer from the member, accrued to the date of the wind up but not yet due under the plan or regulations.
+(5) The administrator of a pension plan has a lien and charge on the assets of the employer in an amount equal to the amounts deemed to be held in trust under paragraphs (1), (3) and (4).
+(6) The assets or property of an employer or the proceeds of sale of the assets or property shall not be distributed to any person entitled thereto until provision has been made for the payment into a pension fund of any amount payable by the employer.
+(7) Paragraphs (1), (3) and (4) apply whether or not the money has been kept separate and apart from other money or property of the employer.
+(8) Paragraphs (1) to (7) apply with necessary modifications in respect of money to be paid to an insurance company that guarantees pension benefits under a pension plan.
+[Regulation 56 inserted by BR 60 / 2004 effective 18 August 2004; Regulation 56 paragraph (4) amended by 2019 : 48 s. 40 effective 30 December 2019]
