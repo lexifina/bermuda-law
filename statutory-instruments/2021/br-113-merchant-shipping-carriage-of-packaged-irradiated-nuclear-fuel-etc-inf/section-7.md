@@ -1,0 +1,2 @@
+# Power to detain
+7 In any case where a ship does not comply with the requirements of these Regulations, the ship shall be liable to be detained and section 242 of the Merchant Shipping Act 2002 (which relates to the detention of a ship) shall have effect in relation to the ship as if for the words “this Act”, wherever they appear in that section, there were substituted, the words “the Merchant Shipping (Carriage of Packaged Irradiated Nuclear Fuel etc.) (INF Code) Regulations 2021”.
