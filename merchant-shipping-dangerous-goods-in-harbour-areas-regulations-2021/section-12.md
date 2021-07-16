@@ -1,0 +1,6 @@
+# Untoward incidents
+12 (1) The master of a vessel carrying dangerous goods must immediately inform the harbour master, or if the vessel is at a berth, the berth operator and the harbour master, of any untoward incident which occurs or has occurred on the vessel.
+(2) The berth operator must immediately inform the harbour master, and the master of any vessel at the berth, of any untoward incident which occurs on the berth.
+(3) Where an untoward incident occurs during the operation of handling dangerous goods, the person in control of the operation must stop the operation as soon as it is safe to do so and must immediately report the incident, to the harbour master, the berth operator and the master of any vessel that may be affected by the incident and, where appropriate, the emergency services.
+(4) Where an operation has been stopped in accordance with paragraph (3), it shall not be resumed until it is safe to do so in the opinion of the harbour master.
+(5) In this regulation, an “untoward incident” means an incident involving or threatening the containment of dangerous goods inside a harbour area, which might create in the harbour area, a serious risk to the health and safety of any person or a risk to the safety of a vessel.
