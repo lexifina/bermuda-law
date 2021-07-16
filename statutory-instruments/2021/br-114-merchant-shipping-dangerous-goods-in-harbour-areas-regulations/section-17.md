@@ -1,0 +1,3 @@
+# Consideration of licence applications
+17 (1) The appropriate authority must take account of any comments or objections received by it in response to a licence application and may reject the application or may grant the licence or variation subject to such conditions as it considers appropriate, with or without time limit and subject to variation or revocation in writing, at any time.
+(2) The appropriate authority may grant a provisional explosives licence or vary an existing licence in cases of urgency and any such provisional licence or variation may have effect for a period not exceeding six months from the date on which it was granted, unless revoked in writing by the appropriate authority before its date of expiry.
