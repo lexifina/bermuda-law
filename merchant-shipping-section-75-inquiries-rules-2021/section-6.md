@@ -1,0 +1,5 @@
+# Holding of the inquiry
+6 (1) Subject to paragraph (2), at the time, date and the place appointed for holding the inquiry, the person appointed may proceed with the inquiry, in the absence of the certificate holder on whom the notice of the inquiry was served, any other party, or any person who has applied to become a party, or any of them.
+(2) Where the certificate holder concerned has been served with the notice of inquiry by registered post, the person appointed shall not proceed with the inquiry in his absence unless satisfied that the certificate holder has been served in accordance with the requirements of rule 4(1) and (2).
+(3) Any other person, not being the certificate holder concerned, may, with leave of the person appointed, become a party to the inquiry.
+(4) The inquiry shall be held in public, except to the extent to which the person appointed is satisfied that in the interests of justice, or for other good and sufficient reason in the public interest, any part of the evidence or any argument relating to the evidence should be heard in private.
