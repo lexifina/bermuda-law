@@ -1,0 +1,9 @@
+# Inspection of foreign ships in Bermuda waters
+14 (1) Every foreign ship calling in a port in Bermuda in the normal course of business or for operational reasons may be the subject of inspection under Regulation 5.2.1 of the Maritime Labour Convention, for the purpose of reviewing compliance with the relevant provisions of the Maritime Labour Convention.
+(2) The inspections carried out pursuant to paragraph (1) shall be undertaken by the authorised officers of the competent authority and shall be based on the port State inspection and monitoring system operated under the Merchant Shipping (Port State Control) Regulations 2019, and standard A5.2.1 of the Maritime Labour Code, in order to ensure that the working and living conditions for seafarers on ships calling in Bermuda ports meet the requirements of the Maritime Labour Convention including seafarers rights.
+(3) Where during the inspection, the authorised officer finds clear grounds for believing that the working and living conditions on the ship do not conform to the requirements of the Maritime Labour Convention, he may undertake a more detailed inspection as provided in the Maritime Labour Code, to ascertain the working and living conditions on board.
+(4) Where following the more detailed inspection, the ship is found not to conform to the requirements of the Maritime Labour Convention and—
+(a) the conditions on board are hazardous to the safety, health or security of seafarers; or
+(b) the non-conformity constitutes a repeated breach of the requirements of the Maritime Labour Convention (including seafarer’s rights),
+the authorised officer shall take steps to ensure that the ship does not proceed to sea, until the non-conformities identified during the detailed inspection have been rectified.
+(5) On implementing the port state control inspection procedures under this regulation, all possible effort must be taken to avoid a ship being unduly detained or delayed.

@@ -1,0 +1,4 @@
+# Penalties
+13 (1) If a ship to which these Regulations apply, proceeds or attempts to proceed to sea or on a voyage or excursion without a valid Maritime Labour Certificate and Part I and Part II of the Declaration of Maritime Labour Compliance or an Interim Maritime Labour Certificate, as required under these regulations, the shipowner and master of the ship commit an offence and are liable on summary conviction, to a fine not exceeding $10,000.
+(2) If the shipowner or master of a ship to which a Maritime Labour Certificate has been issued fails to maintain the validity of the certificate and continues, to operate the ship without validating the certificate by conducting the required periodic inspections, he commits an offence and is liable on summary conviction, to a fine not exceeding $5,000.
+(3) Any contravention of regulation 5 is an offence by the shipowner and by the master of the ship and is punishable on summary conviction to a fine not exceeding $5,000.

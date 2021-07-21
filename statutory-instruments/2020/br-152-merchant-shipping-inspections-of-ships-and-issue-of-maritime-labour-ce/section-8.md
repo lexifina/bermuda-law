@@ -1,0 +1,4 @@
+# Format of the Maritime Labour Certificate
+8 (1) A Maritime Labour Certificate issued to a Bermuda ship shall be in the form specified by the Minister and in conformity with the model format for such a certificate, contained in the Code to the Maritime Labour Convention.
+(2) Every Maritime Labour Certificate, other than an interim Maritime Labour Certificate, shall have attached to it, a Declaration of Maritime Labour Compliance which shall be drawn up in a form specified by the Minister and in conformity with the model form for such a declaration contained in the Code to the Maritime Labour Convention.
+(3) Part 1 to the Declaration of Maritime Labour Compliance shall be drawn up by the Minister, in accordance with the Code to the Maritime Labour Convention and Part 2 to the Declaration shall be completed by the shipowner and certified by the inspector following the inspection referred to in regulation 5(1).

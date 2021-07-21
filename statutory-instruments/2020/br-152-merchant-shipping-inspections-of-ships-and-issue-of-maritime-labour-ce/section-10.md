@@ -1,0 +1,2 @@
+# Withdrawal of a Maritime Labour Certificate
+10 In any case where the Minister has established that a Bermuda ship no longer complies with the requirements of the Maritime Labour Convention and where the shipowner has not rectified the deficiencies in a reasonable time, the Minister may withdraw the ship’s Maritime Labour Certificate and shall not issue a further certificate, until such time as the ship is in compliance with the applicable regulations.
