@@ -1,0 +1,5 @@
+## PART IV
+NON-BERMUDA SHIPS
+# Ascertainment of tonnage and certification
+15 (1) The Minister may, at the request of the Administration of a Contracting Government, ascertain the gross and net tonnages of a non-Bermuda ship in accordance with Part II and issue to the owner an International Tonnage Certificate (1969): in such cases the certificate shall be endorsed to the effect that it has been issued at the request of the Government of the state whose flag the ship is or will be flying, and a copy of the certificate and the calculations of the tonnages shall be transmitted to the requesting Government as soon as possible.
+(2) The Certifying Authority may, at the request of an owner of a non-Bermuda ship flying the flag of a State whose Government is not a Contracting Government, ascertain the gross and net tonnages of the ship in accordance with Part II and issue a Certificate of British Tonnage measurement: in such a case the certificate shall bear the endorsement “for use only whilst within Bermuda waters”.

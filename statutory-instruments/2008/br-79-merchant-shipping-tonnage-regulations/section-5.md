@@ -1,0 +1,5 @@
+# Calculation of volumes
+5 (1) All volumes included in the calculation of gross and net tonnages shall be measured, irrespective of the fitting of insulation or the like, to the inner side of the shell or structural boundary plating in ships constructed of metal, and to the outer surface of the shell or to the inner side of the structural boundary surfaces in ships constructed of any other material.
+(2) Volumes of appendages shall be included in the total volume.
+(3) Volumes of spaces open to the sea shall be excluded from the total volume.
+(4) The method and accuracy of the calculations shall be sufficiently detailed to facilitate checking.
