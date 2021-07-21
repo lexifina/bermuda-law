@@ -1,0 +1,2 @@
+# Records of young persons
+5 Where a young person is employed on any Bermuda ship, the master of the ship shall maintain a list showing the names and capacities of any young persons employed, the dates on which they became employed and their dates of birth, and shall transmit one copy of that list to the Maritime Administration on creating it, and whenever the list changes, and shall retain an up to date list on board that shall be available to any authorised officer of the Maritime Administration.
