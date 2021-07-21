@@ -1,0 +1,7 @@
+# On-shore seafarer complaint-handling procedures
+15 (1) The Chief Marine Surveyor shall be the competent authority in Bermuda for handling complaints by a seafarer in Bermuda ports.
+(2) There shall be established a documented procedure for handling seafarer complaints.
+(3) The Chief Marine Surveyor, on receiving a complaint from a seafarer on a ship in a port in Bermuda, who alleges a breach of the requirement of the Maritime Labour Convention or that there are serious deficiencies in the implementation of measures set out in the maritime Declaration of compliance, shall record the complaint and inform the Minister, promptly.
+(4) The Minister shall cause to undertake an investigation into the alleged complaint by an authorised person in accordance with Standard A5.2.2 and Guidelines B5.2.2 of the Maritime Labour Code for handling of complaints by seafarers, in order to facilitate a prompt and practical means of redress.
+(5) In the event that the investigation conducted under Standard A5.2.2 and Guideline B5.2.2 reveals any non-conformity of a serious nature that falls within the scope of paragraph 6 of Standard A5.2.1 of the Maritime Labour Code, that paragraph shall be applied.
+(6) Any seafarer may lodge with the Chief Marine Surveyor, a complaint alleging a breach of the requirements of the Maritime Labour Convention, and the Chief Marine Surveyor shall treat the source of any such complaint as confidential.
