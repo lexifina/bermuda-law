@@ -1,0 +1,2 @@
+# Prohibition on transmission of pools coupons outside Bermuda
+6 Any person, other than the holder of a pool betting licence, who knowingly sends, or attempts to send, whether by post or by electronic means to a person outside Bermuda any pool coupon or other document connected with pool betting commits an offence, and shall be liable on summary conviction to a fine not exceeding $10,000 or a term of imprisonment not exceeding six months, or to both.
