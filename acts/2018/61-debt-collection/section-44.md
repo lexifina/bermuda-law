@@ -1,0 +1,2 @@
+# Offences by corporations
+44 Where an offence under this Act which is committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager or other similar officer of the body corporate, he, as well as the body corporate, is guilty of that offence and is liable to be proceeded against and punished accordingly.
