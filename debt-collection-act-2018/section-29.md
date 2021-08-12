@@ -1,0 +1,6 @@
+# Order for immediate compliance
+29 (1) Notwithstanding section 28, the Debt Collection Officer may make an order under that section to take effect immediately where, in his opinion, to do so is necessary for the protection of a debtor from an unfair debt collection practice and, subject to subsections (3) and (4), the order takes effect immediately.
+(2) Where the Officer makes an order under subsection (1), he shall serve each person named in the order with a copy of the order together with written reasons therefor and a notice containing the information required to be in a notice referred to in section 28.
+(3) Where a person named in the order requires a hearing by the Authority in accordance with the notice under subsection (2), the Authority shall appoint a time for and hold the hearing and may confirm or set aside the order or exercise such other powers as may be exercised.
+(4) Where a hearing by the Authority is required, the order expires fifteen days after the giving of the notice requiring the hearing but, where the hearing is commenced before the expiration of the order, the Minister may extend the time of expiration until the hearing is concluded.
+(5) An order of the Authority under this section or section 28 takes effect immediately but the Authority may grant a stay if notice of an appeal to the Tribunal under section 33 is served on it.

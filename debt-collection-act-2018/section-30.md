@@ -1,0 +1,4 @@
+# Assurance of voluntary compliance
+30 (1) Any debt collector against whom the Debt Collection Officer proposes to make an order to comply with section 29 may enter into a written assurance of voluntary compliance, in such form as may be approved by the Minister, undertaking to not engage in the specified unfair debt collection practices on or after the date thereof.
+(2) Where an assurance of voluntary compliance is accepted by the Debt Collection Officer, the assurance has and shall be given for all purposes of this Act the force and effect of an order made by the Debt Collection Officer.
+(3) An assurance of voluntary compliance may include such undertakings as are acceptable to the Debt Collection Officer and the Debt Collection Officer may receive a bond and collateral therefor as security for the reimbursement of debtors and for investigation and other costs in such amount as is satisfactory to the Debt Collection Officer.
