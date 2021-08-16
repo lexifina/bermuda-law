@@ -1,0 +1,5 @@
+# Punishment; forfeiture
+10 (1) Where a person commits an offence under this Act:
+Punishment on summary conviction: imprisonment for 6 months or a fine of $3,360 or both such imprisonment and fine.
+(2) The court before which a person is proved to have committed an offence against this Act shall order to be forfeited to Her Majesty any coins or currency notes, or articles produced to the court, which are shown to the satisfaction of the court to represent the price of tickets or chances, or prize money, or prizes, in the lottery, and shall order to be destroyed all documents (other than currency notes) produced to the court which are shown to the satisfaction of the court to relate to the promotion or conduct of the lottery.
+(3) Where a person convicted of an offence against this Act is a body corporate, every person who at the date of the commission of the offence was a director or officer of the body corporate shall be deemed to be guilty of that offence unless he proves that the offence was committed without his knowledge.
