@@ -1,0 +1,5 @@
+# Use and possession
+6 (1) A person commits an offence if he uses money or other property for the purposes of terrorism.
+(2) A person commits an offence if he—
+(a) possesses money or other property; and
+(b) intends that it should be used, or suspects that it may be used, for the purposes of terrorism.

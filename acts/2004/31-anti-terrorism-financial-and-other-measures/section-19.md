@@ -1,0 +1,3 @@
+# Production orders
+19 (1) Section 37 of the Proceeds of Crime Act 1997 (production orders) applies (with appropriate modification) for the purposes of an investigation into offences under sections 5 to 8 of this Act as it applies for the purposes of investigations into the matters specified in paragraphs (a) to (c) of section 37(1) of that Act.
+(2) Section 38 of the Proceeds of Crime Act 1997 (failure to comply with production orders) applies (with appropriate modification) to production orders made pursuant to subsection (1) of this section as it applies to production orders made pursuant to section 37 of that Act.

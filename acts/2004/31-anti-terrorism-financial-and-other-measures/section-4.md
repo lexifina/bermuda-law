@@ -1,0 +1,6 @@
+# Terrorist property: interpretation
+4 (1) In this Act “terrorist property” means—
+(a) money or other property which is likely to be used for the purposes of terrorism;
+(b) proceeds of the commission of acts of terrorism; and
+(c) proceeds of acts carried out for the purposes of terrorism.
+(2) In subsection (1) a reference to proceeds of an act includes a reference to any property which wholly or partly, and directly or indirectly, represents the proceeds of the act (including payments or other rewards in connection with its commission).
