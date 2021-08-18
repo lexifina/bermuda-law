@@ -1,0 +1,4 @@
+# Power to close licensed premises on occurrence of riot etc
+47A Any justice of the peace, when any riot or tumult occurs, or on credible information on oath that any riot or tumult is likely or is reasonably expected to occur, may order any licensed person or his servant or agent carrying on business at or near the place where such riot or tumult is occurring, or is expected to occur, to close his licensed premises and to keep the premises closed as long as the justice considers to be reasonably necessary for the preservation of the public peace; and such licensed person or his servant or other person on his behalf shall be bound to obey such order without any appeal therefrom, and if he neglects or fails to do so, he commits an offence:
+Punishment on summary conviction: a fine of $790.
+[Section 47A renumbered from section 51 and moved to follow section 47 by 2019 : 17 s. 15 effective 13 May 2019; Section 51 (47A) amended by 2019 : 17 s. 21 effective 13 May 2019]

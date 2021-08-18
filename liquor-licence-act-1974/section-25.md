@@ -1,0 +1,2 @@
+# Notification of Commissioner of Police and Accountant-General of licences granted
+25 Within fourteen days after the grant or transfer of a licence the licensing authority shall notify the Commissioner of Police and the Accountant General of the name of the licensed person, the location of the licensed premises and the class of licence granted and the Commissioner of Police shall keep a list of all licences issued and in force.
