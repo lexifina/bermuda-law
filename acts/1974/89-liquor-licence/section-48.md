@@ -1,0 +1,8 @@
+# Evidential provisions
+48 The following provisions shall have effect in relation to any criminal proceedings taken under this Act—
+(a) the prosecution shall not be required to prove that the defendant, at the time of the offence charged, did not hold a licence, or a licence of any particular class; but the burden of proof of his having held such licence at such time, where relevant, shall be on the defendant, who shall be presumed to have held no licence at the time of the commission of the offence charged, in the absence of proof to the contrary;
+(b) for the purposes of paragraph (a) a certificate purporting to be signed by the chairman to the effect that any person did on any specified day hold a licence shall be sufficient evidence of the fact certified, in the absence of proof to the contrary;
+(c) evidence that a transaction in the nature of a sale of intoxicating liquor took place shall be evidence of the sale of the liquor without proof that money passed;
+(d) evidence that consumption of intoxicating liquor was about to take place shall be evidence of the consumption of intoxicating liquor without proof of actual consumption;
+(e) evidence that any person other than the licensed person or his servant or agent, consumed or intended to consume intoxicating liquor in the licensed premises shall be evidence that the liquor was sold to that person by the licensed person or his servant or agent;
+(f) where intoxicating liquor in open containers is found in any licensed premises, consumption of intoxicating liquor shall be deemed to have taken place in those premises, unless the contrary is proved.

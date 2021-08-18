@@ -1,0 +1,3 @@
+# Suspension or cancellation of licence
+49 (1) On the conviction of a licensed person for an offence under this Act, he shall be liable, at the discretion of the court by which he is convicted and in addition to any punishment imposed or order made, to have his licence suspended or cancelled.
+(2) Without prejudice to subsection (1) where the court suspends or cancels the licence of a licensed person it may further order that that person and any corporate body over which he exercises effective control shall be disqualified for obtaining a licence either absolutely or for such period as the court may determine.
