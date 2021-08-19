@@ -1,0 +1,4 @@
+# Permission to use National Park land
+6 (1) Notwithstanding section 24 of the Bermuda National Parks Act 1986, the written approval referred to in that section, of the Minister responsible for parks, is hereby deemed to be duly given for the use and development, as part of the golf course, of the islet shown in Schedule 3 as being part of the Property (“the national park islet”).
+(2) Notwithstanding sections 15(4) of the Bermuda National Parks Act 1986, the written approval referred to in that section, of the Minister responsible for parks, is hereby deemed to be duly given for the use and development, as part of the golf course, of the national park islet.
+(3) The Minister responsible for parks may impose such reasonable terms and conditions on the development and use of the national park islet as part of the golf course as he may consider necessary.
