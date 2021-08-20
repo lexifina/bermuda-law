@@ -1,0 +1,6 @@
+# Scope of unemployment benefit; duration
+6 (1) The unemployment benefit shall be calculated at 60% of an individual’s remuneration; provided that the maximum unemployment benefit payment to an individual shall not exceed $500 per week.
+(2) An individual is eligible to receive unemployment benefit shall receive unemployment benefit for a maximum period of sixty days if he is or was an employee of, or self employed with respect to a business (as that term is defined in regulation 4(7), during the period beginning on 13 April 2021 and ending on 12 June 2021.
+(3) When making a determination under these Regulations for the purposes of paragraph (1), the permanent secretary shall take into account whether the applicant may be receiving compensation from his employer.
+(4) With consideration being given to the best interests of Bermuda, the permanent secretary, in consultation with the Minister, shall provide the unemployment benefit to individuals with consideration being given to an individual’s circumstances.
+[Regulation 6 paragraph (2) amended by BR 64 / 2021 reg. 4 effective 29 April 2021; Regulation 6 paragraph (2) amended by BR 70 / 2021 reg. 4 effective 8 May 2021; Regulation 6 paragraph (2) amended by BR 77 / 2021 reg. 4 effective 1 June 2021; Regulation 6 paragraph (2) amended by BR 95 / 2021 reg. 4 effective 19 June 2021]
