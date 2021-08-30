@@ -1,0 +1,11 @@
+# Financial statements
+102 (1) This regulation is a relevant provision for element (g) of an IC system (see regulation 89(3)).
+(2) The casino operator shall, as soon as practicable after the end of each financial year, provide the Commission with a financial statement, prepared in such manner and using such forms as the Commission may require, covering all financial activities of the casino operator for the financial year.
+(3) Where the casino operator has an interest in, or is entitled to any income from, any other aspect of the integrated resort, including but not limited to accommodation, food and beverage, retail or other amenities, then those aspects shall be included in the financial statement in addition to gaming operations.
+(4) The financial statement shall be—
+(a) prepared on a comparative basis for the current and prior financial year in accordance with International Financial Reporting Standards (“IFRS”);
+(b) signed by the casino operator, who shall attest to the completeness and accuracy of the statement; and
+(c) audited in accordance with IFRS by an independent auditor approved by the Commission.
+(5) The Commission may at any time by notice in writing to the casino operator require the casino operator to submit audited financial statements for any period set out in the notice and may request such other information regarding a financial statement from the casino operator or the auditor as it thinks fit.
+(6) In the event that the independent auditor resigns or is dismissed by the casino operator, the casino operator shall provide the Commission with a signed statement from the compliance committee within 21 days of termination setting out the details of the termination and confirming whether or not there have been any disagreements between the parties and if so the details of any such disagreements.
+(7) Where the casino operator proposes to use a computerised system linked to the gaming equipment of the casino as part of its administration and accounting procedures, the casino operator, when applying to the Commission for approval of the system as gaming equipment, it shall provide a statement from an independent testing laboratory satisfactorily certifying that the system is fit for purpose.

@@ -1,0 +1,5 @@
+# Changes to membership
+64 (1) The Commission may, from time to time by notice in writing to the casino operator, propose such changes to the membership of that casino operator’s compliance committee as it thinks fit.
+(2) A casino operator may from time to time by notice in writing to the Commission propose changes to the membership of its compliance committee and the reasons for such changes.
+(3) Where notice is given under paragraph (1) or (2), the casino operator or the Commission may, respectively, within 28 days of the date of such notice, object to the proposed changes and shall set out in writing the reasons for the objection and any proposed alternatives.
+(4) Where an objection is raised in accordance with paragraph (3), the Commission and the casino operator shall in good faith seek to agree changes to the membership of the compliance committee but where agreement cannot be reached the Commission shall be entitled to direct a casino operator to make such changes to the membership of its compliance committee as the Commission thinks fit.
