@@ -1,0 +1,4 @@
+# Confidentiality of application process
+11 (1) Without prejudice to the performance of its statutory functions and to the ability of the Commission to share information with the bodies listed in Schedule 2 of the Act, the Commission and each and all of its employees and agents shall use reasonable efforts to maintain the confidentiality of all documents filed with the Commission.
+(2) Without prejudice to paragraph (1) the Commission shall be entitled to provide documentation and information held by the Commission to third parties, including third parties outside of Bermuda, as part of the evaluation or assessment of an application for a casino licence.
+(3) The obligation in paragraph (1) shall not apply to those documents disclosed at any public hearing at which the casino licence application is considered, and the applicant agrees that documentation or information provided to the Commission may be made public as part of that public hearing.

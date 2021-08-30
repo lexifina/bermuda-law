@@ -1,0 +1,3 @@
+# Suspension of licence during investigation
+40 (1) Where the Commission reasonably believes that a casino licensee is not a suitable person under section 33 of the Act it may during the period of any investigation suspend any casino licence or suspend any terms of that casino licence, and give any consequent directions if, in the opinion of the Commission, the circumstances are such that the licensee should not continue to operate the casino or any part of the casino operations during the investigation period.
+(2) Where a casino licence has been suspended the Commission may appoint a temporary manager of the casino for the duration of the suspension.

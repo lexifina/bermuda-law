@@ -1,0 +1,3 @@
+# Consent to investigation
+12 (1) By submitting an application for a casino licence the applicant shall be deemed to consent to any and all such investigations as the Commission shall see fit and the applicant shall be deemed to have acknowledged and agreed that any investigation into matters of a personal, private or confidential nature are reasonable and proportionate to the needs of ensuring the suitability of an applicant and of the applicant’s associates.
+(2) The Commission may refuse an application for a casino licence where the applicant, or any other person whom the Commission reasonably believes is required to be investigated, refuses to submit to any and all investigations required by the Commission for the purposes of assessing suitability.
