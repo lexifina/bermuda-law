@@ -1,0 +1,2 @@
+# Member of casino staff must hold a special employee licence
+40 Subject to these Regulations and any written direction by the Commission, a person shall not perform a function of a member of the casino staff of a casino operator, or hold a position on the staff, unless the person holds a special employee licence that permits the holder to perform the function, or to perform the functions of the position.

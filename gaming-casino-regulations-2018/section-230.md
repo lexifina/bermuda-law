@@ -1,0 +1,18 @@
+# Parlay wagers
+230 (1) A casino operator that offers parlay wagers shall fully, accurately and unambiguously disclose on all parlay wagering forms—
+(a) the amounts to be paid by winners or the method by which such amounts are to be determined and, if payouts are limited to an aggregate amount under paragraph (2), the aggregate amount;
+(b) the effect of ties;
+(c) any minimum and maximum betting limits;
+(d) the procedure for claiming winnings, including but not limited to the documentation patrons must present to claim winnings, any time limits for claiming winnings, whether winnings may be claimed and paid by mail and, if so, the procedure that applies;
+(e) the effect on the wager if an event that is bet on is not played on the date specified, or if other events occur that will cause the selections to be invalid;
+(f) the requirement that a parlay wager must consist of at least 3 selections that have not become invalid under applicable house rules or the wager will be void and the money wagered will be refunded;
+(g) the rights, if any, reserved by the casino operator, including but not limited to reservation of the right to refuse any wager or delete or limit any selection prior to the acceptance of a wager, or to withhold payouts of specified amounts until the outcome of each proposition offered by the parlay wager has been determined;
+(h) the requirement that the point spreads printed on the parlay wager form when the wager is accepted will be used to determine the outcome of the wagers; and
+(i) that the house betting rules apply to parlay wagers unless otherwise stated on the parlay wager form.
+(2) The casino operator may limit the aggregate amount to be paid to winners on a parlay wager in proportion to the amounts won, provided that the aggregate limit is not less than the amount disclosed on the parley wager form (the “base amount”) plus twice the amount wagered on the parlay at all establishments to which the aggregate limit applies.
+(3) When the casino operator knows or ought reasonably to know that actual payouts on a parlay wager will be limited by an aggregate amount established under paragraph (2), the casino operator shall cease accepting wagers and making payouts on the parlay wager.
+(4) After the outcome of the final game, match or event covered by the parlay wager has been determined, the casino operator shall pay each winner at least that proportion of the payout amount stated on the parlay wager form that the aggregate limit bears to total pay-outs, including pay-outs made prior to suspension of pay-outs, that would otherwise have been made but for the limit.
+(5) When the casino operator ceases accepting wagers and making payouts on a parlay card under paragraph (4), the casino operator may accept wagers on the aspects of the parlay that have yet to be determined, provided that the parlay wager form, patron receipts, and related documentation are distinguishable from the original parlay so as to constitute a different parlay.
+(6) If the casino operator pays the winner of a parlay wager more than 10 percent of the base amount established under paragraph (2) before the outcome of every proposition offered by the parlay has been determined, the casino operator shall pay every winner of a wager on that parlay the proper payout amount stated on the parlay card in full without regard to any aggregate limit established under paragraph (2).
+(7) The Commission may by written direction waive requirements of this regulation or impose more restrictive requirements.
+[Regulation 230 inserted by BR 91 / 2019 reg. 21 effective 12 September 2019]
