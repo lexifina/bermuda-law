@@ -1,0 +1,2 @@
+# Meaning of “Special Area” in Part V
+3 For the purposes of Part V, a “Special Area” means a sea area where, for recognised technical reasons in relation to its oceanographical and ecological condition and to the particular character of its traffic, the adoption of special mandatory methods for the prevention of sea pollution by garbage is required, and shall include those areas listed in Annex V of the Convention.
