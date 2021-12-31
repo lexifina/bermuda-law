@@ -1,0 +1,5 @@
+# Confidentiality
+31A (1) Except in so far as may be necessary for the due performance of his functions under this Act or any other Act, the Registrar and any officers or other persons who are acting as an officer, a servant, an agent or an adviser of the Registrar shall preserve and aid in preserving confidentiality with regard to all matters relating to information or documents that may come to his knowledge in the course of the performance of his duties under this Act.
+(2) Compliance by a person with any requirement under this Act to disclose or provide information is an absolute defence to any claim brought against that person in respect of any act done or any omission made by him in good faith in compliance with this Part.
+(3) Nothing in this section shall preclude the disclosure of information for the purpose of enabling the Minister to exercise any functions conferred upon him by this Act or any other Act.
+[Section 31A inserted by 2021 : 44 s. 25 effective 8 November 2021]

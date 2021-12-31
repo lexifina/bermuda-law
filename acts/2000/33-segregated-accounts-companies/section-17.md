@@ -1,0 +1,35 @@
+# Nature of segregated accounts, application of assets and liabilities
+17 (1) Notwithstanding any other provision of this Act, the establishment of a segregated account does not create a legal person distinct from the segregated accounts company.
+(2) Notwithstanding any enactment or rule of law to the contrary, but subject to this Act, any liability linked to a segregated account shall be a liability only of that account and not the liability of any other account and the rights of creditors in respect of such liabilities shall be rights only in respect of the relevant account and not of any other account.
+(2A) For the purposes of subsection (2) and for the avoidance of doubt, any asset which is linked by a segregated accounts company to a segregated account—
+(a) shall be held by the segregated accounts company as a separate fund which is—
+(i) not part of the general account and shall be held exclusively for the benefit of the account owners of the segregated account and any counterparty to a transaction linked to that segregated account; and
+(ii) available only to meet liabilities to the account owners and creditors of that segregated account; and
+(b) shall not be available or used to meet liabilities to, and shall be absolutely and for all purposes protected from, the general shareholders or general interest holders and from the creditors of the company who are not creditors with claims linked to segregated accounts.
+(3) For the purposes of this Act, the Companies Act 1981, the Limited Liability Company Act 2016 and otherwise at law, the assets recorded in the general account shall be the only assets of a segregated accounts company available to meet liabilities of the segregated accounts company that are not linked to a segregated account.
+(4) No assets of the general account may be transferred from the general account to a segregated account unless, on the date from which the transfer is to be effective, and taking into account that transfer—
+(a) the general account is solvent; or
+(b) all the shareholders or LLC interest holders (as the case may be) and creditors of the general account on that date have expressed in writing their concurrence to the transfer.
+(4A) For the purposes of subsection (4), in the event a transfer is made to a segregated account in breach of that subsection, on an application by an affected party, the court may declare that the transfer is void, without prejudice to the rights of bona fide purchasers for value without notice.
+(5) Unless otherwise expressly agreed in writing by the affected parties—
+(a) by virtue of one or more contracts, governing instruments or other documents which are binding on those parties in relation to the affected segregated accounts or general account, as the case may be, and which are executed by parties having authority in relation to those accounts; and
+(b) in the case of a mutual fund only where the documents mentioned in paragraph (a) clearly indicate an intention of the parties to extend liability to more than one segregated account or the general account as permitted by this section and contain a specific reference to this subsection and to subsection 11(4),
+where a liability of a segregated accounts company to a person arises from a transaction or matter relating to, or is otherwise imposed in respect of or attributable to, a particular segregated account, that liability shall—
+(c) extend only to, and that person shall, in respect of that liability, be entitled to have recourse only to, the assets linked to that segregated account;
+(d) not extend to, and that person shall not, in respect of that liability, be entitled to have recourse to, the assets linked to any other segregated account; and
+(e) not extend to, and that person shall not in respect of that liability, be entitled to have recourse to, the general account.
+(6) Where a liability of a segregated accounts company to a person—
+(a) arises otherwise than in respect of a particular segregated account; or
+(b) is imposed otherwise than in respect of a particular segregated account,
+that liability shall extend only to, and that person shall, in respect of that liability, be entitled to have recourse only to, the general account.
+(7) In the event that a segregated account has insufficient assets to pay all of its obligations in full, the order and priority of the rights in relation to assets linked to a segregated account shall (without prejudice to the rights of any parties holding valid security interests against assets linked to that segregated account and any valid preferential claims in respect of that segregated account) be determined by the terms of the governing instrument and any contracts pertaining to that account, and any ambiguity in respect of the order and priority rights shall be resolved as follows:
+(a) the claims of creditors shall rank ahead of the claims of account owners;
+(b) the claims of creditors inter se shall rank pari passu; and
+(c) the claims of account owners inter se shall rank pari passu.
+(8) A segregated accounts company may, with the consent in writing of all account owners of, or counterparties who are creditors with claims linked to, a given segregated account, transfer to the general account or another segregated account an asset from the segregated account to which it is linked, if the segregated account to which such asset is linked, taking into account the proposed transfer, remains solvent, and, in the event a transfer is made to the general account in breach of this subsection, on an application by an affected party, the court may declare that the transfer is void, without prejudice to the rights of bona fide purchasers for value without notice.
+(9) Any asset transferred in accordance with subsection (8) shall cease to be linked to the segregated account from which it was transferred on the date of the transfer.
+(10) Subject to the terms of the governing instrument relating to a given segregated account, on dissolution of the segregated accounts company or termination of the segregated account and after paying creditors of the segregated account, any property linked to that segregated account shall be paid pro rata to the account owners of such segregated account or, if there are no account owners, shall be deemed to fall into the general account.
+(11) Without prejudice to the rights of parties to resolve disputes by reference to arbitration or to the court, where—
+(a) there is, on grounds that are reasonable, uncertainty as to whether any given interest in a segregated account is an interest as a counterparty or an interest as an account owner, that interest shall be deemed to be an interest as a counterparty;
+(b) a given liability is not linked to a particular segregated account, or where there is, on grounds that are reasonable, uncertainty as to whether the liability is linked to a segregated account, that liability shall be deemed to be the liability of the general account.
+[Section 17 repealed and replaced by 2002:10 s.18 effective 14 June 2002; Section 17 amended by 2021 : 44 s. 14 effective 8 November 2021]
