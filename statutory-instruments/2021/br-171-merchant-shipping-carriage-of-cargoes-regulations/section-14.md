@@ -1,0 +1,2 @@
+# Offences due to the fault of another person
+14 Where the commission by any person of an offence under Part 2, 3 or 4 of these Regulations is due to the act or default of some other person, that other person commits the offence and that other person may be charged with and convicted of the offence by virtue of this regulation, whether or not proceedings are taken against the first mentioned person.
