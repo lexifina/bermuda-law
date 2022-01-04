@@ -1,0 +1,2 @@
+# Penalties
+14 If a ship to which these Regulations apply proceeds or attempts to proceed to sea without any of the requirements of these Regulations having been complied with, the owner or master of the ship, each commit an offence and is liable on summary conviction, to a fine not exceeding $10,000 or on conviction on indictment, to imprisonment for a term not exceeding two years or a fine of $50,000 or both.
