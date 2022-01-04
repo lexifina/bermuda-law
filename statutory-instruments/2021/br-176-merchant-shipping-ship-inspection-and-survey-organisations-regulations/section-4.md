@@ -1,0 +1,5 @@
+# Duties of recognised organisations
+4 (1) In performing functions for which they are authorised under the Merchant Shipping Act 2002 and instruments made under the Act, relating to any Bermuda ship, recognised organisations shall ensure that for a ship of their class, the relevant requirements of Convention standards are applied by the rules of the recognised organisations.
+(2) Without prejudice to any requirements of a statutory instrument, made under the Merchant Shipping Act 2002, relating to the issue of certificates, the RO shall issue statutory certificates to a ship de-classed or changing class for safety reasons, after consulting with the Authority to determine whether a full inspection is required, as may be specified in an Agreement.
+(3) Recognised organisations shall consult with each other periodically, with a view to maintaining equivalence of their technical standards and the implementation of their technical standards.
+(4) Recognised organisations shall provide all relevant information to the Authority about changes of class or declassing of vessels.
