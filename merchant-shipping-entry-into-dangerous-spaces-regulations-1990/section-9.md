@@ -1,0 +1,2 @@
+# Act or default of some other person
+9 Where an offence under any of these Regulations is committed, or would have been committed save for the operation of regulation 8(4), by any person due to the act or default of some other person, that other person is guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this regulation whether or not proceedings are taken against the first-mentioned person.
