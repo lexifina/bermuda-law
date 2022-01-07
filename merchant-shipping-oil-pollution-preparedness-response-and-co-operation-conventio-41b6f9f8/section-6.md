@@ -1,0 +1,3 @@
+# Reporting of incidents: harbour authorities and oil handling facilities
+6 (1) A harbour master, or other individual in charge of a harbour, and any individual in charge of an oil handling facility (except those which are pipelines or those which would be offshore installations, were they in offshore waters), who observes or is made aware of any event involving a discharge of or probable discharge of oil, or the presence of oil in the sea, shall without delay report the event, or the presence of oil, as the case may be, to the Bermuda Maritime Operations Centre.
+(2) A report made under this Regulation shall so far as appropriate as to form and content, comply with the standard reporting requirements.
