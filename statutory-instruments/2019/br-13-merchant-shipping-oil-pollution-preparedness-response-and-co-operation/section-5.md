@@ -1,0 +1,4 @@
+# Reporting of incidents: ships
+5 (1) The master of a Bermuda ship, who observes or becomes aware of any event involving the discharge of oil at sea from another ship or from an offshore installation, shall report it immediately to the Bermuda Maritime Operations Centre, if the ship is in Bermuda controlled waters, or to the nearest coastal state, if the ship is outside Bermuda controlled waters.
+(2) A responsible person, an operator of an oil handling facility which would be an offshore installation were it in offshore waters, or an operator of an oil handling facility which is a pipeline, who observes or becomes aware of any event involving discharge of oil at sea from another installation or a ship, shall without delay report it to Bermuda Maritime Operations Centre.
+(3) In this Regulation “controlled waters” means waters specified as areas within which the jurisdiction and rights of Bermuda are exercisable.
