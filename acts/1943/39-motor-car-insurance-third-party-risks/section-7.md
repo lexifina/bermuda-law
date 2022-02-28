@@ -1,0 +1,2 @@
+# Bankruptcy of insured
+7 Where a certificate of insurance has been delivered under section 4(4) to the person by whom a policy has been effected, the happening in relation to any person insured by the policy of any such event as is mentioned in section 12(1) or (2) shall, notwithstanding anything in this Act, not affect any such liability of that person as is required to be covered by a policy under section 4(1)(b), but nothing in this section shall affect any rights against the insurer conferred by this Act on the person to whom the liability was incurred.

@@ -1,0 +1,3 @@
+# Rights against insured survive his death
+11 (1) The rights of any person in respect of any liability incurred by an insured person shall, in the event of the death of the insured person, and notwithstanding any statutory provision, rule of law or the common law to the contrary, be preserved to and be enforceable by such person against the personal representatives of the insured person in the same manner and to the same extent as such rights would have been enforceable against the insured person if he had survived and section 4(3) shall apply accordingly.
+(2) In this section “insured person” means a person who is insured under a contract of insurance against liabilities to third parties in accordance with this Act.

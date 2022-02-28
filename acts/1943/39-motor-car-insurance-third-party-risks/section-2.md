@@ -1,0 +1,9 @@
+# Minister may authorize insurers
+2 (1) Subject to the Bermuda Immigration and Protection Act 1956, any person may apply to the Minister for authority to undertake insurance business, and in considering any such application the Minister shall have regard to the financial standing of the applicant, and for this purpose may require the production of such documents of financial statements as he may consider relevant.
+(2) Where the Minister is satisfied that the applicant is a fit and proper person, he may authorize the applicant to undertake insurance business upon such terms and conditions as he may consider appropriate.
+(3) The Minister shall have the power at any time to require an insurer to produce any documents and answer any questions which may be relevant, and if at any time the Minister is satisfied that the insurer is no longer a fit and proper person to undertake insurance business or is in violation of any term or condition specified in the authorization to undertake insurance business he may revoke the authority granted to him:
+Provided that such revocation shall not affect the liability of the insurer in respect of any policy of insurance in force at the time of such revocation.
+(3A) Any person authorized or purportedly authorized to undertake insurance business prior to 21 March 1990 shall be deemed to have been granted authorization by the Minister under this section upon such terms and conditions as the Minister may, after 20 March 1990, consider appropriate.
+(4) Any person who undertakes insurance business, except under the authority of the Minister, commits an offence against this Act:
+Punishment on conviction on indictment: imprisonment for 2 years or a fine of $16,800 or both such imprisonment and fine.
+[Section 2 amended by 1990 : 7 effective 21 March 1990]

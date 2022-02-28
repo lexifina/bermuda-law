@@ -1,0 +1,15 @@
+# Requirements in respect of policies
+4 (1) In order to comply with the requirements of this Act, a policy of insurance must be a policy—
+(a) which is issued by a person who is an insurer; and
+(b) which insures such person, persons or classes of persons as may be specified in the policy in respect of any liability which may be incurred by him or them in respect of the death or of bodily injury to any person or damage to the property of any person caused by or arising out of the use of the motor car on a highway or on an estate road:
+Provided that such a policy shall not be required to cover—
+(i) [deleted by 1987:53]
+(ii) liability in respect of any sum in excess of $375,000 arising out of the death or bodily injury to any person being carried in or upon or entering or getting into or alighting from a motor car;
+(iii) liability in respect of any sum in excess of $375,000 arising out of any one claim by any one person;
+(iv) liability in respect of any sum in excess of $750,000 arising out of the total claims for anyone accident for each vehicle concerned; and
+(v) in the case of an auto-bicycle or an auxiliary bicycle, liability in respect of the death or bodily injury to persons being carried upon that vehicle at the time of the occurrence of the event out of which the claim arose.
+(2) Where any payment is made by an insurer under a policy issued under this Act in respect of the death of, or bodily injury to, any person arising out of the use of a motor car on a highway or an estate road and the person who has so died or been bodily injured has to the knowledge of the insurer received treatment in a hospital in respect of the fatal or other bodily injury so arising, there shall also be paid by the insurer to such hospital the expenses reasonably incurred by the hospital in affording such treatment.
+(3) Notwithstanding anything in any statutory provision, rule of law or the common law, a person issuing a policy of insurance under this section shall be liable to indemnify the persons or classes of persons specified in the policy in respect of any liability which the policy purports to cover in the case of those persons or classes of persons.
+(4) A policy shall be of no effect for the purposes of this Act unless and until there is issued by the insurer in favour of the person by whom the policy is effected a certificate (in this Act referred to as a “certificate of insurance”) in duplicate in the prescribed form and containing such particulars of any conditions subject to which the policy is issued and of any other matters as may be prescribed and issued and of any other matters as may be prescribed in relation to different cases or circumstances.
+(5) In this Act “policy of insurance” means a policy issued for not less than six months, and includes a single covering note issued for a period not exceeding ninety days in respect of any motor car, but does not include any extension of a covering note or any subsequent covering note issued in respect of the same motor car during any period of six consecutive months.
+[Section 4 subsection (1)(b) amended by 2022 : 1 s. 2 effective 27 February 2022]

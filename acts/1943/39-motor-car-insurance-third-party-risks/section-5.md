@@ -1,0 +1,3 @@
+# Certain conditions of no effect
+5 Any condition in a policy issued or given for the purposes of this Act, providing that no liability shall arise under the policy, or that any liability so arising shall cease, in the event of some specified thing being done or omitted to be done after the happening of the event giving rise to a claim under the policy shall be of no effect in connection with such claims as are mentioned in section 4(1)(b):
+Provided that nothing in this section shall be taken to render void any provision in a policy requiring the person insured to repay to the insurer any sums which the insurer may have become liable to pay under the policy and which have been applied to the satisfaction of the claims of third parties.
