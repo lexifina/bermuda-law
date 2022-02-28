@@ -1,0 +1,2 @@
+# Giving name and address
+17 If the driver of any motor car who commits an offence under this Act or any regulations made thereunder, refuses to give his name and address or gives a false name or address he commits an offence against this Act; and it shall be the duty of the owner of the motor car if required to give any information which it is within his power to give and which may lead to the identification and apprehension of the driver; and if the owner fails to do so he commits an offence against this Act.

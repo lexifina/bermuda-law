@@ -1,0 +1,7 @@
+# Offences
+18 (1) (a) Any person who by an act or omission contravenes any of the provisions of this Act or of any regulations made thereunder commits an offence against this Act; and
+(b) where a person commits an offence under this Act for which no specific punishment is provided:
+Punishment on summary conviction: imprisonment for 3 months or a fine of $420 or both such imprisonment and fine.
+(2) Where a person is, by virtue of any power contained in this Act or in any regulations made thereunder, required to do or to abstain from doing any act or thing and makes default in complying with any such requisition, a magistrate on conviction, in addition to any other punishment which he may impose, may order such person to comply with such requisition and may annex to any such order any condition as to time or mode of action or otherwise which he may think necessary to enforce compliance therewith.
+(3) Every person who makes default in complying with any such order of a magistrate may, in the discretion of the court, be ordered to pay by way of a penalty a sum not exceeding $21 for every day during which he is thereafter in default or to be imprisoned until he has remedied his default:
+Provided that any such person shall not for such non-compliance be liable to the payment of any sums amounting in the aggregate to more than $336 or to imprisonment for any periods amounting in the aggregate to more than 2 months in addition to any other fine or term of imprisonment to which he may otherwise be liable.
