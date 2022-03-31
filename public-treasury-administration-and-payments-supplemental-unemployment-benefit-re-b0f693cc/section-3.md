@@ -1,0 +1,4 @@
+# Supplemental unemployment benefit
+3 (1) For the purposes of these Regulations, “supplemental unemployment benefit” means the sum of money approved for payment under these Regulations to an individual who is unemployed as a result of COVID-19, from the Unemployment Insurance Fund.
+(2) The supplemental unemployment benefit is a temporary benefit to be paid to an eligible individual for a maximum period of twenty-three months beginning from the date when his application for supplemental unemployment benefit is approved with the final payment being made for the month ending 31 August 2022.
+[Regulation 3 paragraph (2) amended by BR 25 / 2021 reg. 2 effective 26 March 2021; Regulation 3 paragraph (2) amended by BR 106 / 2021 reg. 2 effective 8 July 2021; Regulation 3 paragraph (2) amended by BR 25 / 2022 reg. 2 effective 29 March 2022]

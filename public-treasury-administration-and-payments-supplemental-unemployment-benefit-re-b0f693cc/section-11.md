@@ -1,0 +1,7 @@
+# Periodic review of supplemental unemployment benefit
+11 (1) The Director may, on new facts being brought to his notice, or if he is satisfied that the decision was based on a misrepresentation as to some material fact, review any decision given by him in relation to a person’s supplemental unemployment benefit and upon review may vary, suspend or cancel a person’s supplemental unemployment benefit.
+(2) Before he makes a decision under paragraph (1), the Director shall first give the recipient an opportunity to make representations.
+(3) The Director, with the approval of the Minister, may require a recipient to repay any sum of money improperly paid under a supplemental unemployment benefit (“overpayment”) as a result of non-disclosure of facts, misrepresentation or for any other cause.
+(4) The Director may, with the approval of the Minister, waive the overpayment or may require the recipient to pay a reduced amount if he is satisfied that a recipient has exercised due care and diligence to avoid the overpayment.
+(5) Where any sum is required to be repaid by a recipient under this regulation, the Minister may recover such sum as a debt owing to the Government in any court of competent jurisdiction.
+(6) For the purposes of this regulation, a recipient, or the employer, where applicable, shall provide to the Director at such time as may be determined by the Director, a letter confirming the recipient’s employment status at the date thereof.
