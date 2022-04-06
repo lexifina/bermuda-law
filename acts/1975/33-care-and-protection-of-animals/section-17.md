@@ -1,0 +1,6 @@
+# General powers of officers of Department to enter premises
+17 (1) Subject to this section, an officer of the Department authorized in writing by the Minister may, on production, if so required, of a duly authenticated document showing his authority, enter at all reasonable hours any premises where animals are kept or where the officer reasonably believes animals to be kept for the purpose of ascertaining whether there is or has been any contravention of this Act or any regulations made thereunder:
+Provided that admission to any premises shall not be demanded as of right unless twenty-four hours’ notice of the intended entry has been given to the occupier.
+(2) Where it is shown to the satisfaction of a magistrate on sworn information in writing that admission to any premises has been refused, or that refusal is apprehended, or that the premises are unoccupied or that the occupier is temporarily absent or that the case is one of urgency, the magistrate may by warrant under his hand authorize the officer to enter the premises, if need be by force.
+(3) An officer entering any premises in pursuance of powers conferred by this section may take with him a veterinary practitioner or an officer of a recognized society.
+[Section 17 subsection (2) amended by 2009:52 s.5 effective 4 January 2010]
