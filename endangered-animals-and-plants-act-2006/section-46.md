@@ -1,0 +1,11 @@
+# Procedure regarding application for forfeiture of specified equipment
+46 (1) Where the Director of Public Prosecutions intends to apply to the court for an order of forfeiture under section 45(3) he shall, subject to subsection (2) of this section, give to any person who, to his knowledge, was at the time of the seizure, the owner thereof, notice of the seizure and the intention to apply for forfeiture and the grounds thereof.
+(2) Notice shall not be required under subsection (1) if the seizure under section 45(1) was made in the presence of the owner or his servant or agent.
+(3) Where the Director of Public Prosecutions is unable to ascertain the owner of or any person having an interest in any specified equipment to which this section applies, he shall, not less than thirty days prior to the application, publish a notice in the Gazette regarding the intention to apply to a magistrate for an order for forfeiture.
+(4) Any person having a claim to any specified equipment seized under this Act may appear at the hearing of the application for forfeiture and show cause why such an order should not be made.
+(5) Where, on the hearing of an application for forfeiture pursuant to section 45(3), no person appears before the court to show cause as mentioned in subsection (4) of this section, the court shall presume that the specified equipment has been abandoned.
+(6) If, upon the application of a person prejudiced by an order made under section 45(2) or (3), the court is satisfied that it is just in the circumstances of the case to revoke the order, the court may—
+(a) revoke such order upon such terms and conditions, if any, as it deems appropriate; and
+(b) without prejudice to the generality of paragraph (a), require such person to pay in respect of storage, maintenance, administrative expenses, security and insurance of the specified equipment, such amount as may be charged by the person in whose custody the specified equipment was kept.
+(7) An application to the court under subsection (6) for the revocation of an order shall be made within thirty days of the date of the order or such longer period not exceeding six months after the date of the order as the court may allow.
+[Section 46 heading amended by 2022 : 12 s. 26 effective 31 March 2022]
