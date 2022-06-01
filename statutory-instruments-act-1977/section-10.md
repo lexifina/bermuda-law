@@ -1,0 +1,3 @@
+# Power to modify the application of this Act to Acts passed before 20 July 1977
+10 (1) If with respect to any Act passed before 20 July 1977 it appears to the Premier that by reason of the exceptional nature of the provisions of that Act conferring power to make a statutory instrument, the application of section 6 would be inexpedient, the Premier may by order direct that section 6 shall not apply to statutory instruments made under those provisions, or shall apply thereto subject to such modifications as may be specified in the order.
+(2) The affirmative resolution procedure shall apply to any order made under this section.
