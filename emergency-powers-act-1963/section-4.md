@@ -1,0 +1,2 @@
+# Orders and rules made under the regulations
+4 Regulations made under this Act may provide for empowering such authorities or persons as may be specified therein to make orders and rules for any of the purposes for which such regulations are authorized by this Act to be made, and may contain such incidental and supplementary provisions as appear to the Governor to be necessary or expedient for the purposes of the regulations.
