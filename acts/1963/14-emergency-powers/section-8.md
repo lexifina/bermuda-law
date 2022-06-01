@@ -1,0 +1,2 @@
+# Evidence
+8 Every document purporting to be an instrument made or issued by the Governor or other authority or person under this Act, or any regulation made thereunder, and to be signed by or on behalf of the Governor or such other authority or person, shall be received in evidence, and shall, until the contrary is proved, be deemed to be an instrument made or issued by the Governor or that authority or person.
