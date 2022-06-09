@@ -1,0 +1,4 @@
+# Procedure for orders under section 23 or 24
+25 (1) An order may be made under section 23 or 24 in relation to a dog in the course of any proceedings in a court of summary jurisdiction in which the behaviour or condition of the dog is in question or comes into question, whether those proceedings are civil or criminal and whether they are brought or taken under this Act or under any other provision of law.
+(2) An Officer shall be competent to make an application to a court of summary jurisdiction for an order under section 23 or 24, but the making of an application under either of those sections is not a necessary condition precedent to the exercise by a court of summary jurisdiction of the powers mentioned in subsection (1).
+(3) An application for an order under sections 23 or 24 shall be made by a complaint which names the keeper or owner in charge of the dog as the respondent.

@@ -1,0 +1,4 @@
+# Requirement to give information in connection with offence committed under the Act
+28 (1) Where an Officer has reason to suspect that a person has committed an offence against this Act, the Officer may require that person to give their name and address and to produce, within three days of being so required, any licence that has been issued to them under section 9 or 10 of the Act.
+(2) Any person who refuses or fails to comply with a requirement made under subsection (1) commits an offence against this Act.
+(3) Without prejudice to any provision of any Act authorizing arrest without warrant, a police officer may arrest without warrant a person the police officer has reason to suspect of having committed an offence against this Act if that person, on being requested to do so by the police officer, refuses to comply with a requirement under subsection (1).
