@@ -1,0 +1,5 @@
+# Notice of marriage
+6 (1) One of the parties to an intended marriage shall give to the Registrar notice of the intended marriage in Form A set out in the Second Schedule, making the declarations therein contained.
+(2) The Registrar on receiving notice of the intended marriage shall forthwith enter the particulars contained in the notice and the date of the receipt of the notice in a book to be called the Maritime Marriage Notice Book, and shall keep the notice posted in a conspicuous place in his office for a period of not less than fourteen days from the date of the receipt thereof.
+(3) The Registrar shall also within three days of the receipt of the notice of intended marriage cause advertisement thereof in Form B set out in the Second Schedule to be published once in any two newspapers published and circulated in Bermuda.
+(4) Any expenses incurred by the Registrar in the publication of the advertisement of a notice of intended marriage shall be paid to the Registrar by the person who gave the notice.

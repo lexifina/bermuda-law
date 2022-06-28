@@ -1,0 +1,2 @@
+# Certificate for Marriage or Special Licence lapses within three months
+14 Where an intended marriage does not take place within three months after the date of the issue of any Certificate for Marriage or Special Licence relating to the intended marriage, the Certificate for Marriage or Special Licence shall be void, and the marriage shall not be contracted before a marriage officer under the authority of that Certificate for Marriage or Special Licence.
