@@ -1,0 +1,2 @@
+# Official designation to include person performing functions
+23 Where in any Act or in any statutory instrument reference is made to any public officer holding any public office by the designation of his office then such reference shall be construed so as to include any person for the time being duly performing the functions of the office and any person from time to time appointed to perform any part of such functions.

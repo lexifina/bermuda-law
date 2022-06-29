@@ -1,0 +1,2 @@
+# Application of English law in interpreting and construing statutory provisions
+10 Except as otherwise expressly provided in this or in any other Act, a court or other public authority constituted in Bermuda shall, in interpreting or construing any statutory provision, apply as nearly as practicable the rules for the interpretation and construction of provisions of law for the time being binding upon the Supreme Court of Judicature in England.
