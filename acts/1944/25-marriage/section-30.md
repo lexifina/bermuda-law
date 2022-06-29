@@ -1,0 +1,2 @@
+# Any person may search registers and obtain copies of particulars other than racial colour or origin
+30 Any person at all reasonable times may search the entries in any Marriage Register Book or the General Register of Marriages and may have true copies certified under the hand of the Marriage Officer in charge of the Marriage Register Book or under the hand and seal of the Registrar, as the case may be, of all particulars recorded in any such entry except such particulars as relate to the racial colour or origin of any of the persons to whom such entry relates.

@@ -1,0 +1,13 @@
+# Licensing of ministers to be Marriage Officers; revocation of licences
+4 (1) The Minister, by writing under his hand, may grant a licence to any minister to be a Marriage Officer within the meaning and for the purposes of this Act.
+(2) An application for the grant to a minister of a licence to be a Marriage Officer shall be made in writing in the first instance to the Registrar General either by the minister himself or by the senior minister in Bermuda of the Christian body to which the minister belongs:
+Provided that where the minister is a Chaplain to any of the naval, military or air forces of Her Majesty or of the United States of America in Bermuda, the application shall be made by the senior officer of that force in Bermuda.
+(3) Every such application shall state the full name of the minister to whom it relates and shall contain a description of the Christian body to which he belongs and his status therein.
+(4) The Registrar General may require additional or better particulars with respect to any such application and may refuse to take any further action upon the application until the required particulars are furnished.
+(5) When the Registrar General is satisfied that the application contains sufficient information to enable it to be considered by the Minister, he shall forward the application to the Minister with a report upon the application.
+(6) The Minister may grant or refuse a licence to a minister to be a Marriage Officer or may postpone further consideration of the application until there has been provided such additional or better particulars as seem to the Minister to be necessary and where the Minister decides to refuse the application his decision shall be final and conclusive and it shall not be necessary, whatever the decision reached by the Minister for him to assign any reason for his decision.
+(7) Every licence granted by the Minister under this section shall have effect as from the date thereof, and notice of the grant shall be published in the Gazette as soon as may be after the licence is granted.
+(8) The Minister may at any time and without assigning any reason revoke any licence granted by him under this section.
+(9) A Marriage Officer to whom a licence has been granted under this section may at any time by notice in writing to the Registrar General surrender his licence.
+(10) Where a licence granted under this section has been revoked or surrendered in accordance with the foregoing paragraphs notice of such surrender or revocation shall be published in the Gazette and as from the date of publication of the notice the licence shall cease to be valid.
+(11) A licence granted by the Minister under this section may be in the form set out in the First Schedule.
