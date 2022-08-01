@@ -1,0 +1,3 @@
+# Capital and liquidity requirements: Class A registered persons
+8 (1) A Class A registered person who is subject to capital and liquidity requirements imposed by a recognised regulator, shall maintain capital and liquidity of such amounts and in such form and in accordance with any conditions, restrictions or limitations as may be required by the recognised regulator.
+(2) A Class A registered person who is not subject to capital or liquidity requirements by a recognised regulator shall, for the purposes of paragraphs 5(3) and 5(4) of the Second Schedule to the Act, satisfy such capital and liquidity requirements as the Authority may determine.
