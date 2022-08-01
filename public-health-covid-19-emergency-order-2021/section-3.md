@@ -1,0 +1,6 @@
+# Commencement and duration
+3 (1) This Order shall come into effect at 6am on 25 January 2021.
+(2) This Order shall cease to have effect at 6am on 26 September 2022 unless, in accordance with section 107A(3) and (4) of the Public Health Act 1949, it is extended for further periods not exceeding 60 days (beginning on the date on which it would otherwise cease to have effect) by order made subject to the affirmative resolution procedure.
+[Paragraph 3(2) amended by BR 18 / 2021 para. 2 effective 23 February 2021; Paragraph 3(2) amended by BR 53 / 2021 para. 2 effective 16 April 2021; Paragraph 3(2) amended by BR 97 / 2021 para. 2 effective 23 June 2021; Paragraph 3(2) amended by BR 130 / 2021 para. 2 effective 6 August 2021; Paragraph 3(2) amended by BR 145 / 2021 para. 2 effective 29 September 2021; Paragraph 3(2) amended by BR 156 / 2021 para. 2 effective 25 November 2021; Paragraph 3(2) amended by BR 3 / 2022 para. 2 effective 18 January 2022; Paragraph 3(2) amended by BR 14 / 2022 para. 2 effective 24 February 2022; Paragraph 3(2) amended by BR 28 / 2022 para. 2 effective 30 March 2022; Paragraph 3(2) amended by BR 59 / 2022 para. 2 effective 26 May 2022; Paragraph 3(2) amended by BR 88 / 2022 para. 2 effective 27 July 2022]
+Made this 22nd day of January 2021
+Minister of Health
