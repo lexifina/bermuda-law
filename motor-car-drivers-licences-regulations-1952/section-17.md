@@ -1,0 +1,2 @@
+# Holder of licence ceasing to be member of household of owner of motor car
+17 Where a person who, by virtue of being a member of a particular household, holds a driver’s licence permitting him without restriction to drive a motor car which is owned by another member of that household, ceases to be a member of that household, he shall, within seven days of so ceasing to be a member, return the licence to the Minister for amendment accordingly.
