@@ -1,0 +1,6 @@
+# Police powers and duties
+13 (1) Where a Health Officer gives an order, instruction or condition to a traveller or conveyance operator in connection with the exercise of his functions under this Act and the traveller or conveyance operator fails or refuses to comply with such order, instruction or condition, the Health Officer may, with the assistance of a police officer, arrest a traveller or conveyance operator and charge with an offence under section 11(1).
+(2) A police officer may arrest without warrant any traveller or conveyance operator whom he has reasonable grounds to believe failed to comply with the requirements of this Act or of regulations or orders made under this Act or has committed an offence under this Act.
+(3) A traveller or conveyance operator who is arrested under this section may be placed in detention by a Health Officer until such time as a Government Medical Officer acting on the instructions of the Chief Medical Officer has determined that the traveller’s state of health is such as not to pose a risk of significant harm to public health.
+(4) In this section, “Government Medical Officer” has the meaning assigned to the termin section 2 of the Public Health Act 1949.
+[Section 13 subsection (3) amended by 2017 : 32 s. 2 effective 6 October 2017]
