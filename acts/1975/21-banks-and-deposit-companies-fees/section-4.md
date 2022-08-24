@@ -1,0 +1,5 @@
+# Penalty for non-payment
+4 (1) Subject to subsection (2), if a bank or deposit company fails to comply with section 3(1) or 3A, respectively, then (without prejudice to any other proceedings that may be taken in respect of the failure to comply) the bank or deposit company and every director or officer of the company who is responsible for the failure to comply, commits an offence against this Act:
+Punishment on summary conviction: a fine of $100 for every day during which the default continues.
+(2) Notwithstanding subsection (1), where a bank or deposit company has not made payment in accordance with section 3(1) or 3A, respectively, and the Authority is satisfied that such non-payment is not due to wilful neglect or default, he may accept payment of the sum due under those sections together with a penalty of $1,000; and in any such case subsection (1) shall not apply in consequence of the default concerned.
+[Section 4 amended by 1990:13 effective 28 March 1990, subsection (2) amended by 2004:4 s.3(c) effective 17 March 2004]
