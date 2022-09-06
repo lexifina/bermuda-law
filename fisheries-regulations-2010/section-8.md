@@ -1,0 +1,7 @@
+# Identification marks
+8 (1) The Chairperson shall assign a separate identification mark to every fishing vessel licensed and registered under these Regulations and shall enter in the register of licensed fishing vessels and in the fishing vessel licence, the marks so assigned.
+(2) Every licensed fishing vessel shall display the identification mark assigned to it, on the sides of the vessel and on the cabin top or the deck in such position as to be visible from above in characters not less than nine inches in height and one and one-half inches in width and spaced not less than three inches apart and the characters shall be marked red, black or such other colour contrasting with the background on which they are displayed as may in any particular case, be approved by a fisheries inspector.
+(3) The owner of a licensed fishing vessel who fails to comply with paragraph (2), commits an offence.
+(4) Any person who owns or operates any fishing vessel or any vessel which is not a licensed fishing vessel and which is marked with an identification mark which so resembles an identification mark assigned under this regulation as to be calculated to deceive, commits an offence.
+(5) Any person whose fishing vessel licence has been suspended or revoked pursuant to any of these Regulations shall, upon such suspension or revocation, immediately remove from the vessel any mark identifying it as a licensed fishing vessel.
+(6) A person who fails to comply with paragraph (5) commits an offence.

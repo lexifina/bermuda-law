@@ -1,0 +1,2 @@
+# Duty to return fish which may not be taken
+24 Where a person takes any fish which cannot lawfully, by reason of any provision in these Regulations or of any order made under sections 4 and 5 of the Act be taken, injured, sold, purchased or kept in possession, it shall be the duty of the person taking the fish to return it immediately into the sea; and if the person fails to do so, he commits an offence.

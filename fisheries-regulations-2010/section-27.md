@@ -1,0 +1,2 @@
+# Prohibition against introducing live or unfrozen and uncooked fish into waters of Bermuda
+27 Any person who introduces into the waters of Bermuda or into any system which discharges untreated wastes into the waters of Bermuda any live or unfrozen and uncooked fish, or any parts thereof, which have been imported into Bermuda, commits an offence, unless he has been authorised to do so by a licence issued to him by the Director and he has complied with the terms and conditions of the licence.
