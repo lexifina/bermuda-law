@@ -1,0 +1,9 @@
+# Register of fishermen
+12 (1) The Chairperson shall maintain a register containing the names and addresses of all fishermen ordinarily resident in Bermuda.
+(2) Any person desiring to be registered as a fisherman shall apply to the Chairperson in writing and pay the prescribed fee, to have his name and address entered in the register of fishermen maintained by the Chairperson under this regulation.
+(3) The Chairperson may, upon being satisfied that the applicant is qualified to be registered as a fisherman, register him as a fisherman by entering his name and address in the register of fishermen, subject to such terms and conditions as the Director may think fit, for the better regulation of the fishing industry, and issue the registered fisherman with a photo identification.
+(4) In the event of any change of address of a person who has applied to be registered as a fisherman or the change of address of a person registered as a fisherman, the applicant or the registered fisherman as the case may be, shall notify the Chairperson of the new address, within thirty days of the change.
+(5) Any registered fisherman who fails to comply with any of the terms and conditions imposed on his licence under paragraph (3) or inform the Chairperson of a change of address as required under paragraph (4), commits an offence.
+(6) A person shall not be qualified to be registered as a fisherman unless the person has Bermudian status, is a spouse of a person with Bermudian status or is a permanent resident.
+(7) The registration of any person as a fisherman under this regulation shall expire on 31 March of each year unless renewed upon payment of the prescribed fee for registration.
+(8) The Chairperson may strike the name of a person registered as a fisherman, off the register or may refuse to register a person, for stated misconduct.
