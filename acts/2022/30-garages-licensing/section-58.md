@@ -1,0 +1,9 @@
+# Saving and transitional
+58 (1) A garage licence in force immediately before the coming into operation of this Act shall, on and after that day, be deemed to be a licence granted by the Director under this Act and shall remain in force for three months.
+(2) The holder of a garage licence in subsection (1) shall, within the three month period from the commencement of this Act, submit an application for the grant of a licence under this Act.
+(3) A person who has been carrying on an activity specified in section 3 immediately before the commencement of this Act shall apply for a licence to carry on such activity under this Act during the period of 60 days beginning with the commencement of this Act.
+(4) For the avoidance of doubt, a place for which a garage licence is in force in subsection (1) or a person referred to in subsection (3) is subject to Part 3 (Inspection and Stop Orders) of this Act.
+(5) An application for the grant or renewal of a garage licence that was filed before the commencement of this Act shall be dealt with as an application for the grant of a licence under the provisions of this Act.
+(6) After consultation with the Director, the Minister may, by order subject to the negative resolution procedure, extend the time period provided in subsection (1) or (3) for a further period of 30 days to enable compliance.
+(7) A person who is certified as an automotive service technician under the National Occupational Certification Act 2004 immediately before the commencement of this Act is considered to be an automotive service technician for the purpose of Part 4 of this Act.
+(8) In this section, “garage licence” means a licence granted by the Minister under Part VI (Public Garages) of the Motor Car Act 1951 or the Public Garage and Filling Station Regulations 1952 to allow a person to operate a place as a public garage.

@@ -1,0 +1,3 @@
+# Cycle service technicians
+24 (1) The Director, in relation to the registration and supervision of cycle service technicians, shall have the same powers and shall perform the same duties as are conferred under this Part in respect of an automotive service technician, and the provisions of sections 25 to 30 inclusive shall be construed as if for the words “automotive service technician” there were substituted the words “cycle service technician”.
+(2) In this section, “cycle service technician” means a person who is employed in connection with the mechanical maintenance, repair fitting or equipment of cycles.
