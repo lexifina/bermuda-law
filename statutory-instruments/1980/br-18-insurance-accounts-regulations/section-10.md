@@ -1,0 +1,7 @@
+# Requirements relating to preparation of accounts generally
+10 (1) All accounts shall be prepared in the English language.
+(2) All amounts which for any purposes of these Regulations are to be shown in any account of any insurer shall be shown in a single currency, and that currency shall be the currency in which the books and records of the insurer are kept in the insurer’s principal office in Bermuda or, where different books and records are kept in different currencies in that office, then the currency in which the majority of those books and records are kept:
+Provided that where the Authority pursuant to the power given to it by section 17(1) of the Act directs the production to it of statutory financial statements, and amounts in those statements are shown in a foreign currency. those amounts must be converted into their Bermudian equivalent before the said statements are so produced.
+(3) For the purposes of paragraph (2), the Bermudian equivalent of an amount in a foreign currency shall be the Bermudian dollar equivalent of that amount as converted into Bermudian dollars at the rate of exchange used by any licensed Bank in Bermuda in relation to purchases by that Bank of that foreign currency on the last day of the relevant year.
+(4) For all items shown in any account of any insurer (other than a statutory open year business revenue statement) there shall be shown the corresponding amounts for the immediately preceding financial year.
+[Regulation 10 paragraph (2) amended by BR 93 / 2010 reg.5 effective 31 December 2010]
