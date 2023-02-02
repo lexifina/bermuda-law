@@ -1,0 +1,2 @@
+# Temporary permit
+11 The Minister may issue on a temporary basis to an individual in Bermuda who holds a certificate of an advanced class issued by the Minister or a certificate recognized by him under regulation 18 as being of an equivalent or higher class, a permit whether for himself or for a bona fide amateur radio club or association granting temporary permission for the possession and use of an amateur station and may attach to the grant of the permit such conditions and restrictions as he may think fit.

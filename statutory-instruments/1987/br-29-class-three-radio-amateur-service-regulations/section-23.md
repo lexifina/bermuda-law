@@ -1,0 +1,3 @@
+# General restrictions
+23 (1) A station in the amateur radio service shall be operated using frequencies, power, types of emission or modes of transmission authorized by the Minister in the licence or permit and in no other manner.
+(2) Unless otherwise provided in the licence or permit, an amateur station shall not be installed and operated for a duration in excess of thirty days at a location other than that specified and defined in the licence or permit whether in Bermuda or outside its limits, without the prior written authorization of the Telecommunications Inspector or a prior change in the licence or permit agreed by the Minister.
