@@ -1,0 +1,2 @@
+# Secrecy of correspondence
+5 If any message which the amateur radio operator or licensee is not entitled to receive is, nevertheless, received by an amateur station, he shall not make known or allow to be made known its contents, its origin or destination, its existence or the fact of its receipt to any person (other than a duly authorised officer of the Government or a competent legal tribunal) and shall not reproduce in writing, copy or make any use of such message or allow the same to be reproduced in writing, recorded, copied or made use of.
