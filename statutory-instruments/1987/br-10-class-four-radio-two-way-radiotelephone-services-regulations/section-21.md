@@ -1,0 +1,4 @@
+# Control of operation of each station
+21 (1) A licensee shall at all times be responsible for the proper control of the operation of every station in respect of which he holds a licence or permit.
+(2) Where upon investigation the Telecommunications Inspector or an individual appointed in that behalf by the Minister is satisfied that a licensee has failed to exercise power control over any station of which he is the licensee, the Telecommunications Inspector or such individual may serve upon such licensee a notice in writing which shall call the attention of such licensee to such failure and shall require such licensee to correct such failure within 7 days of the date of service of such notice.
+(3) If after the expiration of the 7 days stipulated in paragraph (2) the default has not been corrected the Minister may give such licensee notice under section 13(4) of the Act of his intention to revoke or suspend the licence or permit.

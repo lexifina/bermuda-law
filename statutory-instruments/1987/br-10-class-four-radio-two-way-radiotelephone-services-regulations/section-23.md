@@ -1,0 +1,8 @@
+# Construction or alteration etc of base station
+23 (1) Construction, alteration, enlargement or modification, of any base station—
+(a) for which planning permission must be obtained in accordance with the provisions of the Development and Planning Act 1974 [title 20 item 1] or any succeeding Act; or
+(b) which involves a substantial alteration in the characteristics of the station; or
+(c) which involves an increase in the number of transmitters, shall not be begun without a construction authorization in writing issued by the Telecommunications Inspector.
+(2) An application for a construction authorization shall be made in writing to the Telecommunications Inspector and shall contain full technical information concerning the proposed construction, installation, alteration, enlargement or modification.
+(3) After the works have been completed for which a construction authorization has been issued, the holder of such authorization shall inform the Telecommunications Inspector accordingly and request that such works be inspected by him. The Inspector may authorize such holder to conduct any necessary tests and transmissions for the purposes of observation and/or measurements of the frequency emissions of the proposed station.
+(4) When the Telecommunications Inspector is satisfied with the result of the inspection and tests he shall recommend to the Minister that a certificate to that effect be granted by the Minister to the person concerned. When such certificate has been granted, if that person is a licensee of the certified installation he may forthwith commence to operate it, or if he does not hold a licence or permit in respect of it he may apply in writing to the Minister for the grant thereof.
