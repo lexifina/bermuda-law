@@ -1,0 +1,5 @@
+# Harmful interference
+16 (1) The apparatus of the stations in the Service shall be so designed, constructed, maintained and used that their operation does not cause any avoidable harmful interference.
+(2) Where the Telecommunications Inspector or an individual appointed in that behalf by the Minister has reason to believe that transmission by a station in the Service is causing harmful interference he may serve a written direction upon the licensee of the first station to cease operation immediately and the licensee shall comply.
+(3) If the Minister is satisfied that transmission by any station in the Service persistently interferes with the operation of any other station or appliance in the vicinity of the first station, the Minister may, by notice published in the Gazette, prohibit transmission in the area to be defined in the notice and the licensee shall comply.
+(4) Where a transmission results in harmful interference the Telecommunications Inspector may, at his discretion, require appropriate technical changes in equipment and the effective radiated power to eliminate such interference and the licensee shall comply.

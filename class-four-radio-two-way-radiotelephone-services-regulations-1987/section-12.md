@@ -1,0 +1,14 @@
+# Transfer of station or of licence or permit
+12 (1) Subject to paragraph (3) a licensee shall not transfer the possession of a station for which he holds a licence or permit to possess or use to any other person, unless such person holds a valid licence, permit or stock licence or permit, as the case may be, to possess, or use such station.
+(2) A licensee may not, without the prior consent in writing of the Minister, assign, transfer or otherwise dispose of his licence or permit to any other person except as provided in paragraph (3).
+(3) In accordance with the Telecommunications (Class Four Two-Way Radiotelephone Services) (Exemption) Order 1987 a licensee who is also licensed under section 9(1) of the Act to establish, maintain and operate a public telecommunication service namely a public radiotelephone service (hereinafter referred to as “the operator”) may in the course of business rent a station (hereinafter referred to as “the rented station”) to a person who does not hold a licence or permit under section 9(3)(ii) of the Act to possess or use such station (hereinafter referred to as “the customer”) and such operator may transfer possession of the rented station to the customer and install, place in operation, repair or maintain such rented station on behalf of the customer notwithstanding sections 9(7) and 30 of the Act.
+(4) An operator shall—
+(a) during the rental period hold a valid licence or permit under the Act to possess and use the rented station;
+(b) ensure that the rented station bears the identification code as prescribed in regulation 8(1) (b);
+(c) at the time of transferring possession of the rented station, take all reasonable steps to satisfy himself that the customer is acquainted with the terms and conditions of the licence or permit, and show him such licence or permit;
+(d) keep a record of each rental transaction showing the identification code borne by the rented station, the licence or permit number, the duration of the rental, the name and particulars of the customer, the address at which the rented station will normally be kept or if it is to be installed in a vehicle or vessel the registration number, name and description of the vehicle or vessel, as the case may be.
+(5) A customer shall—
+(a) at the time of taking possession of a rented station satisfy himself beyond all reasonable doubt that the operator holds a valid licence or permit for it; and
+(b) verify that the rented station bears the identification code.
+(6) The customer shall be entitled to possess and use the rented station for the duration of the lease as if he were the licensee or permit holder thereof and shall be subject to the duties and obligations of users and operators of radio stations imposed under these Regulations and the Act.
+(7) It shall be unlawful for a customer to possess and use a rented station that does not bear the identification code.
