@@ -1,0 +1,16 @@
+# Certain exemptions from service
+4 (1) The following provisions of this section have effect with respect to the circumstances in which persons otherwise liable to jury service are to be exempted from jury service prior to their being returned to serve as jurors at a particular session of the Supreme Court.
+(2) Without prejudice to any other provision of law relating to exemption from liability to jury service, where a person who is otherwise liable to jury service begins to serve, practise or be employed in any of the offices, professions, employments or callings specified in Part I of the First Schedule, then in any such case that person shall be exempt from liability to jury service during the period of his service, practice or employment as aforesaid and, where so specified in Part I of the said Schedule, shall continue to be exempted from liability for jury service after the termination of such service, practice or employment.
+(3) Without prejudice to any other provision of law relating to exemption from liability to jury service, where a person who is otherwise liable to jury service begins to serve or be employed in any of the offices or employments specified in Part II of the First Schedule and written notice is given to the Registrar by the person specified in Part II of the said First Schedule in connection with the office or employment in question—
+(a) claiming exemption from jury service on behalf of the person so serving or employed; and
+(b) certifying that such exemption from jury service is essential in the public interest or, as the case may be, in the interest of the institution or undertaking in which that person is serving or employed,
+then in any such case the person so serving or employed shall thenceforward cease to be liable to jury service during the period which ends—
+(i) on a day twelve months after the day on which notice is so given; or
+(ii) on the day on which such service or employment terminates,
+whichever is the earlier day:
+Provided that nothing in this subsection shall be construed so as to prevent fresh notice being given in respect of a person otherwise liable to jury service upon the ending of any such period as aforesaid where his service or employment continues thereafter; and where such notice is duly given the provisions of this subsection shall have effect accordingly.
+(4) Subject to the provisions of subsection (5), where a person otherwise liable to jury service has served as a juror any time during a session of the Supreme Court then in any such case he shall be exempted from liability to jury service—
+(a) for the period of two years next succeeding the last day on which he served as a juror during that session; or
+(b) if the Supreme Court has made an order under section 14 exempting him from liability to jury service for a longer period, then for that period.
+(5) The provisions of subsection (4) shall not apply to a special juror unless the Court expressly orders otherwise.
+(6) Where a person otherwise liable for jury service has attended in court on a jury summons during a session of the Supreme Court but has not served as a juror during that session, then in any such case he shall be exempted from liability to jury service for a period of one year next succeeding the last day on which he attended the Court as a result of such summons during that session.

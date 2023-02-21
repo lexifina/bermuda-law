@@ -1,0 +1,3 @@
+# Accommodation; refreshment
+19 (1) Where the members of a jury are required by the Supreme Court, prior to their being charged, not to separate, then in any such case they shall be entitled to be reasonably accommodated and maintained at the public expense under arrangements to be made by or on behalf of the Registrar acting under the general directions of the Court.
+(2) Without prejudice to the provisions of subsection (1), where the members of a jury, having been charged are considering their verdict, they shall be entitled, subject to any directions given by the Supreme Court in the matter, to partake of reasonable refreshment at the public expense, to be procured under arrangements to be made by or on behalf of the Registrar.

@@ -1,0 +1,3 @@
+# Court may exempt juror from service in next 2 years
+14 (1) Notwithstanding anything in the provisions of section 4, the Supreme Court, at the conclusion of any trial or, as the case may be, at the close of any session, may, where the Court is satisfied that the service of any person as a juror during that trial or session has been of an exceptional character, by order direct that such person shall be exempted from liability to jury service for such period (being a period longer than two years) as the Court thinks fit.
+(2) The Registrar shall maintain a record of the name of the juror concerned and the period of exemption ordered by the Court under the provisions of subsection (1).

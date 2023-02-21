@@ -1,0 +1,7 @@
+# Offences by jurors
+18 (1) Any person who without reasonable excuse, the proof of which shall be upon him, fails to comply with any summons or direction duly given to him under section 8, 13, 16 or 17 shall be guilty of an offence against this Act.
+(2) Any person who, knowing or having reasonable cause to believe that he is disqualified for jury service, is sworn as a juror in any cause or matter without having disclosed the nature of such disqualification to the Court before which the cause or matter is to be tried, shall be guilty of an offence against this Act.
+(3) Any person who, having been sworn as a juror in any cause or matter, wilfully misconducts himself in carrying out his functions as a juror, shall, without prejudice to any other proceedings which may be taken against him whether in respect of a criminal offence or in respect of a contempt of court, be guilty of an offence against this Act.
+(4) A person guilty of an offence against this Act—
+(a) shall be liable on conviction by a court of summary jurisdiction to a fine not exceeding two hundred dollars or to imprisonment for a term not exceeding three months; or
+(b) shall be liable to be dealt with by the Supreme Court as though such offence constituted a contempt of court, so, however, that the Supreme Court shall not impose a fine greater than a fine of two hundred dollars, or imprisonment for a term longer than three months, in respect of each such offence.
