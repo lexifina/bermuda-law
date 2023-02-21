@@ -1,0 +1,5 @@
+# Loss of life or personal injuries: right of contribution
+185 (1) Where loss of life or personal injuries are suffered by any person on board a ship owing to the fault of that ship and any other ship or ships, and a proportion of the damages is recovered against the owners of one of the ships which exceeds the proportion in which the ship was in fault, they may recover by way of contribution the amount of the excess from the owners of the other ship or ships to the extent to which those ships were respectively in fault.
+(2) Section 183(3) applies also to this section.
+(3) Nothing in this section authorises the recovery of any amount which could not, by reason of any statutory or contractual limitation of, or exemption from, liability, or which could not for any other reason, have been recovered in the first instance as damages by the persons entitled to sue therefor.
+(4) In addition to any other remedy provided by law, the persons entitled to any contribution recoverable under this section shall, for the purposes of recovering it, have the same rights and powers as the persons entitled to sue for damages in the first instance.

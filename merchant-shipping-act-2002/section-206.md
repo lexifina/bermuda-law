@@ -1,0 +1,3 @@
+# Notice of unclaimed wreck to be given to persons entitled
+206 (1) Any person who is entitled to unclaimed wreck found at any place in Bermuda or in Bermuda waters shall give the Receiver a statement containing the particulars of his entitlement and specifying an address to which notices may be sent.
+(2) Where a statement has been given to the Receiver under subsection (1) and the entitlement is proved to the satisfaction of the Receiver, the Receiver shall, on taking possession of any wreck found at a place to which the statement refers, within 48 hours, send to the specified address a description of the wreck and of any marks distinguishing it.

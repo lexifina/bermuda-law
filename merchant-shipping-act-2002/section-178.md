@@ -1,0 +1,25 @@
+# Interpretation
+178 (1) In this Chapter, unless the context otherwise requires—
+“damage” includes loss;
+“discharge or escape”, in relation to pollution damage, means the discharge or escape of oil from the ship;
+“guarantor” means any person providing insurance or other financial security to cover the owner’s liability of the kind described in section 161;
+“incident” means any occurrence, or series of occurrences having the same origin, resulting in a discharge or escape of oil from a ship or in a relevant threat of contamination;
+“oil”, except in sections 170 and 171, means persistent hydrocarbon mineral oil;
+“owner” means the person or persons registered as the owner of the ship or, in the absence of registration, the person or persons owning the ship, except that, in relation to a ship owned by a State which is operated by a person registered as the ship’s operator, it means the person registered as its operator;
+“pollution damage” means—
+(a) damage caused outside a ship by contamination resulting from a discharge or escape of oil from the ship;
+(b) the cost of preventive measures; and
+(c) further damage caused by preventive measures;
+but does not include any damage attributable to any impairment of the environment except to the extent that any such damage consists of—
+(i) any loss of profits; or
+(ii) the cost of any reasonable measures of reinstatement actually taken or to be taken;
+“preventive measures” means any reasonable measures taken by any person to prevent or minimise pollution damage, being measures taken—
+(a) after an incident has occurred; or
+(b) in the case of an incident consisting of a series of occurrences, after the first of those occurrences;
+“relevant threat of contamination” means a grave and imminent threat of damage being caused outside a ship by contamination resulting from a discharge or escape of oil from the ship; and
+“ship” means any ship (within the meaning of Chapter IV of this Part) to which section 151 applies.
+(2) For the purposes of this Chapter—
+(a) references to a discharge or escape of oil from a ship are references to such a discharge or escape wherever it may occur, and whether it is of oil carried in a cargo tank or of oil carried in a bunker fuel tank; and
+(b) where more than one discharge or escape results from the same occurrence or from a series of occurrences having the same origin, they shall be treated as one.
+(3) References in this Chapter to the territory of any country shall be construed in accordance with section 168(3) reading the reference to a Liability Convention country as a reference to a Fund Convention country or a Supplementary Fund Protocol country (as the case may be).
+[Section 178 subsection (3) amended by 2018 : 62 s. 13 effective 17 December 2018]

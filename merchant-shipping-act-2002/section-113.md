@@ -1,0 +1,3 @@
+# Service of directions under section 111
+113 (1) If the Minister is satisfied that a company or other body is not one to which section 62A of the Companies Act 1981 (service of documents) applies so as to authorise the service of a direction on that body under that section, he may give a direction under section 111 of this Act to that body, as the owner of, or the person in possession of, a ship, by serving the direction on the master of the ship.
+(2) For the purpose of giving or serving a direction under section 111 to or on any person on a ship, a person acting on behalf of the Minister shall have the right to go on board the ship.

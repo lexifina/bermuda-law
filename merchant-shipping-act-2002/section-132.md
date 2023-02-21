@@ -1,0 +1,2 @@
+# Defences of occupier charged with offence under section 130
+132 Where a person is charged, in respect of the escape of any oil or mixture containing oil, with an offence under section 130 as the occupier of a place on land, it shall be a defence to prove that neither the escape nor any delay in discovering it was due to any want of reasonable care and that as soon as practicable after it was discovered all reasonable steps were taken for stopping or reducing it.

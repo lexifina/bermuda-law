@@ -1,0 +1,4 @@
+# Application of Act to Government ships
+4 (1) Subject to any other provisions of it, this Act shall not apply to ships belonging to Her Majesty.
+(2) The Minister may make regulations with respect to the manner in which government ships may be registered as British ships under Part IV; and this Act, subject to any exceptions and modifications which may be made by the regulations, either generally or as respects any special class of government ships, shall apply to government ships registered in accordance with the regulations as if they were registered in accordance with Part IV.
+(3) In this section, “Government ships” means ships not forming part of Her Majesty’s Navy which belong to Her Majesty, or are held by any person on behalf of or for the benefit of the Crown (and for that reason cannot be registered under Part IV).

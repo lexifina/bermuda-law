@@ -1,0 +1,3 @@
+# Trade disputes involving seafarers
+53 Notwithstanding anything in any agreement, a seafarer employed in a ship registered in Bermuda may terminate his employment in that ship by leaving the ship in contemplation or furtherance of a labour dispute within the meaning of the Labour Relations Act 1975 after giving to the master not less than 48 hours’ notice of his intention to do so, and shall not be compelled, unless the notice is withdrawn, to go to sea in the 48 hours following the giving of such a notice; but such notice shall be of no effect unless at the time it is given the ship is securely moored to a safe berth in port.
+[Section 53 amended by 2012 : 30 s. 3 effective 30 June 2014]

@@ -1,0 +1,13 @@
+# Liability under section 151, 151A or 152: supplementary provisions
+154A (1) For the purposes of this Chapter—
+(a) references to a discharge or escape of oil or bunker oil from a ship are references to such a discharge or escape wherever it may occur;
+(b) references to a discharge or escape of oil from a ship include a discharge or escape of oil carried in the bunkers of the ship;
+(c) where more than one discharge or escape of oil or bunker oil results from the same occurrence or from a series of occurrences having the same origin, they shall be treated as one, but any measures taken after the first of them shall be deemed to have been taken after the discharge or escape; and
+(d) where a relevant threat of contamination results from a series of occurrences having the same origin, they shall be treated as a single occurrence.
+(2) Subsections (3), (4), (5) and (6) shall apply in relation to any damage or cost for which a person is liable under section 151, 151A or 152, but which is not due to his fault, as if it were due to his fault.
+(3) Where any person suffers damage as a result partly of his own fault and partly of the fault of any other person or persons, a claim in respect of that damage shall not be defeated by reason of the fault of the person suffering the damage, but the damages recoverable in respect thereof shall be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage.
+(4) Subsection (3) shall not operate to defeat any defence arising under a contract; and where any contract or enactment providing for the limitation of liability is applicable to the claim, the amount of damages recoverable by the claimant under subsection (3) shall not exceed the maximum limit so applicable.
+(5) Where damages are recoverable by any person under subsection (3) subject to such reduction as is therein mentioned, the court shall find and record the total damages which would have been recoverable if the claimant had not been at fault.
+(6) Where, in any case to which subsection (3) applies, one of the persons at fault avoids liability to any other such person or his personal representative by pleading the Limitation Act 1984, or any other enactment limiting the time within which proceedings may be taken, he shall not be entitled to recover any damages or contributions from that other person or representative by virtue of the said subsection.
+(7) Where any case to which subsection (3) applies is tried with a jury, the jury shall determine the total damages which would have been recoverable if the claimant had not been at fault and the extent to which those damages are to be reduced.
+[Section 154A inserted by 2008:14 s.8 effective 10 December 2008]

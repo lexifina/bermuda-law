@@ -1,0 +1,17 @@
+# Interpretation
+149 (1) In this Chapter—
+“harbour authority” means a person or body of persons empowered by an enactment to make charges in respect of ships entering a harbour in Bermuda or using facilities therein;
+“harbour in Bermuda” means a port, estuary, haven, dock or other place the waters of which are within Bermuda waters and in respect of entry into or the use of which by ships a person or body of persons is empowered by an enactment to make any charges other than charges in respect of navigational aids or pilotage;
+“harbour master” includes a dock master or pier master, and any person specially appointed by a harbour authority for the purpose of enforcing the provisions of this Chapter in relation to the harbour;
+“oil” means oil of any description and includes spirit produced from oil of any description, and also includes coal tar;
+“oil residues” means any waste consisting of, or arising from, oil or a mixture containing oil;
+“place on land” has the meaning given in section 130(5);
+“transfer”, in relation to oil, means transfer in bulk.
+(2) For the purposes of the definition of “harbour in Bermuda” “charges in respect of navigational aids” means general light dues, local light dues and any other charges payable in respect of lighthouses, buoys or beacons.
+(3) Any reference in any provision of this Chapter to a mixture containing oil shall be construed as a reference to any mixture of oil (or, as the case may be, of oil of a description referred to in that provision) with water or with any other substance.
+(4) Any reference in this Chapter, other than in section 134, to the discharge of oil or a mixture containing oil, or to its being discharged, from a ship, place or thing, except where the reference is to its being discharged for a specific purpose, includes a reference to the escape of oil or mixture, or (as the case may be) to its escaping, from that ship, place or thing.
+(5) For the purposes of any provision of this Chapter relating to the discharge of oil or a mixture containing oil from a ship, any floating craft (other than a ship) which is attached to a ship shall be treated as part of the ship.
+(6) Any power conferred by section 220 in its application to this Chapter to test any equipment on board a ship shall be construed as including a power to require persons on board the ship to carry out such work as may be requisite for the purpose of testing the equipment; and any provision of that section as to submitting equipment for testing shall be construed accordingly.
+(7) Nothing in this Chapter shall—
+(a) affect any restriction imposed by or under any other enactment, whether contained in a public general Act or a local or private Act; or
+(b) derogate from any right of action or other remedy (whether civil or criminal) in proceedings instituted otherwise than under this Chapter.

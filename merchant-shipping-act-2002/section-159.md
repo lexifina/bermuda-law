@@ -1,0 +1,2 @@
+# Establishment of limitation fund outside Bermuda
+159 Where the events resulting in the liability of any person under section 151 also resulted in a corresponding liability under the law of another Liability Convention country sections 157 and 158 shall apply as if the references to sections 151 and 156 included references to the corresponding provisions of that law and the references to sums paid into court included references to any sums secured under those provisions in respect of the liability.
