@@ -1,0 +1,8 @@
+# Validation of establishment of offices etc
+3 (1) Where before the commencement date a public office was purportedly established under any of the Scheduled enactments, a person was purportedly appointed to such an office, or such an office was purportedly abolished, without the specific authorization or determination of the Legislature, then—
+(a) that public office shall be deemed to have been validly established with effect from the date of such purported establishment;
+(b) that person shall be deemed to have been validly appointed to that office with effect from the date of such purported appointment;
+(c) that office shall be deemed to have been validly abolished with effect from the date of such purported abolition;
+and no action, suit or proceeding shall be brought or, if proceedings were commenced prior to the commencement date, continued, against any person or authority by reason only of such purported establishment, appointment or abolition, as the case may be.
+(2) For the avoidance of doubt, any benefit, right or obligation (including any pension entitlement) which by virtue of any provision of law attaches to a particular public office shall be deemed to be, and always to have been, attached to such an office deemed to have been validly established under subsection (1).
+(3) For the avoidance of doubt, any benefit, right or obligation (including any pension entitlement) which by virtue of any provision of law exists by reason of the abolition of a particular public office shall be deemed to exist and to have existed since the date of the purported abolition of such an office deemed to have been validly abolished under subsection (1).
