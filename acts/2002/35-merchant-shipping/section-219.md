@@ -1,0 +1,11 @@
+# Powers to inspect ships and their equipment, etc.
+219 (1) For the purpose of seeing that the provisions of this Act other than Chapter III of Part VII the provisions of regulations and rules made under this Act (other than that Chapter) are complied with or that the terms of any approval, licence, consent, direction or exemption given by virtue of such regulations are duly complied with, the following persons, namely—
+(a) a surveyor of ships;
+(b) a superintendent;
+(c) any person appointed by the Minister, either generally or in a particular case, to exercise powers under this section;
+may at all reasonable times go on board a ship in Bermuda or Bermuda waters and inspect the ship and its equipment or any part thereof, any articles on board and any document carried in the ship in pursuance of this Act or in pursuance of regulations or rules under this Act .
+(2) The powers conferred by subsection (1) are not exercisable in relation to a qualifying foreign ship while the ship is exercising the right of innocent passage.
+(3) The powers conferred by subsection (1) are, if the ship is a Bermuda ship, also exercisable outside Bermuda waters and may be so exercised by a proper officer as well as the persons mentioned in that subsection.
+(4) A person exercising powers under this section shall not unnecessarily detain or delay a ship but may, if he considers it necessary in consequence of an accident or for any other reason, require a ship to be taken into dock for a survey of its hull or machinery.
+(5) Where any such person as is mentioned in subsection (1) has reasonable grounds for believing that there are on any premises provisions or water intended for supply to a Bermuda ship which, if provided on the ship, would not be in accordance with safety regulations containing requirements as to provisions and water to be provided on ships he may enter the premises and inspect the provisions or water for the purpose of ascertaining whether they would be in accordance with the regulations.
+(6) If any person obstructs a person in the exercise of his powers under this section, or fails to comply with a requirement made under subsection (4), he shall be guilty of an offence and liable, on summary conviction, to a fine of $10,000.

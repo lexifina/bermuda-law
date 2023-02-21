@@ -1,0 +1,13 @@
+## Limitation of liability of harbour and dock authorities
+# Limitation of liability
+187 (1) This section applies in relation to the following authorities and persons, that is to say, a harbour authority and the owners of any dock.
+(2) The liability of any authority or person to which this section applies for any loss or damage caused to any ship, or to any goods, merchandise or other things whatsoever on board any ship shall be limited in accordance with subsection (5) by reference to the tonnage of the largest Bermuda ship which, at the time of the loss or damage is, or within the preceding five years has been, within the area over which the authority or person discharges any functions.
+(3) The limitation of liability under this section relates to the whole of any losses and damages which may arise on any one distinct occasion, although such losses and damages may be sustained by more than one person, and shall apply whether the liability arises at common law or under any general or local or private Act, and notwithstanding anything contained in such an Act.
+(4) This section does not exclude the liability of an authority or person to which it applies for any loss or damage resulting from any such personal act or omission of the authority or person as is mentioned in Article 4 of the Convention set out in Part I of Schedule 6.
+(5) The limit of liability shall be ascertained by applying to the ship by reference to which the liability is to be determined the method of calculation specified in paragraph I (b) of Article 6 of the Convention set out in Part I of Schedule 6 read with paragraphs 5(l) and (2) of Part II of that Schedule.
+(6) Articles 11 and 12 of that Convention and paragraphs 8 and 9 of Part II of that Schedule shall apply for the purposes of this section.
+(7) For the purposes of subsection (2) a ship shall not be treated as having been within the area over which a harbour authority discharges any functions by reason only that it has been built or fitted out within the area, or that it has taken shelter within or passed through the area on a voyage between two places both situated outside that area, or that it has loaded or unloaded mails or passengers within the area.
+(8) Nothing in this section imposes any liability for any loss or damage where no liability exists apart from this section.
+(9) In this section—
+“dock” includes wet docks and basins, tidal docks and basins, locks, cuts, entrances, dry docks, graving docks, gridirons, slips, quays, wharves, piers, stages, landing places and jetties; and
+“owners of any dock or canal” includes any authority or person having the control and management of any dock or canal, as the case may be.

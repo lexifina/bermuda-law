@@ -1,0 +1,5 @@
+# Food and catering
+56A (1) Every shipowner shall ensure that seafarers are supplied free of charge with food and drinking water of appropriate quality, nutritional value and quantity that adequately covers the requirements of the ship and takes into account, where appropriate, differing cultural and religious backgrounds.
+(2) The Minister may make regulations providing for supply of food and drinking water for seafarers and for the required qualifications and training of ships’ cooks and the training of catering staff, and related matters to give effect to Regulation 3.2 of the Maritime Labour Convention 2006 taking into account the fundamental rights in Articles III and IV of the Convention.
+(3) Regulations made by the Minister in accordance with subsection (2) may specify the classes of ship to which the regulations apply, may define the categories of seafarer to which they apply and may exempt certain classes of ship from the application of the regulations.
+[Section 56A inserted by 2012 : 30 s. 10 effective 30 June 2014]

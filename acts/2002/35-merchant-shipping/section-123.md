@@ -1,0 +1,3 @@
+# Further provision for the prevention of pollution from ships
+123 (1) The Minister may by statutory instrument make such provision as he considers appropriate for the purpose of giving effect to any provision of the United Nations Convention on the Law of the Sea 1982 (Cmnd 8941) for the protection and preservation of the marine environment from pollution by matter from ships.
+(2) Without prejudice to the generality of subsection (1), a statutory instrument under that subsection may in particular include provision corresponding to any provision that is authorised for the purposes of section 122 by subsections (3) and (4) of that section.

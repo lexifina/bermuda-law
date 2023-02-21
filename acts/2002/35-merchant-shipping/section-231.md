@@ -1,0 +1,4 @@
+# Rules as to investigations and appeals
+231 (1) The Minister may make rules for the conduct of formal investigations under section 229 and for the conduct of any rehearing under section 230 which is not held by the Supreme Court.
+(2) Without prejudice to the generality of subsection (1), rules under this section may provide for the appointment and summoning of assessors, the manner in which any facts may be proved, the persons allowed to appear, and the notices to be given to persons affected.
+(3) Rules of court made for the purpose of re-hearings under section 230 which are held by the Supreme Court, or of appeals to the Court of Appeal, may require the court, subject to such exceptions, if any, as may be allowed by the rules, to hold such a re-hearing or hear such an appeal with the assistance of one or more assessors.

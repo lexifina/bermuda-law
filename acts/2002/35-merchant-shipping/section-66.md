@@ -1,0 +1,3 @@
+# Special certificates of competence
+66 (1) The Minister may issue and record documents certifying the attainment of any standard of competence relating to ships or their operation, notwithstanding that the standard is not among those prescribed or specified under section 59 (1)(b); and may, in relation thereto, make regulations for purposes corresponding to those mentioned in section 59(4).
+(2) If a person makes a statement which he knows to be false or recklessly makes a statement which is false in a material particular for the purpose of obtaining for himself or another person a document which may be issued under this section he shall be guilty of an offence and liable on summary conviction to a fine of $10,000.

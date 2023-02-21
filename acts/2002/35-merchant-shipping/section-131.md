@@ -1,0 +1,9 @@
+# Defences of owner or master charged with offence under section 130
+131 (1) Where a person is charged with an offence under section 130 as the owner or master of a ship, it shall be a defence to prove that the oil or mixture was discharged for the purpose of—
+(a) securing the safety of any ship;
+(b) preventing damage to any ship or cargo; or
+(c) saving life;
+unless the court is satisfied that the discharge of the oil or mixture was not necessary for that purpose or was not a reasonable step to take in the circumstances.
+(2) Where a person is charged with an offence under section 130 as the owner or master of a ship, it shall also be a defence to prove
+(a) that the oil or mixture escaped in consequence of damage to the ship, and that as soon as practicable after the damage occurred all reasonable steps were taken for preventing, or (if it could not be prevented) for stopping or reducing, the escape of the oil or mixture; or
+(b) that the oil or mixture escaped by reason of leakage, that neither the leakage nor any delay in discovering it was due to any want of reasonable care, and that as soon as practicable after the escape was discovered all reasonable steps were taken for stopping or reducing it.
