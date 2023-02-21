@@ -1,0 +1,13 @@
+## SECOND SCHEDULE SECTION 4
+## CONSTITUTION ETC. OF THE REVISING TRIBUNAL
+1 The Revising Tribunal shall consist of a Chairman and four occasional members.
+2 The Chairman shall be appointed by the Governor, acting in his discretion, and shall hold office during the Governor’s pleasure, and if for any reason the Chairman of the Tribunal is unable to perform his functions as such, the Governor may appoint another person to act as Chairman until he is able to resume his duties or until he ceases to hold office, whichever event is the earlier.
+3 The Chairman shall be entitled to an annual fee at the rate of one hundred and fifty dollars which shall be charged on the Consolidated Fund.
+4 The occasional members of the Tribunal shall be appointed by the Governor, acting in his discretion, from among the justices of the Peace or other responsible householders of each parish and four such occasional members shall be appointed for each parish and shall hold office as such during the Governor’s pleasure.
+5 The occasional members in respect of any parish shall sit with the Chairman and form the Revising Tribunal for the examination of those portions of the preliminary list which relate to persons resident in the constituencies falling within the parish in respect of which they are appointed as occasional members.
+6 In any case where the Revising Tribunal have no personal knowledge relating to any person whose name appears on the preliminary list in respect of the constituency under consideration, for the purpose of issuing the certificate required under section 3(3) they shall examine the person concerned and satisfy themselves that he is eligible for jury service under the provisions of section 3(3).
+7 If an occasional member for any parish is for any reason unable to attend any sitting of the Tribunal the Governor may appoint another person from that parish to act as occasional member for that parish until the substantive member is able to resume his duties.
+8 The Revising Tribunal shall, as respects the performance of their functions under this Act, regulate their own procedure and may fix the times and places of their sittings and may from time to time adjourn as they think fit.
+9 No defect in the appointment of the Chairman or any occasional member or any person acting for them shall vitiate any proceedings of the Tribunal.
+10 No member of the Tribunal (including the Chairman and any acting member or Chairman) shall be liable to any action or suit for anything done by him in good faith as such.
+11 Fees shall be paid to members of the Revising Tribunal (including acting Members) in accordance with the provisions of the Government Authorities (Fees) Act 1971 [title 14 item 6].

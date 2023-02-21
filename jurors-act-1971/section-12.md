@@ -1,0 +1,7 @@
+# Application to have name removed from list
+12 (1) If any person claims that, owing to some disqualification or exemption, his name should not be included in the approved list he may, within the period specified in the notice published under the provisions of section 11(1), apply in writing to the Registrar to have his name struck off the approved list.
+(2) The Registrar shall as soon as may be take each such application into consideration and, within seven days after receiving the application—
+(a) where he is satisfied that the applicant is disqualified or exempt from liability for jury service, shall strike off the applicant’s name accordingly; and
+(b) in every case shall inform the applicant of his decision in the matter.
+(3) If the Registrar refuses to comply with an application made under subsection (1) the applicant may, within seven days next after the date on which the refusal of the Registrar is notified to him, apply, by notice in writing to the Registrar, to a Judge in Chambers for a declaration that his name ought not to be included in the approved list and pending the making of an order by the Judge under subsection (4), the name of the applicant shall be deemed not to be included in the approved list.
+(4) A Judge in Chambers shall deal with any such application in a summary way and make such order in the matter as appears just, and the Registrar shall govern himself accordingly.

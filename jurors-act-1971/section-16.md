@@ -1,0 +1,6 @@
+# Stand-by jurors
+16 Where—
+(a) it is made to appear to the Registrar that a person selected and returned as a juror at a session of the Supreme Court has died or that it has not been possible to summon him to attend by reason of his absence from Bermuda; or
+(b) it is made to appear to the Registrar that a person selected and returned as a juror at a session of the Supreme Court has been excused from jury service under section 15,
+then in either such case where the person who has died, or (as the case may be) is absent from Bermuda or has been excused, was selected and returned as a member of the panel of jurors, the Registrar shall replace him in that panel by the first available stand-by juror on the list of stand-by jurors and shall give to that stand-by juror such directions as to attendance or otherwise in respect of jury service as may be appropriate; and the stand-by juror shall thenceforward be treated for all purposes as if he were a member of the panel of jurors for that session:
+Provided that where it becomes necessary to direct a standby juror to attend at the Supreme Court for jury service he shall be given not less than forty-eight hours’ notice in writing of such requirement.
