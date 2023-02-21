@@ -1,0 +1,3 @@
+# Relationship with Electronic Communications Act 2011
+4 (1) A person who, under this Act, holds a protection zone installation permit or a submarine cable licence, as the case may be, authorizing certain activities, is exempted from the requirement under section 12 of the Electronic Communications Act 2011 of holding an authorization under that Act in respect of those activities subject to anything to the contrary in the authorization the person holds under this Act.
+(2) Subject to subsection (1), the Electronic Communications Act 2011 shall apply to the supply of electronic communications for which a licence, permit or other form of authorization is required under that Act.
