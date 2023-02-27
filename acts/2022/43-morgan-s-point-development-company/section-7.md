@@ -1,0 +1,4 @@
+# Board of directors
+7 (1) There shall be a board of directors of the Company which shall be responsible for devising and executing the policy of the Company.
+(2) A director who is directly or indirectly interested in a contract, a proposed contract or an arrangement with the Company shall declare the nature of such interest at a meeting of the board of directors and the disclosure shall be recorded in the minutes of the meeting.
+(3) Where a declaration is made under subsection (2), unless the board of directors decide that the interest in question might prejudicially affect the director’s consideration of the matter and so disqualify him from voting, a director may vote in respect of any contract, proposed contract or arrangement in which such director is interested and may be counted in the quorum for such meeting.

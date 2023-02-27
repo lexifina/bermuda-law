@@ -1,0 +1,5 @@
+# Power to sell or dispose of land
+10 (1) The Company may, with the prior approval of the Legislature—
+(a) sell the scheduled land or any other land situated at Morgan’s Point;
+(b) grant a lease or create a disposition of an interest in relation to the scheduled land and any other land situated at Morgan’s Point for a term exceeding twenty-one years or for terms renewable at the option of the grantee exceeding in the aggregate twenty-one years, except that no disposition or conveyance to which this subsection applies shall be expressed to be for a term exceeding one hundred and twenty years or for terms renewable at the option of the transferee or grantee for a period exceeding in the aggregate one hundred and twenty years.
+(2) The approval of the Legislature referred to in subsection (1) shall be expressed by way of resolution passed by both Houses of the Legislature approving the sale of the scheduled land or any other land situated at Morgan’s Point and communicated to the Governor by message.
