@@ -1,0 +1,4 @@
+# Payment of certain arrears unenforceable without the leave of the court
+36 (1) A person shall not be entitled to enforce through the court the payment of any arrears due under an order for maintenance pending suit, an interim order for maintenance or any financial provision order without the leave of the court if those arrears became due more than twelve months before proceedings to enforce the payment of them are begun.
+(2) The court may refuse leave, or may grant leave subject to such restrictions and conditions (including conditions as to the allowing of time for payment or the making of payment by instalments) as the court thinks proper, or may remit the payment of the arrears or of any part thereof.
+(3) An application for the grant of leave under this section shall be made in such manner as may be prescribed by rules of court.

@@ -1,0 +1,5 @@
+# Marriages governed by foreign law or celebrated abroad under English law
+18 (1) Where, apart from this Act, any matter affecting the validity of a marriage would fall to be determined (in accordance with the rules of private international law) by reference to the law of a country outside Bermuda, nothing in section 15, 16 or 17(1) shall—
+(a) preclude the determination of that matter as aforesaid; or
+(b) require the application to the marriage of the grounds or bar there mentioned except so far as applicable in accordance with those rules.
+(2) In the case of a marriage which purports to have been celebrated under the Foreign Marriage Acts 1892 to 1947 of the Parliament of the United Kingdom or has taken place outside Bermuda and purports to be a marriage under common law, section 15 is without prejudice to any ground on which the marriage may be void under those Acts or, as the case may be, by virtue of the rules governing the celebration of marriages outside Bermuda under common law.

@@ -1,0 +1,8 @@
+# Restriction on applying for a divorce order within three years of marriage
+7 (1) Subject to subsection (2), an application for a divorce order shall not be made before the expiration of the period of three years from the date of the marriage (hereafter in this section referred to as “the specified period”).
+(2) A judge of the court may, on an application made to him, allow the presentation of an application for a divorce order within the specified period on the ground that the case is one of exceptional hardship suffered by the applicant or of exceptional depravity on the part of the respondent; but in determining the application the judge shall have regard to the interests of any child of the family and to the question whether there is reasonable probability of a reconciliation between the parties during the specified period.
+(3) If it appears to the court, at the hearing of an application for a divorce order presented in pursuance of leave granted under subsection (2), that the leave was obtained by the applicant by any misrepresentation or concealment of the nature of the case, the court may—
+(a) dismiss the application, without prejudice to any application which may be brought after the expiration of the specified period upon the same facts, or substantially the same facts, as those proved in support of the dismissed application; or
+(b) if it grants a divorce order, direct that no application to make the divorce order final shall be made during the specified period.
+(4) Nothing in this section shall be deemed to prohibit the presentation of an application based upon matters which occurred before the expiration of the specified period.
+[Section 7 amended by 2022 : 4 s. 6 effective 13 March 2023]

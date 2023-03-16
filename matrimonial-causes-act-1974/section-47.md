@@ -1,0 +1,6 @@
+# Power to provide for supervision of children
+47 (1) Where the court has jurisdiction by virtue of this Part to make an order for the custody of a child and it appears to the court that there are exceptional circumstances making it desirable that the child should be under the supervision of an independent person, the court may, as respects any period during which the child is, in exercise of that jurisdiction, committed to the custody of any person, order that the child be under the supervision of the Director.
+(2) Where the court makes an order under this section for supervision by the Director the child shall, for the purposes of such supervision but not further or otherwise, be deemed to be a foster-child within the meaning of the Children Act 1998 [title 27 item 26].
+(3) Where a child is under the supervision of any person in pursuance of this section the jurisdiction possessed by a court to vary any financial provision order in the child’s favour or any order made with respect to his custody or education under this Part shall, subject to any rules of court, be exercisable at the instance of that court itself.
+(4) The court shall have power from time to time by an order under this section to vary or discharge any provision made in pursuance of this section.
+[Section 47 amended by 1998:38 effective 1 January 2000]
