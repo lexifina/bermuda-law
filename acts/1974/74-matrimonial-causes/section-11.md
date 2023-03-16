@@ -1,0 +1,3 @@
+# Consideration by the court of certain agreements or arrangements
+11 Provision may be made by rules of court for enabling the parties to a marriage, or either of them, on application made when proceedings for a divorce order are contemplated or have begun, to refer to the court any agreement or arrangement made or proposed to be made between them, being an agreement or arrangement which relates to, arises out of, or is connected with, the proceedings and for enabling the court to express an opinion, should it think it desirable to do so, as to the reasonableness of the agreement or arrangement and to give such directions, if any, in the matter as it thinks fit.
+[Section 11 amended by 2022 : 4 s. 9 effective 13 March 2023]

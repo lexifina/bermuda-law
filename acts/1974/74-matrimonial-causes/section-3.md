@@ -1,0 +1,2 @@
+# Domicile
+3 For the purposes of section 2 a person’s domicile shall, if the person’s first or only marriage (whether valid or void) took place when he or she was a minor, be determined as if the person had attained full age on the day of the marriage and a woman’s domicile shall be determined without regard to any rule of law providing for her domicile at any time to be the same as that of her then husband.

@@ -1,0 +1,10 @@
+# Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour
+33 (1) Subject to subsection (3), no financial provision order and no order for a transfer of property under section 28(1)(a) shall be made in favour of a child who has attained the age of eighteen.
+(2) The term to be specified in a periodical payments or secured periodical payments order in favour of a child may begin with the date of the making of an application for the order in question or any later date but—
+(a) shall not in the first instance extend beyond the date of the birthday of the child next following his attaining the upper limit of the compulsory school age (that is to say, the age that is for the time being that limit by virtue of section 40 of the Education Act 1996) unless the court thinks it right in the circumstances of the case to specify a later date; and
+(b) shall not in any event, subject to subsection (3), extend beyond the date of the child’s eighteenth birthday.
+(3) Subsection (1), and subsection (2)(b), shall not apply in the case of a child, if it appears to the court that—
+(a) the child is, or will be, or if an order were made without complying with either or both of those provisions would be, receiving instruction at an educational establishment or undergoing training for a trade, profession or vocation, whether or not he is also, or will also be, in gainful employment; or
+(b) there are special circumstances which justify the making of an order without complying with either or both of those provisions.
+(4) Any periodical payments order in favour of a child shall, notwithstanding anything in the order, cease to have effect on the death of the person liable to make payments under the order, except in relation to any arrears due under the order on the date of the death.
+[Reference to "Education Act 1954" changed to "Education Act 1996" under the authority of the Computerization and Revision of Laws Act 1989 s.11(h)]
