@@ -1,0 +1,2 @@
+# Licence and special licence lapse within three months
+11 Where an intended domestic partnership does not take place within three months after the date of the issue of any licence or special licence relating to the intended domestic partnership, the licence or special licence shall be void, and the domestic partnership shall not be entered into under the authority of that licence or special licence.
