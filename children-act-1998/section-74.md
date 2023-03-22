@@ -1,0 +1,6 @@
+# Order for closure or to comply with decision of the Director of the Department of Health
+74 (1) The Minister may issue an order to an operator of a day care centre directing him to cease to operate the day care centre, or to otherwise comply with a decision of the Director of the Department of Health, within such time as may be specified in the order.
+(2) Where an order under subsection (1) has been issued directing a day care operator to cease to operate a day care centre, the Minister shall give the reasons for his decision and, if he deems necessary, cause any inspection, enquiries, or investigations to be undertaken and reported on, and to give such directions as he considers appropriate.
+(3) The Minister may inform the public of an order issued under subsection (1) in such manner as he considers appropriate.
+(4) An operator of a day care centre who is aggrieved by an order issued under subsection (1) may, within 14 days of receipt of the order, appeal by notice in writing to the court and the court may confirm, reverse or vary the order and give such directions as it considers appropriate.
+[Section 74 repealed and replaced by 2010 : 59 s. 7 effective 22 December 2010; Section 74 amended by 2018 : 66 s. 2 effective 10 January 2019]

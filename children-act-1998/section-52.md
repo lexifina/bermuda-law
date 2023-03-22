@@ -1,0 +1,6 @@
+# Transfer from residential home to senior training school
+52 (1) Where—
+(a) an order has been made under section 16(f) of the Young Offenders Act 1950 [title 10 item 33]; or
+(b) an order has been made under this Act,
+committing a child to the care of the Director and the Director, having placed the child in a residential home, is of the opinion that the child is incorrigible or is exercising a bad influence on the other children of the home, the Director may, with the consent of the Minister, apply to the court which made the order for an order under this section.
+(2) Where an application is made under subsection (1) and the court is satisfied that the child should be removed from the residential home it may make an order revoking the order committing the child to the residential home and by order under this section direct that the child be transferred to the senior training school (within the meaning of the Young Offenders Act 1950 [title 10 item 33]) and may commute the remainder of the period for which the child was committed to the residential home to such period of corrective training as the court may determine, being a term not exceeding the remainder of the period for which the child was committed to the residential home.

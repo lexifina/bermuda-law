@@ -1,0 +1,4 @@
+# Appeals
+78 (1) A person aggrieved by any decision of the Director of the Department of Health under section 68, 69, 70 or 76 may, within 21 days of being notified of the decision, appeal by notice in writing to the Minister and the Minister, after giving the person aggrieved an opportunity to be heard or to make written representations, shall by order decide the matter and give notice of the decision to the Director of the Department of Health and the aggrieved person.
+(2) A person who is aggrieved by a decision of the Minister under subsection (1) may, within 14 days of receipt of the notice of the decision, appeal by notice in writing to the court and the court may confirm, reverse or vary the decision of the Minister and give such directions as it considers appropriate.
+[Section 78 subsection (2) repealed and replaced by 2010 : 59 s. 11 effective 22 December 2010; Section 78 amended by 2018 : 66 s. 2 effective 10 January 2019]
