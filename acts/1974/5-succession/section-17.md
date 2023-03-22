@@ -1,0 +1,8 @@
+# Interim orders
+17 (1) Where on an application for an order under section 14 it appears to the Court—
+(a) that the applicant is in immediate need of financial assistance, but it is not yet possible to determine what order (if any) should be made under that section; and
+(b) that property forming part of the net estate of the deceased is or can be made available to meet the need of the applicant,
+the Court may order that, subject to such conditions or restrictions, if any, as the Court may impose and to any further order of the Court, there shall be paid to the applicant out of the net estate of the deceased such sum or sums and (if more than one) at such intervals as the Court thinks reasonable; and the Court may order that, subject to this Act, such payments are to be made until such date as the Court may specify, not being later than the date on which the Court either makes an order under section 14 or decides not to exercise its powers under that section.
+(2) Section 14(2), (3) and (4) shall apply in relation to an order under this section as they apply in relation to an order under section 14.
+(3) In determining what order, if any, should be made under this section the Court shall, so far as the urgency of the case admits, have regard to the same matters as those to which the Court is required to have regard under section 15.
+(4) An order made under section 14 may provide that any sum paid to the applicant by virtue of this section shall be treated to such an extent and in such manner as may be provided by that order as having been paid on account of any payment provided for by that order.

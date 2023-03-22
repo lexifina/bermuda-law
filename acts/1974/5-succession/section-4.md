@@ -1,0 +1,5 @@
+# Construction of references to “heirs”
+4 (1) The word “heir” or “heirs” used as a word of limitation in any enactment, deed or instrument passed or executed either before or after 1 September 1974 shall have the same effect as if this Act had not passed.
+(2) The word “heir” or “heirs” used as a word of purchase in any enactment, deed or instrument passed or executed before 1 September 1974 shall bear the same meaning as if this Act had not passed.
+(3) The word “heir” or “heirs” used as a word of purchase in any enactment, deed or instrument passed or executed on or after 1 September 1974 shall, unless the contrary intention appears, be construed to mean the person or persons, other than a creditor, who would be beneficially entitled under this Part to the estate of a deceased person if that person had died intestate.
+(4) Subject to subsections (1), (2) and (3), references in this Act, and in any enactment, deed or instrument passed or executed either before or after 1 September 1974, to the heirs of any person shall be construed as including references to his estate representatives.

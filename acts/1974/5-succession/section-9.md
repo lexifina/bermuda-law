@@ -1,0 +1,2 @@
+# Partial intestacy
+9 Where the will of a testator effectively disposes of part only of his estate, then, unless it appears by the will that his estate representatives are intended to take beneficially the remainder of his estate, the estate representatives shall, subject to their powers and rights for the purposes of administration, hold the remainder of his estate upon trust for the persons who would have been entitled thereto under this Part if the testator had died intestate and left no other estate.
