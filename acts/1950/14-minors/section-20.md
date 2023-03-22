@@ -1,0 +1,4 @@
+# Enforcement of orders of court awarding custody
+20 (1) Subsection (1) of section 18 shall apply in relation to this section as it applies in relation to section 18.
+(2) Where an order made by the Supreme Court or a Special Court under this Part contains a provision committing to any person the custody of a minor, a copy of the order may be served on any person in whose actual custody the minor may be for the time being; and where a copy of the order is served on any such person it shall operate as an order of the court requiring him to deliver up the minor to the person named therein, and if he fails to deliver up the minor to the person named then, without prejudice to any other remedy, the court may commit him to prison until he has remedied his default:
+Provided that a person shall not, for a non-compliance as aforesaid, be liable to imprisonment for a period of more than two months.
