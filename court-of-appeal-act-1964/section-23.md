@@ -1,0 +1,6 @@
+# Determination of appeals under section 17(2)
+23 (1) Upon the hearing of an appeal brought by the Director of Public Prosecutions or an informant, as the case may be, under section 17(2), the Court of Appeal shall allow the appeal if it appears that the discharge or acquittal of the accused or the dismissal of the information should be set aside on the ground of a wrong decision of law; and in any other case shall dismiss the appeal.
+(2) Where the court of Appeal allows an appeal under subsection (1), then—
+(a) in a case which was tried before a court of summary jurisdiction, the Court of Appeal may set aside the dismissal of the information and remit the matter to the court of summary jurisdiction with a direction to that court to convict the respondent or otherwise to proceed according to law, and the court of summary jurisdiction shall govern itself accordingly, or make such other order as it may consider just; or
+(b) in a case which was tried on indictment, the Court of Appeal may, in an appropriate case and if the interests of justice so require, set aside the discharge or acquittal of the accused person and remit the case to the Supreme Court to be re-tried, or make such other order as it may consider just.
+[Section 23 subsection (1) amended by 1999:8 s.2 & Sch 1 effective 1 April 1999]

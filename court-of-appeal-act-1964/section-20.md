@@ -1,0 +1,8 @@
+# Effect of giving notice of appeal
+20 (1) Where notice of appeal or of application for leave to appeal has been given in accordance with section 18(1), then—
+(a) in the case of a conviction involving sentence of death, the appellant shall be detained in prison pending the abandonment or determination of the appeal;
+(b) in the case of a conviction or order involving detention or a sentence of imprisonment or corrective training, the Supreme Court or a Judge thereof may, upon the application of the appellant, release him from custody on such terms and conditions as the Court or Judge thinks fit pending the abandonment or determination of the appeal;
+(c) in the case of a conviction of an offence under the Road Traffic Act 1947 [title 21 item 3], or under the Motor Car Insurance (Third Party Risks) Act 1943 [title 21 item 5], where an order has been made suspending a driver’s licence, or cancelling a driver’s licence, or declaring the person convicted to be disqualified for obtaining another licence, or for driving an auxiliary bicycle, then any such order shall have effect pending the abandonment or determination of the appeal;
+(d) in the case of a conviction involving any other sentence or order, the sentence or order shall not be put into effect pending the abandonment or determination of the appeal.
+(2) Where an appellant is released from custody under subsection (1)(b), any period of time spent by the appellant at large shall not count as part of the sentence of imprisonment or corrective training imposed upon him.
+[Section 20 subsections (1)(b) and (2) amended by 2001:29 s.11(1) & Sch effective 29 October 2001]
