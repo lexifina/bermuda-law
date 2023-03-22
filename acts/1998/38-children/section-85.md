@@ -1,0 +1,5 @@
+# Prohibition on publication
+85 (1) No person shall publish or make public information that has the effect of identifying a child who is a witness at or a participant in a hearing or the subject of a proceeding pursuant to this Act, or a parent, a foster parent or a relative of the child.
+(2) Where the court is satisfied that the publication of a report of a hearing or proceeding, or a part thereof, would cause emotional harm to a child who is a participant in or a witness at the hearing or is the subject of the proceeding, the court may make an order prohibiting the publication of a report of the hearing or proceeding, or the part thereof.
+(3) Where the court makes an order pursuant to subsection (2), no person shall publish a report contrary to the order.
+(4) A person who contravenes subsection (1) or authorizes, permits or concurs in such a contravention by a corporation, is guilty of an offence and on summary conviction is liable to a fine of not more than $5,000 dollars or to imprisonment for one year.

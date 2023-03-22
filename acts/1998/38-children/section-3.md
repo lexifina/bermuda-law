@@ -1,0 +1,19 @@
+# Meaning of significant harm
+3 For the purpose of this Act “significant harm”, in relation to a child, means ill-treatment or impairment of health or development of a child and includes circumstances where—
+(a) the child has suffered physical harm inflicted by a parent of the child or caused by the failure of a parent to supervise and protect the child adequately;
+(b) there is a substantial risk that the child will suffer physical harm inflicted or caused as described in paragraph (a);
+(c) the child has been sexually abused by a parent of the child or by another person where the parent of the child knows or should know of the possibility of sexual abuse and fails to protect the child;
+(d) there is a substantial risk that the child will be sexually abused as described in paragraph (c);
+(e) the child requires medical treatment to cure, prevent or alleviate physical harm or suffering, and the child’s parent does not provide, or refuses or is unavailable or unable to consent to, services or treatment to remedy or alleviate the harm;
+(f) the child has suffered emotional harm demonstrated by severe anxiety, depression, withdrawal, or self-destructive or aggressive behaviour and the child’s parent does not provide, or refuses or is unavailable or unable to consent to, services or treatment to remedy or alleviate the harm;
+(g) there is a substantial risk that the child will suffer emotional harm of the kind described in paragraph (f) and the parent does not provide, or refuses or is unavailable or unable to consent to, services or treatment to remedy or alleviate the harm;
+(h) the child suffers from a mental, emotional or developmental condition that, if not remedied, could seriously impair the child’s development and the child’s parent does not provide, or refuses or is unavailable or unable to consent to, services or treatment to remedy or alleviate the condition;
+(i) the child has suffered physical or emotional harm caused by being exposed to repeated domestic violence by or towards a parent of the child, and the child’s parent fails or refuses to obtain services or treatment to remedy or alleviate the violence;
+(j) the child has suffered physical or emotional harm caused by chronic and serious neglect by a parent of the child, and the parent does not provide, or refuses or is unavailable or unable to consent to, services or treatment to remedy or alleviate the harm;
+(k) there is a substantial risk of physical, mental or emotional harm to the child by reason of neglect or the failure of the parent or person having parental responsibility to provide adequate food, clothing, medical treatment or accommodation for the child, and a person who leaves a child of tender years unattended for an unreasonable length of time without making reasonable provision for the child’s safety and supervision shall be deemed to have neglected the child;
+(l) there is substantial risk of physical, mental or emotional harm to the child by reason of substance abuse or other injurious behaviour by the parent or person having parental responsibility;
+(m) the child has displayed violent behaviour and threatens to become a danger to himself or others or is otherwise beyond parental control;
+(n) the child has been abandoned, the child’s only parent has died or is unavailable to exercise custodial rights over the child and has not made adequate provision for the child’s care and custody, or the child is in the care of another person and the parent of the child refuses or is unable or unwilling to resume the child’s care and custody;
+(o) the child has been the victim of an offence under section 19 or an offence referred to in sub-paragraphs (ii) to (vii) of section 55(1)(a);
+(p) the child is by reason of his environment or associations exposed to moral danger; or
+(q) the child is pregnant and refuses or is unable to provide properly and adequately for the health and welfare needs of her child in the womb.
