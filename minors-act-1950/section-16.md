@@ -1,0 +1,3 @@
+# Divorce order or judicial separation order; declaration in order that a parent is unfit to have custody of the minor children
+16 Where a judicial separation order or a divorce order is made, the court making the order may thereby declare the parent by reason of whose misconduct the order is made to be a person unfit to have the custody of the minor children (if any) of the marriage; and if such a declaration is made the parent so declared to be unfit shall not, upon the death of the other parent, be entitled as of right to the custody or guardianship of any such minor children.
+[Section 16 amended by 2022 : 4 s. 35 effective 13 March 2023]
