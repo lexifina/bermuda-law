@@ -1,0 +1,4 @@
+# Registration and publication of notice
+8 (1) On receiving notice of the intended domestic partnership, the Registrar shall enter the particulars contained in the notice and the date of the receipt of the notice in a register (the “Domestic Partnership Notice Register”), and shall keep the notice posted in a conspicuous place in the office of the Registrar-General for a period of not less than fourteen days from the date of the receipt thereof.
+(2) The Registrar shall also within three days of the receipt of the notice of intended domestic partnership cause a notice in the prescribed form to be published twice in any newspaper published and circulated in Bermuda.
+(3) Any expenses incurred by the Registrar in the publication of such a notice of domestic partnership shall be paid to the Registrar by the person who gave the notice.
