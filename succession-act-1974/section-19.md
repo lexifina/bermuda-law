@@ -1,0 +1,3 @@
+# Payment of lump sums by instalments
+19 (1) An order under section 14(1)(b) or 18(2)(b) for the payment of a lump sum may provide for the payment of that sum by instalments of such amount as may be specified in the order.
+(2) Where an order is made by virtue of subsection (1), the Court has power, on an application made by the person to whom the lump sum is payable, by the estate representatives of the deceased or by the trustees of the property out of which the lump sum is payable, to vary that order by varying the number of instalments payable, the amount of any instalment and the date on which any instalment becomes payable.

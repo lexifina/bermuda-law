@@ -1,0 +1,7 @@
+## PART II
+## DISTRIBUTION OF RESIDUARY ESTATE
+# Interpretation of Part II
+2 In this Part, unless the context otherwise requires—
+“pecuniary legacy” includes an annuity, a general legacy, a demonstrative legacy so far as it is not discharged out of the designated property, and any other general direction by a testator for the payment of money;
+“personal chattels” means vehicles and accessories, marine craft and accessories, horses, stable furniture and effects, garden effects, domestic animals, plate, plated articles, linen, china, glass, books, pictures, prints, furniture, furnishings, jewellery, objets d’art, bric-a-brac, photographic equipment, radios, record players, tape-recorders, television sets, musical and scientific instruments and apparatus, wines, liquors and consumable stores, and all other articles of household or personal use or ornament, but do not include any chattels used at the death of the intestate for business purposes nor money or securities for money nor bullion whether gold or silver;
+“residuary estate of the intestate” means every beneficial interest of the intestate in property which (otherwise than by virtue of a special power of appointment) he could, if of full age and capacity, have disposed of by his will, less all such funeral, testamentary and administration expenses (and, in the case of a partial intestacy, pecuniary legacies), debts and other liabilities as are properly payable thereout having regard to the rules of administration contained in the Administration of Estates Act 1974 [title 26 item 12].

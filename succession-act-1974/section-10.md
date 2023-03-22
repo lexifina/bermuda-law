@@ -1,0 +1,3 @@
+# Construction of documents
+10 (1) References to the Intestates’ Estates Act 1787 in an instrument inter vivos made, or in a will coming into operation, after 31 August 1974, shall be construed as references to this Part; and references in such an instrument or will to statutory next of kin shall be construed, unless the context otherwise requires, as referring to the persons who would take beneficially on an intestacy under the foregoing provisions of this Part.
+(2) Trusts declared in an instrument inter vivos made, or in a will coming into operation, before 1 September 1974 by reference to the Intestates’ Estates Act 1787 shall, unless the contrary thereby appears, be construed as referring to that Act.

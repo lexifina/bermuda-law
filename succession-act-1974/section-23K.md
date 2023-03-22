@@ -1,0 +1,2 @@
+# Determination of date when representation was first taken out
+23K In considering for the purposes of this Part when representation with respect to the estate of a deceased person was first taken out, a grant limited to trust property shall be left out of account and a grant limited to real estate or to personal estate shall be left out of account unless a grant limited to the remainder of the estate has previously been made or is made at the same time.
