@@ -1,0 +1,4 @@
+# Governor may refer case to Court of Appeal
+27 The Governor, acting after consultation with the Advisory Committee on the Prerogative of Mercy established under section 23 of the Constitution [title 2 item 1], on an application made to him by a person affected by a judgment of the Supreme Court in a criminal cause or matter or without any such application, may, if he thinks fit, at any time either—
+(a) refer the whole case to the Court of Appeal and the case shall then be treated for all purposes as an appeal to the Court of Appeal by the person convicted; or
+(b) if he desires the assistance of the Court of Appeal on any point arising in a case, refer that point to the Court of Appeal for their opinion thereon, and the Court of Appeal shall consider the point so referred and furnish the Governor with their opinion thereon accordingly.

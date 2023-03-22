@@ -1,0 +1,3 @@
+# Legal assistance to appellant
+26 (1) The Court of Appeal may at any time assign to an appellant or respondent in a criminal appeal a barrister and attorney to represent him in the appeal or in any proceedings preliminary or incidental to the appeal where, in the opinion of the Court of Appeal, it appears desirable in the interests of justice that the appellant or respondent should have legal aid.
+(2) A barrister and attorney assigned to an appellant pursuant to subsection (1) shall receive out of public funds provided therefor by the Legislature such fees as the Court of Appeal may determine pursuant to Rules.
