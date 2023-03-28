@@ -1,0 +1,6 @@
+# Low performing schools
+25C (1) The Commissioner of Education, in consultation with the Board, shall design and implement a procedure to identify low performing schools on an annual basis.
+(2) Where a school has been identified as a low performing school, the manager of the school, in consultation with the principal and teachers of the school, shall prepare and implement a plan for improvement of the school, and the plan shall be submitted to the Commissioner of Education for the Commissioner’s approval.
+(3) Where a school has been identified as a low performing school for two consecutive school years, the Commissioner of Education shall take measures aimed at the improvement of student performance at the school. Measures may include provision of additional resources, adoption of new programs or changes in the principal or teaching staff.
+(4) For the purposes of this section, a “low performing school” in any school year is one that fails to meet the minimum performance standards or the expected level of growth referred to in section 25A(2), or one in which a majority of the students in the school perform below grade level according to the curriculum standards referred to in section 25F, in that school year.
+[Section 25C inserted by 2008:37 s.8 effective 8 August 2008]

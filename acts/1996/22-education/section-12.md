@@ -1,0 +1,10 @@
+# Registration of schools generally, etc.
+12 (1) For the purposes of this Part the Minister shall keep a register of schools in which, subject to this section, shall be registered every school in Bermuda, whether established before or after the appointed day, being a school—
+(a) the manager of which makes application to the Minister for the purpose in the prescribed manner and furnishes the prescribed particulars; and
+(b) which appears to the Minister to be fit for registration.
+(2) If with respect to any school established prior to the appointed day it appears to the Minister that he is in possession of sufficient information to satisfy him that the school is fit for registration, the Minister may, by notice to the manager of the school, dispense with an application for registration and may proceed to register the school.
+(3) In the case of an application for the registration of a school which it is proposed to establish, the Minister, if it appears to him likely that the school (if established) will be a school fit for registration, may register the proposed school, but the registration shall be only provisional until confirmed by the Minister and, without prejudice to the powers conferred on the Minister by section 14, shall, unless sooner confirmed, cease to be valid on a date six months after the date of the registration or on such later date as the Minister, in particular cases, may appoint.
+(4) The Minister may make rules prescribing the particulars to be furnished by the managers of schools in connection with applications for registration; and such rules may provide for notification to the Minister of any changes in the particulars so furnished.
+(5) Where a school is registered pursuant to this section the Minister shall forthwith issue to the manager of that school a certificate of registration.
+(6) The manager of a school shall cause the certificate of registration to be prominently displayed at some place on the school premises.
+(7) A school which was registered under the repealed Act shall, on the coming into operation of this Act, be deemed to be registered under this Act, and subsection (5) shall have effect accordingly.

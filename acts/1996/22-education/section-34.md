@@ -1,0 +1,3 @@
+# Vesting of land in the CedarBridge Academy
+34 Every interest in or right over any land comprising the CedarBridge Academy which immediately prior to the coming into operation of this Part was vested in, or enjoyed by the Government or any Government Agency is, by virtue of this section and without further assurance, on the coming into operation of this Part transferred to the CedarBridge Academy to be held and enjoyed by that school to the extent and subject to any condition to which it was held by the Government or, as the case may be, by the Government Agency.
+[Section 34 amended by changing “Prospect Senior School” to “CedarBridge Academy by 2008:37 s.12 effective 8 August 2008]

@@ -1,0 +1,4 @@
+# Special powers of board of governors of CedarBridge Academy
+36 (1) The board of governors of the CedarBridge Academy may, with the prior approval of the Minister, and not otherwise, from time to time and subject to such conditions or restrictions as the Minister considers appropriate, enter into such arrangements for the use of any premises or facilities at the school as the board of governors may determine; and for the purposes of any such arrangement may charge such fee as the Minister considers appropriate.
+(2) Any income accruing to the board of governors pursuant to subsection (1) shall be held and applied by the board of governors for the benefit of the CedarBridge Academy.
+[Section 36 amended by changing “Prospect Senior School” to “CedarBridge Academy by 2008:37 s.12 effective 8 August 2008]
