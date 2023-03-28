@@ -1,0 +1,2 @@
+# Requirement that notices etc. shall be in writing
+63 All notices, orders, consents, applications and other documents authorized or required by or under this Act or by or under rules made thereunder to be given, made or issued by the Minister, the Board, or to any officer of the Department, and all notices and applications authorized or required by or under this Act or by or under any such rules to be given or made to, or to any officer of, the Department, shall, except where otherwise expressly provided, be in writing.

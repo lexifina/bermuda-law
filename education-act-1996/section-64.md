@@ -1,0 +1,5 @@
+# Authentication of documents
+64 (1) Any notice, order, consent or other document which the Minister is authorized or required by or under this Act, or by or under rules made thereunder, to give, make or issue may be signed on behalf of the Minister—
+(a) by the Permanent Secretary; or
+(b) by any officer of the Department duly authorized by the Minister to sign documents of the particular kind, or as the case may be, the particular document.
+(2) Any document purporting to bear the signature of an officer expressed to hold an office by virtue of which he is under this section empowered to sign such a document, or expressed to be duly authorized by the Minister to sign such a document or the particular document, shall, for the purposes of this Act, and of any rules made thereunder, be deemed, until the contrary is proved, to have been duly given, made or issued by or under the authority of the Minister.

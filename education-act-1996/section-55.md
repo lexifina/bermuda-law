@@ -1,0 +1,2 @@
+# Admission to middle schools
+55 The Minister may from time to time by notice published in the Gazette specify the middle school to which children who have attended a particular primary school and who have completed primary school education will be admitted for the purpose of middle school education and, subject to section 56(3), children from that primary school (hereinafter referred to as “the feeder school”) shall attend the middle school so specified.

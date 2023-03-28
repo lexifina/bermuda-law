@@ -1,0 +1,2 @@
+# Special provision relating to regular attendance of children not of compulsory school age who are enrolled at aided or maintained schools
+49 Where a child, being a child whose age is under the lower limit or above the upper limit of compulsory school age, is enrolled as a pupil at an aided or maintained school, then, until the child is withdrawn from the school, section 43 shall apply in relation to the child as if the child were of compulsory school age, and the other provisions of this Part shall have effect accordingly in relation to the child.
