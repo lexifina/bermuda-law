@@ -1,0 +1,3 @@
+# Hospital levy to be paid by the Government
+27 (1) For the purposes of this Part “employer” shall include the Government, any agency thereof, and any Government Board; and “employee” shall be construed accordingly.
+(2) The Government shall be charged to hospital levy in respect of salaries (including any additional salary) paid under the Legislature and Executive Council Salaries Act 1969 or under the Ministers and Members of the Legislature (Salaries and Pensions) Act 1975 as if the Government were the employer of the persons entitled to payment thereunder and section 24 shall apply in relation to such payments as though such persons were the employees of the Government.
