@@ -1,0 +1,9 @@
+# Meaning of “exempt undertaking”
+9 (1) Subject to subsections (2) and (3), for the purposes of Parts III and IV an exempt undertaking is an exempted undertaking as defined in the Companies Act 1981 .
+(2) Notwithstanding subsection (1), the following shall not be exempt undertakings for the purposes of Parts III and IV—
+(a) an exempted company which is required, in respect of any of its business activities, to be licensed under the Companies Act 1981 or other public Act authorising such company to carry on business within Bermuda or, in the case of an exempted company incorporated by private Act, would be so required in the absence of any provision to the contrary in such Act;
+(b) an exempted partnership or permit company which is carrying on any business activity in respect of which, if the partnership or company were an exempted company, it would require to be licensed under the Companies Act 1981 or in respect of which it requires a licence under any public Act (other than under section 69 of the Bermuda Immigration and Protection Act 1956 ) to carry on business within Bermuda.
+(3) Where an entity specified in subsection (1) is not an exempt undertaking by reason of subsection (2) the Commissioner shall, if he is satisfied that the business activities referred to in subsection (2),—
+(a) are insignificant in comparison with the other business activities of such entity within Bermuda or carried on outside Bermuda from a place of business in Bermuda, direct that such entity shall be deemed to be an exempt undertaking for the purposes of Parts III and IV;
+(b) are carried on as a business enterprise distinct and separable from the other business activities of such an entity, direct that such an entity shall be deemed to be an exempt undertaking for the purposes of Parts III and IV in relation to any activities attributable to the carrying on of such other business activities.
+[Section 9 amended by 1994:5 effective 25 March 1994]

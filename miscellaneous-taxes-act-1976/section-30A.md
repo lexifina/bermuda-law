@@ -1,0 +1,4 @@
+# Exemption
+30A (1) Where an entitled person who has been accommodated as a guest at an hotel establishes to the Tax Commissioner’s satisfaction that he has paid an amount to the proprietor of the hotel as hotel occupancy tax in respect of the accommodation, the Tax Commissioner shall issue in respect of him a certificate to that effect specifying the amount.
+(2) A certificate issued by the Tax Commissioner in respect of an entitled person pursuant to subsection (1) shall be authority to the Accountant General to pay to the entitled person the amount specified in the certificate.
+(3) In this section “entitled person” means a person entitled under the Consular Relations Act 1971 [title 6 item 1] or the Diplomatic Privileges Act 1980 [title 6 item 5] to exemption from paying taxes on charges incurred by him for hotel accommodation.
