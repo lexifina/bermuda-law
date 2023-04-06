@@ -1,0 +1,2 @@
+# Fuel surcharge
+6 Where, after the coming into operation of these Regulations, the price of fuel oil is increased by an amount exceeding five cents per litre, there shall be payable, in addition to the dues specified in the Schedule, a surcharge at the rate of ten dollars and fifty cents per movement, hour, or in the case of a cruise ship, per round trip, for every five cents or part thereof by which the price is so increased.
