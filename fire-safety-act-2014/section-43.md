@@ -1,0 +1,3 @@
+# Offences by body corporate
+43 (1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person purporting to act in any such capacity, he as well as the body corporate commits an offence against this Act.
+(2) Where the affairs of a body corporate are managed by its members, this section shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.

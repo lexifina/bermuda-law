@@ -1,0 +1,4 @@
+# Issue of fire certificate
+13 (1) The Chief Fire Officer shall issue a fire certificate where on completion of any works on premises or on the implementation of a plan concluded pursuant to section 21, he is satisfied as regards any use of the premises that the means specified in section 12(2)(a) to (d) are such as may be reasonably required in the circumstances in connection with the use of the premises.
+(2) A fire certificate shall only be construed as certifying that, with respect to fire safety, the premises if constructed or maintained, as the case may be, in accordance with the plan, documents or information submitted, would comply with the relevant provisions of the NFPA Codes and this Act.
+(3) Where a fire certificate is issued subject to conditions, the Chief Fire Officer shall, if requested to do so, inform the applicant of the reasons.

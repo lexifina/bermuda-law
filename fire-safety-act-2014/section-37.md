@@ -1,0 +1,2 @@
+# Protection from liability
+37 No proceedings, civil or criminal, shall lie against the Minister, the Chief Fire Officer, a Fire Inspector or other fire officer or any member of the Bermuda Fire and Rescue Service or any member of the Fire Services Board in respect of anything done or omitted to be done or reported or said in the performance or intended performance of their functions under this Act or the Regulations unless it is shown that the person or persons acted in bad faith.

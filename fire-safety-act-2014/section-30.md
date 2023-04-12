@@ -1,0 +1,4 @@
+# Powers of entry and inspection
+30 (1) Without prejudice to any other provision of law but subject to subsection (2), the Chief Fire Officer or a Fire Inspector may at any reasonable time enter upon and inspect any premises for the purpose of enforcing and ensuring compliance with the provisions of this Act and the Regulations.
+(2) Before an inspection is carried out under the authority of subsection (1), the Fire Inspector shall give such notice to the person responsible for premises which the Fire Inspector intends to inspect, or to some agent or servant of the person responsible for premises of the intention to carry out the survey or inspection as may, in the circumstances of the case and having regard to the objects of the inspection, be reasonable.
+(3) The person responsible for premises or, as the case may be, his agent or servant shall be given an opportunity to be present or have some person selected by him to be present at the inspection.
