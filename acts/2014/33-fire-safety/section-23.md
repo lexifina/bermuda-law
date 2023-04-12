@@ -1,0 +1,5 @@
+# Power to enter and carry out risk survey
+23 (1) Without prejudice to any other provision of law but subject to subsection (2), the Chief Fire Officer or a Fire Inspector may enter upon and survey or inspect any premises for concluding fire safety requirements under this Part.
+(2) Before a survey is carried out under the authority of subsection (1), the Chief Fire Officer or a Fire Inspector shall give such notice to the person responsible for premises which he intends to survey, or to some agent or servant of the person responsible for premises, of the intention to carry out the survey as may, in the circumstances of the case and having regard to the objects of the survey, be reasonable.
+(3) The Chief Fire Officer or Fire Inspector shall, if so required when visiting any premises in the exercise of powers conferred by this Act, produce to the person responsible for premises some duly authenticated document showing his authority.
+(4) The person responsible for premises or, as the case may be, his agent or servant shall be given an opportunity to be present or have some person selected by him to be present at the survey.

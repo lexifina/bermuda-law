@@ -1,0 +1,10 @@
+# Minister may issue supplemental fire safety codes
+8 (1) The Minister may issue supplementary fire safety codes that are essential to take account of the operational requirements of the Bermuda Fire and Rescue Services and which relate to matters which are not specifically provided for by the NFPA Codes.
+(2) In preparing and issuing any fire safety codes under this section, the Minister shall act on the advice of the Chief Fire Officer who shall consult as he considers appropriate—
+(a) officers of the Department of Planning, the Department of Works and Engineering and the Department of Health; and
+(b) persons representing the architectural, construction, engineering and surveying professions in Bermuda.
+(3) Subject to subsection (4), the Minister shall inform the public by means of a notice published in the Gazette at least three months in advance of the date on which a fire safety code comes into effect, and shall state in the notice whether the code replaces or amends any previous fire safety code.
+(4) The Minister may waive or reduce the period of three months mentioned in subsection (3) as he thinks fit where a code amends a previous code, to correct a mistake, or in any circumstances where it is reasonably required in the interest of public safety.
+(5) Notwithstanding that a fire safety code has replaced or amended a previous fire safety code (“the old Code”) with effect from a specified date, the old Code shall continue to apply, or shall continue to apply without the amendments (as the case may be) to any works in respect of which the application for a fire certificate was received by the Chief Fire Officer before that date (whether or not a fire certificate has been issued or works have commenced).
+(6) A copy of fire safety codes issued from time to time under this section shall be made available for inspection free of charge at the office of the Bermuda Fire and Rescue Service during normal working hours and may also be made available on a website hosted by that department.
+(7) Section 6 of the Statutory Instruments Act 1977 shall not apply with respect to codes issued under this section.
