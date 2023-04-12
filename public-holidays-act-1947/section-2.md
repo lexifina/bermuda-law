@@ -1,0 +1,5 @@
+# Savings
+2 (1) Nothing in this Act shall affect or derogate from—
+(a) any provision in any other Act or law, being a provision relating to the days, hours or times during which any public office is to be open for the transaction of business generally or of any particular business; or
+(b) any provision in any other Act or law or any agreement, being a provision relating to the days, or to the hours or times (whether regular or occasional), during which the officers or employees, or certain officers or employees, of any department, service or undertaking of the Government are required, authorized or allowed to carry on their duties.
+(2) Nothing in this Act shall be construed so as to absolve or preclude any officer or employee of any department, service or undertaking of the Government from carrying out any duties on a public holiday where it is necessary in the public interest that he should do so; and if any question arises in connection with the operation of this subsection, that question shall be referred to the Governor, whose decision thereon shall be final and conclusive.

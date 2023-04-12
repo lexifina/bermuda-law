@@ -1,0 +1,6 @@
+# Exceptions to section 8; pharmacists and persons selling in emergency
+10 Section 8 shall not preclude—
+(a) any pharmacist from selling on a public holiday any drugs or medicines or surgical appliances which he has reasonable grounds for believing to be urgently required for the treatment or relief of any sick or injured person or animal, or from opening a shop on a public holiday for the purpose of any such sale or for the purpose of compounding or preparing any drugs, medicines or surgical appliances which he has reasonable grounds for believing to be urgently required as aforesaid;
+(b) any person from selling on a public holiday any article urgently required for the burial of a dead body, or urgently required in case of injury to or illness of any person or animal, or urgently required in any other emergency, or from opening a shop on a public holiday for the purpose of any such sale, where the person making the sale or opening the shop has reasonable grounds for believing the article to be so required:
+Provided that where in any proceedings under this Act a question arises whether a person had reasonable grounds for believing that any article referred to in this section was urgently required as aforesaid the burden of proof that he had such reasonable grounds for belief shall lie upon him.
+[Section 10 amended by 2009:7 s.4 effective 25 March 2009]
