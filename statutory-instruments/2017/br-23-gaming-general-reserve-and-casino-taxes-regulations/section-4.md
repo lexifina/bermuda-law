@@ -1,0 +1,4 @@
+# Accounts
+4 (1) A casino operator shall keep in Bermuda, at such place or places as may be approved by the Commission, such documents of account and other records as may be required by the Commission as being necessary or expedient so that the requirements under the Act or these Regulations may be complied with or enforced.
+(2) A casino operator shall within 10 days of the end of each calendar month provide the Commission with written confirmation of the gross gaming revenue for that month and any other such information or documentation as the Commission may require by notice in writing.
+(3) Except with the written permission of the Commission or pursuant to any other Act or provision of law, it shall be an offence punishable in accordance with the Act for any person to destroy or otherwise make unavailable any document, record or information that may reasonably be requested pursuant to the Act or these Regulations.
