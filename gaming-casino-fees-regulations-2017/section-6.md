@@ -1,0 +1,2 @@
+# Costs of investigation and suitability tests
+6 Unless otherwise stated in the Act or these Regulations, and in addition to any fee payable, where the Commission undertakes any investigations and/or suitability checks pursuant to powers contained in the Act at the request of or on an application by a person, that person shall be liable to reimburse the Commission for the costs of such investigation and/or suitability checks and regulation 3 above shall apply.

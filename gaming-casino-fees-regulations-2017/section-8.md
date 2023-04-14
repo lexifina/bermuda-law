@@ -1,0 +1,6 @@
+# Penalty for non‐payment of fees
+8 (1) Subject to paragraph (2), if an applicant fails to comply with the requirement to pay the fees in accordance with these Regulations, and as required under the Act then, without prejudice to any other proceedings that may be taken in respect of such failure, the applicant commits an offence.
+(2) Notwithstanding paragraph (1), where an applicant has not made payment of any fees payable in accordance with these Regulations and as required by the Act or any regulation, and where the Commission is satisfied that such non‐payment is not due to wilful neglect or default, the Commission may accept payment of the sum due together with, or without, a penalty of 10% of the amount due for each month or part month during which the default occurs.
+(3) Where the Commission accepts payment made under this paragraph no offence under the Act shall have been committed and no disciplinary action shall be taken.
+(4) A person who commits an offence under this regulation is liable on summary conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding six months, or to both such fine and imprisonment.
+(5) A person is not guilty of an offence under this regulation if he took all reasonable steps and exercised all due diligence to avoid committing the offence.
