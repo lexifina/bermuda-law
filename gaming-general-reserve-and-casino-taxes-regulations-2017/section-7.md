@@ -1,0 +1,8 @@
+# Time for payment of tax, etc.
+7 (1) Every casino operator shall within ten working days after the end of each tax period—
+(a) submit to the Commission a return specifying the gross gaming revenue earned and the amount and details of any deductions permitted by these Regulations; and
+(b) pay to the Commission by way of balance transfer to the General Reserve the casino tax payable as set out in the return.
+(2) Where the Commission is of the opinion that it would be unduly onerous to require a casino operator to furnish returns within the time specified in paragraph (1), the Commission may, by notice in writing, vary the time within which the casino operator is required to furnish returns to the Commission.
+(3) Where the Commission is of the opinion that it would be unduly onerous to require a casino operator to furnish returns relating to each tax period, the Commission may, by notice in writing authorise the casino operator to furnish returns relating to such tax periods as may be specified in the notice, and that person shall, while that notice remains unrevoked, furnish returns accordingly.
+(4) Where a casino operator fails to file a return with the Commission as required under this Regulation, the Commission may by notice in writing require the casino operator to file returns for any such period, in any such manner, and at any such intervals as the Commission sees fit and the casino operator shall comply with the notice until such time as it is revoked.
+(5) The Commission may where it thinks fit extend the time for payment of any tax or permit the payment of tax to be made by installments within such period and upon such conditions as the Commission may determine.

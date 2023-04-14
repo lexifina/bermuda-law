@@ -1,0 +1,3 @@
+# Recovery of taxes
+14 (1) All taxes payable under these Regulations shall be a debt owing to the Commission and any proceedings for the recovery of tax may be brought as a civil debt recovery in a court of summary jurisdiction by and in the name of the Commission and any officer of the Commission may conduct such proceedings.
+(2) A certificate signed by an officer of the Commission stating the amount of tax due and unpaid, shall in the absence of manifest error, be conclusive evidence that the sum stated in the certificate is unpaid and is due to the Commission and any document purporting to be such a certificate shall be deemed to be such a certificate until the contrary is proved.

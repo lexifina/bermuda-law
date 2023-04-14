@@ -1,0 +1,7 @@
+# Objections
+13 (1) A casino operator who is dissatisfied with any decision, determination or assessment made by the Commission regarding his liability to pay tax may, within thirty days of the date of the decision, determination or assessment, lodge with the Commission an objection in writing stating the grounds of the objection and enclosing any relevant evidence not already in the possession of the Commission.
+(2) The Commission shall consider the objection and may undertake any further investigation and shall provide the casino operator with its written decision either allowing the objection in full or in part, or disallowing the objection and giving reasons.
+(3) If the objection is allowed in whole or in part and the amount of tax is reduced the Commission shall credit to the casino operator the excess amount of tax paid, such credit to be applied to future tax obligations of the casino operator.
+(4) Where an objection has been raised, the Commission may, when calculating the Net Casino Tax, deduct an amount up to the maximum amount that would be paid to the casino operator if the objection is allowed in full.
+(5) A casino operator wishing to appeal a decision of the Commission under this regulation may appeal to the Tax Appeal Tribunal as established under section 24 of the Taxes Management Act 1976.
+(6) For the purposes of paragraph (5) sections 25 to 30 of the Taxes Management Act 1976 shall apply mutatis mutandis in respect of any further appeal by a casino operator dissatisfied by a decision under paragraphs (1) to (4).

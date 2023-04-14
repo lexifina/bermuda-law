@@ -1,0 +1,9 @@
+# Gross Gaming Revenue computations
+5 (1) For the purposes of these Regulations reference to a sum of money placed as a wager shall include any token, voucher or other mechanism by which a patron is able to place a wager for monetary value.
+(2) For the purposes of these Regulations reference to a sum of money as winnings shall be limited to any actual cost to the casino operator and may include the actual cost to the operator of non‐cash payouts.
+(3) For each card game and any other game in which the casino operator is not a party to a wager and does not have a stake in the outcome of the game, gross gaming revenue equals all money received by the casino operator as compensation for conducting the game.
+(4) If the casino operator provides periodic payments to satisfy a payout resulting from a wager, the initial instalment payment when paid and the actual cost of a payment plan approved pursuant to these Regulations and funded by the casino operator may be deducted from winnings.
+(5) For any funding method which merely guarantees the casino operator’s performance and under which the casino operator makes payments directly out of cash flow for example, irrevocable letters of credits, surety bonds, or other similar methods, the casino operator may only deduct such payments when paid to the patron.
+(6) For payouts by an inter‐casino linked jackpot, each casino operator may deduct from winnings its pro rata share of the inter‐casino linked jackpot payout.
+(7) Payout receipts and wagering vouchers issued for play at the casino premises shall be deducted from gross gaming revenue as jackpot payouts in the tax period the receipts or vouchers are issued by the casino.
+(8) Payout receipts and wagering vouchers deducted from gross gaming revenue that are not redeemed within the expiry period as stated on the payout receipt or voucher shall be included in gross gaming revenue in the tax period during which the expiry date falls.
