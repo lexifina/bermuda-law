@@ -1,0 +1,2 @@
+# Purchase by broker or agent
+30 No broker or agent shall purchase for himself either directly or indirectly real estate listed with him for sale, nor shall he acquire any interest therein either directly or indirectly, unless he has disclosed in writing to the Superintendent of Real Estate and to the listing owner complete details of his negotiations for the sale of the said property to another person.
