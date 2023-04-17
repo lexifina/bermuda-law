@@ -1,0 +1,3 @@
+# Stamps not wanted may be repurchased
+27 When any person is possessed of a stamp which has not been spoiled or rendered unfit or useless for the purpose intended, but for, which he has not immediate use, the Tax Commissioner shall repay to him the value of the stamp in money, upon his delivering up the stamp to be cancelled and proving to the satisfaction of the Tax Commissioner that it was lawfully purchased by him from the Government within the period of two years next preceding the application and with a bona fide intention to use it.
+[Section 27 amended by 1999:35 s.3 effective 23 August 1999]

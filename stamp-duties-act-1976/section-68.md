@@ -1,0 +1,2 @@
+# Punishment where none specified
+68 Where this Act creates any offence and no penalty is specified therefor the person committing such offence shall be liable on summary conviction therefor to a fine of $500 and, in addition, if the offence was committed with the intention of avoiding the payment of any stamp duty a fine not exceeding four times the amount of the duty avoided or sought to be avoided.

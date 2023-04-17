@@ -1,0 +1,4 @@
+# Records of insurance companies to be open to inspection
+57 Every person carrying on insurance business in Bermuda whether on his own account or on behalf of another person and the managers and any officer or servant of such person shall at all reasonable times permit any person authorized by the Tax Commissioner to inspect all books, records, papers, documents or proceedings in their custody relating to such business the inspection whereof may tend to secure any duty, or to prove or lead to the discovery of any fraud or omission in relation to any duty, and to take such notes and extracts as he may deem necessary, and in case of refusal commits an offence:
+Provided that nothing in this section shall authorize the Tax Commissioner or person so authorized to inspect the books, records, papers, documents or proceedings of an exempt undertaking issuing only exempt policies.
+[Section 57 amended by 1999:35 s.3 effective 23 August 1999]
