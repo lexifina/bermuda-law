@@ -1,0 +1,2 @@
+# Conditions and agreements as to stamp duty void
+75 Every condition of sale framed with the view of precluding objection or requisition upon the ground of absence or insufficiency of stamp upon any instrument executed after 22 September 1917, and every contract, arrangement, or undertaking for assuming liability on account of absence or insufficiency of stamp upon any such instrument or indemnifying against such liability, absence or insufficiency, shall be void.

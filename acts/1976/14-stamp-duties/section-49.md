@@ -1,0 +1,3 @@
+# Provision for return of duty overpaid
+49 If at any time after the grant of probate or letters of administration, and during the administration of the estate, the value of the estate as set out in the affidavit furnished in accordance with section 47 is found to exceed the true value of the estate of the deceased, or if at any time within three years after the grant, or such further period as the Tax Commissioner may allow, it appears that no amount or an insufficient amount was deducted on account of debts and funeral expenses, the Tax Commissioner, upon proof of the facts to his satisfaction, may return the amount of stamp duty which has been overpaid.
+[Section 49 amended by 1999:35 s.3 effective 23 August 1999]

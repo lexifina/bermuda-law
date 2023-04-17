@@ -1,0 +1,5 @@
+# Licensing of stamping machines
+8 (1) The Tax Commissioner may license any person to use a machine approved of by him for the purposes of impressing stamps on documents chargeable with stamp duty.
+(2) Any such licence may be granted subject to such terms and conditions as the Tax Commissioner may think fit and the Tax Commissioner may revoke any such licence and vary any terms and conditions thereof at any time without giving any reason therefor.
+(3) The Tax Commissioner may require any person to whom he grants a licence under this section to give such security as he thinks fit for the payment to him of the stamp duty chargeable, on the instruments stamped by any such machine, and may from time to time as he sees fit require further security to be given by that person and may, either in the alternative to requiring the giving of security or in addition thereto, require such person to deposit with him from time to time such sums of money as he thinks fit to the credit of that person.
+[Section 8 amended by 1999:35 s.3 effective 23 August 1999]

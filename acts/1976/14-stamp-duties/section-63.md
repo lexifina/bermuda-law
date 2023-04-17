@@ -1,0 +1,5 @@
+# Special provision for companies without shares or capital stock
+63 (1) Notwithstanding anything in any private Act to the contrary, where a company is formed under such an Act without shares or capital stock, stamp duty shall be charged upon the memorandum of association of the company as though references in the Schedule to the share capital of the company were construed as references to the statutory reserves thereof.
+(2) In the event of the statutory reserves of such a company as is mentioned in subsection (1) being increased the company shall, within one calendar month thereof file with the Registrar of Companies written notification thereof.
+(3) The notification filed under subsection (2) shall, for the purposes of the Schedule be regarded as a memorandum of increased capital and stamp duty shall be charged upon such notification, notwithstanding anything in any private Act to the contrary, at the rate prescribed in the Schedule for such a memorandum.
+(4) A company which fails to file a written notification in accordance with subsection (2) commits an offence.

@@ -1,0 +1,2 @@
+# Calculation of stamp duty on particular securities
+62 A transfer of a duly stamped security, and a security by way of a further charge for money added to money previously secured by a duly stamped instrument, shall not be charged with any duty by reason of its containing any further or additional security for the money transferred or previously secured, or the interest or dividends thereof, or any new covenant, proviso, power, stipulation, or agreement in relation thereto, or any further assurance of the property comprised in the transferred or previous security.

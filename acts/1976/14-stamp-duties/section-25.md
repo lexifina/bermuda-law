@@ -1,0 +1,3 @@
+# Allowance for misused stamps
+25 When any person has inadvertently used for an instrument liable to duty a stamp of greater value than was necessary, or has inadvertently used a stamp for an instrument not liable to any duty, the Tax Commissioner may, on application made within two years after the date of the instrument or, if it is not dated, within six months after the execution thereof by the person by whom it was first or alone executed, and upon the instrument, if liable to duty, being stamped with the proper duty, cancel and allow as spoiled the stamp so misused.
+[Section 25 amended by 1999:35 s.3 effective 23 August 1999]

@@ -1,0 +1,3 @@
+# Liability of estate representative
+52 (1) The estate representative of every deceased person shall have the power to pay the stamp duty imposed by section 47 as read with Head 2 out of any money for the time being in his hands or to raise the amount of such duty and any interest and expenses properly paid or incurred in respect thereof by the sale or mortgage of the assets of the estate.
+(2) The estate representative shall be liable to pay the stamp duty imposed by section 47 as read with Head 2 but his liability shall not exceed the assets which he has received as representative or might but for his own neglect or default have received.

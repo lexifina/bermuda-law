@@ -1,0 +1,3 @@
+# Duplicates and counterparts
+14 The duplicate or counterpart of an instrument chargeable with stamp duty (except the counterpart of an instrument chargeable as a lease, such counterpart not being executed by or on behalf of any lessor or grantor) is not to be deemed duly stamped unless it is stamped as an original instrument, or unless it appears by some stamp impressed thereon, or by some endorsement made by the Tax Commissioner thereon, or by some other sufficient evidence, that the full and proper duty has been paid upon the original instrument of which it is the duplicate or counterpart.
+[Section 14 amended by 1999:35 s.3 effective 23 August 1999]

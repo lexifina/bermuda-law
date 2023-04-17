@@ -1,0 +1,2 @@
+# Special provisions as to leases
+59 Where the consideration or any part of the consideration for which a lease or an agreement for a lease is granted or made consists of a covenant or other undertaking by, or a condition requiring, the lessee to erect a building or otherwise to expend money on the subject-matter of the lease, the amount or value of the consideration shall be deemed to be a premium in respect of which the lease or agreement for the lease is chargeable with ad valorem duty in accordance with Head 25(a) or (c).

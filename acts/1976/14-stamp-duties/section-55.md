@@ -1,0 +1,2 @@
+# Exempt policies may cease to be exempt
+55 Where in exempt policy (not being a policy of reinsurance) has been issued and the risk insured against ceases to be situated outside Bermuda by reason of the risk insured against becoming situated in Bermuda then in respect of any premium paid or anything done under the policy after the occurrence of that event that policy shall no longer be deemed to be an exempt policy for the purposes of this Act.
