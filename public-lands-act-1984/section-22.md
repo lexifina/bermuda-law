@@ -1,0 +1,11 @@
+## PART VI
+## DREDGING AND OTHER OPERATIONS ON THE BED OF THE SEA
+# Restriction of works on bed of the sea
+22 (1) Subject to subsection (1A) and section 23 no person shall, without the consent in writing of the Minister, carry out any of the following operations—
+(a) dredge any part of the bed of the sea below high water mark;
+(b) deposit any object or any materials on any part of the seashore or on the bed of the sea below high water mark.
+(1A) Subsection (1) shall not apply within a protection zone established by or under the Submarine Communications Cables Act 2020, or the Electricity Act 2016.
+(2) The Minister may, as a condition of considering an application for consent under this section, require to be furnished with such plans and particulars of the proposed operation as he may consider necessary; and on receipt of any such application he may cause notice of the application, and of the time within which and the manner in which objections thereto may be made, to be published in such manner as he may consider appropriate for informing persons affected thereby, and, before granting his consent, may, if he thinks fit, direct an inquiry to be held.
+(3) If the Minister is of opinion that any operation in respect of which application is made to him under this section will cause or is likely to result in obstruction or danger to marine ecology or navigation or to owners of land adjoining that part of the seashore or the bed of the sea where the operations will be carried out he shall either refuse his consent or give his consent subject to such conditions as he may think fit, having regard to the nature and extent of the obstruction or danger which it appears to him would otherwise be caused or be likely to result.
+(4) A consent of the Minister under this section may be given so as to continue in force, unless renewed, only if the operation for which the consent is given is begun or completed within such period as may be specified in the consent; and any renewal of such a consent may be limited in the like manner.
+[Section 22 subsection (1) amended, and subsection (1A) inserted by 2020 : 5 s. 81 effective 27 November 2020; Section 22 subsection (1A) amended by BR 40 / 2023 reg. 3 effective 9 May 2023]

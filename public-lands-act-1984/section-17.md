@@ -1,0 +1,4 @@
+# Erection of buildings, walls, or fences, adjoining a highway
+17 (1) If any owner or occupier of land immediately adjoining a highway intends to erect any building, boundary wall or fence adjoining the highway, or to rebuild any existing wall or fence so adjoining, he shall before so doing notify the Permanent Secretary in writing in order that the correct boundary between the highway and the land may clearly be defined and agreed upon by the Permanent Secretary and the owner or occupier before the erection of such wall or fence.
+(2) No barbed wire fence shall, without the permission of the Minister, be erected within two metres of the boundary between a highway and the land on which the fence is erected and any person who erects or causes any such fence to be erected commits an offence:
+Punishment on summary conviction: a fine of $500.

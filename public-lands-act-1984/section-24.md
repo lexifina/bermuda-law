@@ -1,0 +1,8 @@
+# Enforcement of section 21
+24 (1) Any person who—
+(a) carries out any operation in contravention of section 22(1); or
+(b) fails to comply with any condition subject to which any consent of the Minister has been given under section 22,
+commits an offence under this Act.
+(2) Without prejudice to any proceedings under subsection (1) where any person has constructed, altered or improved any works or deposited any object or materials on the seashore in contravention of section 22 or has failed to comply with any condition subject to which any consent of the Minister has been given under section 22, the Minister may serve a notice on that person requiring him, within such period (not being less than thirty days) as may be specified in the notice, to remove the works or to make such alterations therein as may be so specified or to remove the object or materials, as the case may be, or, if it appears to the Minister urgently necessary so to do, may himself remove or alter the works or remove the object or materials.
+(3) If within the period specified in any notice under subsection (2) the person upon whom the notice is served fails to comply therewith, the Minister may cause the works to be removed or altered or he may cause the object or materials specified in the notice to be removed.
+(4) Where under subsection (2) or (3) the Minister causes any works to be removed or altered or causes any object or materials, to be removed, he shall be entitled to recover the expense thereof from the person by whom the works were constructed, altered or improved, or the object or materials was or were deposited.
