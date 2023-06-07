@@ -1,0 +1,5 @@
+# Restriction on boarding or leaving conveyance
+4 (1) No person, including a conveyance operator, traveller or crew member, shall, without the general or special permission of a Health Officer, board or leave a conveyance arriving in Bermuda, in the case where the conveyance operator has reported that a public health risk outlined in regulation 3(1) has taken place and a Health Officer—
+(a) may request a police officer to arrest such person as provided in regulation 21; or
+(b) may cause all such other reasonable steps to be taken to enforce this provision.
+(2) Before any conveyance operator, traveller or crew member is landed for the purposes of section 24 of the Bermuda Immigration and Protection Act 1956, he shall furnish all such information as may reasonably be required by a Health Officer, including information as to places recently visited and the intended destination and address of his continued travels and shall, if so required by a Health Officer, complete and sign a Public Health Passenger Locator Form as set out in Form 3 of Schedule 3.

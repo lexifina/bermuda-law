@@ -1,0 +1,3 @@
+# Compulsory medical examination
+18 (1) If a Health Officer has reasonable grounds to believe that a traveller has or might have a communicable disease or is infected with vectors, or has recently been in close proximity to a person who has or might have had a communicable disease or is infested with vectors, the Health Officer may require the traveller to undergo a medical examination.
+(2) The medical examination shall be conducted by a medical practitioner and undertaken as soon as reasonably practicable but in any case within eight hours after the Health Officer requires the traveller to undergo the examination.

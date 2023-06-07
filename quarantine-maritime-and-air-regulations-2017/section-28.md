@@ -1,0 +1,2 @@
+# Restrictions affecting a place used for quarantine or detention
+28 When any place is in use for quarantine or detention purposes, no person shall enter or leave the place and no article shall be taken to or removed from the place except with the general or special permission of the Quarantine Authority or a Health Officer or otherwise on such conditions as the Quarantine Authority or a Health Officer may generally or specially impose.

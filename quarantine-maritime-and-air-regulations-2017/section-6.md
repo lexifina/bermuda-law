@@ -1,0 +1,4 @@
+# Power to divert conveyances
+6 (1) If a Health Officer is of the opinion that a port or part of the airport in Bermuda at which a conveyance arrives or is lying is not suitably equipped to deal with a public health risk that has been reported, he may order the conveyance to be taken to a berth, port or part of the airport in Bermuda which is suitably equipped.
+(2) The Health Officer, upon being authorized by the Quarantine Authority, shall order the diversion of a conveyance to the next known port of call or destination airport available to it if a Health Officer has reasonable grounds to believe that there is a communicable disease on board that is of such severity that Bermuda would be unable to manage.
+(3) The Health Officer shall, inform the next known port of call or destination airport of the information collected under this regulation or of the diversion order issued under paragraph (2).

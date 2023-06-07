@@ -1,0 +1,4 @@
+# Order to comply with treatment or measure
+27 (1) If a Health Officer, after the medical examination of a traveller, has reasonable grounds to believe that the traveller has or might have a communicable disease or is infected with vectors, or has recently been in close proximity to a person who has or might have a communicable disease or is infected with vectors, the Health Officer may order the traveller to comply with treatment or any other measure for preventing the introduction and spread of the communicable disease.
+(2) Subject to section 31 of the Bermuda Immigration and Protection Act 1956, if a Health Officer, after a medical examination, believes that a traveller does not pose an imminent public health risk, the Health Officer may allow the person to be landed.
+(3) A Health Officer shall notify the Chief Medical Officer of any traveller who is not an imminent public health risk or of any order he may have given to a traveller under this regulation.
