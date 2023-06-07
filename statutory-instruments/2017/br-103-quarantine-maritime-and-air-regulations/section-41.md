@@ -1,0 +1,2 @@
+# Permission required for traveller with a communicable disease to land
+41 A traveller, conveyance operator or crew member at a port or the airport in Bermuda who knows or has reason to suspect that he is suffering from a communicable disease shall in no case land without the permission of a Health Officer, which permission may be subject to general or special directions as may be given by the Quarantine Authority under section 9A of the Act.

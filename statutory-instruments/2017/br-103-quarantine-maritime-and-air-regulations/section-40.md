@@ -1,0 +1,3 @@
+# Notification of health measures
+40 (1) A Health Officer applying health measures under these Regulations shall, whenever requested, furnish free of charge to a conveyance operator, the shipowner or ship’s agent, notification specifying the nature of such health measures, the methods employed, the parts of the conveyance treated and the reasons for the application of such measures.
+(2) A Health Officer shall also furnish, on demand and without charge, to travellers or crew where a case of a communicable disease has occurred, a notification giving particulars of the date of their arrival and of the measures to which they and their personal effects have been subjected.
