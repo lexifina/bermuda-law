@@ -1,0 +1,6 @@
+# Sexual harassment prohibited
+9 (1) No person shall abuse any position of authority which he occupies in relation to any other person employed by him or by any concern which employs both of such persons, for the purpose of harassing that other person sexually.
+(2) A person who occupies accommodation has a right to freedom from sexual harassment by the landlord, or by an agent of the landlord, or by an occupant of the same building.
+(3) A person who is an employee has a right to freedom in his workplace from sexual harassment by his employer, or by an agent of his employer, or by a fellow employee, and notwithstanding any requirements in relation to the responsibilities of employers under any other enactment, an employer shall take such action as is reasonably necessary to ensure that sexual harassment does not occur in the workplace.
+(4) For the purposes of this section, a person harasses another sexually if he engages in sexual comment or sexual conduct towards that other which is vexatious and which he knows, or ought reasonably to know, is unwelcome.
+[Section 9 amended by 1992:87 effective 8 April 1993; subsections (3) and (4) amended by 2000:37 s.10 effective 24 August 2000; Section 9 subsection (3) repealed and substituted by 2021 : 2 s. 24 effective 1 June 2021]
