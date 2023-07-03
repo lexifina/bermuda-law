@@ -1,0 +1,3 @@
+# Appeal against decision of Employment and Labour Relations Tribunal
+19 (1) A party to an appeal before the Employment and Labour Relations Tribunal who is aggrieved by a decision of the Employment and Labour Relations Tribunal may appeal to the Supreme Court on any question of law arising from the decision on the appeal by the Employment and Labour Relations Tribunal; and if the Supreme Court is of the opinion that the decision was erroneous in point of law it shall remit the matter to the Employment and Labour Relations Tribunal for rehearing and determination by it.
+(2) No appeal to the Court of Appeal shall be brought from a decision under subsection (1), except with leave of that court.

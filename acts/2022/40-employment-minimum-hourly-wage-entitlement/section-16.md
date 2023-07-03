@@ -1,0 +1,5 @@
+# Calculation of civil penalty for breach of requirements
+16 (1) Where, following the procedure set out in section 15, an inspector determines to impose a civil penalty on the employer or relevant person, the amount of the civil penalty shall be calculated at a rate equal to twice the amount of the minimum hourly wage (as in force at the date of the penalty notice) in respect of each worker to whom the failure to comply relates for each day during which the failure to comply has continued in respect of the worker.
+(2) The Minister may by regulations, from time to time amend the multiplier for the time being specified in subsection (1) in relation to the minimum hourly wage.
+(3) Subject to subsection (4), a civil penalty under this section shall be recoverable by the Accountant General in the Supreme Court.
+(4) An employer or relevant person on whom a civil penalty is imposed may appeal to the Employment and Labour Relations Tribunal against the civil penalty before the end of the period of four weeks following the date of the imposition of the civil penalty.
