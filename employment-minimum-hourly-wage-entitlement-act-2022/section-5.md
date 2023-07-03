@@ -1,0 +1,3 @@
+# Calculations for purpose of this Act
+5 (1) Nothing in this Act prevents the deduction from any wage to which an employee is entitled in accordance with this Act, or the payment by an employee to an employer, of any amount permitted in accordance with any other enactment or instrument made under an enactment.
+(2) No such deductions as referred to in subsection (1) shall be made or payment allowed for in calculating the hourly rate of pay of an employee for the purpose of determining under this Act whether the employee is being paid not less than the minimum hourly wage to which he is entitled in accordance with this Act.
