@@ -1,0 +1,11 @@
+# Registered and authorised funds: segregated accounts
+4 (1) This section applies to a registered or authorised investment fund which is permitted under the terms of its constitution to operate segregated accounts.
+(2) In this section, “segregated account” means a separate and distinct account (comprising or including entries recording data, assets, rights, contributions, liabilities and obligations linked to such account) of a registered or authorised fund, relating to an identified or identifiable pool of assets and liabilities of such registered or authorised fund which are segregated or distinguished from other assets and liabilities of the registered or authorised fund.
+(3) Subject to the Segregated Accounts Companies Act 2000, the constitution of a registered or authorised fund to which this section applies may make provision for any of the matters set out in subsections (4) to (7).
+(4) The operator of a registered or authorised fund which operates segregated accounts shall hold the assets of each segregated account for the benefit of the participants of such segregated account exclusively.
+(5) Any liability linked to a segregated account shall be a liability only of that account and not the liability of any other account and the rights of creditors in respect of such liabilities shall be rights only in respect of the relevant account and not of any other account.
+(6) Where a liability arises from a transaction or matter relating to, or is otherwise imposed or attributable to, a particular segregated account, that liability shall—
+(a) extend only to the assets linked to that segregated account; and
+(b) not extend to the assets linked to any other segregated account.
+(7) Any assets of the registered or authorised fund not readily identifiable as belonging to any particular segregated account shall be allocated by the operator between all of the segregated accounts on the basis of the respective net asset values of each segregated account or, subject to the terms of the registered or authorised fund’s constitution, on such other basis as the operator may in its absolute discretion determine.
+[Section 4 repealed and replaced by 2019 : 46 s. 4 effective 1 January 2020]
