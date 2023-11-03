@@ -1,0 +1,4 @@
+# Disclosure for facilitating the discharge of functions of the Authority
+69 (1) Section 68 does not preclude the disclosure of information in any case in which disclosure is for the purpose of enabling or assisting the Authority to discharge its functions under this Act or any other Act or regulations.
+(2) Without prejudice to the generality of subsection (1), section 68 does not preclude the disclosure of information by the Authority to the auditor or accountant of an authorised or registered fund, if it appears to the Authority that disclosing the information would enable or assist the Authority to discharge the functions mentioned in that subsection or would otherwise be in the interests of the participants or potential participants.
+[Section 69 subsection (2) amended by 2018 : 63 s. 17 effective 31 December 2018]

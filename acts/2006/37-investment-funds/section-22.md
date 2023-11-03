@@ -1,0 +1,2 @@
+# Identification procedures
+22 Nothing in section 20 shall be construed as requiring the registrar to make or alter any entry in the register or any certificate or other document or accept any transfer or conversion in any case where he considers it necessary or appropriate to carry out or complete identification procedures in relation to the participant or another person pursuant to any statutory or regulatory obligation.
