@@ -1,0 +1,5 @@
+# Recovery of overpayment
+13 (1) The Director may require a recipient to repay any sum of money improperly paid under an award (“overpayment”) as a result of non-disclosure of facts, misrepresentation, false declaration or for any other cause and may suspend further payments under the award until such sum has been paid.
+(2) The Director may waive the overpayment or may require the recipient to pay a reduced amount if satisfied that a recipient has exercised due care and diligence to avoid the overpayment.
+(3) Where the Director determines that the recovery of an overpayment from a recipient or, in the event of death, from the recipient’s estate, would cause undue hardship to the recipient or to a member of his or her household benefiting directly or indirectly from the award, the Director may waive the overpayment or may require the recipient or the estate, as the case may be, to pay a reduced amount.
+(4) Where any sum is required to be repaid by a recipient under subsection (1), the Director may recover such sum as a debt owing to Government in any court of competent jurisdiction.
