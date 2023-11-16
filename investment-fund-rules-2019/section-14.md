@@ -1,0 +1,7 @@
+# Financial reports: registered investment funds
+14 (1) In the case of a registered Professional Class A, Professional Class B or Professional Closed fund the operator shall, within six months after the end of the financial year of the investment fund, prepare a financial report containing audited financial statements of the investment fund.
+(2) In the case of a registered Private fund the operator shall, within six months after the end of the financial year of the investment fund, prepare a financial report containing audited or unaudited financial statements of the investment fund.
+(3) A financial report prepared in accordance with subparagraph (1) or (2), shall be distributed or otherwise made available to all participants in the investment fund without charge.
+(4) In the case of a registered Professional Class A, Professional Class B or Professional Closed fund, where an operator fails to prepare a financial report in accordance with subparagraph (1), it shall be liable to a late fee in accordance with the Fourth Schedule to the Bermuda Monetary Authority Act 1969.
+(5) In the case of a registered Private fund, where an operator fails to prepare a financial report in accordance with subparagraph (2), it shall be liable to a late fee in accordance with the Fourth Schedule to the Bermuda Monetary Authority Act 1969.
+[Rule 14 revoked and substituted by BR 82 / 2023 rule 4 effective 29 September 2023]
