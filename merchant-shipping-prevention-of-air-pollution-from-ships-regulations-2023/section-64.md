@@ -1,0 +1,5 @@
+# Restriction on jurisdiction over offences outside Bermuda controlled waters
+64 (1) Where there has been a contravention of regulation 32(2), 33(2), 34(3) or (5), 35(2) or 36(1) or (2) in respect of a ship which is a non-Bermuda ship in the internal waters, territorial sea or exclusive economic zone of a foreign State, proceedings in respect of that offence shall not be instituted in Bermuda unless—
+(a) that foreign State, the flag State of the ship in question or a State polluted or threatened with pollution as a result of the offence requests that proceedings be taken; or
+(b) the offence has caused or is likely to cause air pollution in Bermuda controlled waters.
+(2) Where proceedings have been instituted but not concluded, they shall be suspended upon the request of the foreign State in question and the CEO of BSMA shall ensure that all of the evidence, court records and documents relating to the case, together with any sum paid or security given, are provided to the foreign State.
