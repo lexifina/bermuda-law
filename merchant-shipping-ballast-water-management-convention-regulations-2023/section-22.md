@@ -1,0 +1,2 @@
+# Additional measures in special areas
+22 Where a Convention State has determined in accordance with Regulation C-1 of the BWM Annex that measures in addition to those required in section B of the Convention are necessary to prevent, reduce or eliminate the transfer of harmful aquatic organisms and pathogens through ballast water and sediments and has specified additional standards or requirements, a ship to which these Regulations apply must comply with any such standard or requirement.

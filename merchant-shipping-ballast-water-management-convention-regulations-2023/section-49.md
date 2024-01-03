@@ -1,0 +1,6 @@
+# Restriction on jurisdiction over offences outside Bermuda
+49 (1) Where there has been a contravention of these Regulations in respect of a non-Bermuda ship in the internal waters, territorial sea or exclusive economic zone of another Convention State, proceedings in respect of that offence must not be instituted in Bermuda unless—
+(a) that Convention State, the flag State of the ship in question or a State harmed or threatened with harm in relation to the marine environment, human health, property or resources, as a result of the offence, requests that proceedings be taken; or
+(b) the offence has harmed or threatened with harm in relation to the marine environment, human health, property or resources in Bermuda or Bermuda controlled waters.
+(2) Where proceedings have been instituted but not concluded, they must be suspended upon the request of the Convention State in question and the Chief Marine Surveyor must send all the evidence, court records and documents relating to the case, together with any sum paid or security given, to the Convention State.
+(3) In this regulation, “exclusive economic zone”, in relation to a Convention State, means the area beyond and adjacent to the territorial seas of that State, but not extending beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
