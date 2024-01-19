@@ -1,0 +1,2 @@
+# Licences and authorities
+35 A licence or other authority issued by the Minister for purposes of this Act or of regulations made under this Act may be, to any degree, general or specific, may be issued on such terms and subject to such conditions (including, in the case of a licence, the payment of a prescribed fee) as the Minister thinks proper, and may be modified or revoked by him at any time.

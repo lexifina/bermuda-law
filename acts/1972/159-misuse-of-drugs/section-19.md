@@ -1,0 +1,5 @@
+# Constitution of a tribunal
+19 (1) Schedule 3 shall have effect with respect to the constitution and procedure of the tribunal appointed for the purposes of section 18, and with respect to the other matters there mentioned.
+(2) The Minister shall cause a copy of any order or direction made or given by him in pursuance of section 18(5) to be served on the person to whom it applies and shall cause notice of any such direction to be published in the Gazette.
+(3) The Minister may at any time give a direction cancelling or suspending any direction given by him in pursuance of section 18(5) or cancelling any direction of his under this subsection by which a direction so given is suspended and shall cause a copy of any direction of his under this subsection to be served on the person to whom it applies and notice of it to be published as aforesaid.
+(4) A direction given under section 17(1) or (2) or under subsection (3) shall take effect when a copy of it is served on the person to whom it applies.
