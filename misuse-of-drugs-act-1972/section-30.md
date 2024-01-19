@@ -1,0 +1,6 @@
+## EVIDENCE
+# Certificate of corresponding law
+30 A document purporting to be issued by or on behalf of the government of a country and purporting to state the terms of a corresponding law in force in that country shall be admitted in evidence, in proceedings for an offence under this Act before any court, on its production by the prosecution without further proof, and such document shall be conclusive evidence—
+(a) that it is issued by or on behalf of the government of that country;
+(b) that the terms of such law are as stated in the document;
+(c) that any facts stated in the document to constitute an offence under such law do constitute such offence.

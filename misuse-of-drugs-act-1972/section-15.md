@@ -1,0 +1,3 @@
+# Minister may give directions for safe custody of controlled drugs
+15 (1) Without prejudice to any requirement imposed by regulations made in pursuance of section 14(2)(a), the Minister may by notice in writing served on the occupier of any premises on which controlled drugs are or are proposed to be kept give directions as to the taking of precautions or further precautions for the safe custody of any controlled drugs of a description specified in the notice which are kept on those premises.
+(2) It is an offence to contravene any directions given under sub-section (1).
