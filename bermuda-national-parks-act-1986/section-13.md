@@ -1,0 +1,7 @@
+# Approval and update of plan
+13 (1) A management plan for a protected area specified in the First Schedule shall be prepared in draft form by the Director of the Department that is responsible for that area, in consultation with the Commission, and members of the public and other bodies and persons affected by the plan shall be informed by notice published in the Gazette that the draft plan is available for review and comment according to the manner specified in the notice.
+(2) The Director shall, after giving due consideration to any comments received, re-submit the plan to the Commission for its consideration and shall take into account the comments of the Commission before submitting the final plan to the Minister for his approval.
+(3) The Minister shall, by Government Notice published in the Gazette, notify members of the public of the date when every management plan takes effect.
+(4) At least once every ten years every such plan shall be reviewed and revised if necessary to reflect new information and changing conditions and shall be approved in accordance with the procedures specified in this section.
+(5) For greater certainty, a notice referred to in subsection (1) or (3) is not a statutory instrument for the purposes of the Statutory Instruments Act 1977.
+[Section 13(3) substituted by 1991:24 effective 19 June 1991; Section 13 subsection (1) amended by 2009 : 1 s. 12 effective 1 April 2018; Section 13 subsection (5) inserted by 2009 : 1 s. 12 effective 1 April 2018]

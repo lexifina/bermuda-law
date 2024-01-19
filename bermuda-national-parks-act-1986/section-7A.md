@@ -1,0 +1,3 @@
+# National Parks Plan
+7A The Director of the department that is responsible for parks, in consultation with the Director of the department that is responsible for environmental protection and the Director of the department that is responsible for sport and recreation, shall prepare and keep under review a National Parks Plan for the System which shall contain a statement of general policies and objectives for the System, and shall include information on the priorities and needs concerning acquisition, development, management and research of lands for protected areas.
+[Section 7A inserted by 2009 : 1 s. 8 effective 1 April 2018; Section 7A amended by BR 2 / 2024 para. 5 effective 8 January 2024]

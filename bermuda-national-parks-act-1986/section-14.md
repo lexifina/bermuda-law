@@ -1,0 +1,2 @@
+# Existing conditions protected until plan in effect
+14 Until a management plan required under this Act is in effect for a protected area, management of the area shall be undertaken in such a manner as to ensure protection of the natural or historic features that existed at the time of its declaration as a protected area, and no change of use that may in the opinion of the Minister diminish the natural environment or historic features shall be allowed.
