@@ -1,0 +1,3 @@
+# Application for nullity on ground of insanity, etc
+79 (1) Where an application for a nullity of marriage order has been presented on the ground that at the time of the marriage the respondent was suffering from mental disorder within the meaning of the Mental Health Act 1968 of such a kind or to such an extent as to be unfitted for marriage, then, whether or not the respondent gives notice of intention to defend, the applicant shall not proceed with the cause without the leave of the registrar.
+(2) The registrar by whom an application for leave is heard may make it a condition of granting leave that some proper person be appointed to act as guardian ad litem of the respondent.

@@ -1,0 +1,3 @@
+# Service of affidavit in answer or reply
+56 (1) A person who files an affidavit for use on an application under rule 53, 54 or 55 shall at the same time serve a copy on the opposite party and it shall be indorsed with a notice in Form 17 and a copy of the affidavit or of such part thereof as the court may direct, indorsed as aforesaid, shall be served on that person by the person who files the affidavit, and the person against whom the allegation is made shall be entitled to intervene in the proceedings by applying for directions under rule 57(6) within eight days of service of the affidavit on him, inclusive of the day of service.
+(2) Rule 31(4) shall apply to a person served with an affidavit under paragraph (1) of this rule as it applies to a party cited.

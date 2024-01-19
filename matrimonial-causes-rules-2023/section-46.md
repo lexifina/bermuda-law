@@ -1,0 +1,7 @@
+# Final order on application
+46 (1) In the following cases an application for a conditional divorce order to be made final shall be made to a judge, that is to say—
+(a) where, within six weeks after a conditional divorce order has been pronounced, the Attorney-General gives to the registrar and to the party in whose favour the order was pronounced a notice that he requires more time to decide whether to show cause against the order being made final and the notice has not been withdrawn; or
+(b) where there are other circumstances which ought to be brought to the attention of the court before a conditional divorce order is made final.
+(2) Unless otherwise directed, the summons and affidavit in support by which the application is made shall be served on every party to the cause (other than the applicant) and, in a case to which subparagraph (1)(a) applies, on the Attorney-General.
+(3) An application by a spouse for a conditional divorce order pronounced against him to be made final may be made to a judge or the registrar, and the summons and affidavit in support by which the application is made shall be served on the other spouse not less than four clear days before the day on which the application is heard.
+(4) An order granting an application under this rule shall not take effect until the registrar has searched the court minutes and is satisfied as to the matters mentioned in rule 45(2).

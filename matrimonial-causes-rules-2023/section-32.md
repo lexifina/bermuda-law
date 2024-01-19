@@ -1,0 +1,2 @@
+# Respondent’s statement as to arrangements for children
+32 A respondent on whom there is served a statement in accordance with rule 7(2) may, at any time before the judge makes an order under section 45 of the Act, file in the registry a written statement of his views on the present and proposed arrangements for the children, and on receipt of such a statement from the respondent the registrar shall send a copy to the applicant.

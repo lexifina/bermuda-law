@@ -1,0 +1,2 @@
+# Further provisions as to orders under section 47 of the Act
+64 An application by the Director of Child and Family Services for the variation or discharge of an order made under section 47 of the Act or for directions as to the exercise of his powers under the order may, in case of urgency or where the application is unlikely to be opposed, be made by letter addressed to the court and the authority or officer shall, if practicable, notify any interested party of the intention to make the application.
