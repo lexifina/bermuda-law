@@ -1,0 +1,3 @@
+# Separate representation of children
+80 (1) Without prejudice to rule 52, if in any matrimonial proceedings it appears to the court that any child ought to be separately represented, the court may on the application of any proper person, appoint that person to be guardian ad litem of the child with authority to take part in the proceedings on the child’s behalf.
+(2) The applicant for an order under paragraph (1) shall, on making the application, file a certificate by an attorney certifying that the person named in the certificate as the proposed guardian ad litem has no interest in the proceedings adverse to that of the child and that he is a proper person to be such guardian.

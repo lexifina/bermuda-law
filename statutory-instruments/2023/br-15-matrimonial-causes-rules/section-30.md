@@ -1,0 +1,6 @@
+# Disposal of causes in special procedure list
+30 (1) As soon as practicable after a cause has been entered in the special procedure list, the registrar shall consider the evidence filed by the applicant and—
+(a) if he is satisfied that the applicant has sufficiently proved the contents of the application and is entitled to an order and any costs for which he prays and that there are no children of the family to whom section 45 of the Act applies, the registrar shall make and file a certificate to that effect;
+(b) if he is not so satisfied he may either give the applicant an opportunity of filing further evidence or remove the cause from the special procedure list whereupon rule 22(3) shall cease to apply.
+(2) On the filing of a certificate under paragraph (1), a day shall be fixed for the pronouncement of an order by a judge in open court and the registrar shall send to each party notice of the day so fixed and a copy of the certificate, but it shall not be necessary for either party to appear on that day.
+(3) Within 14 days after the pronouncement of an order in accordance with a certificate under paragraph (1), any person may inspect the certificate and the evidence filed under rule 22(2) and may request copies on payment of the prescribed fee.

@@ -1,0 +1,3 @@
+# Arrangements for hearing of application etc. by judge
+60 (1) Where an application for ancillary relief or any question arising thereon has been referred or adjourned to a judge, the registrar shall fix a date and time for the hearing of the application or the consideration of the question and give notice thereof to all parties.
+(2) The hearing or consideration shall, unless otherwise directed, take place in chambers.

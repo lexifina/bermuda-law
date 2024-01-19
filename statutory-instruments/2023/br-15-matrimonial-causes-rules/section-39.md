@@ -1,0 +1,7 @@
+# Application under section 14 of the Act
+39 (1) An application by the respondent to an application for a divorce order for the court to consider the financial position of the respondent after the divorce shall be made by notice in Form 15.
+(2) Where an applicant is served with a notice in Form 15, then, unless he has already filed an affidavit under rule 7(3) or 53(2), he shall, within 14 days after the service of the notice, file an affidavit in answer to the application containing full particulars of his property and income, and if he does not do so, the court may order him to file an affidavit containing such particulars.
+(3) Within 14 days after service of any affidavit under paragraph (2) or within such other time as the court may fix, the respondent shall file an affidavit in reply containing full particulars of his property and income unless already given in an affidavit filed by him under rule 53(3).
+(4) The powers of the court on the hearing of the application may be exercised by the registrar.
+(5) At any time before the hearing of the application is concluded (and without prejudice to any right of appeal), the registrar may, and if so requested by either party shall, refer the application, or any question arising thereon, to a judge.
+(6) A statement of any of the matters mentioned in section 14(3) of the Act with respect to which the court is satisfied, or, where the court has proceeded under section 14(4), a statement that the conditions for which that subsection provides have been fulfilled, shall be entered in the court minutes.

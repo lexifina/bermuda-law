@@ -1,0 +1,8 @@
+# Investigation by registrar of application for ancillary relief
+57 (1) On or after the filing of a notice in Form 14 or Form 16 an appointment shall be fixed for the hearing of the application by the registrar.
+(2) An application for an avoidance of disposition order shall, if practicable, be heard at the same time as any related application for financial relief.
+(3) Notice of the appointment, unless given in Form 14 or Form 16 (as the case may be) shall be given by the registrar to every party to the application.
+(4) Any party to an application for ancillary relief may by letter require any other party to give further information concerning any matter contained in any affidavit filed by or on behalf of that other party or any other relevant matter, or to furnish a list of relevant documents or to allow inspection of any such document, and may, in default of compliance by such other party, apply to the registrar for directions.
+(5) At the hearing of an application for ancillary relief the registrar shall, subject to rule 59, investigate the allegations made in support of and in answer to the application, and may take evidence orally and may order the attendance of any person for the purpose of being examined or cross-examined, and may at any stage of the proceedings order the discovery and production of any document or require further affidavits.
+(6) The registrar may at any stage of the proceedings give directions as to the filing and service of pleadings and as to the further conduct of the proceedings.
+(7) Where any party to such an application intends on the day appointed for the hearing to apply only for directions, he shall file and serve on every other party a notice to that effect.
