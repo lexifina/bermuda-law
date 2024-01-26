@@ -1,0 +1,2 @@
+# Partnerships
+17 Where, under any contract of apprenticeship or training, an apprentice or trainee is employed by persons in partnership, then, unless the apprentice or trainee otherwise elects, his contract of apprenticeship or training does not terminate by reason only of the death or retirement of a partner if the business of the partnership is continued by a surviving or continuing partner, whether alone or jointly with others; and the contractual rights and obligations of the employer are transferred to the person or partners continuing the business.
