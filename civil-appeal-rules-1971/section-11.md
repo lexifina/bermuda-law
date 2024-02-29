@@ -1,0 +1,6 @@
+# Fees
+11 (1) Subject to paragraph (2), the fees prescribed in the Second Schedule shall be charged in respect of the matters to which they are respectively assigned, and shall be paid to the Registrar or to the magistrates’ senior clerk as the case may be.
+(2) No fee shall be payable in respect of any matter where such fee would be payable by the Crown or any Government Department:
+Provided that when any person is ordered to pay the costs of the Crown or any Government Department in any case, all fees which would have been payable but for this paragraph shall be taken as having been paid and shall be recoverable from such person.
+(3) The Court may, on the application of any party to an appeal, dispense with payment of fees or order the remission of fees paid prior to the date of such order if on account of the poverty of that party or other sufficient reason the Court is satisfied that the circumstances of the case so require:
+Provided that if any such party succeeds in any appeal which results in an order for payment to him of any costs, all fees which would have been payable but for the provisions of this paragraph shall be as having been paid and shall be recoverable from the person against whom the order for costs has been made, and such fees shall be a first charge on any moneys recovered under such order.

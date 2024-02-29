@@ -1,0 +1,2 @@
+# Address for service of respondent
+4 Every person who by virtue of the service on him of a notice of Intention to appeal becomes a respondent to any appeal or intended appeal shall, within seven days after the service on him of the notice of intention to appeal file in the court of summary jurisdiction notice of a full and sufficient address for service and shall cause a copy thereof to be served on the appellant and on the Registrar.
