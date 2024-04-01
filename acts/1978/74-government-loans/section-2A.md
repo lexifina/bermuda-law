@@ -1,0 +1,7 @@
+# Limit on the public debt
+2A (1) The public debt, less the amount of any moneys at any time in the Fund, shall not exceed $3,500,000,000.
+(2) In this section,
+“public debt” means—
+(a) indebtedness for money borrowed by the Government (in accordance with section 2), not including any credit facility which is available for drawing but has not actually been drawn; and
+(b) indebtedness for money borrowed by a third party and guaranteed by the Government (in accordance with section 2AA), but only if and when, and to the extent that, the guarantee obligation becomes due and payable by the Government.
+[Section 2A added by 1991:12 effective 28 March 1991, amended by 1993:12 effective 22 March 1993; by 1998:13 effective 1 April 1998; by 2000: 6 s.2 effective 1 April 2000; by 2005:1 s.2 effective 1 April 2005; by 2008:7 s.2 effective 1 April 2008; by 2009:4 s.2 effective 25 March 2009; Section 2A subsection (1) amended by 2010 : 12 s. 2 effective 1 April 2010; subsection (2) amended by 2010 : 51 s. 3 effective 9 August 2010; subsection (2) amended by 2011 : 7 s. 2 effective 24 March 2011; subsection (1) amended by 2012 : 6 s. 2 effective 27 March 2012; Section 2A subsection (1) amended by 2013 : 4 s. 2 effective 22 February 2013; Section 2A subsection (1) amended by 2019 : 43 s. 2 effective 13 September 2019; Section 2A subsection (1) amended by 2020 : 15 s. 2 effective 16 March 2020; Section 2A subsection (1) amended by 2020 : 40 s. 2 effective 5 August 2020]
