@@ -1,0 +1,3 @@
+# Security standing in name of person under disability
+8 (1) When a security stands in the name of an infant or person of unsound mind jointly with another person not under legal disability, the Registrar may pay such security or the interest thereon to the person not under disability, or to any person producing a power of attorney duly executed by the person not under disability authorizing the person producing the same to receive the amount of such security or the interest thereon.
+(2) The Registrar may, before making payment, require proof to his satisfaction of the alleged infancy or unsoundness of mind, or of the due execution of the power of attorney, by affidavit, or in such other manner as he may reasonably require.
