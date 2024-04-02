@@ -1,0 +1,9 @@
+# General principles
+3 (1) These Rules apply to insurance groups of which the Authority is the group supervisor.
+(2) An insurance group shall establish and maintain organizational, governance and communications structures at the group level that facilitate the fulfilment of the duties of the designated insurer.
+(3) A designated insurer shall facilitate and maintain compliance by the group with the Act and these Rules.
+(4) Where obligations are imposed on the group, or in the event of breaches of the Act or these Rules, or otherwise to safeguard the interests of policyholders or potential policyholders of the group, the Authority may issue a direction to the designated insurer to require the group to perform the obligations or to remediate the breach.
+(5) The Authority may acknowledge the existence of a variety of group structures, taking into consideration that some group structures are more or less centralized and some are managed on a business line, as opposed to being managed on the basis of a legal entity.
+(6) To the extent that reference is made to responsibilities performed by the parent board under these Rules, such responsibilities may be delegated to and performed by an appropriately constituted committee of the parent board or the board of a subsidiary or affiliate of the parent company, provided that the parent board exercises oversight over and ratifies key decisions that impact materially on group operations.
+(7) Responsibilities assigned to senior executives of the parent company may be delegated to and performed by appropriate senior executives of a subsidiary or affiliate of the parent company, subject to the parent company oversight and the ratification by parent company executives of key decisions that materially impact group operations.
+[Rule 3 (formerly paragraph 3) amended by BR 92 / 2012 para. 4 effective 1 January 2013]

@@ -1,0 +1,4 @@
+# Risk management and internal controls framework: Concentration risk component
+14 (1) The concentration risk component of the group’s risk management and internal controls framework must include policies, procedures and methodologies to identify, measure, monitor and manage concentrations of risk within or among risk types (such as credit, investment/market, underwriting or liquidity risks) or arising from concentrations of exposures to a particular geography, market segment (catastrophe risk) or type of counterparty.
+(2) Sound and robust reporting and accounting procedures must be in place to manage intra-group transactions and risk concentrations.
+(3) Concentrations that pose material risks to group solvency or liquidity must be reported in a timely, accurate and meaningful manner to the parent board, other appropriate boards and committees and the senior executives.

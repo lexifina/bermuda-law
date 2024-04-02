@@ -1,0 +1,6 @@
+# Risk management and internal controls framework
+11 (1) The risk management and internal controls framework of an insurance group must be well integrated into the group’s overall system of governance and must contain policies, procedures and processes for implementing the strategies and policies developed by the risk management function to identify, measure, monitor and control in a timely manner the material risks of the insurance group.
+(2) The risk management and internal controls framework must employ robust risk-based methodologies for identifying, measuring and monitoring material risks, taking into account the probability, potential impact and time duration of risks, as well as risks that are not readily quantifiable.
+(3) The measurement of material risks shall include stress and scenario analysis using extreme but plausible internal scenarios, including those prescribed by the Authority.
+(4) The risk management and internal controls framework must utilize comprehensive systems for identifying and reporting the potential impact of material risks to the parent board, and other appropriate boards and committees, and the chief and senior executives.
+[Rule 11(1) (formerly paragraph 11(1)) revoked and replaced by BR 92 / 2012 para. 11 effective 1 January 2013]
