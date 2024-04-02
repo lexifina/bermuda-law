@@ -1,0 +1,5 @@
+# Compensation where hiring not taken up
+21 (1) Where a taxi after being hired in respect of a particular journey or for a period of time less than one day is duly made immediately available to the hirer at the time and place appointed by him, and the hirer, not having cancelled the hiring within a reasonable time before it is due to commence, refuses, or fails within a reasonable time, to avail himself of the use of the taxi—
+(a) the driver of the taxi shall be entitled to abandon the hiring; and
+(b) if the hiring is so abandoned, the hirer shall be liable to pay (in lieu of any legal charge incurred in respect of the hiring) a sum of seventy-five cents by way of compensation to the person operating the taxi, and any such sum may, if not otherwise recovered, be recovered summarily before a court of summary jurisdiction in the manner provided by the Magistrates Act 1948 [title 8 item 15].
+(2) For the purpose of this regulation, where an employee of a hotel, guest house, club, restaurant or similar organization hires a taxi on behalf of a guest or customer, the owner or manager of the organization shall be deemed to be the hirer of the taxi.
