@@ -1,0 +1,5 @@
+# Daily and hourly hire
+5 (1) Where a taxi is hired for a period of a day, then the overall period for which the taxi is made available for the hirer shall be deemed to be a period of six consecutive daylight hours.
+(2) In any case where a taxi is hired for a period of a day, the hirer thereof shall be entitled to have the taxi at his disposal for any period in excess of such period of six consecutive daylight hours (in these Regulations referred to as overtime), in consideration of the charge made for overtime.
+(3) Where a taxi is hired for a period of one hour, the hirer thereof shall be entitled to have the taxi at his disposal for any period in excess of such hour in consideration of the charge made for overtime.
+(4) For the purpose of calculating overtime, the time during which a taxi is at the disposal of the hirer during any day or part of a day shall be deemed to commence when the taxi is first made available to the hirer at a place and time appointed by him, and shall be deemed to run continuously until the last occasion during that day at which the taxi remains immediately available to the hirer.

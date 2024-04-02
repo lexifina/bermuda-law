@@ -1,0 +1,2 @@
+# Minister may specify number of taxis to be reserved for hire to public for particular journeys
+19 The Minister from time to time may specify by order the number of taxis which shall be reserved by the operator of a taxi service for hire to the public for particular journeys; and the operator shall not hire taxis for periods of time in such manner as to reduce below the number specified in the order the number of taxis which is available for hire to the public for particular journeys.
