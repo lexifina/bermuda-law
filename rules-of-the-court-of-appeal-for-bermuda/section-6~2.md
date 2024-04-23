@@ -1,0 +1,6 @@
+# 2/6 Addresses for service
+6 (1) Every person who by virtue of service on him of a notice of appeal becomes a respondent to any appeal or intended appeal shall within fourteen days after service on him of the notice of appeal file in duplicate with the Registrar of the Supreme Court notice of a full and sufficient address for service in such number of copies as the said Registrar shall require. The Registrar of the Supreme Court shall forthwith send a copy of the notice of address to the Registrar and shall cause a copy thereof to be served on the appellant.
+(2) Such notice may be signed by the respondent or his legal representative.
+(3) If any respondent fails or omits to file such notice of address for service it shall not be necessary to serve on him any other proceedings in the appeal or any notice of hearing thereof
+(4) Any party to an appeal or intended appeal may change his address for service at any time by filing and serving on all other parties to the appeal or intended appeal notice of such change.
+(5) An address for service given for the purpose of any appeal shall be effective for the purposes of any application for leave to appeal to Her Majesty in Council from any decision given in that appeal and of any application or matter in connection with such application for leave to appeal as aforesaid.

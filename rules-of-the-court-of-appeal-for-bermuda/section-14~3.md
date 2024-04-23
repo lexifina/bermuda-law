@@ -1,0 +1,2 @@
+# 3/14 Furnishing Judge of Court of Trial with materials for report.
+14 When the Registrar requests the trial Judge to furnish a report under these Rules, he shall send to such Judge a copy of the notice of appeal or notice of application for leave to appeal or any other document or information which lie shall consider material, or which the Court at any time shall direct him to send or with which such Judge may request to be furnished by the Registrar to enable such Judge to deal in his report with the appellant’s case generally or with any point arising thereon.

@@ -1,0 +1,2 @@
+# 1/15 Powers of Registrar
+15 The Registrar shall have the same jurisdiction, powers and duties as the Masters of the Supreme Court, Clerks of Criminal Courts, Registrars and the like officers of the Supreme Court of Judicature and the Court of Criminal Appeal in England, in addition to such other jurisdiction, powers and duties as are given him by these Rules or such further powers and duties as the President may direct.

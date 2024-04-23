@@ -1,0 +1,4 @@
+# 2/14 Notice of preliminary objection to be filed
+14 (1) A respondent intending to rely upon a preliminary objection to the hearing of the appeal shall give the appellant three clear days notice thereof before the hearing, setting out the grounds of objection, and shall file such notice [Civil form 10] together with six copies thereof with the Registrar within the same time.
+(2) No objection shall be taken to the hearing of an appeal on the ground that the amounts fixed by the Registrar of the Supreme Court under Rule 7 (1) of this Order were incorrectly assessed.
+(3) If the respondent fails to comply with paragraph (1) of this rule the Court may refuse to entertain the objection or may adjourn the hearing thereof at the cost of the respondent or may make such other order as it thinks fit.

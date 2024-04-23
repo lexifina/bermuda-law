@@ -1,0 +1,3 @@
+# 3/30 Judgment of the Court
+30 Unless the Court directs to the contrary in cases where, in the opinion of the Court, the question for decision is a question of law on which it would be convenient that separate judgments should be pronounced by the Judges of the Court, the judgment of the Court shall be pronounced by the presiding Judge or such other Judge of the Court hearing the appeal as he may direct, and no judgment with respect to the determination of any question shall be separately pronounced by any other member of the Court.
+[Rule 3/8(2) and 9(3) amended by 1999:8 s.3 & Sch 2 effective 1 April 1999; rule 3/10 and 3/11 amended by BR81/2006 effective 1 December 2006]

@@ -1,0 +1,2 @@
+# 2/20 Submission by party not appearing
+20 At any time before the hearing of the appeal any party to the appeal may file [Civil form14] a declaration in writing that he does not wish to be present in person or by a legal representative on the hearing of the appeal, together with four copies of such arguments as he desires to submit to the Court and serve a copy of such declaration and arguments upon every other party who has filed an address for service and thereupon the appeal shall be dealt with as if the party had appeared.

@@ -1,0 +1,2 @@
+# 2/16 Appeal by respondent where appeal withdrawn
+16 Where an appeal is withdrawn under the preceding rule any respondent who has not given a notice under Rule 13 of this Order may give notice of appeal and proceed therewith in the manner prescribed by the foregoing rules; and in such case the times limited for giving notice of appeal, for depositing the sum estimated to cover the costs of the record and for furnishing the security for costs may, on application to the Court, be extended so far as is reasonably necessary in all the circumstances of the case.

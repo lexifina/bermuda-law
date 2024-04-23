@@ -1,0 +1,2 @@
+# 4/13 Party entitled to costs refusing to lodge bill for taxation
+13 When any party entitled to costs refuses or neglects to bring in his costs for taxation or to procure the same to be taxed and thereby prejudices any other party, the Registrar shall be at liberty to certify the costs of the other parties and certify such refusal or neglect, or may allow such party refusing or neglecting a nominal sum or other sum for such costs, so as to prevent any other party being prejudiced by such refusal or neglect,

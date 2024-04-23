@@ -1,0 +1,2 @@
+# 3/26 Return of original depositions, etc.
+26 Upon the final determination of an appeal for the purposes of which the Registrar has obtained from the Registrar of the Supreme Court an original depositions, exhibits, information, inquisition, plea, or other documents usually kept by the said Registrar, or forming part of the record of the Supreme Court, the Registrar shall, where practicable, cause the same to be returned to the Registrar of the Supreme Court.

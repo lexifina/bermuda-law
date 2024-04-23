@@ -1,0 +1,4 @@
+# 2/4 Time
+4 (1) An appeal shall be deemed to have been brought when the notice of appeal has been filed in the Registry of the Supreme Court.
+(2) Every application for an enlargement of time within which to appeal shall be supported by an affidavit setting forth good and substantial reasons for the failure to appeal within the prescribed period, and by grounds of appeal which prima facie show good cause why the appeal should be heard. When time is so enlarged a copy of the order granting such enlargement shall be annexed to the notice of appeal.
+(3) An application for enlargement of time within which to appeal may be heard and determined by a single Judge; but, if the Judge refuses an application made under this provision, the party aggrieved by such refusal shall be entitled to have the application heard and determined by the Court.
