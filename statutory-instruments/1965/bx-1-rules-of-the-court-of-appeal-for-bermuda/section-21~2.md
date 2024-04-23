@@ -1,0 +1,2 @@
+# 3/21 Notice of abandonment of appeal may be withdrawn
+21 An appellant (other than one convicted of an offence involving sentence of death) who has abandoned his appeal may, in special cases, with the leave of the Court, withdraw his notice of abandonment by filling up Form 15 in the Second Schedule together with Form 7 in the Second Schedule (Notice of Application for extension of time within which to appeal) and sending them to the Registrar.

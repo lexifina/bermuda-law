@@ -1,0 +1,2 @@
+# 4/6 Discretion of Registrar
+6 On every taxation the Registrar shall allow all such costs, charges and expenses as shall appear to him to have been necessary or proper for the attainment of justice or for defending the rights of any party, but save as against the party who incurred the same, no costs shall be allowed which appear to the Registrar to have been incurred or increased through overpayment, extravagance, over-caution, negligence, or mistake or by payment of special charges or expenses to witnesses or other persons, or by other unusual expenses.

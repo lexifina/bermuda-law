@@ -1,0 +1,2 @@
+# 3/24 Notification of final determination of appeals
+24 (1) On the final determination of any appeal or of any application to the Court, the Registrar shall give to the appellant, if he be in custody and has not been present at such final determination, and to the respondent and the Commissioner of Prisons, notice of such determination in Forms 20, 21, 22 or 23 in the Second Schedule, as the case may be.

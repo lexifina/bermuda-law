@@ -1,0 +1,2 @@
+# 3/22 Notification of date of examination
+22 (5) When the examiner has appointed the day and time for the examination he shall request the Registrar to give notice thereof to the appellant and the respondent and their legal representatives, if any, and when the appellant is in prison, to the Commissioner of Prisons. The Registrar shall cause to be served on every witness to be examined a notice in Form 18 in the Second Schedule.

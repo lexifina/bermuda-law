@@ -1,0 +1,2 @@
+# 4/17 Endorsement of length of documents
+17 Every draft and other document the preparation of which is charged for by the folio shall be endorsed (in figures) with the number of folios which it contains. The length of all documents not vouched by attested copies or other satisfactory evidence shall be certified by the legal representative, and if such certificate be erroneous the Registrar may disallow the costs of the document so erroneously certified or any part thereof.

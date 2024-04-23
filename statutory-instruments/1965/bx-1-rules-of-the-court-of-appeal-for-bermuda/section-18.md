@@ -1,0 +1,2 @@
+# 1/18 Setting aside or varying order of Registrar
+18 Any person aggrieved by anything done or ordered to be done by the Registrar other than anything ordered or done by the direction of the President, may apply to a Judge to have the act, order or ruling complained of set aside or varied and the Judge may give such directions or make such order thereon as he thinks fit. Such application shall be made by notice of motion supported by affidavits setting out the complaint and the relief sought.

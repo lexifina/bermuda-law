@@ -1,0 +1,2 @@
+# 3/4 Where question of sanity involved
+4 (4) Where, on the trial of a person entitled to appeal it has been contended that he was not responsible according to law for his actions on the ground that he was insane at the time the act was done or the omission made by him, or that at the time of the trial he was of unsound mind and consequently incapable of making his defence, any notice required to be given and signed by the appellant himself may be given and signed by his legal representative.

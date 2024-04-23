@@ -1,0 +1,4 @@
+# 3/12 Records of summing up
+12 (1) Where any trial is had with a jury and, by direction of the trial Judge a record is made by some mechanical or electrical device of any summing up or direction of the Judge, such record shall be accepted by the Court as accurate unless the Court has reason to doubt its accuracy.
+(2) Where in such a trial a record of any summing up or direction is otherwise made, by direction of the trial Judge, either in longhand or shorthand, such record shall be accepted by the Court as accurate subject to any corrections or additions which the trial Judge may certify ought to be made in order to render the record accurate.
+(3) Where in such a trial the trial Judge does not give any directions for recording any summing up or direction given by him, his statement shall be accepted as accurate unless the Court sees reason to the contrary.

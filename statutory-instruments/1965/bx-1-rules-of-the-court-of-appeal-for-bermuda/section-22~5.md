@@ -1,0 +1,2 @@
+# 3/22 Furnishing examiner with exhibits, etc., necessary for examination
+22 (4) The Registrar shall furnish to the person appointed to take such examination any documents or exhibits and any other material relating to the said appeal as and when requested to do so. Such documents and exhibits and other material shall after the examination has been concluded be returned by the examiner, together with any depositions taken by him under this Rule, to the Registrar.

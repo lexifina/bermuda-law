@@ -1,0 +1,8 @@
+# 2/3 Application for leave to appeal
+3 (1) Where an appeal lies only by leave of the Court or of the Supreme Court, any application to either Court shall be made by notice of motion ex parte in the first instance and the following provisions shall apply:
+(a) where the application is made to the Supreme Court, the notice of motion shall be filed with the Registrar of that Court not late than fourteen days after the date of the decision of the Supreme Court;
+(b) if the application is refused by the Supreme Court and the intending appellant desires to apply to the Court for leave to appeal, he shall file his notice of motion with the Registrar not later than seven days after such refusal;
+(c) unless the application (whether to the Court or to the Supreme Court) is dismissed or it appears to the Court to which the application is made that undue hardship would be caused by an adjournment, that Court shall adjourn the application and give directions for the service of notice thereof upon the party or parties affected;
+(d) if leave to appeal is granted by the Supreme Court, the appellant shall file a notice of appeal;
+(e) where leave to appeal is granted by the Court, the time, prescribed by Rule 2 of this Order, within which notice of appeal must be filed shall run from the date when such leave is granted.
+(2) Every notice of motion filed in pursuance of paragraph (1) of this Rule shall set out the grounds of the application and shall be accompanied by an affidavit in support thereof and by a statement of the grounds of the intended appeal formulated in accordance with Rule 2 of this Order.

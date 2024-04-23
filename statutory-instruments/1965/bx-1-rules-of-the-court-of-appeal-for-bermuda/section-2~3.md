@@ -1,0 +1,2 @@
+# 3/2 Applications not specially provided for
+2 Except where otherwise provided in these Rules any application to the Court may be made by the appellant or respondent or by a legal representative on his behalf orally or in writing, but in regard to such applications if the appellant is unrepresented and in custody and is not entitled or has not obtained leave to be present before the Court, he shall make any such application by forwarding the same in writing to the Registrar who shall take the appropriate steps to obtain the decision of the Court thereon.
