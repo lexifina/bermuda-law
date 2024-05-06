@@ -1,0 +1,3 @@
+# Limitation of shipowner’s liability
+16 (1) A shipowner who incurs liability for the costs of medical care, medical treatment, medications and therapeutic appliances as well as the cost of accommodation away from the seafarer’s place of domicile in accordance with regulation 15 shall not be liable for these costs beyond a period of 16 weeks from the date of the injury or the commencement of the illness.
+(2) A shipowner who incurs liability to pay wages in accordance with regulation 15(5) shall not be liable to pay wages beyond a period of 16 weeks from the date of the injury or the commencement of the illness.

@@ -1,0 +1,8 @@
+# Entitlement to leave
+14 (1) Every seafarer shall receive at least two and a half days paid leave for every calendar month of service paid at no less than the rate of basic pay stated in the seafarer’s employment agreement or the paid leave agreed in any applicable collective bargaining agreement covering the seafarer provided that it amounts to not less than two and a half days for every calendar month of service paid at the rate of basic wages.
+(2) Where a period of service is less than one month, a seafarer shall be entitled to the proportion of paid annual leave in paragraph (1) equal to the proportion the period of employment bears to one month, the proportion to be determined in whole days and a fraction of a day shall be treated as a whole day.
+(3) Where there is no collective bargaining agreement in addition to the paid leave specified in paragraph (1) every seafarer shall receive an additional 10 days of paid leave in each year of employment, for public holidays.
+(4) Leave due to a seafarer may be taken in instalments but shall not be replaced by a payment in lieu except where the seafarer’s employment agreement is terminated.
+(5) Temporary shore leave shall be granted to each seafarer whenever practicable during the course of his employment on board a ship and shall not be counted as a part of leave.
+(6) On any occasion that a seafarer is absent from work to attend a maritime training course agreed by the shipowner or is absent from work for reasons of illness, maternity or injury, the time accrued shall not be deducted from the paid leave due to the seafarer.
+[Regulation 14 paragraph (3) deleted and substituted by BR 33 / 2024 reg. 3 effective 28 March 2024]

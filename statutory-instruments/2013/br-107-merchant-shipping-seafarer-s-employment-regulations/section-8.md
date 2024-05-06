@@ -1,0 +1,5 @@
+# Carriage of employment agreements
+8 (1) Every seafarer on commencing employment in a Bermuda ship—
+(a) shall have in his possession an original copy of his employment agreement signed by himself and by the shipowner or a representative of the shipowner; or
+(b) shall have access at any reasonable time during working hours to an electronic copy of the original signed agreement which is also available to the master of the ship and to any officer authorised by the Minister or an authorised Port State Control Authority officer.
+(2) Where any of the terms included in a seafarer’s employment agreement are set out in a separate set of conditions of employment or in a collective bargaining agreement these shall be referred to in the seafarer’s employment agreement and shall form part of that employment agreement and a copy of those conditions or that collective bargaining agreement shall be available on board to all seafarers including the master at any reasonable time during working hours and available for review by an officer authorised by the Minister or by a duly authorised Port State Control Authority officer in a port outside Bermuda.

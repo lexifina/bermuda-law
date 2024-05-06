@@ -1,0 +1,2 @@
+# Entry into a seafarer’s employment agreement
+17 On every occasion when it is contemplated that a seafarer will enter into a seafarer’s employment agreement the seafarer shall be provided with a copy of the terms and conditions of that agreement and with the details of the capacity in which employment is offered and the amount of wages and leave to be included sufficiently in advance of signing the agreement so that the seafarer has the opportunity to examine the agreement and if necessary seek advice on it before signing it.

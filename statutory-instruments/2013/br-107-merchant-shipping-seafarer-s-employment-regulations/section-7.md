@@ -1,0 +1,4 @@
+# List of crew
+7 (1) Whenever a seafarer commences employment in any Bermuda ship his name, the capacity in which he is employed, his passport or seaman’s identity document number, his date of birth and the date of starting work on board shall be recorded on a list of crew.
+(2) Whenever a seafarer’s employment terminates on the ship for any reason the date on which he ceases employment on board shall be recorded on the list along with a note of the reason for the termination of employment.
+(3) The list of crew required by paragraph (1) may be in electronic form provided that if it is, it shall be duplicated ashore and secure from loss and shall be available on board for a period of at least 3 years following the departure of the last seafarer on it and may be inspected at any time by an officer authorised by the Minister.
