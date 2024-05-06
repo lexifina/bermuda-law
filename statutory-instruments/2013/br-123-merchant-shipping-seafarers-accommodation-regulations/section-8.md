@@ -1,0 +1,7 @@
+# Access and escape arrangements
+8 (1) Every entrance into the seafarers’ accommodation from the open deck shall be so situated and constructed as to be protected against the weather and sea to the greatest extent practicable, and shall be so situated to be accessible at all times and in all weathers.
+(2) There shall be at least one means of access, either direct or via not more than two rooms forming part of a suite, to any sleeping room, day room, mess room, recreation room, study, office, sanitary accommodation, or galley from an enclosed passageway.
+(3) There shall be two entirely separate escape routes for each compartment, and each route shall lead from the compartment to a suitably sited opening (which may be a normally used entrance) on to the weather deck.
+(4) Escape routes shall not pass through propelling machinery spaces, galleys or other spaces where the risk of injury from fire, steam or other similar cause is comparatively high, and shall be so arranged as to provide a ready and unimpeded means of escape from each compartment to the ship’s boats, lifeboats or liferafts.
+(5) Where escape routes are by way of stairways or ladders, those stairways or ladders shall be constructed of steel.
+(6) In paragraphs (3) and (4), “compartment” means all living and working spaces within the watertight or fire-resisting boundaries on any one level which are served by inter-communicating passageways.

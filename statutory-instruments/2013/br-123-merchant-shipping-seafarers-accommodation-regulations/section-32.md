@@ -1,0 +1,5 @@
+# Potable water and fresh water
+32 (1) Cold, fresh water for drinking, cooking and dish-washing shall be provided in galleys, bars and pantries and, in the case of mess-rooms provided for seafarers for whom no pantry is provided, in that mess-room.
+(2) Tanks from which potable water is supplied and other tanks supplying fresh water to washbasins, showers and laundries, and any machinery installed to produce fresh water, shall be of sufficient capacity to ensure an adequate supply of such water at all times for all the seafarers on board, provided that the tanks shall always be sufficient in capacity to provide for two days supply.
+(3) Potable water tanks and other fresh water tanks, as well as any manholes leading to them, and all pipe-work and other parts of the distribution system for potable and fresh water, shall be arranged and constructed so as to prevent any risk of contamination and allow ease of maintenance and cleaning.
+(4) Whenever potable or fresh water is produced on board, the water produced shall be treated by suitably automatic means of disinfection.

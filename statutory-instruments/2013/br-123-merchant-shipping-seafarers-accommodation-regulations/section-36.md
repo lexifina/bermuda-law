@@ -1,0 +1,8 @@
+# Maintenance of seafarers’ accommodation
+36 (1) The shipowner shall maintain the seafarers’ accommodation in a clean and habitable condition, and all equipment required by these regulations shall be maintained in good working order.
+(2) Every part of the seafarers’ accommodation, except store rooms, shall be kept free of stores and other property not provided for or belonging to the seafarers for whom the accommodation is provided, and no cargo shall be carried or stowed in any part of the seafarers’ accommodation.
+(3) At intervals not exceeding one month, the master, or a person authorised by him, shall make an inspection of the seafarers’ accommodation, galleys, and mess-rooms, provided that in ships where the number of crew exceeds 250, the inspections need not cover all the seafarers’ accommodation but where they do not, the master shall arrange that each area is inspected at intervals not exceeding 3 months, and each inspection shall be for the purpose of establishing—
+(a) that the seafarers’ accommodation remains in compliance with these regulations;
+(b) that sleeping rooms, recreational facilities, sanitary facilities, galleys and mess-rooms remain clean and tidy; and
+(c) that the accommodation as a whole continues to provide decent living arrangements for the seafarers.
+(4) The date and the details of any defects uncovered and a record of action taken to rectify the defect shall be recorded and signed by the master following each inspection, and the record of inspections shall be retained on board for not less than 3 years and be available to any of the seafarers, and to any person duly authorised by the Minister.
