@@ -1,0 +1,10 @@
+# Scope of repatriation
+6 (1) The costs of repatriation to which the shipowner shall be liable under these Regulations include—
+(a) passage by air from the place where the employment agreement is terminated to the seafarer’s repatriation destination, but where passage by air cannot be provided from that place where the agreement is terminated, or where other means of transport are available that will return the seafarer to his repatriation destination expeditiously the passage may be by other means to the nearest airport from where the seafarer can be repatriated by air or to the repatriation destination;
+(b) accommodation and food from the time a seafarer leaves the ship until the seafarer arrives at the repatriation destination, provided that the shipowner shall only be liable for the costs of food and accommodation to the extent necessary between the time the seafarer leaves the ship and the time he starts travelling by such means as arranged by the shipowner and the shipowner shall not be liable for any accommodation and food in excess of that time, or for food and accommodation that is not necessary for the purposes of repatriation;
+(c) pay and allowances in accordance with the employment agreement or any Collective Bargaining Agreement that applies from the time that the seafarer leaves the ship until his arrival at the repatriation destination, provided that—
+(i) time spent by the seafarer in excess of the minimum time arranged by the shipowner between leaving the ship and arrival at the repatriation destination shall not be payable; and
+(ii) time spent waiting for repatriation shall not be deducted from paid leave periods earned in accordance with the seafarer’s employment agreement;
+(d) transport of up to 30 kg of personal baggage from the ship to the repatriation destination; and
+(e) in the case of a seafarer whose employment agreement is terminated through injury or illness, medical treatment when necessary until the seafarer is medically fit to travel.
+[Regulation 6 amended by BR 19 / 2019 reg. 6 effective 18 February 2019]
