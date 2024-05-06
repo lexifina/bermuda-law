@@ -1,0 +1,5 @@
+# Entitlement to medical care
+14A (1) In addition to medical care provided on board a ship under regulation 6 of the Merchant Shipping (Manning of Ships) Regulations 2011, and the Merchant Shipping (Medical Stores) Regulations 2005, seafarers are entitled to visit a qualified medical doctor or dentist, without delay and where practicable, in ports of call, at no cost to the seafarer.
+(2) The Minister shall ensure prompt disembarkation of seafarers in need of immediate medical care from ships in Bermuda and access to medical facilities ashore, for the provision of appropriate treatment.
+(3) Where a seafarer has died during a ship’s voyage, or if the death has occurred in Bermuda territorial waters, the Minister shall facilitate the repatriation of the body or ashes by the shipowner, in accordance with the wishes of the seafarer or their next of kin, as appropriate.
+[Regulation 14A inserted by BR 53 / 2014 reg. 2 effective 30 June 2014; Regulation 14A deleted and substituted by BR 33 / 2024 reg. 4 effective 28 March 2024]
