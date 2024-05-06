@@ -1,0 +1,8 @@
+# Financial security
+4 (1) Every shipowner with responsibility for a Bermuda ship shall make arrangements for financial security to cover the possible costs of repatriation of any of the seafarers in its employ, and that financial security may be a policy of insurance or other arrangements, but in every case shall be effective to provide for repatriation of any or all of the seafarers on the ship in accordance with these Regulations in the event that the shipowner is insolvent or otherwise unable to meet his obligations for repatriation.
+(2) Every ship to which these Regulations apply shall carry on board evidence of the financial security required by paragraph (1), which may be a copy of the policy of insurance or other certification, by which it may be established with certainty that a seafarer employed on that ship will be repatriated, in accordance with these Regulations, and that the security shall be effective even if the shipowner ceases to trade or becomes insolvent.
+(2A) A copy of the evidence of financial security shall be posted in a conspicuous place on board, where seafarers have access.
+(2B) Where more than one financial security provider provides cover, the document provided by each provider shall be carried on board.
+(3) Any authorised officer of the Authority shall, on request, be provided with the evidence of financial security provided on board any Bermuda ship.
+(4) Where it is considered appropriate the Minister may exempt a pleasure vessel from the requirements of this regulation on such terms and conditions as he sees fit.
+[Regulation 4 paragraphs (2A) and (2B) inserted, and paragraph (3) amended by BR 19 / 2019 reg. 4 effective 18 February 2019]
