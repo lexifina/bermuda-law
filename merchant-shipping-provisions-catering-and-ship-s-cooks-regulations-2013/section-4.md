@@ -1,0 +1,3 @@
+# No charge to be made for food and water
+4 (1) In every ship to which these Regulations apply the seafarers shall be provided with food and water in accordance with these Regulations and the seafarers shall not be charged in any way for food and water during the course of their employment on board.
+(2) Notwithstanding the requirement in sub-paragraph (1) for food and water shall be provided free of charge; in any ship in which there are restaurants that seafarers may use, the shipowner shall be permitted to make a charge for the use of these restaurants whenever a seafarer elects to use one in lieu of the facilities provided elsewhere in the ship for seafarers.
