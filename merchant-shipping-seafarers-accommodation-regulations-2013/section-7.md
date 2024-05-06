@@ -1,0 +1,5 @@
+# Openings in bulkheads surrounding accommodation
+7 There shall be no openings in any of the bulkheads referred to in regulation 4(6) except—
+(a) where sanitary accommodation or changing rooms are provided for the exclusive use of seafarers working in machinery spaces, and situated adjacent to the main machinery space, there may be an opening in the machinery space bulkhead to the sanitary accommodation or changing rooms and an opening from the sanitary accommodation or changing rooms to a passageway forming part of the seafarers’ accommodation, provided that a hinged steel, self-closing, gas-tight door is fitted to one of the openings;
+(b) where there is no other practicable arrangement, in vessels under 500 GT there may be an opening between a machinery or deck store room and a passageway forming part of the seafarers’ accommodation if the opening is closed by a hinged, self closing, steel gas-tight door; and
+(c) where there is no other practicable arrangement, the Minister may permit the provision of an opening between a passageway in seafarers’ accommodation and one of the spaces in regulation 4(6), provided that the opening is effectively sealed.

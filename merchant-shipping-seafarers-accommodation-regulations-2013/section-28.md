@@ -1,0 +1,3 @@
+# Offices
+28 (1) In every ship there shall be provided rooms set aside and furnished as offices for the deck department and for the engineering department, and where it is impracticable to provide separate offices, a combined office shall be provided which is of sufficient size to accommodate the needs of both departments.
+(2) The Minister may exempt ships of less than 3000 GT from the requirements of paragraph (1) after consultation with the shipowners’ and seafarers’ organisations, or, where this is not possible, after consultation with the special tripartite committee established by Article XIII of the Maritime Labour Convention .
