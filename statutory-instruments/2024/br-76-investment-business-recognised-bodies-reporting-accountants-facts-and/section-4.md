@@ -1,0 +1,2 @@
+# Meaning of “material weakness in internal control”
+4 For the purposes of regulation 3(d), “material weakness in internal control” means a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the recognised body’s annual or interim financial statements will not be prevented or detected on a timely basis.
