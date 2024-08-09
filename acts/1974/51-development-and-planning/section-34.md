@@ -1,0 +1,6 @@
+# Agreement regulating development or use of land
+34 (1) The Minister may enter into an agreement with any person interested in land for the purpose of restricting or regulating the development or use of the land, either permanently or during such period as may be specified in the agreement; and any such agreement may contain such incidental and consequential provisions (including provisions of a financial character) as appear to the Minister to be necessary or expedient for the purposes of the agreement.
+(2) An agreement made under this section with any person interested in land may be enforced by the Minister against persons deriving title under that person in respect of the land as if the Minister were possessed of adjacent land and the agreement had been expressed to be made for the benefit of such land.
+(3) Nothing in this section or in any agreement made under this section shall—
+(a) restrict the exercise, in relation to land which is the subject of such an agreement, of any powers exercisable by the Board or the Minister or any other public authority under this Act so long as those powers are exercised in accordance with the provisions of this Act or any development plan; or
+(b) require the exercise of any such powers otherwise than as mentioned in paragraph (a).

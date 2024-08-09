@@ -1,0 +1,7 @@
+# Determination of applications
+17 (1) Subject to this Act, where application is made to the Board for planning permission, the Board may grant permission either unconditionally or subject to such conditions as they think fit or may refuse permission and, in the exercise of their discretion under this section the Board
+(a) shall not grant planning permission which would result in development at variance with this Act, a development plan, regulations, rules, a zoning order, a municipal bye-law or other statutory provision, to the extent that the same may be relevant to the application;
+(aa) shall not grant planning permission under this Act unless the application is accompanied by a fire certificate issued by the Chief Fire Officer under section 13 of the Fire Safety Act 2014 or by written confirmation from the Chief Fire Officer that he has surveyed the premises and concluded fire safety requirements under Part 4 of that Act, as the case may be;
+(b) shall have regard to any other relevant consideration.
+(2) In determining any application for planning permission the Board shall take into account any representations relating to the application which are received by them during such period as may be determined in accordance with regulations or rules.
+[Section 17 subsections (1) and (2) amended by 2014 : 24 s. 4 effective 29 July 2014; Section 17 subsection (1) amended by 2014 : 33 s. 55 effective 1 January 2018]
