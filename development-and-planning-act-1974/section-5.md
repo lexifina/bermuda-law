@@ -1,0 +1,7 @@
+# Delegation to municipal authorities
+5 (1) The Board may, with the approval of the Minister, by instrument in writing published in the Gazette and subject to such conditions, directions, reservations and restrictions as they think fit, delegate to a Municipality their power to grant or refuse planning permission.
+(2) The Board may give written directions to any Municipality to whom functions have been delegated under subsection (1) requiring that any application made to that Municipality for planning permission, or all such applications of any class specified in the directions, shall be referred to the Board instead of being dealt with by the Municipality, and any such application shall be so referred accordingly.
+(3) Where an application for planning permission is referred to the Board under subsection (2) the Board shall have the same powers in respect of such application as they would have had in the absence of an instrument of delegation under subsection (1).
+(4) Where a Municipality grants, modifies or revokes any planning permission they shall notify the Board within fourteen days thereof and such notification shall contain such particulars of the decision to which it relates as the Board may require.
+(5) An instrument under this section is not subject to section 6 of the Statutory Instruments Act 1977 (parliamentary scrutiny of statutory instruments).
+[Section 5 subsections (1), (2) and (4) amended and subsection (5) inserted by 2014 : 24 s. 2 effective 29 July 2014]

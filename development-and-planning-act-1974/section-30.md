@@ -1,0 +1,11 @@
+# Listed buildings
+30 (1) The Minister shall compile lists of buildings of special architectural or historical interest or approve, with or without modifications, such lists compiled by other persons or bodies of persons, and may amend any list so compiled or approved.
+(2) In considering whether to include a building in a list compiled or approved under this section, the Minister may take into account not only the building itself but also—
+(a) any respect in which its exterior contributes to the architectural or historic interest of any group of buildings of which it forms part; and
+(b) the desirability of preserving, on the ground of its architectural or historic interest, any feature of the building consisting of a man-made object or structure fixed to the building or forming part of the land comprised within the curtilage of the building.
+(3) Before including a building in a list compiled or approved under this section the Minister shall—
+(a) give notice to the owners and occupiers of the building of his intention to include such building in such list;
+(b) give such owners and occupiers an opportunity of making such representations or objections as they think fit within such period, not being less than thirty days, of the service of notice under paragraph (a) as the Minister may determine,
+and the Minister shall, upon including a building in such a list, give notice to the owners and occupiers of such building of such inclusion.
+(4) Notwithstanding subsection (3), where it appears to the Minister that a building should be listed immediately, he may direct that such building shall be included provisionally in a list compiled or approved under this section without complying with the requirements of subsection (3), but such listing shall cease to have effect upon the expiration of 90 days from the date of such direction unless within that period such building has been included in such list after compliance with those requirement.
+(5) A copy of every list compiled or approved by the Minister under this section, or any amendments to such list, certified by or on behalf of the Minister to be a true copy thereof, shall be kept with the register required to be kept under section 22.

@@ -1,0 +1,5 @@
+# Draft development plan or local plan to operate as development plan or local plan pending approval of Legislature
+10 (1) The Minister may, by notice in the Gazette, at any time prior to the approval of a development plan or local plan by the Legislature under section 11, declare that a draft development plan or a draft local plan shall be operative as a development plan or local plan, as the case may be, from such date as may be specified in the notice and until such approval is obtained:
+Provided that if such approval is not obtained within eighteen months of the publication of such notice such draft development plan or draft local plan shall cease to be operative as a development plan or a local plan.
+(2) Nothing in this section shall apply in the case of any alterations or additions to a development plan or local plan.
+(3) During the period during which a draft development plan is operative in any part of Bermuda, any other development plan in force in respect to that area prior thereto shall cease to have effect, save to the extent that the draft development plan provides to the contrary.
