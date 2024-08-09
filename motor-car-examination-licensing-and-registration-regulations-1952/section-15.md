@@ -1,0 +1,2 @@
+# Alteration of particulars
+15 If any alteration (other than an alteration of the nature referred to in regulation 16) is made in a motor car after it has been registered and licensed, or any alteration occurs in respect of the name or address of the owner, being in either case an alteration which affects the registration particulars set out in the motor car licence, the owner shall forthwith, in writing, notify such alteration to the Minister, and at the same time deliver up the licence for amendment.

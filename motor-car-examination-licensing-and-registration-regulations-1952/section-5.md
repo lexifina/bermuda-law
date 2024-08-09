@@ -1,0 +1,5 @@
+# Truck; self-propelled construction machine; tractor; permit to operate
+5 (1) Application for a permit, under section 40, section 41 or section 43 of the Motor Car Act 1951, to use, respectively, a truck, a self-propelled constructional machine or a tractor for the purpose of the applicant’s trade or business, shall be made to the Minister in such from as the Minister may from time to time determine.
+(2) A permit granted by the Minister in pursuance of the provision of section 40 or, as the case may be, section 41 or section 43 shall be in such form as the Minister may from time to time determine, and shall be issued to the applicant therefor
+(3) Where the holder of a permit for the use of a truck, self-propelled constructional machine or tractor ceases to be engaged in the business in connection with which the permit was granted he shall forthwith inform the Minister in writing of the circumstances.
+(4) Where a permit is revoked under sections 40, 41 or 43, the holder of the permit shall return it to the Minister within seven days of the revocation for the purposes of its cancellation by the Minister.
