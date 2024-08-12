@@ -1,0 +1,3 @@
+# Applicant and holder of a licence, etc. not to deliver any complimentary services, etc. to any relevant official
+187C It shall be an offence for any applicant for or holder of a licence granted under this Act or any affiliate, intermediary, subsidiary or holding company thereof to offer or deliver to a relevant official, or to the immediate family of such an official, any complimentary services or discount where the person offering or delivering the complimentary service or discount knows or has reason to believe is other than a service or discount that is offered to members of the general public in like circumstances.
+[Section 187C inserted by 2016 : 48 s. 68 effective 12 January 2017]

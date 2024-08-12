@@ -1,0 +1,5 @@
+# Assessment by Commission
+135 (1) Notwithstanding any other provisions of this Act, if the Commission has reason to believe that any amount of fees has been incorrectly computed by a licensee or when any licensee fails in any month to submit to the Commission a statement in accordance with section 142, the Commission may assess the amount of fees, if any, payable by the licensee as may, in the circumstances, appear proper to the Commission under the provisions of this Act.
+(2) Where any fees are assessed by the Commission in accordance with this section, the Commission shall give notice in writing to the licensee stating the amount so assessed and such amount of fees shall be due and payable by the licensee within such period following the date of such notice as the Commission may, in the notice, direct.
+(3) A licensee may appeal within thirty days of the date of such notice to the Magistrates’ Court.
+[Section 135 amended by 2015 : 35 s. 15 effective 6 November 2015; Section 135 subsection (1) amended by 2021 : 23 Sch. 1 & s. 30 effective 1 August 2021]

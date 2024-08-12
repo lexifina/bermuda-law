@@ -1,0 +1,6 @@
+# Audit
+137 (1) A casino operator shall, as soon as practicable after the end of its financial year, cause the books, accounts and financial statements of the casino operator in relation to the casino to be audited by a person who is registered or deemed to be registered as an accountant under the Chartered Professional Accountants of Bermuda Act 1973 and approved by the Commission to audit the accounting records of the casino operator.
+(2) An auditor shall not be approved by the Commission as an auditor for a casino operator unless he is able to comply with such conditions in relation to the discharge of his duties as may be determined by the Commission.
+(3) The Commission may impose such additional duties on an auditor in relation to his audit of a casino operator as the Commission considers necessary, the costs of which shall be borne by the casino operator.
+(4) The casino operator shall cause the auditor's report, the financial statements referred to in section 134(1)(a) and (b) and any additional information or report requested by the Commission to be lodged with the Commission within 4 months after the end of the financial year to which the report, financial statements and additional information or report, if any, relate.
+(5) Any casino operator who fails to comply with subsection (1) or (4) shall be liable to disciplinary action.
