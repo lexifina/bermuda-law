@@ -1,0 +1,6 @@
+# Relevant official to not hold any interest, etc. during and after time in office
+187D During the period in which he holds office and for two years from the date on which he ceases to hold such office, it shall be an offence for any relevant official or for the immediate family of such an official, without the prior written consent of the Commission, to—
+(a) intentionally or knowingly hold any interest, whether legal or beneficial and whether directly or indirectly, in any licenced entity or any affiliate, intermediary, subsidiary or holding company thereof;
+(b) solicit or accept any complimentary service from an applicant for or holder of any licence granted under the Act or any affiliate, intermediary, subsidiary or holding company thereof, which the relevant official knows or has reason to know is other than a service or discount which is offered to members of the general public in like circumstances; or
+(c) provide any goods or services to an applicant for or holder of any licence granted under the Act or any affiliate, intermediary, subsidiary or holding company thereof other than in the ordinary course of his duties as a relevant official.
+[Section 187D inserted by 2016 : 48 s. 68 effective 12 January 2017]

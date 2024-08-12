@@ -1,0 +1,9 @@
+# Suspension of contracts
+62 (1) The Commission may, where it considers that the continuance of the contract affects the credibility, integrity and stability of casino operations, serve on a casino operator a notice in writing specifying the grounds and affording the operator an opportunity to show cause, within 14 days or such longer period as the Commission may allow on application by any party to the contract, why the contract should not be suspended by the operator for reasons specified in the notice.
+(2) Before the Commission requires the suspension of a contract, the Commission shall give the casino operator an opportunity to be heard.
+(3) The Commission may, in the event of any immediate threat to the credibility, integrity and stability of casino operations, by a notice in writing served on a casino operator, direct the operator to suspend further performance of the contract from the date the notice is served until a determination is made by the Commission as to whether the contract should be terminated.
+(4) The casino operator, or party, may, within the period specified in the notice in subsection (1), arrange with the Commission for the making of submissions as to why the contract should not be terminated.
+(5) After considering any submissions so made, the Commission may, by notice in writing served on the casino operator, require the contract to be terminated within a time specified in the notice.
+(6) If the contract is not terminated as required by the notice under subsection (5), the casino operator may be liable to disciplinary action.
+(7) No compensation for economic loss shall be payable by the Commission in respect of any contract which is suspended by a casino operator pursuant to this section, whether or not such contract is terminated under this section.
+(8) A casino operator, or party, aggrieved by a decision of the Commission under this section may appeal to the court against that decision.
