@@ -1,0 +1,8 @@
+## Information Gathering
+# Power to obtain information and reports
+75A (1) The Authority may by notice in writing served on a recognised body—
+(a) require the recognised body to provide the Authority (or such person acting on behalf of the Authority as may be specified in the notice), at such time or times or at such intervals or in respect of such period or periods as may be so specified, with such information as the Authority may reasonably require for ensuring the recognised body is complying with the provisions of this Act and any code of conduct or practice, and for safeguarding the interests of members and potential members of the recognised body;
+(b) require the recognised body to provide the Authority with a report, in such form as may be specified in the notice, by the recognised body’s auditor, or by an accountant or other person with relevant professional skill on, or on any aspect of, any matter about which the Authority has required or could require the recognised body to provide information under paragraph (a).
+(2) The person appointed by a recognised body to make the report required under subsection (1)(b) shall forthwith give written notice to the Authority of any fact or matter of which he becomes aware which is likely to be of material significance for the discharge, in relation to the recognised body, of the Authority’s functions under this Part.
+(3) Without prejudice to the generality of section 86(1), regulations made under that section shall prescribe the facts or matters which are likely to be of material significance for the discharge of the Authority’s functions under this Part.
+[Section 75A inserted by 2024 : 2 s. 22 effective 29 July 2024]
