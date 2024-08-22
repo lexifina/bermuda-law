@@ -1,0 +1,16 @@
+## Injunctions and restitutions
+# Injunctions
+62 (1) If, on the application of the Authority, the court is satisfied—
+(a) that there is a reasonable likelihood that any person will contravene a relevant requirement; or
+(b) that any person has contravened a relevant requirement and that there is a reasonable likelihood that the contravention will continue or be repeated;
+the court may make an order restraining the contravention.
+(2) If on the application of the Authority the court is satisfied—
+(a) that any person has contravened a relevant requirement; and
+(b) that there are steps which could be taken for remedying the contravention;
+the court may make an order requiring that person, and any other person who appears to have been knowingly concerned in the contravention, to take such steps as the court may direct to remedy it.
+(3) If, on the application of the Authority the court is satisfied that any person may have—
+(a) contravened a relevant requirement; or
+(b) been knowingly concerned in the contravention of such a requirement;
+it may make an order restraining him from disposing of, or otherwise dealing with, any assets of his which it is satisfied he is reasonably likely to dispose of or otherwise deal with.
+(4) In subsection (2), references to remedying a contravention include references to mitigating its effect.
+(5) “Relevant requirement” in relation to an application by the Authority, means a requirement which is imposed by or under this Act.
