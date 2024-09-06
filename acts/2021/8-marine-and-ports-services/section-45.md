@@ -1,0 +1,4 @@
+# Seaworthiness of Island boats; inspection
+45 (1) The Minister shall, at least once in every year, cause every Island boat to be boarded by such officer or officers of the Department as the Minister may direct, and such officer or officers shall make a thorough examination in compliance with the BSCV Code of Practice, and the officer appointed to be in charge of the examination shall report on the condition and sufficiency of the Island boats to the Minister.
+(2) The Minister may by regulations made under this Act, provide for the inspection in compliance with the BSCV Code of Practice of any Island boat used for carrying passengers or cargo in the territorial waters and such inspection shall be independent of the vessel operator.
+[Section 45 in force on 23 January 2023 by BR 3 / 2023 para. 2]
