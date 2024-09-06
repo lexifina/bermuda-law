@@ -1,0 +1,13 @@
+# General or urgent directions under sections 14 and 15
+17 (1) A direction given to any person under section 14 or 15 need not be addressed to that particular person, but may be framed in general terms applicable to all persons to whom such a direction may be given or to any class of such persons to which that particular person belongs.
+(2) If it appears to the Governor that an exception from any direction given under any of those sections is required as a matter of urgency in any particular case he may, by a notification given (otherwise than in writing) to the person for the time being subject to the direction, authorise that person to disregard the requirements of the direction—
+(a) in relation to such ships or class of ships, in relation to such harbour area or part of a harbour area, in relation to such land outside a harbour area, in relation to such activities or in relation to such persons or property or such description of persons or property; and
+(b) on such occasion or series of occasions, or for such period,
+as he may specify; and the direction shall have effect in that case subject to any exceptions so specified.
+(3) Any notification given to any person under subsection (2) with respect to any direction shall cease to have effect (if it has not already done so)—
+(a) if a direction in writing is subsequently given to that person varying or revoking the original direction; or
+(b) if no such direction in writing is given within the period of thirty days beginning with the date on which the notification was given, at the end of that period.
+(4) Any notification given under subsection (2) shall be regarded as given to the person to whom it is directed if it is given—
+(a) to any person authorised by that person to receive any such direction or notification;
+(b) where that person is a body corporate, to the secretary, or similar officer of the body corporate; and
+(c) in any other case, to anyone holding a comparable office or position in that person’s employment.
