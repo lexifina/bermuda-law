@@ -1,0 +1,2 @@
+# Emergency numbers
+48 The Authority shall require providers of public electronic communications to make available to users, free of charge, access to a national three-digit number for emergency purposes, and may require communications providers to provide any user possessing a fixed or mobile terminal with automatic access to their networks for the purpose of making emergency calls by means of the national three-digit number, irrespective of whether such users are their customers or subscribers.
