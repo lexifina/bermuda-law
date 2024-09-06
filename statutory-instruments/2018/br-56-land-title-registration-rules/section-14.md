@@ -1,0 +1,2 @@
+# Electronic delivery of applications
+14 Any application may during the currency of any notice given under rule 185, and subject to and in accordance with the limitations contained in that notice, be delivered by electronic means and the applicant shall provide, in such sequential order as may be required by that notice, such of the particulars required for an application of that type as are appropriate in the circumstances and as are required by the notice.

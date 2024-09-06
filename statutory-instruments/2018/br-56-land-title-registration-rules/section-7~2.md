@@ -1,0 +1,3 @@
+# Easements burdening settled estates in land
+7 (1) Following registration of a lease or leases terminable by notice following the death of the relevant life tenant and registration of the freehold estate subject to the lease (or leases), under the arrangements outlined above, the registrations shall be made subject to easements (to be recorded by way of notice in the relevant individual register (or registers)) equivalent to the easements that, prior to registration, affected the estate out of which the registration has derived.
+(2) An easement burdening the land as a whole shall be noted as an incumbrance against all the derived individual registers.

@@ -1,0 +1,3 @@
+# Application for registration by other corporations
+158 (1) Where a corporation aggregate, to which rules 156 and 157 do not apply, makes an application to be registered as owner of a registered estate or registered charge the application shall also be accompanied by evidence of the extent of its powers to hold and sell, mortgage, lease and otherwise deal with land and, in the case of a charge, to lend money on mortgage.
+(2) The evidence shall include the charter, statute, rules, memorandum and articles of association or other documents constituting the corporation, together with such further evidence as the registrar may require.

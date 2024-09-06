@@ -1,0 +1,3 @@
+# Evidence of non-revocation of power more than 12 months old
+66 (1) If any transaction between a donee of a power of attorney and the person dealing with him is not completed within 12 months of the date on which the power came into operation, the registrar may require the production of evidence to satisfy him that the power had not been revoked at the time of the transaction.
+(2) The evidence that the registrar may require under paragraph (1) may consist of or include an affidavit by the person who dealt with the donee or a certificate given by that person’s attorney (being, for the avoidance of doubt, a person duly admitted under the Supreme Court Act 1905 to practise as a barrister and attorney in the Supreme Court).

@@ -1,0 +1,4 @@
+# Note as to inclusion of mines or minerals in the registered estate
+73 (1) This rule applies where a registered estate includes any mines or minerals but there is no note in the register to that effect and the registered owner of the registered estate applies for a note to be entered that the registered estate includes the mines or minerals or specified mines or minerals.
+(2) An application for the entry of the note shall be accompanied by evidence to satisfy the registrar that the mines or minerals were vested in the applicant for first registration of the registered estate at the time of first registration and were so vested in the same capacity as the remainder of the estate in land then sought to be registered.
+(3) If the registrar is satisfied that mines or minerals were so vested in that applicant he shall enter the appropriate note.
