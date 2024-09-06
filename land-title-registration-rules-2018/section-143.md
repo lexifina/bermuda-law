@@ -1,0 +1,3 @@
+# Transfer by a personal representative
+143 (1) An application to register a transfer by a personal representative, who is not already registered as owner, shall be accompanied by the original grant of probate or letters of administration showing him as the personal representative.
+(2) The registrar shall not be under a duty to investigate the reasons a transfer of registered land by a personal representative of a deceased sole owner or last surviving joint owner is made nor to consider the contents of the will and, provided the terms of any restriction on the register are complied with, he may assume, whether he knows of the terms of the will or not, that the personal representative is acting correctly and within his powers.

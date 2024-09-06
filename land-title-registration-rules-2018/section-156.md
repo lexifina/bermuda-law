@@ -1,0 +1,6 @@
+# Application for registration by companies, limited liability companies and limited partnerships
+156 (1) Where a company registered in Bermuda under the Companies Act 1981 applies to be registered as owner of a registered estate or of a registered charge, the application shall state the company’s registered number.
+(2) If the company is a registered housing association within the meaning of section 26 of the Bermuda Housing Act 1980, the application shall also contain or be accompanied by a certificate to that effect.
+(3) If the company is a registered housing association within the meaning of the Bermuda Housing Act 1980, the application to be registered as owner of a registered estate or registered charge shall be accompanied by an application in Form R10 for a restriction in Form R.
+(4) Where a limited partnership incorporated under the Limited Partnership Act 1883 applies to be registered as owner of a registered estate or of a registered charge, the application shall state the limited partnership’s registered number.
+(5) Where a limited liability company formed under the Limited Liability Company Act 2016 applies to be registered as owner of a registered estate or of a registered charge, the application shall state the limited liability company’s registered number.

@@ -1,0 +1,3 @@
+# Entry following a direction of the court regarding overriding priority in connection with a restriction
+102 (1) Any entry in the register required under section 63(4) of the Act shall be in such form as the registrar may determine so as to ensure that the priority of the restriction ordered by the court is apparent from the register.
+(2) Where the making of the entry is completed by the registrar during the priority period of an official search which was delivered before the making of the application for the entry, he shall give notice of the entry to the person who applied for the official search or, if an attorney or other agent applied on behalf of that person, to that agent, unless he is satisfied that such notice is unnecessary.

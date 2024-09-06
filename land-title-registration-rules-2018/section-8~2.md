@@ -1,0 +1,3 @@
+# Easements benefitting settled estates in land
+8 (1) Following registration of a lease or leases terminable by notice following the death of the relevant life tenant and the freehold estate subject to the lease (or leases), under the arrangements outlined above, the registrations shall benefit from any easements (to be recorded as appurtenant to the land in the relevant individual register (or registers)) equivalent to the easements that, prior to registration, benefited the estate out of which the registration has derived.
+(2) An easement benefiting the land as a whole shall be noted as appurtenant to the estate registered under each of the derived individual registers.

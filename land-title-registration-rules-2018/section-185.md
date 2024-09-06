@@ -1,0 +1,2 @@
+# Notices publicising arrangements for electronic and other modes of delivery of applications and other matters
+185 If the registrar is satisfied that adequate arrangements have been made or will be in place for dealing with the applications and other communications to and by the registrar by electronic means, he may, in such manner as he thinks appropriate, give notice publicising the arrangements.

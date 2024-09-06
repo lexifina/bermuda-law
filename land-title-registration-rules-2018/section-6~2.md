@@ -1,0 +1,2 @@
+# Mortgages and charges affecting settled estates in land
+6 If there are any other interests under a settlement affecting unregistered land that take effect as a charge upon any estate held in succession, then, on registration of the relevant estates, any mortgage by way of conveyance or sub-lease shall be converted to a charge by way of legal mortgage and entered in the relevant individual register as a registered charge affecting the estate out of which the registration has derived.
