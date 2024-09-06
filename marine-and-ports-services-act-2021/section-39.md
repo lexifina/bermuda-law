@@ -1,0 +1,5 @@
+# Port dues
+39 (1) The entities responsible for the Hamilton docks, St. George’s docks and the Dockyard docks shall remain responsible for the collection of port dues pursuant to any provision of law and the moneys so collected shall, subject to subsection (2), form part of the revenue of the authority so responsible for their collection.
+(2) The entities responsible for the Hamilton docks and the St. George’s docks shall be responsible for the collection of fees prescribed pursuant to section 35(5) in respect of the berthing of boats and the moneys so collected shall form part of the revenue of the authority so responsible for the collection thereof.
+(3) The authority responsible for the collection of port dues pursuant to subsection (1) and any other provision of law shall pay to the Accountant-General, at such intervals as the Ports Authority may direct, all port dues so collected other than those referable to the berthing of any ship alongside the docks of that authority.
+[Section 39 in force on 23 January 2023 by BR 3 / 2023 para. 2]
