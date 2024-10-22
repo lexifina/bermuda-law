@@ -1,0 +1,2 @@
+# Validation
+5 Where, on or after 10 November 2023, a body which was purportedly empanelled by the Minister of Finance as the Tax Reform Commission exercised or performed any functions, duties or operations of the Tax Reform Commission under section 5 or any other provision of the principal Act or under any other provision of law, then such exercise or performance shall be deemed to have been validly exercised or performed.
