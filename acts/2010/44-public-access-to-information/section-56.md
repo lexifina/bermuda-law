@@ -1,0 +1,11 @@
+# Powers of Commissioner
+56 (1) In conducting a review, the Commissioner has power—
+(a) to summon and enforce the appearance of persons before the Commissioner and compel them to give oral or written evidence on oath or affirmation, and to produce such documents and things as the Commissioner deems requisite to conduct the review, in the same manner and to the same extent as a judge of the Supreme Court;
+(b) to administer oaths and affirmations;
+(c) to receive and accept such evidence and other information, whether on oath or by affidavit or otherwise, as the Commissioner sees fit, whether or not the evidence or information is or would be admissible in a court of law;
+(d) to enter any premises occupied by any public authority on satisfying any security requirements of the authority relating to the premises;
+(e) to converse in private with any person in any premises entered pursuant to paragraph (d) and otherwise carry out therein such inquiries authorized under this Act as the Commissioner sees fit; and
+(f) to examine or obtain copies of or extracts from books or other records found in any premises entered pursuant to paragraph (d) containing any matter relevant to the investigation.
+(2) Notwithstanding any other Act or any privilege under the law of evidence, the Commissioner may, during the conduct of a review under this Act, examine any record to which this Act applies that is under the control of a public authority, and no such record may be withheld from the Commissioner on any grounds.
+(3) Any document or thing produced to the Commissioner under this section by any person or public authority shall be returned by the Commissioner within ten days after a request is made by that person or authority for its return; but nothing in this subsection precludes the Commissioner from again requiring its production in accordance with this section.
+(4) A person who fails or refuses to comply with a requirement under this section or who hinders or obstructs the Commissioner in the performance of his functions under this section is guilty of an offence and is liable on summary conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or both.

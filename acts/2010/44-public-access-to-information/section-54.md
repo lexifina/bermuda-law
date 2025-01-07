@@ -1,0 +1,3 @@
+# Privilege
+54 (1) No proceedings, civil or criminal, shall be brought against the Commissioner or any person appointed or engaged under section 52 in respect of anything done or omitted to be done in the performance or intended performance of their functions under this Act unless it is shown that the Commissioner or person acted in bad faith.
+(2) Neither the Commissioner nor any person appointed or engaged under section 52 shall be called to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to their knowledge in the exercise of their functions under this Act.
