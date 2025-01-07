@@ -1,0 +1,4 @@
+# Access to part of record
+18 (1) Subject to subsection (2), where a record requested contains information that constitutes an exempt record, the public authority concerned shall, if it is practicable, prepare a copy, in such form as the authority considers appropriate, of so much of the record requested as does not consist of that material, and the request shall be granted by offering the requester access to the copy in accordance with section 17.
+(2) A public authority is not required to prepare a copy of a record under subsection (1) if the copy would be misleading.
+(3) Where a requester is offered access to a copy of part of a record under this section, the notice under section 14 shall specify that such access is offered pursuant to this section and that the copy does not purport to be a copy of the complete record requested.
