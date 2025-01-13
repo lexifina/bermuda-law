@@ -1,0 +1,3 @@
+# Transitional provision
+3 (1) Notwithstanding section 12A(a) of PATI (Act no longer applies to records relating to the personal information of a requester on commencement of PIPA), any pre-commencement PATI request which has not been finally disposed of before 1 January 2025, including any internal review, review by the Information Commissioner, or proceedings relating to such a request, shall be continued under and in accordance with PATI as if the amendments made to PATI and to the PATI Regulations by PIPAA 2023 were not in effect.
+(2) Any clarification required in relation to the continued application of PATI to pre-commencement PATI requests may be dealt with by guidance issued by the Information Commissioner after consulting the Privacy Commissioner.
