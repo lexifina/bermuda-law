@@ -1,0 +1,2 @@
+# Citation
+1 This Interim General Determination (“IGD”), which is made pursuant to the Consultation entitled “Fuel Pricing Methodology Consultation Document” dated 29 December 2023 and the Explanatory Note entitled “Regulatory Authority (Transitional Fuels Pricing) Interim General Determination 2025” dated 6 February 2025, may be cited as the Regulatory Authority (Transitional Fuels Pricing) Interim General Determination 2025.
