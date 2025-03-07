@@ -1,0 +1,3 @@
+# Minimum margin of solvency for general business
+10 (1) For the purposes of section 6 of the Act, the minimum amount by which the value of the general business statutory assets of an insurer must exceed its general business statutory liabilities is the greatest of figure A, figure B, figure C and figure D, where those letters represent values calculated, in relation to that insurer, in accordance with Schedule VII.
+(2) The minimum amount prescribed by subparagraph (1) shall not be less than that of figure D, where this letter represents a value calculated, in relation to an insurer, in accordance with Schedule VII.
