@@ -1,0 +1,6 @@
+# Registration of property
+29 (1) Any person who acquires a freehold estate (except by way of mortgage) in any land within either municipality shall give written notice thereof to the Corporation of the municipality concerned within three months after such acquisition, and such notice shall contain a description of the land acquired.
+(2) Any person who sells or disposes of any freehold estate in any land within either municipality shall give written notice thereof to the Corporation of the municipality concerned within three months after such sale or disposal, and such notice shall contain a description of the land sold or disposed of.
+(3) This section shall extend to the acquisition of any estate or interest in any real property by any person who thereby becomes liable, as owner or occupier thereof, to the payment of any rate, as they do to the acquisition of a freehold estate:
+Provided that where a person becomes so liable as an occupier by reason of any lease or other grant of rights of occupancy the duty to give written notice to the Corporation in accordance with this section shall be imposed on the lessor or other person making the grant and not on the person who becomes so liable as an occupier.
+(4) Any person who fails to give the notice required of him by this section within the requisite time commits an offence against this Act.

@@ -1,0 +1,4 @@
+# Recovery of rates
+28 (1) Any rate shall be deemed to be a simple contract debt and may be sued for and recovered with costs, in the name of the Corporation concerned, by any person authorized by the Corporation for the purpose in the manner provided for the recovery of a debt or liquidated demand by the Magistrates Act 1948 [title 8 item 15], or may be sued for and recovered in the Supreme Court.
+(2) A certificate in writing under the hand of the Mayor of the municipality concerned shall in any suit for the recovery of any rate be prima facie evidence that such rate was lawfully made and that the amount claimed is payable by the person against whom the claim is brought.
+(3) When two or more rates are payable by the same person, they may be sued for and recovered in the same action, and in that event such two or more rates shall be treated as one rate.

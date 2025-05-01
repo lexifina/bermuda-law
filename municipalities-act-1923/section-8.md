@@ -1,0 +1,2 @@
+# Legal status of Corporations etc.
+8 The Corporations of Hamilton and St. George’s and their successors in office shall be bodies corporate under the names of “The Corporation of Hamilton” and “The Corporation of St. George’s” respectively, and shall have perpetual succession, with power to sue and liability to be sued under the aforesaid names and to have and use common seals respectively, with power to renew, vary or change the same as either such Corporation may from time to time determine.

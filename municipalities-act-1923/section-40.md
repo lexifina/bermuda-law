@@ -1,0 +1,2 @@
+# Power of Corporations with respect to building wharves, etc., on foreshores
+40 It shall be lawful for the Corporations of Hamilton and St. George’s respectively, after having obtained the licence of the Governor in respect of each contemplated work, to build and erect within municipal limits or on land belonging to either Corporation outside such limits, wharves and landing-places for public use below high water mark, into the waters of the respective harbours, and extending to such distances into the harbour as shall be found necessary or convenient.

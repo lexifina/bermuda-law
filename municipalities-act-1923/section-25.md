@@ -1,0 +1,8 @@
+# Assessment
+25 (1) The assessment made by the assessors shall be entered in a book to be provided and kept for the purpose and shall be signed by the assessors as being correct, and delivered to the Corporation.
+(2) Before the assessment is finally adopted by the Corporation, notice of the making thereof shall be published in the Gazette and one other newspaper, if such there be, published in Bermuda, fixing a time not less than fifteen days during which the assessment shall remain open for the inspection of any person liable to assessment.
+(3) (a) If any person so liable to be assessed is dissatisfied with the value at which any of his property is assessed, he may at any time during which the assessment remains open for inspection apply in writing to the Corporation concerned for a revision of such assessment;
+(b) if the assessment is not revised by the Corporation to the satisfaction of such person, he may at any time within one month after the expiration of such inspection period apply to any magistrate for a further revision thereof;
+(c) such magistrate may issue a summons to the Corporation to appear before him to show cause why such assessment, or the question whether the property in question is liable to assessment, as the case may be, should not be revised;
+(d) on the hearing the magistrate shall, after hearing such evidence as may be submitted to him in the matter, determine the amount of such assessment and make such order as to the costs of the proceedings as he deems expedient; and
+(e) such proceedings shall as far as practicable be conducted in like manner as a civil case heard under the Magistrates Act 1948 [title 8 item 15], and the like costs shall be payable.
