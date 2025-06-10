@@ -1,0 +1,4 @@
+# Authorized signatures
+49 (1) All deeds, contracts, documents or legal papers to be executed by CPA Bermuda shall be executed under the seal attested by the signature of the chair or the vice-chair together with the signature of one other officer or in such other manner as the Executive Committee may from time to time determine by resolution.
+(2) An officer of CPA Bermuda may affix the seal attested by his or her signature to a document for the purpose of certifying an extract or copy from the register of members, the register of students, the Act, the by-laws, the rules and regulations and interpretations of them by CPA Board, or the minutes of a general meeting of members or of a meeting of CPA Board or the Executive Committee.
+[By-law 49 amended by 2014 : 8 s. 13 effective 11 April 2014]

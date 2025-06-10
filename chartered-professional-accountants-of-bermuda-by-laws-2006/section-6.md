@@ -1,0 +1,18 @@
+# Admission of company to membership
+6 (1) CPA Board may admit as a corporate member any company incorporated in and under the laws of Bermuda where—
+(a) a principal object of the company is to practise as a public accountant in accordance with the Act;
+(b) not less than sixty percent of the issued shares in the capital of the company are registered in the names of and beneficially owned by one or more individuals each of whom is a member in good standing of CPA Bermuda, and the remainder (if any) are registered in the names of and beneficially owned by one or more individuals each of whom is a member in good standing—
+(i) of a provincial CPA body, the Institute of Chartered Accountants of Scotland, The Institute of Chartered Accountants in England and Wales, or The Institute of Chartered Accountants in Ireland, or
+(ii) of another body having objects similar to those of CPA Bermuda and who has complied with the recommendations of the International Qualifications Appraisal Board of the Canadian Institute of Chartered Accountants concerning admission to membership in provincial CPA bodies (except recommendations with respect to satisfying provincial CPA body course and examination requirements);
+(c) every director, officer or other person authorised by the company in accordance with paragraph (d) is an individual who is a member in good standing of CPA Bermuda; and
+(d) none but directors, officers or other persons acting under the express authority of the company who are entitled to practice public accounting in accordance with by-law 17A have authority to issue on behalf of the company, in the course of services performed by the company in its practice as a public accountant, an opinion, report or certificate concerning any financial or accounting statement where a purpose in performing such services is to enhance the credibility of such a statement.
+(2) Application for admission as a corporate member shall be made in the form prescribed by CPA Board, and shall include—
+(a) a declaration in writing by two directors of the applicant company that the conditions set out in paragraph (1) are satisfied by the company; and
+(b) proof that the applicant company has—
+(i) registered with the AML/ATF Board pursuant to section 30C of the 2008 Act; and
+(ii) registered with the FIA for the purpose of making disclosures under section 46(A1) of the 1997 Act.
+(3) A corporate member shall enjoy all the rights and privileges, and be subject to all the obligations, of members of CPA Bermuda except that—
+(a) a corporate member shall not be eligible for election to CPA Board or to an office;
+(b) a corporate member shall not be eligible for appointment to a nominating committee, a practice inspection committee, a professional conduct committee, a discipline committee, an appeal committee or any other standing or ad hoc committee of CPA Bermuda, or as a scrutineer or a proxy; and
+(c) a corporate member shall not be entitled to vote on any matter which may come before a general meeting of CPA Bermuda, or which is the subject of a ballot taken by mail or electronic means, except a resolution to make, amend or repeal a by-law, or a rule of professional conduct, in a manner which will affect differently the rights, privileges or obligations of corporate members and of individual members and no such resolution shall be deemed passed unless passed by a majority of the votes of both corporate members and individual members voting thereon.
+[By-law 6(1) amended by BR 10/2009 s.2 effective 30 January 2009; by-law 6 amended by 2014 : 8 s. 13 effective 11 April 2014; By-law 6(2) revoked and replaced by BR 118 / 2018 by-law 4 effective 4 October 2018]
