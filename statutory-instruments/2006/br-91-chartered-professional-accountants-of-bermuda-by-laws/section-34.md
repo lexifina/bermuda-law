@@ -1,0 +1,4 @@
+# Annual General meetings
+34 (1) The annual general meeting of CPA Bermuda for the election of CPA Board, the appointment of an auditor and the transaction of such other business as may properly be brought before the meeting shall be held within six months after the end of each financial year at such time and place in Bermuda as the Executive Committee may determine.
+(2) Not less than fourteen days before the date of the annual general meeting, notice shall be given to each member, together with the names of members nominated for election to CPA Board, a copy of the agenda for the meeting, the report (if any) of the chair and CPA Board, and the annual financial statements and the report of the auditor thereon.
+[By-law 34 amended by 2014 : 8 s. 13 effective 11 April 2014; By-law 34 paragraph (1) amended by BR 44 / 2025 para. 2 effective 6 June 2025]

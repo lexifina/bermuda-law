@@ -1,0 +1,3 @@
+# No cause of action or complaint
+77 No member, student or other person shall have any cause of action or lawful complaint against CPA Bermuda, CPA Board, the Executive Committee or any member thereof, any member or student, or any officer, employee, agent, counsel or attorney of CPA Bermuda by reason of anything done or omitted to be done or any other matter or thing connected with or in respect of any investigation, inquiry, charge, hearing or report, or any disciplinary proceeding, order or publication, made or done in good faith under the by-laws.
+[By-law 77 amended by 2014 : 8 s. 13 effective 11 April 2014]

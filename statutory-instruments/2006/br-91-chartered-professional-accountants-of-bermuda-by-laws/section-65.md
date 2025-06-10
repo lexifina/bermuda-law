@@ -1,0 +1,3 @@
+# Transitional
+65 (1) Every member who became a member before June 30, 2005 shall complete a minimum of 120 hours of continued professional development in structured and/or unstructured programs in 2006 and 2007 (of which a minimum of 60 hours shall be in structured programs, 40 hours of which shall be completed by December 31, 2006) in accordance with the provisions of these by-laws unless such member is exempt.
+(2) For the purpose of paragraph (1) continuing professional development completed by a member after January 1, 2005 may be taken into account for the purposes of meeting the professional development requirement of these by-laws.

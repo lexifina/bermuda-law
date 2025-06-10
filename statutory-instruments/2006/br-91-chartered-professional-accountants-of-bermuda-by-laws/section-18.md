@@ -1,0 +1,16 @@
+## CPA BOARD, NOMINATING COMMITTEE, OFFICERS, AUDITOR
+# CPA Board
+18 (1) The affairs of CPA Bermuda shall be managed and conducted by CPA Board consisting of not less than eleven nor more than twenty individuals.
+(2) The CPA Board shall, as of the date of the notice of the annual general meeting in each year, determine the number of CPA Bermuda Only Members to be included on CPA Board for that year by calculating the ratio of the number of CPA Bermuda Only Members compared to the total membership of CPA Bermuda, so as to ensure that in any year the number of CPA Bermuda Only Members on CPA Board is not less than one or does not comprise more than 25% in total of the number of individuals on CPA Board.
+(2A) Pursuant to section 5 of the Act, the number of CPA Bermuda Only Members on CPA Board—
+(a) who do not possess Bermudian status shall not be in excess of 40% of CPA Bermuda Only Members on CPA Board; or
+(b) subject to paragraph (2B), may be individuals not possessing Bermudian status in the case where CPA Bermuda Only Members on CPA Board are two or fewer individuals.
+(2B) Sub-paragraph (2A)(b) shall apply only in the case where the inclusion to CPA Board of CPA Bermuda Only Members not possessing Bermudian status does not result in non-compliance with section 5 of the Act with respect to the ratio of membership on CPA Board.
+(3) Any member of CPA Board may submit his or her resignation to CPA Board and his or her membership of CPA Board shall terminate on the day set for such termination by CPA Board.
+(4) CPA Board may, by resolution having the affirmative votes of sixty per cent of its members, remove a member from his or her place on CPA Board.
+(5) Any vacancy which occurs among the elected members of CPA Board by death, resignation or otherwise in the interval between annual general meetings shall be filled by CPA Board.
+(6) Subject to paragraph (6A), no member of CPA Board may serve more than six consecutive terms of one year on the CPA Board.
+(6A) The time limit for service on CPA Board referred to in paragraph (6) shall not preclude a person nominated by the nominating committee pursuant to by-law 19(7) and elected pursuant to by-law 21(1) as chair or vice-chair, from serving on CPA Board for an additional year, provided that no person may be nominated as chair or vice-chair more than two consecutive times or serve more than two consecutive years as chair or vice-chair.
+(7) The members of CPA Board shall serve without remuneration, provided that any member of CPA Board who is not a member of CPA Bermuda shall receive such remuneration as shall be determined from time to time by CPA Board.
+(8) Where there are less than two individuals who are not members of CPA Bermuda serving as members of CPA Board, CPA Board may co-opt up to two individuals who are not members of CPA Bermuda to serve as honorary members of CPA Board. Such honorary members shall be deemed not to be members of CPA Board for the purposes of sections 4 and 5 of the Act and shall not have the right to vote on decisions of CPA Board.
+[By-law 18 amended by BR 18 / 2010 reg. 3 effective 31 March 2010; amended by 2014 : 8 s. 13 effective 11 April 2014; By-law 18 amended by BR 111 / 2019 by-law 4 effective 21 October 2019]
