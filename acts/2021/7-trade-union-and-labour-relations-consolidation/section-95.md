@@ -1,0 +1,3 @@
+# Enforcement of judgement, order or award against trade union
+95 (1) Notwithstanding any other provision in this Act, for the purposes of this Part a trade union shall be capable of suing or being sued in its own name whether in proceedings relating to property or to proceedings pursuant to Part 4.
+(2) Any judgment, order or award made in proceedings of the description mentioned in subsection (1) brought against the trade union shall be enforceable by way of execution, punishment for contempt or otherwise against any property held in trust for the trade union to the like extent and in the like manner as if the trade union were a body corporate.

@@ -1,0 +1,2 @@
+# Membership in unregistered trade union an offence
+13 If an application for registration of a trade union has not been made as required by this Act, or if registration of a trade union has been refused, then every member of the trade union who continues as a member thereof, and every person who takes part in any meeting or proceedings thereof, knowing that such union is not registered under this Act, commits an offence against this Act punishable on summary conviction to a fine of $1,000.

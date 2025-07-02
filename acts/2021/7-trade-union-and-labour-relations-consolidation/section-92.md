@@ -1,0 +1,3 @@
+# Offences by corporations
+92 (1) Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent, knowledge or connivance of a director, manager, secretary or other similar officer of the body corporate, or any person who is purporting to act in any such capacity, he, as well as the body corporate commits that offence and shall be liable to be proceeded against and punished accordingly.
+(2) This clause shall apply, with the necessary modifications, to a contravention under this Act for which a civil penalty may be imposed as it applies to an offence.

@@ -1,0 +1,7 @@
+# Penalty for withholding money, securities or other effects of trade union
+30 (1) This section applies in respect of any officer, member, or other person being or representing himself to be a member of a trade union registered under this Act, or the nominee, executor, administrator, or assignee of a member thereof, or any person whatsoever, who by false representation or imposition obtains possession of any moneys, securities, books, papers or other effects of such trade union, or having the same in his possession, wilfully withholds or fraudulently misapplies the same or any part thereof for purposes other than those expressed or directed in the constitution of such trade union.
+(2) A court of summary jurisdiction, upon a complaint made by any person on behalf of such trade union or by the Registrar, may order an officer, member or other person to which subsection (1) applies—
+(a) to deliver up all such moneys, securities, books, papers or other effects to the trade union; or
+(b) to repay the amount of the money applied improperly, and to pay, if the court thinks fit, a further sum of money not exceeding $500, together with costs; and
+(c) in default of such delivery of effects or repayment of such amount of money or payment of such penalty and costs aforesaid, the court may order the offender to be imprisoned for a term not exceeding three months.
+(3) Nothing in this section shall affect any liability of such person to be proceeded against by indictment, instead of summarily, in respect of any indictable offence.

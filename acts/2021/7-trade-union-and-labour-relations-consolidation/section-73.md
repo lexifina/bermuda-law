@@ -1,0 +1,4 @@
+# Difference arising in negotiations of new collective agreement
+73 (1) Without prejudice to any of the preceding sections to this Part, if, in negotiations respecting a new collective agreement, a difference arises between the parties and they fail to conclude a new agreement, the collective agreement that was in force prior to the date when the negotiations commenced, notwithstanding its termination, shall be deemed to be in force and shall continue in force until replaced by the new agreement.
+(2) For the avoidance of doubt, where there is a difference under subsection (1) that difference, if not otherwise determined, may be reported to the Director in accordance with section 67 and the provisions under this Act shall apply to a report of a difference under subsection (1) as they do to a labour dispute.
+[Section 73 subsection (2) amended by 2025 : 4 s. 4 effective 23 June 2025]

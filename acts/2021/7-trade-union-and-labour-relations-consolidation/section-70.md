@@ -1,0 +1,5 @@
+# Minister to refer to Tribunal
+70 (1) Where the Minister receives a report from the Director pursuant to section 69(1)(b), he shall, after taking any steps which seem to him to promote a settlement, refer the matter subject to subsection (3) to the Tribunal for a determination or settlement by any means at its disposal under the Employment and Labour Code.
+(2) Where the Minister receives a report from the Director pursuant to section 69(2) he shall, without taking any steps to promote settlement, refer the matter subject to subsection (3) to the Tribunal for a determination or settlement by any means at its disposal under the Employment and Labour Code.
+(3) In the case of a labour dispute involving an essential service, the Minister shall refer the dispute to the Tribunal for determination or settlement by any means at its disposal under the Employment and Labour Code before the expiration of any notice of lock-out, strike or irregular industrial action short of a strike given to the Director in accordance with section 80(2)(b).
+[Section 70 amended by 2025 : 4 s. 4 effective 23 June 2025]
