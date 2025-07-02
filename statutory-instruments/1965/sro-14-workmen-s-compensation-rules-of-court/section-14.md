@@ -1,0 +1,3 @@
+# Forms 1, 2 and 3 (applications)
+14 (1) A workman or an employer who desires the determination of any question arising out of an accident in which compensation is or might be claimed shall lodge with the Registrar a written application in Form 1, Form 2 or Form 3.
+(2) If the application be made by an employer, it shall be accompanied by a statement whether he admits his liability to pay compensation or denies such liability, and whether the admission or denial is total or partial, and if he admits or denies liability partially, a statement of the extent to which he admits or denies liability: In the case of a denial of liability, the grounds shall be stated.
