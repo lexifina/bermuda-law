@@ -1,0 +1,6 @@
+# Compensation in fatal cases
+5 Where death results from the injury—
+(a) if the worker leaves any dependants wholly dependent on his earnings, the amount of compensation shall be the “actual earnings” of the deceased in the three years prior to the incident, or three years of the average annual per capita income as recorded in the most recent official national statistics, whichever is the lesser, but where in respect of the same accident compensation has been paid under section 6 or section 7 there shall be deducted from the sum payable under this paragraph any sums so paid as compensation;
+(b) if the worker does not leave any dependants wholly dependent on his earnings, but leaves any dependants in part so dependent, the amount of compensation shall be such sum, not exceeding in any case the amount payable under paragraph (a), as may be determined by the court to be reasonable and proportionate to the injury to such dependants;
+(c) if the worker leaves no dependants, the reasonable expenses of the burial of the deceased worker not exceeding the sum of $2,000 and the reasonable expenses of medical attention as laid down in Part III shall be paid by the employer.
+[Section 5 para (a) amended by 2004:19 s.5 effective 20 July 2004]

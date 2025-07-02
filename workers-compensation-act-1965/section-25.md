@@ -1,0 +1,6 @@
+# Minister may by order require employers to insure
+25 (1) The Minister may, by order published in the Gazette, require any employer or class of employers to insure and keep himself or themselves insured in respect of any liability which he or they may incur under this Act to any worker employed by him or them.
+(2) Where the Minister has made any order under subsection (1) he may exempt any employer to whom such order applies from the provisions thereof if such employer provides and maintains in force a security which complies with the requirements of subsection (3), and any exemption so granted shall continue in force only so long as such security continues in force.
+(3) For the purposes of subsection (2), a security shall consist of an undertaking by a surety approved by the Minister to make good, subject to any conditions specified therein and up to an amount approved by the Minister, any failure by the employer to discharge any liability which he may incur under this Act to any worker employed by him.
+(4) Any employer who acts in contravention of any order made under subsection (1) commits an offence against this Act:
+Punishment on conviction: imprisonment for 3 months or a fine of $360 or both such imprisonment and fine and in the case of a continuing offence a further fine of $36 for every day during which the offence continues.

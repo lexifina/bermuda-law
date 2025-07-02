@@ -1,0 +1,4 @@
+# Compensation in the case of permanent total incapacity
+6 (1) Where permanent total incapacity results from the injury, the amount of compensation shall be the “actual earnings” of the worker in the four years prior to the incident, or four years of the average annual per capita income as recorded in the most recent official national statistics, whichever is the lesser.
+(2) Notwithstanding subsection (1), where an injury results in permanent total incapacity of such a nature that the injured worker must have the constant help of another person, additional compensation shall be paid amounting to one quarter of the amount which is otherwise payable under this section.
+[Section 6 subsection (1) amended by 2004:19 s.6 effective 20 July 2004; Section 6 subsection (1) amended by 2011 : 11 s. 2 effective 1 April 2020]

@@ -1,0 +1,2 @@
+# Abatement of compensation
+37 Compensation and benefits accruing pursuant to this Act to a worker employed by or under the Crown in any Government body or to his dependant, shall abate to the extent that any corresponding payment, right or benefit accrues and is paid or granted under the Public Service Superannuation Act 1981 [title 9 item 31], the Government Employees (Disability etc. Benefits) Act 1953 [title 9 item 15], or any other general or special enactment.
