@@ -1,0 +1,7 @@
+# Failure of trade union to give notice or send documents
+37 (1) This section applies in respect of any trade union which fails to give any notice or send or produce any document which it is required by this Act, to give, send or produce.
+(2) In a case to which subsection (1) refers, every officer of the trade union or other person bound by the constitution of that trade union to give send or produce the notice or document, or if there is no such officer or person, then every member of the committee of management of the union, unless proved to have been ignorant of, or have attempted to prevent the omission, shall be liable—
+(a) to forfeit a sum not exceeding $100 recoverable before a court of summary jurisdiction in the manner provided by the Magistrates Act 1948 at the suit of the Registrar or of any person aggrieved; and
+(b) to an additional forfeiture of the like amount for each week during which the omission continues.
+(3) Nothing in this section shall be construed so as to prejudice the effect of any of the provisions of this Part under which criminal proceedings may be taken against an officer of a trade union or other person for an omission to give any notice or send or produce any document.
+(4) Notwithstanding subsection (2), no officer or other person to which this section applies shall be liable both to criminal proceedings and to proceedings under this section in respect of the same omission.

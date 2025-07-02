@@ -1,0 +1,2 @@
+# Duty of employer to designate person to act on his behalf
+45 Without prejudice to section 44, an employer, who is served notice of an application pursuant to section 42(2), shall designate a person who may take such action as is required to be taken by the employer for the purposes of this Chapter, on the employer’s behalf, in any case where the employer is absent or otherwise unavailable and the person so designated shall be named in the notice given under section 44(2).

@@ -1,0 +1,3 @@
+# Duration of agency shop
+65 (1) Without prejudice to section 55(1)(d) or section 58(2)(b), an agency shop shall remain in force for the duration of the period during which there is a union certified in respect of the bargaining unit to which the agency shop exists.
+(2) For the avoidance of doubt, nothing in this Chapter shall render void any existing agreement or scheme in respect of an agency shop which was entered into before the coming into operation of this Act, but where any such agreement or scheme contains a provision that is contrary to this section, section 63 or 64, that provision shall be void.
