@@ -1,0 +1,3 @@
+# Contracting out
+32 Any contract or agreement whether made before or after the commencement of this Act, whereby a worker relinquishes any right to compensation from an employer for injury arising out of and in the course of his employment, shall be null and void in so far as it purports to remove or reduce the liability of any person to pay compensation under this Act:
+Provided that a worker, who has obtained compensation in respect of permanent partial or permanent total incapacity, may enter into a contract reducing or giving up his right to compensation under this Act in respect of any further personal injury by accident if such contract is certified to be fair and reasonable by any duly authorized officer of the court.

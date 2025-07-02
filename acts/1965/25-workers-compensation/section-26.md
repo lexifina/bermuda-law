@@ -1,0 +1,9 @@
+# Authorization of insurers
+26 (1) Subject to the Bermuda Immigration and Protection Act 1956 [title 5 item 16], any person may apply to the Minister for authority to undertake insurance business, and in considering any such application the Minister shall have regard to the financial standing of the applicant, and for this purpose may require the production of such documents or financial statements as he may consider relevant.
+(2) In any case where the Minister is satisfied that the applicant is a fit and proper person, he may authorize the applicant to under take insurance business upon such terms and conditions as he may consider appropriate.
+(3) The Minister shall have the power at any time to require an insurer to produce any documents and answer any questions which may be relevant, and if at any time the Minister is satisfied that the insurer is no longer a fit and proper person to undertake insurance business he may revoke the authority granted to him:
+Provided that such revocation shall not affect the liability of the insurer in respect of any policy of insurance in force at the time of such revocation.
+(4) Any person who undertakes insurance business, except under the authority of the Minister, commits an offence against this Act:
+Punishment on conviction on indictment: imprisonment for 2 years or a fine of $7,200 or both such imprisonment and fine.
+(5) For the purposes of this section, “insurance business” means the insurance of any employer in respect of any liability which he may incur under this Act to any worker employed by him.
+(6) Any person aggrieved by a decision of the Minister under this section may, within fourteen days of the notification to him of his decision, appeal to the Governor against that decision and on such appeal the Governor shall have all the powers exercisable by the Minister under this section.

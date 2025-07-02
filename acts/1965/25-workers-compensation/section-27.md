@@ -1,0 +1,3 @@
+# Examining Physicians
+27 (1) The Governor may, after consulting the Bermuda Branch of the British Medical Association, appoint such medical practitioners as he may determine, to be examining physicians for the purposes of sections 28 and 29 and the remuneration of, and other expenses incurred by, examining physicians under this shall be paid at such rates as the Minister, may, from time to time, determine.
+(2) Where an examining physician has been employed as a medical practitioner in connection with any case by or on behalf of an employer or worker or by any insurer’s interest, he shall not act as examining physician in that case.

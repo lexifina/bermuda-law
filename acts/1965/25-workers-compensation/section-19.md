@@ -1,0 +1,2 @@
+# General powers of court
+19 Save as is provided in this Act and any rules made thereunder, the court shall, upon or in connection with any question to be investigated or determined thereunder, have all the powers and jurisdiction exercisable by such court in or in connection with civil actions and the law, rules and practice relating to such civil actions and to the enforcement of judgments and orders of the court shall mutatis mutandis apply.
