@@ -1,0 +1,4 @@
+# Minister may approve lease of land required for approved scheme
+6 (1) Any undertaking which is a corporation may, with the prior written consent of the Minister of Finance, hold or acquire any land developed or to be developed in accordance with an approved scheme by way of lease or tenancy agreement for a term not exceeding ninety-nine years.
+(2) Subsection (1) does not apply in relation to the holding or acquisition of land consisting only of one or more residential valuation units in an approved EEZ residential scheme or an approved Hamilton residential scheme by a local company or an exempted company under sections 120 and 129 of the Companies Act 1981 respectively.
+[Section 6 substituted by 2007:16 s.22 & Sch effective 22 June 2007; amended by 2013 : 38 s. 4 effective 17 December 2013; Section 6 amended by 2019 : 38 s. 5 effective 1 November 2019; Section 6 subsection (2) amended by 2024 : 6 s. 7 effective 1 April 2024]

@@ -1,0 +1,2 @@
+# Evidence
+8 In all proceedings a certificate purporting to be under the hand of the Secretary to the Cabinet to the effect that a direction has been given under this Act, or revoked, and setting out the terms of the direction or revocation, and the date thereof, shall be receivable in evidence and shall be prima facie evidence of the fact that such direction has been so given, or revoked, and the terms of the direction or revocation, as the case may be, and the date thereof.
