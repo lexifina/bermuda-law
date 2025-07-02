@@ -1,0 +1,2 @@
+# Form 12
+7 The Registrar shall keep a book, to be called the “Application Record Book”, which shall be in the form and contain the particulars set out in Form 12 in the First Schedule.

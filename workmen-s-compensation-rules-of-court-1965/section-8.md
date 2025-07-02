@@ -1,0 +1,3 @@
+# Quarterly returns
+8 The Registrar shall, within two weeks after the end of March, June, September and December in each year, furnish to the Director of Labour, for the information of the Minister, a return of all determinations made by the Court during the preceding three months, and shall state in such return the nature of each application, the names of the applicant and the respondent, and the order made.
+[Rule 8 amended by 2010 : 36 s.3(h) effective 16 July 2010; amended by BR 40 / 2013 para. 2 effective 3 May 2013; amended by BR 115 / 2017 para. 7 effective 7 December 2017; Rule 8 amended by 2025 : 4 s. 5 effective 23 June 2025]

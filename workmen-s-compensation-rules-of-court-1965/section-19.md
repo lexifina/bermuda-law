@@ -1,0 +1,3 @@
+# Payment into court
+19 (1) A respondent from whom compensation is claimed may at any time upon notice to the applicant pay into court a sum which is considered by him to be sufficient to cover his liability.
+(2) If no greater compensation be awarded than the sum of money which the respondent has paid into court, the court may order that any costs incurred by such respondent, after payment by him into court of the said sum of money, shall be paid by the applicant.

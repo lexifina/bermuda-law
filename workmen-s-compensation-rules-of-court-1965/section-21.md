@@ -1,0 +1,2 @@
+# Appearance of contractor; default
+21 If any person served with a notice as a contractor desires to dispute the applicant’s claim or his own liability to the principal, he shall appear before the court; and in default of his so doing he shall be deemed to admit both the validity of any order made against the principal whether such order is made by consent or otherwise, and his own liability to indemnify the principal to the extent claimed in the notice served on him by the principal.
