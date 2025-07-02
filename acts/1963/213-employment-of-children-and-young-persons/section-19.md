@@ -1,0 +1,3 @@
+# Register must be kept on premises or vessel
+19 (1) The employer of any young person or the master of any vessel on board of which a young person is employed shall cause to be kept in or on the premises of the industrial undertaking or on the vessel, as the case may be, in which such young person is employed, a register in such form and containing such particulars as may be prescribed.
+(2) Any register required under this section shall at all times be open to inspection by any authorized officer or in the case of any register required to be kept on a vessel by any authorized officer or any registered medical practitioner.
