@@ -1,0 +1,2 @@
+# Revocation of well-digger’s licence
+24 The Authority may at any time by order revoke a well-digger’s licence on the grounds that the holder thereof has contravened any provision of this Act with which it was his duty to comply, but before exercising their powers under this section the Authority shall give such holder an opportunity of making such representations in regard to such revocation as the holder may think fit.

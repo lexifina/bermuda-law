@@ -1,0 +1,6 @@
+# Service of documents
+41 (1) Any notice, form or other document required or authorized by this Act to be served or given by the Authority or by the Minister shall be deemed to have been duly served or given—
+(a) if delivered personally to, or if left at the last known place of abode or business of the person, on or to whom the certificate, notice, form or document is to be served or given; or
+(b) if sent by prepaid letter post, addressed to the person, on or to whom the certificate, notice, form or document is to be served or given at his last known place of business or abode in or out of Bermuda.
+(2) Service of a certificate, notice, form or document by post in accordance with subsection (1) shall prima facie be deemed to have been effected at the time when it would be delivered in the ordinary course of post.
+(3) Where the notice or other document is required to be served on or given to a person having an interest in or being the person entitled to possession of any land that notice shall be deemed to be duly served on all persons having interests in, and on any person entitled to the possession of the land (other than a person who has furnished an address for the service of notice on him) if it is addressed to him by the description of “the occupier” of the land (describing it) and is affixed conspicuously to some object on that land.
