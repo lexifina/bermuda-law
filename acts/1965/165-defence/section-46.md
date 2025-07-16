@@ -1,0 +1,8 @@
+# Duty of employer
+46 (1) Where a member of the regiment (not being a person to whom section 47 applies) is in the regular employment of another person and is required by virtue of Part II to undergo military training, or being an officer is required in the course of his duty as such to undergo military training, then his employer shall allow him to undergo military training and—
+(a) his employer shall ensure that any leave or holiday to which he would ordinarily be entitled or for which he would ordinarily be eligible shall not be prejudiced or restricted by reason of his undergoing military training; and
+(b) his employer shall ensure that any promotion, privilege or advantage in connection with his employment to which he would ordinarily be entitled or for which he would ordinarily be eligible shall not be prejudiced by reason of his undergoing military training.
+(2) Any person who, being an employer of any other person, contravenes any of the provisions of subsection (1), commits an offence:
+Punishment on summary conviction: a fine equal to 28 days' pay; and where a person is convicted of an offence under this section, the court by which he is convicted may make such order giving effect to any provision of subsection (1) as the court thinks just.
+(3) This section and section 47 apply in respect of a member of the regiment, including any volunteer, at any time during the period of his enlistment when the regiment is embodied or he is otherwise called-up for service in the regiment, and such service shall be deemed to be for the purpose of undergoing military training.
+[Section 46 amended by 1998:31 effective 13 July 1998; Section 46 amended by 2015 : 48 s. 23 effective 1 November 2017]
