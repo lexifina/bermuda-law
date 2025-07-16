@@ -1,0 +1,5 @@
+# Equipment to be returned on discharge
+48 (1) Where a person (being a man of the regiment) is discharged, or (being an officer) relinquishes his commission or is dismissed, it shall be his duty to deliver up in good order (fair wear and tear only excepted) all arms, clothing and equipment, being public property, issued to him or in his charge, or, in any case where the delivery of the property as aforesaid is impossible, it shall be his duty to pay into the Consolidated Fund the value thereof.
+(2) Any person who fails to comply with any of the foregoing provisions of this section commits an offence:
+Punishment on summary conviction: imprisonment for one month or a fine equal to 7 days' pay or both such imprisonment and fine; and where a person is convicted of an offence under this section, the court by which he is convicted may make an order providing for the payment of compensation by the person convicted; and any such order may be enforced as if it were an order made by the court in a civil cause or action.
+[Section 48 amended by 2015 : 48 s. 23 effective 1 November 2017]

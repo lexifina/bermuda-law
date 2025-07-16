@@ -1,0 +1,3 @@
+# Command and administration of coast guard unit persons by the Commanding Officer
+5E While lawfully appointed to serve in the coast guard unit, a coast guard unit person shall remain under the command of the Commanding Officer, who, subject only to such general directions of policy with respect to the maintenance of public safety and public order as the Governor may give him, shall determine the use and control of any coast guard unit person, and shall be responsible, subject to such directions as the Governor may give him, for the administration and command of any coast guard unit person.
+[Section 5E inserted by 2018 : 57 s. 2 effective 1 February 2021]
