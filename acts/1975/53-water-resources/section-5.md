@@ -1,0 +1,3 @@
+# Exceptions from general restrictions
+5 (1) The restrictions imposed by section 4(1) do not apply to the doing of anything for fire-fighting purposes or for the purpose of testing apparatus used for those purposes or of training or practice in the use of such apparatus.
+(2) The restrictions imposed by section 4 do not apply to the abstraction of water if it is for the purpose of ascertaining the presence of water in any underground strata or the quality or quantity of any such water if such abstraction is carried out with the written consent of the Minister and in compliance with any conditions imposed by the Minister.

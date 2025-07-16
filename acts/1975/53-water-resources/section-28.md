@@ -1,0 +1,3 @@
+# Power to require repair etc
+28 If in the opinion of the Minister any works are so constructed, maintained or used or are being so constructed, as to constitute a danger to life, health, the environment or property, he may require any person for the time being enjoying the benefit of those works to carry out such repairs or to effect such additions or modifications to such works or to carry out such demolitions or to change the use of the works in such manner as he may consider necessary and may by notice in writing suspend any water right until he is satisfied that such requirement has been fulfilled and, thereupon, the right shall cease for the period of the suspension.
+[Section 28 amended by 2024 : 25 s. 11 effective 10 July 2025]
