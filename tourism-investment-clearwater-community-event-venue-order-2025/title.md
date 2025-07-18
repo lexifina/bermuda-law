@@ -1,0 +1,6 @@
+BERMUDA
+TOURISM INVESTMENT (CLEARWATER COMMUNITY EVENT VENUE) ORDER 2025
+BR 61 / 2025
+WHEREAS Premier Tickets Limited has submitted an application dated 19 November 2024 for a tourism investment order under section 3 of the Tourism Investment Act 2017 in respect of the Clearwater Community Event Venue attraction;
+WHEREAS the Minister responsible for tourism, having considered the application, is satisfied that the Clearwater Community Event Venue is in the national economic interest of Bermuda;
+The Minister responsible for tourism, with the written agreement of the Minister of Finance, in exercise of the power conferred by section 5 of the Tourism Investment Act 2017, makes the following Order:
