@@ -1,0 +1,3 @@
+# Security
+6 (1) Any person giving notice under regulation 3 shall give to the Collector such security or further security within such time and in such manner, whether by bond or by deposit of a sum of money, as the Collector may require, in respect of any liability or expense which the Collector may incur in consequence of the notice by reason of the detention of any goods or anything done to goods so detained.
+(2) Without prejudice to the operation of regulation 5, if security or further security as may be required by the Collector under paragraph (1) is not given within the time specified by the Collector, the notice shall have no effect.
