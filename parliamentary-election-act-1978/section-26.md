@@ -1,0 +1,4 @@
+# Adaptation of register in consequence of altered constituency boundaries
+26 (1) Where consequent upon a review of the constituency boundaries an order is made by the Governor under section 54(6) of the Constitution altering the constituency boundaries, the Registrar shall upon the coming into force of the order adapt the parliamentary register to the alterations to the boundaries.
+(2) As soon as practicable after the coming into force of the order referred to in subsection (1), the Registrar shall publish, in the Gazette, notice that the order is in operation and that, in consequence, certain constituency boundaries have changed and that a revised parliamentary register for the general election is available for inspection at such places as are specified in the notice.
+[Section 26 amended by 1999:5 s.6 effective 24 March 1999; Section 26 repealed and substituted by 1999:15 s. 19 effective 11 May 1999; Section 26 amended by 2012 : 17 s. 7 effective 4 May 2012]

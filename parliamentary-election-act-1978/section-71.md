@@ -1,0 +1,3 @@
+# Disqualifications
+71 Any person who is convicted of any offence under sections 60, 61, 64, 65, 67, 68 and 69, or an offence under the Bribery Act 2016, shall, whether or not any other penalty is imposed, be disqualified, for a period of six years from the date of the conviction, from being registered as a voter or voting at any parliamentary election and shall be further disqualified from being elected as a member of the House of Assembly or of being appointed as a member of the Senate during the whole of such period.
+[Section 71 amended by 2016 : 47 s. 24(1) & Sch 2 effective 1 September 2017]

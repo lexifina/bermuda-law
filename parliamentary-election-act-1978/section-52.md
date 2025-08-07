@@ -1,0 +1,6 @@
+# Incapacitated voters
+52 (1) The Returning Officer, on the application of any parliamentary elector who is unable to read or so physically incapacitated as to be unable to vote in the manner prescribed by section 51 to assist him in voting, shall require the elector making the application to take an oath in the prescribed form of his incapacity to vote without assistance and shall thereafter assist the elector by marking his ballot paper in the manner directed by such elector and if he so requests in the presence of one other presiding officer and a friend, and shall place the ballot paper in the ballot box.
+(2) The Returning Officer, on the application of any parliamentary elector who is blind or so visually impaired as to be unable to vote in the manner prescribed by section 51 to assist him in voting, shall require the elector to take an oath in the prescribed form of his incapacity to vote without assistance and shall thereafter—
+(a) assist the elector by providing him with a tactile voting device approved by the Registrar to enable the elector to secretly mark his vote on the ballot paper; and
+(b) once so marked, without revealing the elector’s vote, place the ballot paper in the ballot box.
+[Section 52 amended by 2020 : 34 s. 7 effective 27 July 2020]

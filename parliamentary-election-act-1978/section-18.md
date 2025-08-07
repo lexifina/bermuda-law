@@ -1,0 +1,6 @@
+# Objections to omissions
+18 (1) Subject to this section, a person may deliver to the Registrar an objection that his name has been irregularly omitted from the parliamentary register or that the particulars relating to his name in such register are incomplete or inaccurate or both and if the Registrar, after (if possible) consultation with the two scrutineers appointed for the constituency concerned, is satisfied that the grounds of such objection are established, he shall rectify the parliamentary register.
+(2) An objection under subsection (1) shall be disregarded if delivered to the Registrar after the 15th July.
+(3) The Registrar shall not consider any objection made under this section unless the person objecting submits to him in writing a statement of the grounds of the objection and deposits with him the sum of five dollars.
+(4) When the Registrar finds that the grounds of an objection are established he shall refund the sum of five dollars to the person objecting but when he finds that the grounds of objection are not established he shall retain that sum and pay it into the Consolidated Fund.
+[Section 18 amended by 1999:5 s.5 effective 24 March 1999; and subsections (1) and (2) amended by 1999:15 s.14 effective 11 May 1999]

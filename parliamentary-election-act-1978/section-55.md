@@ -1,0 +1,4 @@
+# Arrest of voter for personation
+55 (1) If at any time a person applies for a ballot paper for the purpose of voting at a parliamentary election in a constituency, or after he has applied for a ballot paper for that purpose but before he has left the election room, a candidate or his election agent declares to the Returning Officer that he has reasonable cause to believe that that person has committed an offence of personation and undertakes to substantiate the charge in a court of law, the Returning Officer may order a police officer to arrest that person and the order of the Returning Officer shall be sufficient authority for the police officer to do so.
+(2) A person arrested in accordance with this section shall not by reason only thereof be prevented from voting.
+(3) A person arrested under subsection (1) shall be dealt with as a person taken into custody by a police officer without a warrant charged with an offence triable summarily.

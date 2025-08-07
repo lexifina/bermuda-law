@@ -1,0 +1,7 @@
+# Objections to registration
+17 (1) Subject to this section any person may deliver to the Registrar an objection to the registration of any other person in the parliamentary register and if the Registrar, after consultation whenever possible with the two scrutineers appointed for the constituency concerned, is satisfied that the grounds of such objection are established, then he shall remove the name of that person from the parliamentary register or shall alter or cancel the particulars to which the objection relates.
+(2) An objection under subsection (1) shall be disregarded if it is delivered to the Registrar after the 15th July.
+(3) The Registrar shall not consider an objection made under this section unless the person objecting submits to him in writing a statement of the grounds of the objection and deposits with him the sum of five dollars.
+(4) The Registrar shall not determine an objection made under this section unless and until he has given the person affected by the objection at least fourteen days notice thereof and an opportunity to reply thereto and, if such person so desires, an opportunity to be heard with respect thereto.
+(5) Where the Registrar finds that the grounds of an objection are established, he shall refund the sum of five dollars to the person objecting, but where he finds that such grounds are not established he shall pay that sum to the person affected by the objection.
+[Section 17 amended by 1999:5 s.4 effective 24 March 1999; and subsections (1) and (2) by 1999:15 s.13 effective 11 May 1999]
