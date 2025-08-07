@@ -1,0 +1,4 @@
+# Procedure in the event of a tie
+57 (1) Where it appears to the Returning Officer that as a result of an equality of votes cast between any of the candidates for election it is not possible to declare the election of a candidate as respects a vacancy failing to be filled at a parliamentary election in the constituency, then the Returning Officer shall report the circumstances of the casting of the equality of votes to the Deputy Governor forthwith.
+(2) In any case where a report under subsection (1) has been duly made, the parliamentary election in the constituency concerned shall be deemed to be void; and a bye-election shall ensue within the next succeeding period of two months to fill the vacancy not duly filled at such parliamentary election.
+[Section 57 subsection (1) substituted, and (2) amended, by 2003:11 s.12 effective 9 June 2003]

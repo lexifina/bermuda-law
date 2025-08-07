@@ -1,0 +1,9 @@
+# Application for registration
+10 (1) A person who is qualified to be registered as an elector for the purpose of a parliamentary election under section 3(1) shall as soon as practicable after qualifying apply in the prescribed form to the Registrar for registration in the parliamentary register.
+(2) Such application may be made on behalf of such person by a member of his household.
+(3) The Registrar on being satisfied that a person is so qualified shall register such person in the parliamentary register.
+(4) Notwithstanding subsection (1), where the Governor issues a writ of election pursuant to section 27, a person otherwise qualified to be registered as an elector after the issue of the writ if he will attain voting age on or before polling day is entitled to be registered in the parliamentary register; and his entry in the parliamentary register shall give the date on which he shall attain that age; and until the date given in the entry he shall not be entitled by virtue of the entry to be treated as an elector for any purpose other than the purpose of an election at which the date fixed for the poll is that or a later date.
+(5) Before registering any person as an elector, the Registrar may, if he thinks necessary, require such person to produce to him his birth certificate and such other documentary evidence relating to his entitlement to be registered.
+(6) Any person who knowingly makes a statement in an application form which is false in a material particular, or submits any document in support of the application which is false in a material particular or which has been altered without lawful authority is guilty of an offence and liable on summary conviction to 12 months imprisonment or a fine of $500 or to both.
+(7) For the purposes of subsection (4) “voting age” means the age of eighteen years.
+[Section 10 repealed and substituted by 1999:15 s.8 effective 11 May 1999]

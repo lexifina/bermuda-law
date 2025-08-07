@@ -1,0 +1,4 @@
+# General duties of Returning Officer as to taking of poll
+43 (1) The Returning Officer or a presiding officer appointed under section 29(3) shall be present at the election room throughout the taking of the poll and the counting of votes and shall conduct and have charge of the proceedings and it shall be his duty to keep good order in and about the election room during the proceedings.
+(2) If any person during a parliamentary election misconducts himself in or about the election room or fails to obey the lawful order of the Returning Officer, he may immediately by order of the Returning Officer be removed from the election room or the vicinity thereof by any police officer or other person authorized by the Returning Officer to remove him:
+Provided that the powers conferred by this subsection shall not be exercised so as to deprive any parliamentary elector who is entitled to vote at a parliamentary election of his opportunity so to vote.
