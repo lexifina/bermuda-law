@@ -1,0 +1,5 @@
+# Offences committed by partnerships and bodies corporate
+91 (1) Proceedings for an offence under this Act alleged to have been committed by a partnership shall be brought against the partnership in the name of the partnership and not in that of the partners, but without prejudice to any liability of the partners under subsection (3).
+(2) A fine imposed on a partnership on its conviction in such proceedings shall be paid out of the partnership assets.
+(3) Where an offence under this Act is committed by a partnership and is proved to have been committed with the consent or connivance of a partner, or a person purporting to act in any such capacity, the partner or person purporting to act as such as well as the partnership is guilty of the offence and may be proceeded against and punished accordingly.
+(4) Where an offence under this Act is committed by a body corporate and is proved to have been committed with the consent or connivance of an officer of the body corporate, or a person purporting to act in any such capacity, the officer as well as the body corporate is guilty of the offence and may be proceeded against and punished accordingly.

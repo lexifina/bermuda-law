@@ -1,0 +1,5 @@
+# Powers of the Collector of Customs and customs officers
+84 (1) Where information relating to infringing goods, material or articles has been obtained by the Collector of Customs for the purposes of, or in connection with, the exercise of his functions in relation to imported goods, he may disclose or authorise the disclosure of that information to any competent authority for the purpose of facilitating any investigation or prosecution of an offence under section 86 (offences for unauthorised use of trade mark, etc.).
+(2) For the purposes of enforcement of section 83 and any regulations made under section 92, the Collector of Customs or any customs officer shall have the same powers as they have under the Revenue Act 1898.
+(3) The same powers and immunities that are afforded to members of the Customs Department, by way of section 5 of the Customs Department Act 1952, shall also be afforded to the Collector of Customs or to a customs officer under this Act.
+(4) For greater certainty, goods referred to in sections 83 and 92 are included in the definition of “goods” in section 2 of the Revenue Act 1898.

@@ -1,0 +1,3 @@
+# Privilege for communications with attorney registered as trade mark agents
+71 (1) This section applies to communications as to any matter relating to the protection of any design or trade mark, or as to any matter involving passing off.
+(2) Nothing in this Act shall require the disclosure or production by a registered trade mark agent who is also an attorney of any communication in relation to a matter mentioned in subsection (1) which he would be entitled to refuse to disclose or produce on the grounds of legal professional privilege in proceedings in Bermuda if such person had at all times been acting as the person’s attorney.
