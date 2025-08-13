@@ -1,0 +1,3 @@
+# Decision of Registrar to be taken after hearing
+63 (1) Without prejudice to any provisions of the Act or these Regulations requiring the Registrar to hear or give an opportunity to be heard to any party to proceedings under the Act or these Regulations, the Registrar shall, before taking any decision on any matter under the Act or these Regulations which is or may be adverse to any party to any proceedings, give that party an opportunity to be heard.
+(2) The Registrar shall give a party mentioned in paragraph (1) at least 14 days’ notice, beginning on the notification date, of the time when the party may be heard unless the party consents to shorter notice.

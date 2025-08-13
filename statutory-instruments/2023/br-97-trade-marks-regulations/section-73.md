@@ -1,0 +1,3 @@
+# Electronic communications by Registrar
+73 (1) The Registrar may, at his election, deliver any notice or other written document required to be sent by the Registrar under the Act or these Regulations, by transmitting an electronic communication containing the notice or document to an address provided or made available to the Registrar by the recipient as an address for the receipt of electronic communications; and
+(2) Unless otherwise proven, delivery of an electronic communication in accordance with paragraph (1) is deemed to be effected immediately upon the transmission of the communication to the address so provided or made available by the recipient.
