@@ -1,0 +1,4 @@
+# Rates where patient readmitted with related diagnosis
+4 Where a resident referred to in regulation 2 or a non-resident referred to in regulation 3 is readmitted to the general hospital within three days after discharge and is assigned by the attending physician to a Diagnosis Related Group closely related to the one to which he was assigned before discharge, the fees payable to the Board are calculated as provided in regulation 2 or 3, whichever is applicable, as if—
+(a) the length of stay at the hospital for the admission and readmission were one continuous period, not counting the days between discharge and readmission; and
+(b) the Diagnosis Related Group to which the patient is assigned were the one determined by the attending physician after readmission to be the most appropriate to apply to the entire period referred to in subparagraph (a).

@@ -1,0 +1,5 @@
+# Rates for in-patient treatment of non-residents in the general hospital
+3 In the case of any person who is not ordinarily resident in Bermuda or who is deemed not to be so resident for the purposes of the Health Insurance Act 1970 (in these Regulations referred to as a “non-resident”), the fees payable to the Board for in-patient treatment at the general hospital—
+(a) in respect of any admission to the hospital with a length of stay of 15 days or less, are equal to the amount in Schedule 1 opposite the Diagnosis Related Group to which the patient has been assigned by the attending physician plus a 200% surcharge based on that amount; or
+(b) in respect of any admission to the hospital with a length of stay of greater than 15 days, are equal to the amount referred to in subparagraph (a) plus the product obtained by multiplying the number of days of stay at the hospital greater than 15 days by the per diem rate listed in Part B of Schedule 2.
+[Regulation 3 paragraph (a) amended by BR 9 / 2024 reg. 2 effective 16 February 2024]
