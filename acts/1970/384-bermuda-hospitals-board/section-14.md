@@ -1,0 +1,3 @@
+# Board to meet expenses out of revenue
+14 So far as is practicable, the Board shall perform its functions, including the administration of the hospitals, and shall levy rents, fees and other charges for hospital services in a manner that, together with such funds as may be appropriated by the Legislature for the purposes of this Act, will result in the revenue of the Board being sufficient, taking one year with another, to meet the expenditure and liabilities of the Board, including allocations to reserve for replacement of plant and provision for depreciation of assets.
+[Section 14 amended by 1997:10 effective 27 March 1997; by 2008:33 s.5 effective 30 July 2008]
