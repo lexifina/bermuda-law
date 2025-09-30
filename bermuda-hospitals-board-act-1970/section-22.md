@@ -1,0 +1,3 @@
+# Inspection of hospital premises
+22 At the request of the Minister, the Permanent Secretary, Department of Works and Engineering, or any officer of that Department authorized by him in that behalf, may, at all reasonable times and upon reasonable notice being given to the Board, enter into and inspect all premises within the control and management of the Board, and the Permanent Secretary, Department of Works and Engineering shall report to the Minister upon the state of such premises and the Minister shall forward a copy of each such report to the Board.
+[Section 22 amended by 1991:85 effective 15 July 1991]
