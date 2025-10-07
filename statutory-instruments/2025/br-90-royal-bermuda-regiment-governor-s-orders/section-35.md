@@ -1,0 +1,6 @@
+# Normal rules for termination of service of specialist officer
+35 (1) The service of a specialist officer terminates on their reaching the age of sixty years.
+(2) Notwithstanding paragraph (1) and provided the specialist officer has not reached the age of sixty-five years, the specialist officer may make a written request to the Governor through the Commanding Officer that his service continue beyond the age of sixty years.
+(3) Where a request has been made under paragraph (2) and the Commanding Officer considers that it is in the interest of the Regiment that the service of the specialist officer should continue beyond the age of sixty years, then the Commanding Officer shall make a recommendation to the Governor that the service of the specialist officer be extended for up to five years but not beyond the age of sixty-five years.
+(4) The Governor shall determine the matter as he sees fit and notify the Commanding Officer of his decision.
+(5) Notwithstanding the foregoing paragraphs, the Commanding Officer may at any time recommend to the Governor, and the Governor may then determine, that a specialist officer who is not a member of the Regiment’s permanent staff shall resign their commission or retire, whether or not the specialist officer has reached the age of sixty years.
