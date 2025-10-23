@@ -1,0 +1,5 @@
+# Amount to be recovered
+15 (1) Subject to subsection (3), the amount to be recovered under a confiscation order shall be the amount the court assesses to be the value of the defendant’s proceeds of criminal conduct.
+(2) If the court is satisfied as to any matter relevant for determining the amount that might be realised at the time the confiscation order is made (whether by reason of the acceptance of an allegation made in a statement given under section 13 or made in the giving of information under section 14 or otherwise), the court may issue a certificate giving its opinion as to the matters concerned and shall do so if satisfied as mentioned in subsection (3).
+(3) If the court is satisfied that the amount that might be realised at the time that the confiscation order is made is less than the amount the court assesses to be the value of the defendant’s proceeds of criminal conduct, the amount to be recovered under the confiscation order shall be the amount appearing to the court to be the amount that might be so realised.
+[Section 15 subsections (1) and (3) deleted and substituted by 2015 : 53 s. 5 effective 1 January 2016]

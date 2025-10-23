@@ -1,0 +1,12 @@
+# Revised assessment of proceeds of criminal conduct
+18 (1) This section applies where the court has made a determination of the amount to be recovered under a confiscation order (“the current determination”).
+(2) Where the Director of Public Prosecutions is of the opinion that the real value of the defendant’s proceeds of criminal conduct was greater than their assessed value, he may apply to the court for the evidence on which he has formed his opinion to be considered by the court.
+(3) If, having considered the evidence, the court is satisfied that the real value of the defendant’s proceeds of criminal conduct is greater than their assessed value (whether because the real value at the time of the current determination was higher than was thought or because the value of the proceeds or benefit in question has subsequently increased), the court shall make a fresh determination of the amount to be recovered under a confiscation order.
+(4) In this section—
+“assessed value” means the value of the defendant’s proceeds of criminal conduct as assessed by the court in accordance with section 15(1) of this Act; and
+“real value” means the value of the defendant’s proceeds of criminal conduct which took place in the period by reference to which the current determination was made or in any earlier period.
+(5) Any determination by virtue of this section shall be by reference to the amount that might be realised at the time when the determination is made.
+(6) For the avoidance of doubt, section 12(6) shall not apply in relation to any of the defendant’s proceeds of criminal conduct taken into account in respect of the current determination.
+(7) If, as a result of making the fresh determination required by subsection (3), the amount to be recovered exceeds the amount set by the current determination, the court may substitute for the amount to be recovered under the confiscation order such greater amount as it thinks just in all the circumstances of the case.
+(8) Where the court varies a confiscation order by virtue of this section it shall substitute for the term of imprisonment in default fixed under section 25(1) in respect of the amount to be recovered under the order such longer term as may be determined in accordance with that section in respect of the greater amount to be recovered under the order as varied.
+[section 18 amended by 2007:25 s.20 effective 15 November 2008; subsections (2), (3) and (4) deleted and substituted and subsection (6) amended by 2015 : 53 s. 7 effective 1 January 2016]

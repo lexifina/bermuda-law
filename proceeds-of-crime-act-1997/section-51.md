@@ -1,0 +1,7 @@
+# Forfeiture orders and appeals
+51 (1) A court of summary jurisdiction may make an order (a “forfeiture order”) ordering the forfeiture of any property which has been seized under section 50 if satisfied, on an application made by a police officer while the property is detained under that section, that the property directly or indirectly represents any person’s proceeds of, or benefit from, or is intended by any person for use in, criminal conduct.
+(2) An order may be made under subsection (1) whether or not proceedings are brought against any person for an offence with which the property in question is connected.
+(3) Any party to the proceedings in which a forfeiture order is made (other than the applicant) may, before the end of the period of thirty days beginning with the date on which it is made, appeal to the Supreme Court.
+(4) On an application made by an appellant to a court of summary jurisdiction at any time, that court may order the release of so much of any cash to which the forfeiture order relates as it considers appropriate to enable him to meet his legal expenses in connection with the appeal.
+(5) An appeal under this section shall be by way of rehearing, and the Supreme Court may make such order as it considers appropriate and, in particular, may order the release of the property (or, in the case of cash, any remaining cash) together with any accrued interest in the case of cash.
+[Section 51 amended by 2012 : 19 s. 4 effective 6 July 2012]

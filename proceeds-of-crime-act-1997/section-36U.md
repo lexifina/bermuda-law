@@ -1,0 +1,8 @@
+# Restriction on proceedings and remedies
+36U (1) While an interim receiving order has effect—
+(a) the court may stay any action, execution or other legal process in respect of the property to which the order applies;
+(b) no distress may be levied against the property to which the order applies except with the leave of the court and subject to any terms the court may impose.
+(2) If a court (whether the Supreme Court or any other court) in which proceedings are pending in respect of any property is satisfied that an interim receiving order has been applied for or made in respect of the property, the court may either stay the proceedings or allow them to continue on any terms it thinks fit.
+(3) If the interim receiving order applies to a tenancy of any premises, no landlord or other person to whom rent is payable may exercise any right of forfeiture by peaceable re-entry in relation to the premises in respect of any failure by the tenant to comply with any term or condition of the tenancy, except with the leave of the court and subject to any terms the court may impose.
+(4) Before exercising any power conferred by this section, the court shall (as well as giving the parties to any of the proceedings in question an opportunity to be heard) give such an opportunity to the interim receiver (if appointed) and any person who may be affected by the court ’s decision.
+[Section 36U inserted by 2013 : 40 s. 6 effective 1 November 2013]
