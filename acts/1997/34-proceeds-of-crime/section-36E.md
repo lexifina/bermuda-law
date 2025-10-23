@@ -1,0 +1,9 @@
+# Obtaining and disposing of property
+36E (1) References to a person disposing of his property include a reference—
+(a) to his disposing of a part of it; or
+(b) to his granting an interest in it,
+(or to both); and references to the property disposed of are to any property obtained on the disposal.
+(2) A person who makes a payment to another is to be treated as making a disposal of his property to the other, whatever form the payment takes.
+(3) Where a person's property passes to another under a will or intestacy or by operation of law, it is to be treated as disposed of by him to the other.
+(4) A person is only to be treated as having obtained his property for value in a case where he gave unexecuted consideration if the consideration has become executed consideration.
+[Section 36E inserted by 2013 : 40 s. 6 effective 1 November 2013]

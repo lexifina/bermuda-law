@@ -1,0 +1,7 @@
+# Duty of confidentiality
+58 (1) Except as provided in this section, no person who under or for the purposes of this Act receives information from any person shall disclose it without the consent of the person to whom it relates (and if different) the person from whom it was received as aforesaid..
+(2) This section does not apply to information which at the time of the disclosure is or has already been made available to the public from other sources, or to information in the form of a summary or collection of information so framed as not to enable information relating to any particular person to be ascertained from it.
+(3) A person who contravenes subsection (1) shall be guilty of an offence and liable on summary conviction to a fine of $50,000 or to imprisonment for two years or to both.
+(4) Subsection (1) does not preclude the disclosure of information in any case in which disclosure is for the purpose of enabling or assisting the Bermuda police service or the FIA to discharge their functions under any statutory provision.
+(5) Subsection (1) does not preclude the disclosure of information to the Minister of Finance or to the Bermuda Monetary Authority in any case in which the disclosure is for the purpose of enabling or assisting the Minister of Finance or the Authority to discharge their functions under any statutory provisions.
+[section 58 repealed and replaced by 2007:25 s.17 effective 15 November 2008]
