@@ -1,0 +1,12 @@
+# Warrant to obtain samples of blood, urine or other bodily substance for alcohol analysis
+35E (1) Where a Justice of the Peace is satisfied on an information on oath that there are reasonable grounds to believe that—
+(a) within the preceding twelve hours, a person has committed an offence under section 35, 35AA or 35A and the person was involved in an accident resulting in the death of another person or in grievous bodily harm to himself or any other person; or
+(b) within the preceding twelve hours, a person was driving or attempting to drive any such vehicle as is mentioned in section 35C(3) at the time of any such accident as is described in that section; or
+(c) within the preceding twelve hours, a person had the care or control of any such vehicle at such time; and
+(d) a qualified medical practitioner is of the opinion that—
+(i) by reason of any physical or mental condition of the person that resulted from the consumption of alcohol or the ingestion of any drug, including a dangerous drug, from the accident or from any other occurrence related to or resulting from the accident, the person is unable to consent to the taking of samples of his blood, urine or other bodily substance;
+(ii) the taking of the samples of blood, urine or other bodily substance from the person would not endanger the life or health of the person,
+the Justice of the Peace may issue a warrant authorising a police officer to require a qualified medical practitioner to take, or to cause to be taken by a qualified technician under the direction of the qualified medical practitioner, such samples of the blood, urine or other bodily substance of the person as in the opinion of the person taking the samples are necessary to enable a proper analysis to be made in order to determine the proportion, if any, of alcohol in the blood of the person from whom the samples are taken.
+(2) Samples of blood, urine or other bodily substance may be taken from a person pursuant to a warrant issued under subsection (1) only during such time as a qualified medical practitioner is satisfied that the conditions referred to in subparagraph (1)(d)(i) and (ii) continue to exist in respect of that person.
+(3) When a warrant issued under subsection (1) is executed, the police officer shall, as soon as practicable thereafter, give a copy of the warrant to the person from whom the samples of blood, urine or other bodily substance were taken.
+[Section 35E subsection (1)(a) amended by 2012 : 18 s. 16 effective 5 October 2012]

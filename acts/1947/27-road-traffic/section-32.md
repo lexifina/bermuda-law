@@ -1,0 +1,3 @@
+# Police officer may require owner to give information
+32 (1) Where a police officer has reason to suspect that an offence in connection with the driving of a vehicle has been committed, he or any other police officer may require the owner of the vehicle to give all information in his possession as to the name, address, description, and whereabouts of the driver and the occupants of the vehicle at the time of the alleged offence and also any information in his possession which may lead to the apprehension or identification of the offender.
+(2) Any person who refuses or fails to comply with any such requirements duly made as aforesaid commits an offence against this Act.

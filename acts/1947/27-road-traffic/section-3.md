@@ -1,0 +1,3 @@
+# Directions to Municipalities
+3 Where a Municipality exercises any power conferred upon it by this Act or omits to exercise any such power, and the Minister responsible for works and engineering is satisfied that the exercise of the power or the manner in which the power is exercised or the omission to exercise the power results or is likely to result in the causing of danger or grave inconvenience to the public, the Minister responsible for works and engineering may give to the Municipality such general or special directions as may seem to him proper in the circumstances, and the Municipality shall comply with any such directions.
+[Section 3 amended by 2012 : 18 s. 18 effective 5 October 2012]
