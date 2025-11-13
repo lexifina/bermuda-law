@@ -1,0 +1,3 @@
+# Power of police officer in case of defective equipment
+31 (1) Without prejudice to anything in the Motor Car Act 1951 [title 21 item 4], if a police officer has reasonable cause to believe that any equipment or any part thereof belonging to a vehicle which is being used on a road is unfit for the purpose for which it is being used, he may order the driver to stop the vehicle and may inspect the equipment or part of the vehicle, and if the equipment or part is not in good working order he may order the driver to put it in good working order forthwith.
+(2) Any person who fails to comply with an order given as aforesaid commits an offence against this Act.

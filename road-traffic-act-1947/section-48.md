@@ -1,0 +1,3 @@
+# Traffic Code
+48 (1) The Traffic Code containing directions for the guidance of persons using roads and set forth in the Schedule shall be printed, and sold to the public.
+(2) A failure on the part of any person to observe any provision of the Traffic Code shall not of itself render that person liable to criminal proceedings of any kind (unless such failure is specifically constituted an offence by any provision of this Act) but any failure to observe the provisions of the Traffic Code may in any proceedings, whether civil or criminal and including proceedings for an offence under this Act, be relied on by any party to the proceedings as tending to establish or negative any liability which is in question in those proceedings.

@@ -1,0 +1,2 @@
+# Prosecution and punishment of offences
+45 A person who commits an offence against this Act shall be liable to prosecution in the manner specified in Schedule 1 to the Traffic Offences (Penalties) Act 1976 [title 21 item 13] and be liable in respect of each such offence to the punishment specified in that Schedule or, in the event that no punishment is therein specified, shall be liable on summary conviction to a fine of $2,100.
