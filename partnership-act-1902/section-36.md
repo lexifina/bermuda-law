@@ -1,0 +1,5 @@
+# Rights of persons dealing with firm against apparent members of firm
+36 (1) Where a person deals with a firm after a change in its constitution he is entitled to treat all apparent members of the the firm as it was constituted before the change as still being members of the firm until he has notice of the change.
+(2) An advertisement in the Gazette shall be notice as to persons who had not dealings with the firm before the date of the dissolution or change so advertised.
+(3) The estate of a partner who dies, or who becomes bankrupt, or of a partner who, not having been known to the person dealing with the firm to be a partner, retires from the firm, is not liable for partnership debts contracted after the date of the death, bankruptcy, or retirement respectively.
+[Section 36 subsection (1) amended by 2006:19 s.7 effective 8 September 2006]

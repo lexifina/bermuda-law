@@ -1,0 +1,2 @@
+# Duty of partner not to compete with firm
+30 If a partner, without the consent of the other partners, carries on any business of the same nature as and competing with that of the firm, he must account for and pay over to the firm all profits made by him in that business.

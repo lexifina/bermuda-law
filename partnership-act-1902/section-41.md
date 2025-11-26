@@ -1,0 +1,5 @@
+# Right where partnership dissolved for fraud or misrepresentation
+41 Where a partnership contract is rescinded on the ground of the fraud, or misrepresentation of one of the parties thereto, the party entitled to rescind is, without prejudice to any other right,—
+(a) entitled to a lien on, or right of retention of, the surplus of the partnership assets, after satisfying the partnership liabilities, for any sum of money paid by him for the purchase of a share in the partnership and for any capital contributed by him; and
+(b) entitled to stand in the place of the creditors of the firm for any payments made by him in respect of the partnership liabilities; and
+(c) entitled to be indemnified by the person guilty of the fraud or making the representation against all the debts and liabilities of the firm.

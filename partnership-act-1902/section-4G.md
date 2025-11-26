@@ -1,0 +1,4 @@
+# Amendment of register
+4G (1) Where a charge registered under section 4F is amended by adding or removing one or more persons entitled to the charge or where the interest of one or more persons entitled to the charge is assigned or transferred, any person, including the partnership, interested in the charge may apply to have such amendment, assignment or transfer registered, and the Registrar shall register the amendment, assignment or transfer in such form as may be prescribed.
+(2) The registration of an amendment or an assignment or transfer of an interest in a registered charge under subsection (1) shall not affect the priority of the charge, and the charge shall continue to have priority based on the date that it was registered and not the date that any document effecting the amendment, assignment or transfer was executed or that the amendment, assignment or transfer was registered.
+[Section 4G inserted by 2015 : 21 s. 5 effective 28 December 2015]

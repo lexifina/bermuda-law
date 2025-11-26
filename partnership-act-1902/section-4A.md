@@ -1,0 +1,13 @@
+# Election to have legal personality
+4A (1) A partnership shall have legal personality if the partnership so elects in accordance with the provisions of this section and files a declaration to that effect with the Registrar of Companies.
+(2) Subject to subsection (4), where the partnership wishes to elect that a partnership shall have legal personality, it shall file with the Registrar of Companies a declaration signed by the partnership, stating that the partnership shall have legal personality.
+(3) Where the partnership which wishes to make an election is a limited partnership or an exempted partnership, the declaration referred to in subsection (2) shall be specified in the certificate of limited partnership issued under the Limited Partnership Act 1883 or the certificate of exempted partnership issued under the Exempted Partnerships Act 1992, provided that if a partnership is both a limited and an exempted partnership, then the declaration is only required to be made in the certificate of exempted partnership.
+(3A) Where the partnership which wishes to make an election—
+(a) is an exempted company that has applied under section 132N of the Companies Act 1981 for conversion from an exempted company to a partnership that is exempted and limited;
+(b) is a foreign partnership that has applied under section 13A of the Exempted Partnerships Act 1992 or section 25 of the Limited Partnership Act 1883 to continue into Bermuda from any jurisdiction as a partnership that is exempted and limited;
+(c) is a limited liability company that has applied under section 102 of the Limited Liability Company Act 2016 for conversion from a limited liability company to a partnership that is exempted and limited,
+the declaration referred to in subsection (2) is only required to be made in the certificate of exempted partnership.
+(4) [repealed]
+(5) Where a partnership elects, in accordance with this section, that the partnership shall have legal personality, the partnership shall have legal personality and the Registrar of Companies shall enter that fact in a register to be maintained by him in respect of partnerships making such election and shall issue to the partnership a certificate of registration which shall state that the partnership has legal personality.
+(6) An election made under subsection (2), that a partnership shall have legal personality shall be irrevocable.
+[Section 4A inserted by 2006:19 s.2 effective 8 September 2006; subsection (3A) inserted by 2015 : 21 s. 3 effective 28 December 2015; subsections (3A) and (6) amended and subsection (4) repealed by 2016 : 25 s. 4 effective 22 June 2016; subsection (3A) amended by 2016 : 40 s. 258 effective 1 October 2016]
