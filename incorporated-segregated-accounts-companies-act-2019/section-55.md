@@ -1,0 +1,3 @@
+# Costs of winding up; remuneration of liquidator
+55 (1) All costs, charges and expenses properly incurred in the winding up, including the remuneration of a liquidator and any costs, charges and expenses properly incurred by him in the winding up shall be payable in priority to all other claims from the assets of the ISAC or the incorporated segregated account, as the case may be, but not from the assets of other incorporated segregated accounts not subject to the winding up order.
+(2) The remuneration to be paid to the liquidator shall be apportioned by the liquidator to each incorporated segregated account in such amounts as would best reflect the duties performed by the liquidator and approved by the Court.

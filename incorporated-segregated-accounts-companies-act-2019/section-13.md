@@ -1,0 +1,3 @@
+# Certificate of registration
+13 (1) After registering a company as an ISAC under section 5, or registering an incorporated segregated account under section 10, the Registrar shall issue a certificate of registration showing the name of the ISAC and the name of each incorporated segregated account, and the date of registration of the ISAC or of each incorporated segregated account, as the case may be.
+(2) The Registrar shall place a copy of the certificate of registration referred to herein on the public file maintained by him in respect of the ISAC or its incorporated segregated accounts, as the case may be.

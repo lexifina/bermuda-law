@@ -1,0 +1,9 @@
+# Financial statements
+24 (1) An ISAC shall prepare or cause to be prepared financial statements in relation to the ISAC and each of its incorporated segregated accounts.
+(2) The provisions of sections 84, 88 and 90 of the Companies Act 1981 shall apply, with the necessary modifications, to the preparation of financial statements under this section, and any reference in those provisions to “member” shall be construed as a reference to the account owner of an incorporated segregated account.
+(3) Subject to section 25, the account owner of an incorporated segregated account may, for the purposes of section 88(1) of the Companies Act 1981, agree in writing to waive his right to have laid before a general meeting financial statements or the auditor’s report thereon for an indefinite period but such waiver shall be expressed to be revocable at the option of such account owner.
+(4) Subject to subsections (1),(2) and (3)—
+(a) a copy of the financial statements of an ISAC shall be made available to the members of the ISAC; and
+(b) a copy of the financial statements of an incorporated segregated account shall be made available to the account owners of that incorporated segregated account,
+at such intervals and for such periods as are agreed between the ISAC and the members of the ISAC, or between the account owners and that incorporated segregated account, as the case may be, but in any event shall be made available not less than once in each financial year.
+(5) If the financial statements of an ISAC or any of its incorporated segregated accounts, are not made available for inspection by the members of the ISAC or any account owner of that incorporated segregated account, the Court may, on application by the affected member or account owner, by order compel immediate production of the financial statements.

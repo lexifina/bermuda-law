@@ -1,0 +1,2 @@
+# Registrar and Official Receiver to be indemnified in respect of foreign suits
+67 Neither the Registrar nor the Official Receiver shall be required to prosecute, defend or take part in any proceedings outside the jurisdiction of the Court unless he is indemnified by or on behalf of the person who wishes him to act against any judgment, order or costs that may be awarded against that person by deed, guarantee or deposit, as he may require.
