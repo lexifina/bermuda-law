@@ -1,0 +1,9 @@
+# Records of account
+14 (1) An exempted partnership shall keep proper records of account with respect to its business including, without limiting the generality of the foregoing, records of account with respect to its assets, liabilities and capital, cash receipts and disbursements, purchases and sales and income costs and expenses.
+(2) Subject to subsection (3), the records of account shall be kept at the registered office or at such other place as the partners think fit, and shall at all times be open to inspection by the partners, including limited partners, if any, and the resident representative.
+(3) If the records of account are kept at a place outside Bermuda, there shall be kept at the registered office such records of account as will enable the financial position of the exempted partnership, at the end of each three month period, to be ascertained with reasonable accuracy.
+(4) If an exempted partnership fails to comply with the provisions of subsection (1), (2) or (3), every partner shall be guilty of an offence and liable on conviction by a court of summary jurisdiction to a fine not exceeding five hundred dollars.
+(5) If any partner refuses to make available the records of account for inspection by another partner or by the resident representative, the Court may, on application by the second mentioned partner or the resident representative, order the partner so refusing to make the records of account available.
+(6) Every exempted partnership shall keep from the date on which they were prepared, for a period of five years, records of account referred to in subsection (1) and, if applicable, subsection (3).
+(7) Any partner of an exempted partnership who knowingly contravenes, permits or authorizes the contravention of subsection (6) shall be guilty of an offence and liable on conviction to a fine of seven thousand five hundred dollars.
+[Section 14 subsections (6) and (7) inserted by 2011 : 20 s. 4 effective 28 June 2011]
