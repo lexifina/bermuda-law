@@ -1,0 +1,2 @@
+# Power to authorise an organisation to disregard certain requests
+30 In response to a written request by an organisation, the Commissioner may authorise the organisation to disregard one or more requests made under sections 17, 18 or 19 if, because of their repetitious or systematic nature, the requests would unreasonably interfere with the operations of the organisation or amount to an abuse of the right to make those requests or are otherwise frivolous or vexatious.
