@@ -1,0 +1,17 @@
+# Duty not to delay sale or importation of goods
+30 (1) Where—
+(a) any permission or consent has been granted under these Regulations or under any corresponding provision of the law in force in any territory comprised in the Bermuda exchange control area, subject to a condition providing that, or on the faith of an application stating an intention that, any goods should be sold outside the Bermuda exchange control area; or
+(b) any statement or declaration has been made under any provision of these Regulations or any such corresponding provision as aforesaid that any goods are to be sold outside the Bermuda exchange control area; or
+(c) any currency has been obtained in, or by any person resident in, the Bermuda exchange control area on the faith of an application stating an intention that any goods should be sold outside the Bermuda exchange control area,
+then except with the permission of the Controller, no person resident in Bermuda who is entitled to sell or procure the sale of the said goods shall do, or refrain from doing, any act with intent to secure—
+(i) that the said sale is delayed to an extent which is unreasonable having regard to the ordinary course of trade; or
+(ii) that, on the said sale, any payment made for the goods is not made in the manner indicated by the condition, statement, or declaration, as the case may be.
+(2) Where—
+(a) any permission or consent has been granted under these Regulations, or under any corresponding provisions of the law in force in any territory comprised in the Bermuda exchange control area, subject to a condition providing that, or on the faith of an application stating an intention that, any goods should be imported from outside the Bermuda exchange control area into any part of the Bermuda exchange control area; or
+(b) any currency has been obtained in, or by any person resident in, the Bermuda exchange control area on the faith of an application stating an intention that an goods should be so imported,
+then except with the permission of the Controller, no person resident in Bermuda who is entitled to procure the importation of the said goods shall do, or refrain from doing, any act with intent to secure that the importation thereof is delayed to an extent which is unreasonable having regard to the ordinary course of trade.
+(3) Where in any such case as is specified in paragraph (1)(a),(b) or (c) or paragraph (2)(a) or (b)—
+(a) the goods have not been sold or imported as indicated by the condition, statement or declaration within the time thereby indicated or, if no time is thereby indicated, a reasonable time or (in either case) within such further time as may be allowed by the Controller; or
+(b) it appears to the Controller that the goods cannot be sold or imported as indicated by the condition, statement or declaration,
+the Controller may give to any person resident in Bermuda who appears to the Controller to be in a position to give effect thereto such direction as appears to the Controller to be expedient as to the manner in which the goods are to be dealt with.
+(4) The powers conferred by paragraph (3) in relation to any goods shall extend to the giving of directions with respect to any goods produced or manufactured therefrom, and, where goods to be sold outside the Bermuda exchange control area or to be imported were to be produced or manufactured from other goods, to the giving of directions with respect to those other goods and any goods produced or manufactured from those other goods.

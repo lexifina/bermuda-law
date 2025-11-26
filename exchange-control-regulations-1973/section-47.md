@@ -1,0 +1,7 @@
+## PART VIII
+## ENFORCEMENT AND TRANSITIONAL
+# Power to obtain information
+47 (1) The Controller may give to any person in or resident in Bermuda directions requiring him, within such time and in such manner as may be specified in the directions, to furnish to him, or to any person designated in the directions as a person authorized to require it, any information in his possession or control which the Controller or the person so authorized, as the case may be, may require for the purpose of securing compliance with or detecting evasion of these Regulations.
+(2) A person required by any such directions as aforesaid to furnish information shall also produce such books, accounts or other documents (in this Part referred to as “documents”) in his possession or control as may be required for the said purpose by the Controller or by the person authorized to require the information as the case may be.
+(3) A person shall not be punished for refusing to furnish any information or to produce any document in contravention of this Regulation if he could not be required to furnish such information or produce such document in proceedings before a court of law in Bermuda on the grounds that the information or document is privileged against disclosure.
+(4) Where a person is convicted for failing to give information or produce documents when required so to do under this paragraph, the court may make an order requiring the offender, within such period as may be specified in the order, to comply with the requirements to give the information or produce the documents.

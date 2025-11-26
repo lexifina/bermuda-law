@@ -1,0 +1,8 @@
+# Settlements
+32 (1) Except with the permission of the Controller, no person resident in Bermuda shall settle any property, otherwise than by will, so as to confer an interest in the property on a person who, at the time of the settlement, is resident outside the Bermuda exchange control area, or shall exercise, otherwise than by will, any power of appointment, whether created by will or otherwise, in favour of a person who, at the time of the exercise of the power, is resident outside the Bermuda exchange control area.
+(2) A settlement or exercise of a power of appointment shall not be invalid by reason that it is prohibited by this Regulation, except so far as it purports to confer any interest on any person who, at the time of the settlement or the exercise of the power, is resident outside the Bermuda exchange control area.
+(3) Regulation 23(2) and (3) shall apply in relation to a settlement or the exercise of a power of appointment prohibited by this Regulation as they apply in relation to a transfer of a security prohibited by these Regulations.
+(4) For the purpose of this Regulation—
+(a) any reference to settling property includes a reference to the making of any disposition, covenant, agreement or arrangement whereby the property becomes subject to a trust or (in the case of a resettlement) to a different trust;
+(b) a person shall be deemed to have an interest in property if he has any beneficial interest therein, whether present or future, and whether vested or contingent or falls within a limited class of persons in whose favour a discretion or power in respect of the property is exercisable; and
+(c) “will” includes any testamentary disposition.

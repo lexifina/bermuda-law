@@ -1,0 +1,6 @@
+# Persons leaving or arriving in Bermuda
+49 Any person who, on any occasion, is about to leave Bermuda or arrives in Bermuda (which person is hereafter in this paragraph referred to as “the traveller”) shall, if on that occasion he is required so to do by an officer of customs, immigration officer or by an officer of the Bermuda Police not below the rank of Sergeant—
+(a) declare whether or not he has with him anything prohibited to be imported or exported by any of the provisions of Part V except with the permission of the Controller; and
+(b) produce any such thing as aforesaid which he has with him,
+and the officer may examine or search an article which the traveller has with him for the purpose of ascertaining whether he is conveying or has in his possession any such thing, and, if the officer has reasonable grounds for suspecting that the traveller has about his person any such thing, search him, and may seize anything produced as aforesaid or found upon such examination or search as aforesaid as to which the officer has grounds for suspecting that it is prohibited to be imported or exported by any of the provisions of Part V except with permission of the Controller:
+Provided that no female shall be searched in accordance with paragraph (1) except by a female.

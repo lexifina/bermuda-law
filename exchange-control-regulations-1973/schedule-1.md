@@ -1,0 +1,4 @@
+## FIRST SCHEDULE
+(Regulation 2)
+## BERMUDA EXCHANGE CONTROL AREA
+Bermuda.

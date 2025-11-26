@@ -1,0 +1,5 @@
+# Acts of two or more persons
+45 (1) Any provision of these Regulations (however worded) the effect of which is to prohibit the doing of any act where a person to or by whom the act is to be done or who stands in a specified relation to any property possesses any specified attribute as to residence or otherwise shall, where the act is done to or by two or more persons or as the case may be where two or more persons stand jointly in that relation to the property, operate to prohibit the doing of that act if any of those persons possess that attribute.
+(2) Any provision of these Regulations imposing an obligation on any person to do an act if he possesses any specified attribute as to residence or otherwise shall, in relation to any act which can only be done by two or more persons, jointly—
+(a) where all those persons possess that attribute, operate to impose a joint obligation on all of them to do the act; and
+(b) where some only of them possess that attribute, operate to impose a separate obligation on each one of them who possesses that attribute to do all he can to secure the doing of the act.
