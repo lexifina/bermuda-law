@@ -1,0 +1,3 @@
+## RELATIONS OF PARTNERS TO PERSONS DEALING WITH THEM
+# Power of partner to bind firm
+5 Every partner is an agent of the firm and of his other partners for the purpose of the business of the partnership; and the acts of every partner who does any act for carrying on in the usual way business of the kind carried on by the firm for which he is a member bind the firm and his partners, unless the partner so acting has in fact no authority to act for the firm in the particular matter, and the person with whom he is dealing either knows that he has no authority, or does not know or believe him to be a partner.

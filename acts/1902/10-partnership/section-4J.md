@@ -1,0 +1,3 @@
+# Particulars to be registered when commission is paid for debentures
+4J Where any commission, allowance or discount has been paid or made either directly or indirectly by a partnership that has legal personality to any person in consideration of his subscribing or agreeing to subscribe, whether absolutely or conditionally, for any debentures of the partnership, or procuring or agreeing to procure subscriptions, whether absolute or conditional, for any such debentures, the particulars sent for registration shall include particulars as to the amount or rate per cent of the commission, discount or allowance so paid or made, but omission to do this shall not affect the validity of the debentures issued.
+[Section 4J inserted by 2015 : 21 s. 5 effective 28 December 2015]

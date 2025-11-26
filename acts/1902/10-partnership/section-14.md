@@ -1,0 +1,4 @@
+# Persons liable for holding out as partners
+14 Every one who by words spoken or written or by conduct represents himself, or who knowingly suffers himself to be represented, as a partner in a particular firm, is liable as a partner to any one who has on the faith of any such representation given credit to the firm, whether the representation has or has not been made or communicated to the person so giving credit by or with the knowledge of the apparent partner making the representation or suffering it to be made:
+Provided that where after a partner’s death the partnership business is continued in the same firm-name, the continued use of that name or of the deceased partner’s name as part thereof shall not of itself make his executor’s or administrator’s estate or effects liable for partnership debts contracted after his death.
+[Section 14 proviso amended by 2006:19 s.3 effective 8 September 2006]

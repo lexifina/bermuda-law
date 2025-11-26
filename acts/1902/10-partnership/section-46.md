@@ -1,0 +1,2 @@
+# Saving for rules of equity and common law
+46 The rules of equity and of common law applicable to partnership shall continue in force except so far as they are inconsistent with the express provisions of this Act.

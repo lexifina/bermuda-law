@@ -1,0 +1,5 @@
+# Misapplication of money or property received for or in custody of firm
+11 In the following cases—
+(a) where one partner acting within the scope of his apparent authority receives the money or property of a third person and misapplies it; and
+(b) where a firm in the course of its business receives money or property of a third person, and the money or property so received is misapplied by one or more of the partners while it is in the custody of the firm;
+the firm is liable to make good the loss.
