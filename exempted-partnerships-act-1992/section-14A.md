@@ -1,0 +1,12 @@
+# Keeping of records of account and beneficial ownership register after dissolution
+14A (1) When an exempted partnership has been dissolved, the partner or partners or such other person as may be appointed to wind up the affairs of the exempted partnership (the “responsible person”) shall—
+(a) keep the records of account of the exempted partnership referred to in section 14 which are in existence at the date of dissolution of the exempted partnership relating to the exempted partnership, for five years from the end of the period to which such records of account relate;
+(b) keep the beneficial ownership register referred to in section 4R of the Partnership Act 1902 which is in existence at the date of dissolution of the exempted partnership for five years from the date of the conclusion of the winding up of the affairs of the exempted partnership;
+(c) keep the books and papers of the responsible person relating to the winding up of the affairs of the exempted partnership for five years from the date of the conclusion of the winding up of the affairs of the exempted partnership;
+(d) where applicable, keep the records specified in regulation 15 of the Proceeds of Crime (Anti-Money Laundering and Anti-Terrorist Financing) Regulations 2008 that are in existence at the date of dissolution of the exempted partnership, in relation to the exempted partnership for the period specified in regulation 15.
+(2) Where the certificate of an exempted partnership is cancelled, the partners at the date when such certificate is cancelled shall ensure that the beneficial ownership register of the partnership referred to in section 4R of the Partnership Act 1902 that is in existence on that date shall be kept for a minimum of five years from the date of the certificate of cancellation.
+(3) In this section, “responsible person” means―
+(a) the partner or partners responsible for the winding up of the affairs of the exempted partnership; or
+(b) such other person appointed to wind up the affairs of the exempted partnership,
+and, where the responsible person is a person referred to in paragraph (b), that person, for the purposes of paragraphs (a) to (d) of subsection (1), shall be required to keep, for the period specified in each of those paragraphs, the records of account, beneficial ownership register, books, papers and records that have been provided to him.
+[Section 14A inserted by 2018 : 4 s. 5 effective 23 March 2018]
