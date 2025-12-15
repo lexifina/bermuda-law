@@ -1,0 +1,5 @@
+# Small Pensions
+35 (1) Where a member or former member has attained the normal retirement age, a pension plan that provides defined benefits shall provide for the payment of the commuted value of the member or former member’s benefits to the member or former member, if the commuted value is not more than $50,000.
+(2) Where a member or former member has attained the normal retirement age, a defined contribution pension plan or a local retirement product shall provide for the payment of the member or former member’s account balance to the member or former member, if the account balance is not more than $50,000.
+(3) This section does not apply in respect of a multi-employer pension plan.
+[Section 35(1) amended by 1999:49 Sch para 16 effective 1 January 2000; Section 35 repealed and replaced by 2019 : 48 s. 23 effective 2 January 2020; Section 35 subsection (3) inserted by 2020 : 19 s. 3 effective 1 June 2020; Section 35 subsections (1) and (2) repealed and replaced by 2020 : 33 s. 3 effective 10 August 2020]

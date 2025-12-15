@@ -1,0 +1,8 @@
+# Adoption of a new pension plan
+48 (1) Where a pension plan is established by an employer to be a successor to an existing pension plan and the employer ceases to make contributions to the original pension plan, the original pension plan shall be deemed not to be wound up and the new pension plan shall be deemed to be a continuation of the original pension plan.
+(2) The benefits and rights under the original pension plan in respect of employment before the establishment of the new pension plan shall be deemed to be benefits and rights under the new pension plan.
+(3) Subsection (2) applies whether or not the assets and liabilities of the original pension plan are consolidated with those of the new pension plan.
+(4) No assets may be transferred from the pension fund of the original pension plan to the pension fund of the new pension plan without the prior approval of the Commission or contrary to the prescribed terms and conditions.
+(5) The Commission shall not approve a transfer of assets that does not protect the pension benefits and any other benefits and rights of the members, former members and beneficiaries of the original pension plan or that does not meet the prescribed requirements and qualifications.
+(6) The Commission may by order require a transferee to return to the pension fund assets, with interest at a rate to be prescribed in the regulations, transferred to him by the administrator without the prior approval of the Commission or transferred contrary to the prescribed terms or conditions.
+(7) Subject to section 51, an order for the return of assets under subsection (6), may be enforced in the same manner as a judgment of the Supreme Court for the payment of a sum of money.
