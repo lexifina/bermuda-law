@@ -1,0 +1,4 @@
+# Reciprocity with other countries
+70 (1) For the purpose of giving effect to any agreement between the Government of Bermuda and the government of another country providing for reciprocity in matters relating to payments for purposes similar or comparable to the purposes of this Act, the Minister may, by regulations made by him under this section, make provision for modifying or adapting this Act in its application to cases affected by the agreement.
+(2) Except insofar as regulations made under subsection (1) make specific modifications or adaptations, this Act shall be read and construed with such modifications and adaptations to such extent as may be required to give effect to the provisions contained in an agreement to which subsection (1) applies.
+(3) The affirmative resolution procedure shall apply to regulations made under this section.
