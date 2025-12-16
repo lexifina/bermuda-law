@@ -1,0 +1,6 @@
+# Procedure on appeal
+26 (1) The Tribunal shall hear an appeal in accordance with the regulations and, subject to such regulations and this Act, may regulate its own procedure.
+(2) The Tribunal may consider more than one appeal at one and the same time where, in the opinion of the Tribunal, such appeals raise substantially similar points for determination by the Tribunal or may for any other good and sufficient reason be conveniently considered together.
+(3) On the hearing of an appeal by the Tribunal the Collector, and the appellant and any other person who, in the heard, shall be entitled to appear before the Tribunal in person or by his duly authorized representative and to produce any lawful evidence and to make representations relating to the appeal.
+(4) Notwithstanding the foregoing provisions of this section, where in the course of determining any appeal one of the members of the Tribunal is unable to continue to act as a member for any reason, then, if all parties concerned agree, the Tribunal may proceed with the determination of that appeal in the absence of that member and shall be deemed to be duly constituted in so doing.
+(5) The Tribunal shall at the request of the appellant exclude the public or any representative of the press from its sittings.

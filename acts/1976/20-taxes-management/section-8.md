@@ -1,0 +1,4 @@
+# Exemption from furnishing returns
+8 (1) If the Collector is of the opinion that tax will be remitted in the case of a person liable to furnish a return under section 7, or, if paid, will be refunded, he may issue a certificate to that person exempting him from furnishing returns in accordance with section 7 but any such person shall, unless the Collector otherwise permits, furnish to the Collector within thirty days after the close of any financial year a return in the prescribed form relating to that financial year and containing the particulars required by such form.
+(2) A certificate issued under subsection (1) may be subject to such conditions as are prescribed or as the Collector thinks fit.
+(3) The issue of a certificate under subsection (1) shall not exempt any person from the payment of any tax, notwithstanding that it may have the effect of postponing the time for payment of any tax.
