@@ -1,0 +1,2 @@
+# Want of form or errors not to invalidate assessments, etc
+46 An assessment or other proceeding which purports to be made in pursuance of any provision of the Taxes Acts shall not be to in quashed, or deemed to be void or voidable, for want of form, or etc. be affected by reason of a mistake, defect or omission therein, if the same is in substance and effect in conformity with or according to the intent and meaning of the Taxes Acts, and if the person charged or intended to be charged or affected thereby is designated therein according to common intent and understanding.

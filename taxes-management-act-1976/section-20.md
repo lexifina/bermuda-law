@@ -1,0 +1,4 @@
+# Time limits
+20 (1) Subject to the following provisions of this Act, and to any other provisions of the Taxes Acts, an assessment to tax may be made at any time not later than five years after the end of the tax period to which the assessment relates.
+(2) Notwithstanding subsection (1), where any form of fraud or wilful default has been committed by or on behalf of any person in connection with or in relation to tax, assessments on that person to tax may, for the purpose of making good to the Crown any loss of tax attributable to the fraud or wilful default, be made at any time.
+(3) For the purpose of the charging of tax on the estate representatives of a deceased person in respect of the tax period in which the deceased died or any previous tax period the time allowed by subsection (1) or (2) shall in no case extend beyond the end of the third year next following the end of the tax period in which the deceased died.

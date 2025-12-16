@@ -1,0 +1,2 @@
+# Offences by corporations
+40 When an offence under the Taxes Acts which has been committed by a company or other body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any default on, the part of a director, manager, secretary or other similar officer of that company or other body corporate, or any person who is purporting to act in any such capacity, he, as well as the company or other body corporate shall be guilty of that offence and be liable to be proceeded against accordingly.

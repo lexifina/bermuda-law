@@ -1,0 +1,15 @@
+# Power to inspect records, enter upon premises etc
+44 (1) The Collector, or any public officer shall have power on the authority in writing of the Minister to inspect all books, records and other documents which in the opinion of the Collector or such public officer may be relevant for the purpose of ascertaining whether or not any provision of the Taxes Acts has been complied with and, for that purpose may—
+(a) without previous notice at all reasonable times enter any premises or place where he has reason to believe such books, records or documents are kept;
+(b) make extracts from or copies of any such books, records or documents.
+(2) Any person having the custody or control of any books, records or documents subject to inspection under this section may, before permitting such inspection, require the person seeking to inspect such books, records or documents, to show to him the authority of the Minister given under subsection (1), and if such authority is not so shown such permission may lawfully be withheld.
+(3) Any person authorized in that behalf by the Collector may, on producing if so required evidence of his authority, at any reasonable time enter on and inspect, with a view to establishing their rental value, any premises the value of which falls to be determined for the purposes of calculating the chargeable remuneration of any person.
+(4) Nothing in this section shall authorize the Collector or any public officer to inspect the books, records or other documents of an exempt undertaking except on the authority of an order of the Supreme Court or of a judge.
+(5) The Court or judge shall not make an order under subsection (4) unless satisfied that there are reasonable grounds for believing that the exempt undertaking has failed to comply with section 14 or it, or any officer thereof, is guilty of a contravention of section 37.
+(6) An order under subsection (4) may be made either with or without notice to the exempt undertaking, and the costs of the application shall be in the discretion of the Court or a judge.
+(7) Nothing in this section shall authorise the Collector or any public officer to inspect any book, record or other document in the possession of a bank or deposit company of a kind referred to in section 13(4) or an undertaking licensed under the Trusts (Regulation of Trust Business) Act 2001, for the purpose of obtaining information as to the business affairs of any customer of such bank, deposit company or undertaking, except on the authority of an order of the Supreme Court or a judge.
+(8) The Court or a judge shall not make an order under subsection (7) unless satisfied—
+(a) that the information that is sought is likely to be of material assistance to the Collector in the exercise of his functions under the Taxes Acts; and
+(b) that the Collector is unable to obtain that information by the exercise of any other power vested in him by those Acts.
+(9) An application for an order under subsection (4) or (7) shall be made by the Collector.
+[section 44(7) substituted by 2001:22 Sch 2 para 4 effective 25 January 2002]
