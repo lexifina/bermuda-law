@@ -1,0 +1,4 @@
+# Liability for false statements in certificates, etc.
+8E (1) If a certificate of limited partnership, a supplementary certificate or a certificate of cancellation, contains a false statement and a person who relied on that statement suffers loss, that person may recover damages for that loss from—
+(a) any person who signed the certificate, or caused another to sign it on his behalf, and knew, and any general partner who knew or should have known, the statement to be false at the time the certificate was signed; and
+(b) any general partner who thereafter knows or should have known that any statement specified in the certificate has changed, making the statement false in any respect within a sufficient time before the statement was relied upon reasonably to have enabled that general partner to cancel or change the certificate, or to file a petition for its change or cancellation under section 8G.
