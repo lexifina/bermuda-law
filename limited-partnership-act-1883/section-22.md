@@ -1,0 +1,13 @@
+# Registration, etc., of certificates, etc.; evidence
+22 (1) The Registrar shall establish and maintain a register in which shall be registered or recorded all certificates and notices required by this Act.
+(2) The register shall be open, during office hours, to the inspection of all persons desiring to view the register on payment to the Registrar of the fee of five dollars.
+(3) Unless a fee is otherwise provided under subsection (5) or in the First Schedule to the Exempted Partnerships Act 1992, a sum of $160 shall be paid to the Registrar for registering or recording every certificate or notice, required by this Act.
+(3A) Unless a corporate regulatory fee applicable to a limited partnership is otherwise provided in the First Schedule to the Exempted Partnerships Act 1992, a limited partnership shall pay a corporate regulatory fee of $150 to the Registrar—
+(a) upon the registration, as provided in section 4, of the certificate specified in section 3; and
+(b) thereafter, not later than 31 March of each year.
+(3B) Where in any year a limited partnership fails to pay the corporate regulatory fee, the limited partnership commits an offence and is liable on summary conviction to a default fine not exceeding $100 for every day during which the default continues.
+(3C) Notwithstanding subsection (3B), in any case where a limited partnership fails to comply with subsection (3A) and the Registrar is satisfied that the failure is not due to wilful neglect or default, it shall be lawful for the Registrar to accept payment of the sum due together with a penalty of $250 and in such case subsection (3B) shall not apply.
+(4) A certificate of the Registrar certifying that a certificate or notice required by this Act to be registered or recorded by him has been so registered or recorded shall be received in all courts and in all proceedings whatsoever as evidence of the matter to which the certificate relates.
+(5) The Minister may in a Schedule to this Act prescribe fees that shall accompany any application for the purposes of this Act.
+(6) The Minister may, by order subject to the affirmative resolution procedure, amend the Schedule to insert new fees or vary or otherwise amend fees.
+[Section 22 repealed and replaced by 1990:59 effective 1 September 1990; and amended by 2005:25 effective by 4 August 2005; subsection (5) inserted by 2015 : 20 s. 7 effective 28 December 2015; subsection (3) amended and subsection (6) inserted by 2016 : 25 s. 3 effective 22 June 2016; Section 22 subsection (3) amended by 2018 : 6 s. 3 effective 1 April 2018; Section 22 amended by 2024 : 5 s. 5 effective 1 January 2024 (commencement date amended by 2024 : 15 s. 3 effective 15 July 2024)]

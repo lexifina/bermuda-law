@@ -1,0 +1,2 @@
+# Restriction on assignment of partnership assets
+13 No general assignment by a limited partnership in case of insolvency or insufficiency of assets for the payment of the partnership debts shall be valid without the consent in writing of two-thirds in value of the creditors of the partnership, nor unless it provides for a distribution of the partnership property among all the creditors in proportion to the amount of their several claims, of which notice shall be given in the Gazette; but debts due to the Crown shall first be paid or secured.

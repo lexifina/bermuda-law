@@ -1,0 +1,6 @@
+# Inspection of register of limited partners
+8 (1) Subject to the express terms of the partnership agreement and to such reasonable restrictions as the general partners may impose, the register of limited partners shall, during business hours, be open for inspection by any limited partner without charge.
+(2) Subject to the express terms of the partnership agreement and to such reasonable restrictions as the general partners may impose, a limited partner may require a copy of the register of limited partners, or any part thereof, on payment of five dollars or such less sum as the general partners may determine, for every hundred words or fractional part thereof required to be copied.
+(3) If an inspection or a copy required by this section is refused, every general partner who is in default shall be liable in respect of each offence to a default fine not exceeding twenty dollars for every day during which the default continues.
+(4) In this section and in section 8A the expression “register of limited partners” includes a branch register.
+[Section 8 repealed and replaced by 1990:59 effective 1 September 1990; subsection (1) substituted, and (2) amended, by 2005:38 s.6 effective 29 December 2005; subsection (1) repealed and substituted and subsection (2) amended by 2015 : 20 s. 4 effective 28 December 2015]
