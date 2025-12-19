@@ -1,0 +1,3 @@
+# Fixing of times of importation and of exportation
+30 If for the purpose of revenue, or drawback, or of any charge on shipping, or for any purpose under this Act, it becomes necessary to determine the precise time at which an importation or exportation of any goods shall be deemed to have had effect, such time in respect of importation shall be deemed to be the time at which the goods arrive at any anchorage, mooring or port in Bermuda, or if they arrive at another place the time at which they are landed in that place; and such time in respect of exportation shall be deemed to be the time of the last clearance of such ship at the proper office for the voyage upon which she had departed.
+[section 30 amended by 2007:13 s.15 effective 29 March 2007]

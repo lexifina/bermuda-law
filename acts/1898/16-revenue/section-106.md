@@ -1,0 +1,2 @@
+# If goods owned by more than five co-proprietors, two may make the oath
+106 When any ship or goods seized for any cause of forfeiture is at the time of the seizure thereof the bona fide property of any number of proprietors exceeding five, it shall not be necessary for more than two of them to enter a claim or appearance on the part of themselves and their co-proprietors or to make the oath required by section 105.

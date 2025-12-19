@@ -1,0 +1,3 @@
+# Criminal proceedings before courts of summary jurisdiction
+120 Without prejudice to any power or jurisdiction expressly conferred upon the Supreme Court or upon the Collector of Customs to deal with contraventions of this Act, proceedings in respect of any such contravention may be taken before a court of summary jurisdiction, and the court of summary jurisdiction may impose any monetary penalty or forfeiture allowed by the provisions of this Act to be imposed in respect of such contravention as though such penalty or forfeiture were a fine; and the Criminal Jurisdiction and Procedure Act 2015, shall have effect in respect to any such proceedings accordingly.
+[Section 120 amended by 2015 : 38 s. 91 effective 6 November 2015]

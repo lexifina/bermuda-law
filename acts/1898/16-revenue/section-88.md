@@ -1,0 +1,3 @@
+# Penalty for certain wilful frauds
+88 Every person knowingly concerned in unlading, unshipping, transporting, or landing, or who knowingly harbours, keeps or conceals, or knowingly permits or suffers, or causes or procures, to be harboured, kept or concealed, any goods liable to forfeiture under this Act, or any amending Act, or to whose hands and possession any such goods shall knowingly come, or who knowingly assists or is concerned, in the illegal removal of any such goods, shall forfeit either treble the value of the goods or a penalty of the level 4 amount, at the election of the Collector of Customs.
+[section 88 penalty on standard scale substituted for amount in $ by 2004:6 s.18 & Sch 2 effective 26 March 2004]

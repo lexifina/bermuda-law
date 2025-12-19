@@ -1,0 +1,2 @@
+# Sampling of goods for examination
+33 The respective customs officers may on the entry of any goods, or at any time afterwards, take samples of such goods for examination, or for ascertaining the duties payable on such goods, or for such other purposes as they may deem necessary, and such samples shall be disposed of and accounted for as the Collector of Customs, or Assistant Collector of Customs, may direct.

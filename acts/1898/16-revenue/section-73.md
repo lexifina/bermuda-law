@@ -1,0 +1,2 @@
+# Goods on arrival at port of destination to be subject to same regulations as goods on first importation
+73 Upon the arrival of such goods at the port or place of destination, the goods shall be entered and warehoused in the same manner, and under, and subject to the same laws, rules and regulations, so far as the same are or can be made applicable, as are required on the entry and warehousing of goods on the first importation thereof.

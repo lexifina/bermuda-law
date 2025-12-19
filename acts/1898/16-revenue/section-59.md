@@ -1,0 +1,3 @@
+# Power of Collector of Customs to allow owners to sort, or repack goods in warehouse
+59 The Collector of Customs, under such regulations as he may see fit, may allow the proprietor or other person having control over the goods so warehoused, to sort, separate, and pack and repack any such goods, and to make such lawful alterations therein, or arrangements and assortments thereof, as may be necessary for the preservation of such goods, or in order to the sale, shipment, or legal disposal of the same, and also to allow any parts of such goods so separated to be destroyed but without prejudice to the claim for duty upon the whole original quantity of such goods.
+60 [section 60 repealed by 2000:30 s.8 effective 8 November 2000]

@@ -1,0 +1,4 @@
+## Writs of assistance
+# Writ of assistance to pursue dutiable goods
+109 Under the authority of a writ of assistance granted by the Supreme Court or by a judge, upon the application of the Collector of Customs, or other proper officer, the Collector of Customs, or any customs officer, may enter any building or other place and search for, seize, and secure, any goods liable to forfeiture under this Act, or any amending Act, and in case of necessity may break open any doors and any chests or other packages for that purpose; and such writ of assistance when issued shall be deemed to be in force during the whole of the reign in which the writ has been granted, and for twelve months from the conclusion of such reign:
+Provided that entry of any building or place under this section shall not be made in the night-time (that is to say, the interval between 8 o’clock in the evening and 6 o’clock in the morning) except in the company of a police officer.

@@ -1,0 +1,2 @@
+# Goods entered for warehousing not duly warehoused or fraudulently removed or concealed liable to forfeiture
+70 If any goods entered to be warehoused are not duly warehoused in pursuance of such entry, or, being duly warehoused, are in any way concealed in or removed from the warehouse, or abstracted from any package, or transferred from one package to another, or otherwise dealt with for the purpose of illegal mixing, removal, or concealment, then such goods shall be forfeited.

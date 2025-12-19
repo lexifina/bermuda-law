@@ -1,0 +1,5 @@
+# Penalties for false customs declarations
+86 (1) If any person makes a customs declaration, before a customs officer or otherwise, which is untrue in any particular, the person making the declaration shall forfeit and pay a sum in the level 4 amount.
+(2) Any person who, with intent to deceive, makes a customs declaration that is untrue in any material particular shall be guilty of an offence and liable on conviction on indictment to imprisonment for up to a maximum of 5 years or to a maximum fine of the level 7 amount or to both such imprisonment and fine.
+(3) In addition to any penalty under subsection (1) or (2), if any person fails to declare or misdeclares any article, currency or negotiable instrument, that article, currency or negotiable instrument shall be liable to forfeiture.
+[section 86 penalty on standard scale substituted for amount in $ by 2004:6 s.18 & Sch 2 effective 26 March 2004; section 86 repealed and replaced by 2008:14 s.9 effective 25 March 2008; subsection (2) amended by 2012 : 16 s. 10 effective 1 June 2012; subsection (3) amended by 2018 : 51 s. 16 effective 10 August 2018]

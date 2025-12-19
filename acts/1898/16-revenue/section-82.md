@@ -1,0 +1,16 @@
+## Customs supervision
+# Powers of customs officers to board any ship, secure hatches, mark goods
+82 (1) Any customs officers and any other officers who are duly appointed or engaged in the collection and securing of the revenue of Bermuda may board any ship arriving at Bermuda, and freely stay on board until all the goods laden therein have been duly delivered from the ship, and such officers shall have free access to every part of the ship, with power to fasten down hatches and to mark any goods before landing.
+(2) It shall be the duty of the proper officer to go on board every ship as soon as possible after her arrival at Bermuda, and then to lock up, seal, mark, or otherwise secure all hatches and bulkheads, and all goods on board such ship.
+(3) If any place, or any box or chest, is locked and the keys are withheld, then such officer, with the sanction of the Collector of Customs, or other proper officer of the port, may open or cause to be opened any such place, box or chest, in the best manner in his power.
+(4) If any goods are found concealed on board any such ship they shall be forfeited, and if any such officer places any lock, mark, or seal upon any goods on board, or on any hatch, bulkhead or other part of such ship, except the entrances to the cabin and to the forecastle, and such lock, mark or seal is wilfully opened, altered or broken, or wilfully attempted to be opened or broken, before due delivery of such goods, or if any such goods are secretly conveyed away, or if any hatch, or bulkhead, after having been fastened or otherwise secured by the officer, is opened, then the master of the ship shall forfeit the level 4 amount.
+(5) It shall be the duty of such officer to take proper precaution for securing all goods in any cabin or forecastle of any such ship.
+(6) Any customs officer may in the execution of his duties as such lock up, seal or mark, or by the use of any other device secure—
+(a) any goods; or
+(b) any place or container having in it any goods imported into these Islands.
+(7) Where any lock, seal, mark or other device has been used by a customs officer to secure any such goods, place or container, then, if, without the authority of the proper officer—
+(a) that lock, seal, mark or other device is wilfully removed or destroyed, or tampered with; or
+(b) at any time before that lock, seal, mark or other device is lawfully removed, any of those goods, or any goods in any such place or container, are wilfully removed by any person,
+then that person, and the person then in charge of the goods, shall be guilty of an offence against this Act, and shall be liable on conviction by a court of summary jurisdiction to a fine not exceeding the level 6 amount or three times the value of the goods, whichever is the greater amount; and the goods shall be forfeited.
+(8) Without prejudice to any other provision of or under this Act, any customs officer may board any ship for the purpose of conducting a search for uncustomed goods.
+[section 82 amended by 1995:4 effective 22 December 1996; subsection (7) amended by 2004:6 s.13, and subsections (4) and (7) penalty on standard scale substituted for amount in $ by 2004:6 s.18 & Sch 2, effective 26 March 2004; subsection (8) inserted by 2012 : 16 s. 9 effective 1 June 2012]

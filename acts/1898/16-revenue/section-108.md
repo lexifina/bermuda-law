@@ -1,0 +1,2 @@
+# Security for costs to be given before claim is entered
+108 No person shall be admitted to enter a claim to anything seized in pursuance to this Act, or any amending Act, and prosecuted until sufficient security has been given in the court where such seizure is prosecuted in a penalty not exceeding $240, to answer and pay the costs occasioned by such claim; and in default of giving such security, such things shall be adjudged to be forfeited and shall be condemned.
