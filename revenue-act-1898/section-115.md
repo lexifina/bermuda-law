@@ -1,0 +1,4 @@
+# Appropriation of penalties
+115 (1) All penalties, surcharges and forfeitures recovered under this Act, or any other Act relating to the revenue of Bermuda, shall after deduction of all charges and costs incurred in relation to the custody of any goods or any prosecution or action arising under this Act, or any other Act as aforesaid, be payable into the Consolidated Fund in aid of the general revenue of Bermuda:
+Provided that the Minister in special circumstances may direct any portion of any penalty or forfeiture, not exceeding in the whole one half thereof, to be paid to the person who seizes any goods liable to forfeiture under this Act, or who gives any information leading to such seizure, or to be divided between the person so seizing and the person so informing in such proportions as the Minister may determine.
+[section 115 amended by 2007:13 s.24 effective 29 March 2007]

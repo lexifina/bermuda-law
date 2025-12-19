@@ -1,0 +1,4 @@
+## Seizure and condemnation of goods
+# Falsification, destruction etc. of records
+99A Any person who wilfully and fraudulently falsifies, conceals, destroys or otherwise disposes of, or causes or permits the falsification, concealment, destruction or disposal of, records relating to the importation or exportation of any goods, currency or negotiable instrument shall be guilty of an offence and liable on summary conviction to a fine of the level 4 amount or to imprisonment for twelve months or both and on conviction on indictment to a fine of the level 6 amount or to imprisonment for 3 years or both.
+[section 99A inserted by 2000:30 s.11 effective 8 November 2000; penalty on standard scale substituted for amount in $ by 2004:6 s.18 & Sch 2 effective 26 March 2004; section 99A amended by 2018 : 51 s. 16 effective 10 August 2018]

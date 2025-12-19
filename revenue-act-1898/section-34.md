@@ -1,0 +1,3 @@
+# Power of customs officer to refuse to deliver goods before payment of freight
+34 (1) Any customs officer having the custody of any goods which have come into his hands under this Act may refuse delivery thereof from the Queen’s Warehouse, or other place of deposit, until proof has been given to his satisfaction that the freight due upon such goods has been paid.
+(2) Whenever any goods are sold under this Act for default of payment of duties or charges, the proceeds thereof shall be paid first in discharge of duties and of any charges of freight, warehousing, or storage, while under charge of the Department, and afterwards of the freight (if any) due to the importing ship.

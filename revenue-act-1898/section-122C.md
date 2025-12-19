@@ -1,0 +1,3 @@
+# Method of and time for appealing
+122C A person who is dissatisfied with an appealable decision of the Collector of Customs may, within thirty days after service on him of notice of that decision, or after the date that the Collector of Customs is assumed for the purposes of this Act to have confirmed the reviewable decision, or within such further time as the Tribunal may allow, by notice in writing accompanied by such fee as may be prescribed under the Government Fees Act 1965, require the Collector of Customs to treat his notice as an appeal and to forward it to the Tribunal and the Collector of Customs shall, as soon as practicable, forward it accordingly.
+[section 122C inserted by 2004:6 s.16 effective 26 March 2004]

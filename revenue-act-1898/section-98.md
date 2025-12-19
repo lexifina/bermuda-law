@@ -1,0 +1,3 @@
+# Power of search
+98 Any customs officer may with or without assistants, whenever he deems it necessary, open or cause to be opened for search, and may search, any package or parcel of goods containing or supposed to contain any dutiable and uncustomed goods, or which he deems it necessary to examine for the purpose of ascertaining whether it contains any such goods, using no more force than is reasonably necessary for that purpose, and for any such purpose may force or open any locks, or other fastenings and enter any ship, boat, premises, or place where any such package or parcel may be, or may be suspected to be kept or concealed.
+[Section 98 amended by 2012 : 3 s. 9 effective 1 June 2012; amended by 2012 : 16 s.13 effective 1 June 2012]

@@ -1,0 +1,3 @@
+# Collection of penalties and forfeitures
+111 Subject to section 111A, all penalties and forfeitures which may be incurred under any Act relating to the revenue to be received or collected by the Collector of Customs, shall and may be prosecuted, sued for and recovered, by the Collector of Customs, or any other customs officer, with costs of suit, before a court of summary jurisdiction in the manner provided by the Magistrates Act 1948 [title 8 item 15], and any person aggrieved by the judgment of that court may appeal to the Supreme Court under the Civil Appeals Act 1971 [title 8 item 85].
+[section 111 amended by 1998:12 effective 31 March 1998]

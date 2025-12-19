@@ -1,0 +1,4 @@
+# Claims to be entered in name of owner and made on oath; punishment for making false oath
+105 (1) No claim to any thing seized under this Act and returned into any court for adjudication, shall be admitted unless such claim is entered in the name of the owner, with his residence and occupation, nor unless oath to the property in such thing is made by the owner, or by his counsel or agent by whom such claim shall be entered, to the best of his knowledge and belief.
+(2) Every person making a false oath thereto commits an offence against this Act: Punishment on conviction on indictment: imprisonment for 2 years or a fine of the level 5 amount or both such imprisonment and fine.
+[section 105 subsection (2) penalty on standard scale substituted for amount in $ by 2004:6 s.18 & Sch 2 effective 26 March 2004]

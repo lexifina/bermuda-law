@@ -1,0 +1,4 @@
+# Prohibition of goods being taken out of warehouse except on due entry and in presence of proper officer
+65 (1) No warehoused goods shall be taken or delivered from the warehouse, except upon due entry and with the authority of the proper officer for exportation, or upon due entry and payment of the full duties payable thereon for home use.
+(2) If any goods which have been warehoused or otherwise secured, either for home consumption or exportation are clandestinely or illegally removed from or out of any warehouse or place of security, then the owner or occupier of the warehouse or place of security, the owner of the goods and any person concerned in the removal of the goods, shall each forfeit the level 4 amount and all such goods shall be forfeited.
+[section 65 subsection (2) substituted by 2004:6 s.10 effective 26 March 2004]

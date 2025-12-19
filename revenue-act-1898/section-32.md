@@ -1,0 +1,2 @@
+# Duty of agent making application to produce authority
+32 Whenever any person makes application to any customs officer to transact any business on behalf of any other person, the customs officer may require the person so appointed to produce a written authority from the person on whose behalf such application is made, and, in default of the production of such authority, may refuse to transact such business.

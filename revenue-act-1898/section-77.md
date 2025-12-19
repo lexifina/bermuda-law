@@ -1,0 +1,5 @@
+# Refund of import duties paid by mistake or to give effect to a relief
+77 (1) Whenever any import duty or other money is paid by mistake the Accountant-General, on it being proved to the satisfaction of the Collector of Customs that the duty or other money has been so paid by mistake, may refund to the person who paid such duty or other money, or his lawful agent, the amount so paid by mistake, if the duty or money is claimed and proof of the mistake is made within six months after the payment of such duty or other money.
+(2) In order to give effect to any relief from import duty afforded by or under any enactment, the Accountant-General, on it being proved to the satisfaction of the Collector of Customs that the person claiming the relief is entitled to the relief and that the amount claimed is repayable, may refund to the person claiming the relief the amount that is repayable.
+[section 77 repealed and substituted by 2004:6 s.11 effective 26 March 2004]
+78 [section 78 repealed by 2004:6 s.12 effective 26 March 2004]

@@ -1,0 +1,5 @@
+# Forfeiture of drawback goods not agreeing with shipping bill
+76 (1) If any goods on which drawback is claimed are shipped, or brought to any quay, wharf or other place to be shipped for exportation, and are, on examination by the proper officer, found not to agree with the entry in the shipping bill, or other proper document for allowance of drawback on shipment, or are found to be of less value for home use than the amount of the drawback claimed, then all such goods and the packages containing the goods, with all other the contents therein, shall be forfeited.
+(2) The person entering such goods and claiming the drawback thereon shall in any such case forfeit the level 3 amount, or treble the value of the goods, at the election of the Collector of Customs.
+(3) If any goods which have been shipped for exportation are re-landed without the permission of the Collector of Customs, or other proper officer, then such goods and the packages containing the goods shall, with all other the contents thereof, be forfeited.
+[section 76 subsection (2) penalty on standard scale substituted for amount in $ by 2004:6 s.18 & Sch 2 effective 26 March 2004]

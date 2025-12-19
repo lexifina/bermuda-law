@@ -1,0 +1,4 @@
+# Goods seized may be replevined on double security
+103 (1) If any goods are seized as forfeited under this Act, and detained, then any court having jurisdiction to try and determine such seizure may order the delivery thereof on security by bond with two sufficient sureties to answer double the value of the same, in case of condemnation, and such bond shall be taken to the use of Her Majesty in the name of the Collector of Customs; and such bond shall be delivered to and kept in the custody of the Collector of Customs, and in case the goods are condemned the value thereof shall be paid into the hands of the Collector of Customs, who shall thereupon cancel the bond.
+(2) Any court before which any goods so seized are prosecuted may, if the court sees fit, order the sale thereof, or of any part thereof, pending such prosecution on application by the prosecutor or any claimant.
+[section 103 subsection (1) amended by 2007:13 s.22 effective 29 March 2007]

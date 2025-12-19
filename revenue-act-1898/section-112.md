@@ -1,0 +1,4 @@
+# Penalties may be sued for in name of Attorney-General or Collector of Customs
+112 All duties, surcharges, penalties and forfeitures incurred under or imposed by this Act, or any other Act relating to the importation of goods, and the liability to forfeiture of any goods seized under the authority thereof, may be sued for, prosecuted, determined and recovered by action, information, or other appropriate proceeding in the Supreme Court in the name of the Attorney-General, the Director of Public Prosecutions or of the Collector of Customs, or by information in the name of the Collector of Customs by some customs officer authorized by him before a court of summary jurisdiction:
+Provided that nothing in this section shall affect or derogate from the Admiralty jurisdiction of the Supreme Court.
+[section 112 amended by 1999:8 s.3 & Sch 2 effective 1 April 1999]

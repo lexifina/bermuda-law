@@ -1,0 +1,2 @@
+# Lien no defence unless duty tendered
+91 It shall be no defence to the possession of any goods in contravention of this Act that the person in possession thereof is exercising a statutory or common law lien thereover unless, as soon as practicable after the right to exercise such lien arises, that person tenders to the Collector of Customs the duty payable on such goods or enters into such arrangements with the Collector of Customs for the payment of such duty as the Collector of Customs may consider appropriate.
