@@ -1,0 +1,3 @@
+# Non-service or execution of process
+7 (1) If any summons, writ or other process of court cannot be served for any reason beyond the control of the Provost Marshal General or other person charged with such service, there shall be paid for his services in connection therewith the same fee as for the service of the summons, writ or process.
+(2) If any writ of execution cannot be executed for any reason beyond the control of the Provost Marshal General or other person charged with such execution, then there shall be paid for his services in connection therewith the same fee as for the service of a writ.
