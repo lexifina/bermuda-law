@@ -1,0 +1,3 @@
+# Expenses of witnesses and others
+2 (1) In respect of each Act the short title of which appears as a heading in the Second Schedule and in respect of each of the matters specified under that heading in relation to that Act or a particular section thereof there shall be payable the fee or expense set out in that Schedule in relation to such matter.
+(2) Such fees and expenses shall, unless otherwise specified in the Act by virtue of which such fee or expense is payable, be certified as properly payable by the Registrar or such officer of a court as may be designated by the Registrar for the purpose, and no payment shall be made in the absence of such certification.
