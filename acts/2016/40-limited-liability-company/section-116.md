@@ -1,0 +1,7 @@
+# Report by Official Receiver
+116 (1) In a case where a winding up order is made, the Official Receiver shall, as soon as practicable after receipt of the statement to be submitted under the last foregoing section, or, in a case where the Court orders that no statement shall be submitted, as soon as practicable after the date of the order, submit a preliminary report to the Court—
+(a) as to the amount of LLC interests issued and paid up, and the estimated amount of assets and liabilities; and
+(b) if limited liability company has failed, as to the causes of the failure; and
+(c) whether in his opinion further inquiry is desirable as to any matter relating to the formation or failure of the limited liability company or the conduct of the business thereof.
+(2) The Official Receiver may also, if he thinks fit, make a further report, or further reports, stating the manner in which the limited liability company was formed and whether in his opinion any fraud has been committed by any person in its formation, by any officer or manager of the limited liability company in relation to the limited liability company since the formation thereof, and any other matters which in his opinion it is desirable to bring to the notice of the Court.
+(3) If the Official Receiver states in any such further report as aforesaid that in his opinion a fraud has been committed as aforesaid, the Court shall have the further powers provided in section 143.

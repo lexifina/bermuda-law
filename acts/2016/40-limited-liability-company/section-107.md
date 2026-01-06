@@ -1,0 +1,6 @@
+# Contributories in a case of death or bankruptcy of a member
+107 (1) If a contributory dies either before or after he has been placed on the list of contributories, his estate representatives shall be liable in the due course of the administration to contribute to the assets of the limited liability company in discharge of his liability and shall be contributories accordingly.
+(2) If the estate representatives make default in paying any money ordered to be paid by them, proceedings may be taken for administering the estate of the deceased contributory and for compelling payment thereout of the money due.
+(3) If a contributory becomes bankrupt, either before or after he has been placed on the list of contributories—
+(a) his trustee in bankruptcy shall represent him for all the purposes of the winding up, and shall be a contributory accordingly, and may be called on to admit to proof against the estate of the bankrupt, or otherwise allow to be paid out of his assets in due course of law, any money due from the bankrupt in respect of his liability to contribute to the estate of the limited liability company; and
+(b) there may be proved against the estate of the bankrupt the estimated value of his liability to future calls as well as calls already made.

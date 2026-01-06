@@ -1,0 +1,3 @@
+# Disqualification of undischarged bankrupt from acting as receiver
+214 (1) If any person being an undischarged bankrupt under the laws of any country acts as receiver of the property of a limited liability company on behalf of debenture holders, he shall, subject to the following subsection, be liable on conviction on indictment to imprisonment for a term not exceeding two years, or on summary conviction to imprisonment for a term not exceeding six months or to a fine not exceeding $1,000 or both.
+(2) The foregoing subsection shall not apply to a receiver where he acts under an appointment made by order of the Court.

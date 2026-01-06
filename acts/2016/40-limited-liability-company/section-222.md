@@ -1,0 +1,13 @@
+## PART 14
+## CHARGES
+# Register of charges and their priority
+222 (1) The Registrar shall keep with respect to each limited liability company a register of charges on the assets of the limited liability company and any person, including the limited liability company, interested in a charge on the assets of the limited liability company may apply to have that charge registered, and the Registrar shall register the charge in such form as may be prescribed.
+(2) Any charge registered shall have priority based on the date that it is registered and not on the date of its creation and shall have such priority over any unregistered charge.
+(3) Where a charge is created by a limited liability company but is a charge on assets outside Bermuda, the instrument creating or purporting to create the charge may be registered under this section notwithstanding that further proceedings may be necessary to make the charge valid or effectual according to the law of the country in which the property is situate.
+(4) Notwithstanding anything in this section, a charge on—
+(a) land in Bermuda shall be registered under the Mortgage Registration Act 1786 or any Act replacing it and not under this Act and the priority of such charge shall be determined in accordance with the said Mortgage Registration Act 1786 or any Act replacing it;
+(b) any ship registered in Bermuda or any interest therein registrable under the Merchant Shipping Act 2002 or any Act replacing it shall be registered under that Act and not under this Act and the priority of such charge shall be determined in accordance with the said Merchant Shipping Act 2002 or any Act replacing it;
+(c) any aircraft, aircraft engine or any interest therein registrable under the Mortgaging of Aircraft and Aircraft Engines Act 1999 or any Act replacing it shall be registered thereunder, and not under this Act and the priority of such charge shall be determined in accordance with the Mortgaging of Aircraft and Aircraft Engines Act 1999 or any Act replacing it; and
+(d) any assignment of a contract of life insurance to which the Life Insurance Act 1978 applies, shall be subject to the procedures set out in the Life Insurance Act 1978 and not under this Act and the priority of such a charge shall be determined in accordance with the Life Insurance Act 1978 and not under this Act.
+(5) The register of charges shall be available for inspection by members of the public during normal working hours.
+(6) In this Part, “charge” includes any interest created in property by way of security, including any mortgage, assignment, pledge, lien or hypothecation.

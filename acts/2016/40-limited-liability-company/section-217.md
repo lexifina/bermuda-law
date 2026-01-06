@@ -1,0 +1,2 @@
+# Power of Court to fix remuneration on application of liquidator
+217 The Court may, on an application made to the Court by the liquidator of a limited liability company, by order fix the amount to be paid by way of remuneration to any person who, under the powers contained in any instrument, has been appointed as receiver of the property of the limited liability company and may from time to time, on an application made either by the liquidator or by the receiver, vary or amend any order so made.

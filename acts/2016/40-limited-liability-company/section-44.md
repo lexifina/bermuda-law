@@ -1,0 +1,2 @@
+# Certain defences not available
+44 No obligation of a member or manager of a limited liability company to the limited liability company, or to a member or manager of the limited liability company, arising under the LLC agreement or a separate agreement or writing, and no note, instrument or other writing evidencing any such obligation of a member or manager, shall be set aside or varied on the sole ground of the rate of interest charged or compensation to be paid by one party to another.

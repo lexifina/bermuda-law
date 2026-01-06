@@ -1,0 +1,4 @@
+# Distributions in kind
+78 (1) Except as provided in an LLC agreement, a member, regardless of the nature of the member's contribution, has no right to demand and receive any distribution from a limited liability company in any form other than cash.
+(2) Except as provided in an LLC agreement, a member may not be compelled to accept a distribution of any asset in kind from a limited liability company to the extent that the percentage of the asset distributed exceeds a percentage of that asset which is equal to the percentage in which the member shares in distributions from the limited liability company.
+(3) Except as provided in an LLC agreement, a member may be compelled to accept a distribution of any asset in kind from a limited liability company to the extent that the percentage of the asset distributed is equal to a percentage of that asset which is equal to the percentage in which the member shares in distributions from the limited liability company.

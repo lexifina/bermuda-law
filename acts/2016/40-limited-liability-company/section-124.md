@@ -1,0 +1,2 @@
+# Books to be kept by liquidator
+124 Every liquidator of a limited liability company which is being wound up by the Court shall keep, in the manner prescribed, proper books in which he shall cause to be made entries or minutes of proceedings at meetings, and of such other matters as may be prescribed, and any creditor or contributory may, subject to the control of the Court, personally or by his agent inspect any such books.

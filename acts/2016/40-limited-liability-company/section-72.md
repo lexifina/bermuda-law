@@ -1,0 +1,2 @@
+# Business transactions of member or manager with the limited liability company
+72 Except as provided in an LLC agreement, a member or manager may lend money to, borrow money from, act as a surety, guarantor or endorser for, guarantee or assume one or more obligations of, provide collateral for, and transact other business with, a limited liability company and, subject to other applicable law, has the same rights and obligations with respect to any such matter as a person who is not a member or manager.

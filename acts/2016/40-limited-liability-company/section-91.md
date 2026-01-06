@@ -1,0 +1,10 @@
+# Amalgamation agreement or merger agreement
+91 (1) Each limited liability company proposing to amalgamate or merge shall enter into an amalgamation agreement or merger agreement, as the case may be, setting out the terms and means of effecting the amalgamation or merger and, in particular, setting out—
+(a) the provisions that are required to be included in the certificate of amalgamation or the certificate of merger;
+(b) the name and address of any proposed manager of the amalgamated or surviving LLC;
+(c) the manner in which the LLC interests of each amalgamating or merging limited liability company are to be exchanged or converted into LLC interests of the amalgamated or surviving LLC;
+(d) if any LLC interests of an amalgamating or merging LLC are not to be converted into LLC interests of the amalgamated or surviving LLC, the amount of money, securities or other property that the holders of such LLC interests are to receive in addition to or instead of LLC interests of the amalgamated or surviving LLC;
+(e) in respect of an amalgamation, whether the LLC agreement of the amalgamated LLC is to be that of one of the amalgamating LLCs and, if not, a copy of the proposed LLC agreement;
+(f) in respect of a merger, any proposed amendments to the LLC agreement of the surviving LLC or, if none are proposed, a statement that the LLC agreement of the surviving LLC immediately prior to the merger shall be its LLC agreement after the merger; and
+(g) details of any arrangements necessary to perfect the amalgamation or merger and to provide for the subsequent management and operation of the amalgamated or surviving LLC.
+(2) If LLC interests of one of the amalgamating or merging LLCs are held by or on behalf of another of the amalgamating or merging LLCs, the amalgamation agreement or merger agreement shall provide for the cancellation of such LLC interests when the amalgamation or merger becomes effective without any payment in respect thereof, and no provision shall be made in the amalgamation or merger agreement for the conversion of such LLC interests into LLC interests of the amalgamated or surviving LLC.

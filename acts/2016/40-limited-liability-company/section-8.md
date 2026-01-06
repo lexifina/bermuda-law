@@ -1,0 +1,7 @@
+# Secondary name
+8 (1) A limited liability company may adopt a secondary name by filing with the Registrar—
+(a) its certificate of formation under section 30 including its secondary name together with a certificate signed by an authorised person and sworn before a person authorised to administer oaths certifying the accuracy of the English translation of the secondary name and certifying that the person is fluent in the language and script used to express the secondary name; and
+(b) a copy of the text of the secondary name in electronic form suitable for it being reproduced in the register.
+(2) The Registrar is not required to use the secondary name of a limited liability company in certifying any documents in the register and the Registrar does not warrant the accuracy or validity of the secondary name.
+(3) A limited liability company may only use its secondary name on a document if its primary name is also shown on the document in close proximity to the secondary name, except that at no time shall the limited liability company be required to use its secondary name.
+(4) The registration of a secondary name of a limited liability company or the use by a limited liability company of a secondary name does not affect the rights and obligations of the limited liability company or render defective any legal proceedings that are continued or commenced by or against the limited liability company in its primary name.

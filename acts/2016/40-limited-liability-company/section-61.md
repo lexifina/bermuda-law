@@ -1,0 +1,3 @@
+# Contributions by a manager
+61 (1) A manager of a limited liability company may make contributions to the limited liability company and share in the profits and losses of, and in distributions from, the limited liability company as a member.
+(2) A person who is both a manager and a member has the rights and powers, and is subject to the restrictions and liabilities, of a manager and, except as provided in an LLC agreement, also has the rights and powers, and is subject to the restrictions and liabilities, of a member to the extent of the manager's participation in the limited liability company as a member.

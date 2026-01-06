@@ -1,0 +1,14 @@
+# Assignment of LLC interest
+82 (1) An LLC interest is assignable in whole or in part except as provided in an LLC agreement.
+(2) The assignee of a member's LLC interest shall have no right to participate in the management of the business and affairs of a limited liability company except as provided in an LLC agreement or, unless otherwise provided in the LLC agreement, upon the affirmative vote or written consent of all of the members of the limited liability company.
+(3) Unless otherwise provided in an LLC agreement—
+(a) an assignment of an LLC interest does not entitle the assignee to become or to exercise any rights or powers of a member;
+(b) an assignment of an LLC interest entitles the assignee to share in such profits and losses, to receive such distribution or distributions, and to receive such allocation of income, gain, loss, deduction, or credit or similar item to which the assignor was entitled, to the extent assigned; and
+(c) a member ceases to be a member and to have the power to exercise any rights or powers of a member upon assignment of all of the member's LLC interest.
+(4) Unless otherwise provided in an LLC agreement, the granting of a security interest or other encumbrance over or against, any or all of the LLC interest of a member shall not cause the member to cease to be a member or to have the power to exercise any rights or powers of a member.
+(5) Unless otherwise provided in an LLC agreement, a member's interest in a limited liability company may be evidenced by a certificate of LLC interest issued by the limited liability company.
+(6) An LLC agreement may provide for the assignment or transfer of any LLC interest represented by a certificate of LLC interest and make other provisions with respect to such certificates, except that a limited liability company shall not have the power to issue a certificate of LLC interest in bearer form.
+(7) Unless otherwise provided in an LLC agreement and except to the extent assumed by agreement, until an assignee of an LLC interest becomes a member, the assignee shall have no liability as a member solely as a result of the assignment.
+(8) Subject to subsection (9), unless otherwise provided in the LLC agreement, a limited liability company may acquire, by purchase, redemption or otherwise, any LLC interest or other interest of a member or manager in the limited liability company.
+(9) No acquisition by purchase, redemption, or otherwise, of any such interest may be effected if, on the date on which the acquisition is to be effected, the managers have reasonable grounds for believing that the limited liability company is, or after the acquisition would be, unable to pay its liabilities as they become due.
+(10) Unless otherwise provided in an LLC agreement, any such interest so acquired by the limited liability company shall be deemed cancelled.

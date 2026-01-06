@@ -1,0 +1,3 @@
+# Definition and nature of liability of a contributory
+106 (1) The term “contributory” means every person liable to contribute to the assets of a limited liability company in the event of its being wound up, and for the purposes of all proceedings prior to the final determining of the persons who are to be deemed contributories, includes any person alleged to be a contributory.
+(2) The liability of a contributory shall create a debt of the nature of a specialty accruing due from him at the time when his liability commenced but payable at the times when calls are made for enforcing the liability.

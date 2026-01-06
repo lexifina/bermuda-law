@@ -1,0 +1,12 @@
+# LLC agreement
+5 (1) The member or members of a limited liability company shall enter into an LLC agreement in accordance with this section.
+(2) An LLC agreement may be entered into, or otherwise existing, either before, after or at the time of the filing of a certificate of formation and, whether entered into or otherwise existing before, after or at the time of such filing, may be made effective as of the effective time of such filing or at such other time or date as provided in or reflected by the LLC agreement.
+(3) A member or manager of a limited liability company or an assignee of an LLC interest is bound by and entitled to enforce the LLC agreement whether or not the member or manager or assignee executes the LLC agreement.
+(4) A limited liability company is not required to execute its LLC agreement and is bound by and entitled to enforce its LLC agreement whether or not the limited liability company executes its LLC agreement.
+(5) An LLC agreement of a limited liability company having only one member shall not be unenforceable by reason of there being only one person who is a party to the LLC agreement.
+(6) An LLC agreement may provide rights to any person, including a person who is not a party to the LLC agreement, to the extent set forth therein, and such person shall be entitled to enforce such rights notwithstanding that he is not a party to the LLC agreement.
+(7) A written LLC agreement or another written agreement or other document—
+(a) may provide that a person shall be admitted as a member of a limited liability company, or shall become an assignee of an LLC interest or other rights or powers of a member to the extent assigned—
+(i) if such person, or such person’s authorised person executes the LLC agreement or other document evidencing the intent of such person to become a member or assignee of an LLC interest or other rights or powers of a member; or
+(ii) without such execution, if such person, or such person’s authorised person complies with the conditions for becoming a member or assignee of an LLC interest or other rights or powers of a member as set forth in the LLC agreement or other document; and
+(b) shall not be unenforceable by reason of its not having been signed by a person being admitted as a member or becoming an assignee as provided in paragraph (a) above, or by reason of its having been signed by a representative as provided in this subsection.

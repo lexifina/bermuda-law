@@ -1,0 +1,7 @@
+# Unclaimed assets to be paid into consolidated fund
+206 (1) If, where a limited liability company is being wound up, it appears either from any statement sent to the Registrar under section 205 or otherwise that a liquidator has in his hands or under his control—
+(a) any money representing unclaimed or undistributed assets of the limited liability company which have remained unclaimed or undistributed for six months after the date of their receipt; or
+(b) any money held by the limited liability company in trust in respect of distributions or other sums due to any person in accordance with the LLC agreement of the limited liability company,
+the liquidator shall forthwith pay the said money to the Accountant General who shall pay it into the Consolidated Fund and the liquidator shall be entitled to a receipt for the money so paid which shall be an effectual discharge to him in respect thereof.
+(2) Any person claiming to be entitled to any money paid into the Consolidated Fund in pursuance of this section may apply to the Accountant General for payment thereof, and the Accountant General, on receipt of a certificate by the liquidator that the person claiming is entitled, may make an order for the payment to that person of the sum due.
+(3) Any person dissatisfied with the decision of the liquidator or the Accountant General in respect of a claim made under this section may appeal to the Court.

@@ -1,0 +1,5 @@
+# Resignation of manager
+75 (1) A manager may resign as a manager of a limited liability company at the time or upon the happening of events specified in an LLC agreement and in accordance with the LLC agreement.
+(2) An LLC agreement may provide that a manager shall not have the right to resign as a manager of a limited liability company.
+(3) Notwithstanding that an LLC agreement provides that a manager does not have the right to resign as a manager of a limited liability company or is silent as to a manager’s right to resign, a manager may resign as a manager of a limited liability company at any time by giving written notice to the members and other managers.
+(4) If the resignation of a manager violates an LLC agreement, in addition to any remedies otherwise available under applicable law, a limited liability company may recover from the resigning manager damages for breach of the LLC agreement and offset the damages against the amount otherwise distributable to the resigning manager.
