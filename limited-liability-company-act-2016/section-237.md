@@ -1,0 +1,15 @@
+# Delivery of electronic records generally
+237 (1) Where there is a requirement in this Act, in any statutory instrument made under this Act or in any LLC agreement to provide a document to a person, or for a document to accompany another document, the requirement may, unless precluded by the LLC agreement of a limited liability company, be met by the delivery, or deemed delivery, of an electronic record of the document in accordance with this section.
+(2) For the purposes of subsection (1), “to provide” includes to send, forward, give, deliver, submit, file, deposit, furnish, issue, leave at, serve, circulate, lay, make available or lodge.
+(3) An electronic record of a document may be delivered to a person by communicating it by electronic means to the person at the address or number that has been notified by the person for the purposes of communication by electronic means.
+(4) Subject to subsection (7), an electronic record of a document is deemed to have been delivered to a person if it is published on a website and the person is sent a notice which includes details of—
+(a) the publication of the document on the website, the address of the website, the place on the website where the document may be found and how the document may be accessed on the website; and
+(b) how the person is to notify the limited liability company that the person elects to receive the document in a physical form if the person wishes to receive the document in a physical form.
+(5) If, in accordance with a notice sent to a person under subsection (4), the person elects to receive a document in a physical form, the limited liability company shall send to that person such document within seven days of receipt of that person’s election.
+(6) The accidental omission of a limited liability company to send a document to a person in accordance with subsection (5), or the non-receipt by the person of a document that has been duly sent to that person, does not invalidate deemed delivery of that document to that person pursuant to subsection (4).
+(7) If there is a requirement that a person have access to a document for a specified period, the person must be notified of the publication of the document before the commencement of the period and, subject to subsection (8), the document must be published on the website throughout the whole of the period.
+(8) Nothing in subsection (7) shall invalidate the deemed delivery of an electronic copy of a document under subsection (4) if—
+(a) the document is published for at least part of a period; and
+(b) the failure to publish it throughout the whole of the period is wholly attributable to circumstances that the person providing the document could not reasonably have been expected to prevent or avoid.
+(9) Subject to any rules made under section 256, this section shall not apply to the sending or receipt of any books and papers or documents to or by the Court.
+(10) Sections 10 and 17 of the Electronic Transactions Act 1999 do not apply to the delivery of an electronic record in accordance with this section.

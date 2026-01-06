@@ -1,0 +1,3 @@
+# Fraudulent preference
+187 (1) Any conveyance, mortgage, delivery of goods, payment, execution or other act relating to property made or done by or against a limited liability company within six months before the commencement of its winding up which, had it been made or done by or against an individual within six months before the presentation of a bankruptcy petition on which he is adjudged bankrupt, would be deemed in his bankruptcy a fraudulent preference, shall in the event of the limited liability company being wound up be deemed a fraudulent preference of its creditors and be invalid accordingly.
+(2) Any conveyance or assignment by a limited liability company of all its property to trustees for the benefit of all its creditors shall be void to all intents.

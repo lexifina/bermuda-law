@@ -1,0 +1,5 @@
+# Definition of inability to pay debts
+109 A limited liability company shall be deemed to be unable to pay its debts—
+(a) if a creditor, by assignment or otherwise, to whom the limited liability company is indebted in a sum exceeding $500 then due has served on the limited liability company, by leaving it at the registered office of the limited liability company, a demand requiring the limited liability company to pay the sum so due and the limited liability company has for three weeks thereafter neglected to pay the sum or to secure or compound for it to the reasonable satisfaction of the creditor; or
+(b) if the execution or other process issued on a judgment, decree or order of any court in favour of a creditor of the limited liability company is returned unsatisfied in whole or in part; or
+(c) if it is proved to the satisfaction of the Court that the limited liability company is unable to pay its debts; in determining whether a limited liability company is unable to pay its debts, the Court shall take into account the contingent and prospective liabilities of the limited liability company.

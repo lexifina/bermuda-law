@@ -1,0 +1,6 @@
+# Records of account
+50 (1) A limited liability company shall keep proper records of account with respect to its business including, without limiting the generality of the foregoing, records of account with respect to its assets, liabilities and capital, cash receipts and disbursements, purchases and sales and income, costs and expenses.
+(2) Subject to subsection (3), the records of account shall be kept at the registered office or at such other place as the managers think fit, and shall at all times be open to inspection in accordance with section 53.
+(3) If the records of account are kept at a place outside Bermuda, there shall be kept at the registered office such records of account as will enable the financial position of the limited liability company, at the end of each three-month period, to be ascertained with reasonable accuracy.
+(4) Every limited liability company shall keep from the date on which they were prepared, for a period of five years, records of account referred to in subsection (1) and, if applicable, subsection (3).
+(5) Any manager of a limited liability company who knowingly contravenes, or permits or authorises the contravention of, subsection (4) commits an offence and is liable on summary conviction to a fine of $7,500.

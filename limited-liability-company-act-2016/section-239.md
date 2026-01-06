@@ -1,0 +1,6 @@
+# Form of registers etc.
+239 (1) Any book or paper required by this or any other Act, whether public or private, to be kept by the Registrar or a limited liability company may be kept by recording the matters in question in bound books or in any other permanent manner including a form otherwise than legible.
+(2) Where any such book or paper is not kept in a bound book, adequate precautions shall be taken for guarding against falsification and facilitating its discovery and where the book or paper is kept in a form otherwise than legible it shall be capable of being reproduced in a legible form.
+(3) Where in this or any other Act, whether public or private, provision is made for the inspection or reproduction of any book or paper, then it shall be treated as a provision to allow inspection or reproduction in a legible form or of being accessed in the manner provided in this section.
+(4) Copies of financial statements referred to in section 51 shall be preserved in the registered office of the limited liability company for a period of six years from the date when they were first required.
+(5) Where any limited liability company fails to comply with any provision of this section, the limited liability company and any officer, manager or member responsible for the default shall be liable to a default fine of $1,000.

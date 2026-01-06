@@ -1,0 +1,3 @@
+# Powers of estate of deceased or incompetent member
+85 (1) If a member who is an individual dies or a court of competent jurisdiction adjudges the member to be incompetent to manage the member's person or property, the member's personal representative may exercise all of the member's rights for the purpose of settling the member's estate or administering the member's property, including any right or power under an LLC agreement of an assignee to become a member.
+(2) If a member is a company or other entity and is dissolved or terminated, the powers of that member may be exercised by its personal representative.

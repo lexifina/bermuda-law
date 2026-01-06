@@ -1,0 +1,19 @@
+# Member approval
+92 (1) Unless otherwise provided in its LLC agreement, each amalgamating or merging LLC shall submit the amalgamation agreement or merger agreement for approval of its members and, if there is more than one class of members, subject to subsection (5), by each class of members.
+(2) A notice of a meeting of members shall be sent to each member of each amalgamating or merging LLC and, unless otherwise provided in the LLC agreement, shall—
+(a) include or be accompanied by a copy or summary of the amalgamation agreement or merger agreement; and
+(b) subject to subsection (3), state—
+(i) the fair value of such member’s LLC interest as determined by the relevant amalgamating or merging LLC; and
+(ii) that a dissenting member is entitled to be paid the fair value of his LLC interest.
+(3) Notwithstanding subsection (2)(b)(ii), failure to state the matter referred to in that subsection does not invalidate an amalgamation or merger.
+(4) Unless otherwise provided in the LLC agreement, each LLC interest of an amalgamating or merging LLC carries the right to vote in respect of an amalgamation or merger whether or not it otherwise carries the right to vote.
+(5) Unless otherwise provided in the LLC agreement, the members of a class of members of an amalgamating or merging LLC are entitled to vote separately as a class in respect of an amalgamation or merger if the amalgamation agreement or merger agreement contains a provision which would constitute a variation of the rights attaching to any such class of members for the purposes of section 47.
+(6) Any provisions of the LLC agreement relating to the holding of members’ meetings shall apply to members’ meetings and class meetings required by this section provided that, unless the LLC agreement otherwise provides, the resolution of the members or class must be approved by a majority vote of those voting at such meeting and the quorum necessary for such meeting shall be two persons at least holding or representing by proxy more than one-third of the LLC interests or the LLC interests of the class, as the case may be.
+(7) Unless otherwise provided in the LLC agreement, any member who did not vote in favour of the amalgamation or merger and who is not satisfied that he has been offered fair value for his LLC interests may within one month of the giving of the notice referred to in subsection (2) apply to the Court to appraise the fair value of his LLC interests.
+(8) Subject to subsection (9), within one month of the Court appraising the fair value of any LLC interests under subsection (7) the limited liability company shall be entitled either—
+(a) to pay to the dissenting member an amount equal to the value of his LLC interests as appraised by the Court; or
+(b) to terminate the amalgamation or merger in accordance with subsection (12).
+(9) Where the Court has appraised any LLC interests under subsection (7) and the amalgamation or merger has proceeded prior to the appraisal then, within one month of the Court appraising the value of the LLC interests, if the amount paid to the dissenting member for his LLC interests is less than that appraised by the Court, the amalgamated or surviving LLC shall pay to such member the difference between the amount paid to him and the value appraised by the Court.
+(10) No appeal shall lie from an appraisal by the Court under this section.
+(11) The costs of any application to the Court under this section shall be in the discretion of the Court.
+(12) An amalgamation agreement or merger agreement may provide that at any time before the issue of a certificate of amalgamation or certificate of merger such agreement may, unless otherwise provided in the LLC agreement, be terminated by the managers, if any, of an amalgamating or merging LLC, notwithstanding approval of the agreement by the members of all or any of the amalgamating or merging LLCs.

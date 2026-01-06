@@ -1,0 +1,2 @@
+# Delivery of property to liquidator
+133 The Court may, at any time after making a winding up order, require any contributory for the time being on the list of contributories and any trustee, receiver, banker, agent or officer of the limited liability company to pay, deliver, convey, surrender or transfer forthwith, or within such time as the Court directs, to the liquidator any money, property or books and papers in his hands to which the limited liability company is prima facie entitled.

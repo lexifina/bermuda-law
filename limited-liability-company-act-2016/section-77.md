@@ -1,0 +1,2 @@
+# Distributions upon resignation
+77 Subject to section 76(3), upon resignation any resigning member is entitled to receive any distribution to which such member is entitled under an LLC agreement and, if not otherwise provided in an LLC agreement, such member is entitled to receive, within a reasonable time after resignation, the fair value of such member's LLC interest as of the date of resignation based upon such member's right to share in distributions from the limited liability company.

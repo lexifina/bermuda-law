@@ -1,0 +1,5 @@
+# Registration of appointment of a receiver or manager
+228 (1) If any person obtains an order for the appointment of a receiver or manager of the property of a limited liability company, or appoints such a receiver or manager under any powers contained in any instrument, he shall, within seven days from the date of the order or of the appointment under the said powers give notice of the fact to the Registrar, and the Registrar shall, on payment of such fee as may be prescribed by Regulations made by the Minister, enter the fact in the register of charges.
+(2) Where any person appointed receiver or manager of the property of a limited liability company under the powers contained in any instrument ceases to act as such receiver or manager, he shall on so ceasing, give the Registrar notice to that effect, and the Registrar shall enter the notice in the register of charges.
+(3) If any person makes default in complying with the requirements of this section, he shall be liable to a default fine as provided in section 229(1).
+(4) Regulations made under this section shall be subject to affirmative resolution procedure.

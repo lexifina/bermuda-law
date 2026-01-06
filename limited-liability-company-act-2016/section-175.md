@@ -1,0 +1,2 @@
+# Distribution of property of limited liability company
+175 Subject to this Act as to preferential payment, the property of a limited liability company shall, on its winding up, be applied in satisfaction of its liabilities pari passu, and, subject to such application, shall, unless the LLC agreement otherwise provides be distributed among the members according to their rights and interests in the limited liability company.
