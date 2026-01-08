@@ -1,0 +1,3 @@
+# Tax arrears payable by subsequent owner
+70 (1) If the tax payable for any tax period in respect of a valuation unit is unpaid on the date on which a person becomes the owner thereof, the tax payable shall be a charge on the valuation unit and that person shall be deemed to be the owner of that valuation unit from the commencement of that tax period.
+(2) Where the new owner of a valuation unit has, in pursuance of subsection (1), paid any tax which was due and unpaid on the date on which he became the owner of that unit, he shall be entitled to recover the amount paid from the preceding owner as a debt due to him unless it has been agreed between them that the whole or any part of that amount should not be recoverable.

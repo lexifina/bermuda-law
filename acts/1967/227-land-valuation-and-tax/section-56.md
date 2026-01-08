@@ -1,0 +1,5 @@
+# Distraint on order of Tax Commissioner
+56 (1) Without prejudice to the rights of the Tax Commissioner under this Act or any other provision of law the Tax Commissioner may by order under his hand addressed to a bailiff require that bailiff to distrain on the personal property of any tax payer named therein for such sum of money, by way of tax, as may be specified in the order; and any such order shall have effect for the purpose of authorizing the bailiff so to distrain on the goods of the person named therein as if it were an order of a court of summary jurisdiction.
+(2) In the execution of an order under this section a bailiff shall be subject to the same liabilities and shall have the same powers and enjoy the same immunities as he would have in the execution of an order of a court of summary jurisdiction to the like effect.
+(3) Personal property seized by a bailiff pursuant to an order under this section shall be disposed of, and the proceeds distributed, after defraying expenses, in the same manner as personal property seized under an order of a court of summary jurisdiction to the like effect.
+[Section 56 amended by 1996:15 effective 24 November 1997]

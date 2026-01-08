@@ -1,0 +1,2 @@
+# Order on appeal to operate as judgment for payment
+54 Where on any appeal under this Part a court determines any person to be the tax payer in relation to the payment of any tax specified in a demand note, as varied, if that is the case, by that court, then the decision of the court shall, in addition, have effect as judgment for the payment of tax in that amount by that person and may be enforced accordingly.

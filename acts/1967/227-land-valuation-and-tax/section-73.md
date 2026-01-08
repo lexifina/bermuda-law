@@ -1,0 +1,4 @@
+# Proof of service
+73 (1) In any proceedings under Part II before the Tribunal or any court a document purporting to be under the hand of the Director certifying that any of the steps to effect service pursuant to section 72 have been taken in relation to any document and any person on any date specified in the certificate shall be receivable in evidence and shall be prima facie evidence of the facts therein specified.
+(2) In any proceedings under Part III or IV before any court a document purporting to be under the hand of the Tax Commissioner certifying that any of the steps to effect service pursuant to section 72 have been taken in relation to any document and any person on any date specified in the certificate shall be receivable in evidence and shall be prima facie evidence of the facts therein specified.
+[Section 73 amended by 1996:15 effective 24 November 1997]

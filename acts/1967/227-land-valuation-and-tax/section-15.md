@@ -1,0 +1,2 @@
+# Duty of Director in relation to objections
+15 The Director shall consider each objection received under this Act and shall inform the person objecting (and, where the objection relates to a valuation unit of which some person other than the person objecting is the owner, the owner thereof) in writing whether he concurs in the proposal contained in the notice of objection or concurs therein with such modifications and reservations as he may specify or whether he rejects it; and shall set out the reasons therefor.

@@ -1,0 +1,11 @@
+# Procedure
+21 (1) The Tribunal shall hear objections and proposals in public in accordance with rules and, subject to such rules and this Act, may regulate its own procedure.
+(2) The Tribunal may consider more than one objection or proposal or a combination of both at one and the same time where, in the opinion of the Tribunal, such objections or proposals raise substantially similar points for determination by the Tribunal or may for any other good and sufficient reason be conveniently considered together.
+(3) At any hearing of an objection or proposal by the Tribunal the Director, the objector and any other person who is the owner of the land affected by the objection or proposal or who, in the opinion of the Tribunal, should be given an opportunity to be heard, shall be entitled to appear before the Tribunal in person or by his duly authorized representative and, subject to sections 7(2A) and 20(3B)(b), to produce evidence and to make representations relating to the objection or proposal.
+(4) The Tribunal may be differently constituted for the hearing of objections or proposals from time to time at the discretion of the Chairman.
+(4A) Where a member of the Tribunal has any direct or indirect interest in any matter before it, he shall—
+(a) fully disclose his interest to the Tribunal at the earliest opportunity; and
+(b) not take part in any, or any further, discussion of the matter, and have no vote in relation to the matter, unless the Tribunal has resolved that the interest does not give rise to a conflict of interest.
+(5) Notwithstanding subsections (1) to (4A), where in the course of determining any objection or proposal one of the members of the Tribunal is unable to continue to act as a member for any reason, then, if all parties concerned agree, the Tribunal may proceed with the determination of that objection or proposal in the absence of that member and shall be deemed to be duly constituted in so doing.
+(6) The Director shall be a party to all proceedings before the Tribunal.
+[Section 21 subsection (3) amended by 2015 : 29 s. 16 effective 4 July 2015; Section 21 subsection (4A) inserted and subsection (5) amended by 2020 : 10 s. 2 effective 19 March 2020]

@@ -1,0 +1,3 @@
+# Appeal to Supreme Court
+47 (1) Any party to an appeal before a court of summary jurisdiction under this Part who is aggrieved by the decision of that court may within ten days after that decision (or such longer period as the Supreme Court may in any particular case for good cause allow) appeal to the Supreme Court against that decision upon any ground involving a question of law alone or upon an), ground involving a question of mixed law and fact, but not otherwise.
+(2) Upon hearing any appeal under this Part, the Supreme Court may make such order, including an order for costs, as it thinks just.
