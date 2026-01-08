@@ -1,0 +1,3 @@
+# Right of contribution between joint tenants and tenants in common
+74 (1) A joint tenant or tenant in common of any valuation unit who pays tax in respect of that valuation unit for any tax period in excess of a sum proportioned to his interest therein may claim a contribution towards that excess from any other person liable for that tax in an amount not exceeding a sum proportioned to the interest of that other person in that valuation unit less any sum already paid by that other person by way of tax or contribution in respect of that valuation unit for that tax period.
+(2) Any claim under this section may be recovered as a debt for a liquidated amount.

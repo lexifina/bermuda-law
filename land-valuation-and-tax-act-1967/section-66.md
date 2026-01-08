@@ -1,0 +1,2 @@
+# Statutory returns to be receivable in evidence
+66 In any proceedings under this Act before the Tribunal or any court, any document purporting to be a return made to the Director pursuant to section 7 shall be receivable in evidence for the purpose of demonstrating the rents payable for and other particulars in respect of the valuation unit to which the return purports to relate, at the time when the return purports to have been made.

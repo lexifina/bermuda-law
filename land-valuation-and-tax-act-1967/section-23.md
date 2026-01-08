@@ -1,0 +1,3 @@
+# Determination of deferred objections and proposals
+23 (1) As soon as practicable after the circumstances giving rise to the deferment of the consideration of any objection or proposal under section 20 cease to exist, the Tribunal shall consider that objection or proposal under this Act and may make such order and give such directions in terms of that section as it may consider appropriate as if references in that section to the draft valuation list were references to the valuation list.
+(2) The decision of the Tribunal in relation to any objection or proposal under this section shall constitute part of the valuation list without prejudice to the right of appeal against that decision under this Act.

@@ -1,0 +1,4 @@
+# Access to Corporation and Land Title Registrar’s registers
+75 (1) The Tax Commissioner may at any time examine any register or other document in the possession of or under the control of the Corporation of Hamilton or the Corporation of St. George’s or the Land Title Registrar which relates to the ownership of land.
+(2) The Secretary of the Corporation of Hamilton and the Secretary of the Corporation of St. George’s and the Land Title Registrar shall forthwith furnish the Tax Commissioner with a copy of every notice relating to the change of ownership of any land received, after 18 July 1967, under the Municipalities Act 1923, or the Land Title Registrar (Recording of Documents) Act 2017.
+[Section 75 amended by 1996:15 effective 24 November 1997; subsections (1) and (2) amended by 2017 : 9 s. 11 effective 20 February 2017]

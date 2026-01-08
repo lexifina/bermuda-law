@@ -1,0 +1,7 @@
+# Quinquennial replacement of valuation list
+26 (1) Subject to this section, the Director shall prepare quinquennially a new draft valuation list, and a draft valuation list prepared as aforesaid and such a list when duly confirmed are in this section and section 27 referred to respectively as a quinquennial draft valuation list and a quinquennial valuation list, anything in, or done under, subsection (2) notwithstanding.
+(2) The Minister may, if he thinks fit, by order published in the Gazette alter, in any case, by bringing forward or extending by the amount of one year or less the date by which the quinquennial draft valuation list then next due to be prepared under subsection (1) shall in fact be prepared, but so that any altered date fixed by such an order shall be a date not less than three months after the date of the publication of the order in the Gazette.
+(3) On the confirmation of a quinquennial draft valuation list, the confirmed quinquennial valuation list shall supersede the valuation list in being immediately before the confirmation with effect from the effective date of the confirmed quinquennial valuation list, and the confirmed quinquennial valuation list shall on and after that date be the valuation list for Bermuda.
+(4) [repealed]
+(5) An order for which subsection (2) provides shall be subject to affirmative resolution procedure.
+[Section 26 subsections (1) - (3) amended and subsection (4) repealed by 2015 : 29 s. 19 effective 4 July 2015]
