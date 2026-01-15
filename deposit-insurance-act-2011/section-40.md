@@ -1,0 +1,3 @@
+# Disclosure for facilitating the discharge of functions of the BDIC
+40 (1) Section 39 does not preclude the disclosure of information in any case in which disclosure is for the purpose of enabling or assisting the BDIC to discharge its functions under this Act.
+(2) Without prejudice to the generality of subsection (1), section 39 does not preclude the disclosure of information by the BDIC to the auditor of a Scheme member if it appears to the BDIC that disclosing the information would enable or assist the BDIC to discharge the functions mentioned in that subsection or would otherwise be in the interests of the depositors.
