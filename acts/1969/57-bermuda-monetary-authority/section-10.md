@@ -1,0 +1,5 @@
+# Parity of Bermuda dollar
+10 (1) The parity of the Bermudian dollar shall be equivalent to such amount of sterling, or of any other national or international currency, or of gold, as the Governor, acting in accordance with the Articles of Agreement of the International Monetary Fund, may by Order, made in accordance with this section, prescribe.
+(2) An Order shall come into operation at the time and on the day on which it is subscribed in writing by the Governor or at such time, being not earlier than 24 hours from the time at which it is so subscribed, as may be specified in such Order.
+(3) An Order shall be given such publicity as soon as may be after it is subscribed in writing by the Governor as, in the opinion of the Governor, is likely to bring the Order to the notice of such persons as are immediately affected thereby and, notwithstanding the foregoing, shall be published in the Gazette.
+(4) An Order may be made on a public holiday within the meaning of the Public Holidays Act 1947 [title 28 item 8].
