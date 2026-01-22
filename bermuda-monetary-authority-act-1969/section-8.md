@@ -1,0 +1,10 @@
+# General reserve
+8 (1) The Authority shall establish and maintain a General Reserve to which, subject to subsection (2), there shall be transferred at the end of each year an amount representing the net profit or from which there shall be deducted an amount representing the net loss of the Authority after taking into account the expenses of its operation and after provision has been made for bad and doubtful debts, depreciation in assets and other contingencies.
+(2) Transfers to the General Reserve pursuant to subsection (1) shall be made in the manner following:
+(a) so long as that Reserve amounts to less than 10% of the demand liabilities of the Authority at the end of the year in which any net profit was earned the whole of such net profit shall be transferred to that Reserve;
+(b) so long as that Reserve is equal to or exceeds 10%, but is less than 15% of such liabilities, there shall be transferred to that Reserve one half of the net profit or such smaller amount as will make the Reserve equal to fifteen per centum of the said liabilities;
+(c) where that Reserve is equal to or exceeds 15% of the said liabilities, further transfers may be made with the agreement of the Minister.
+(3) Where any net profit remains after provision is made pursuant to subsections (1) and (2) the Authority may, with the approval of the Minister, apply any portion thereof for the purpose of subscribing the paid up capital of the Authority and the remainder of such net profit shall be transferred to the Consolidated Fund.
+(4) If in any year the Authority should make a net loss which exceeds the amount of the General Reserve at the end of that year, a sum equivalent to the amount by which such net loss exceeds that Reserve shall be paid to the Authority from the Consolidated Fund.
+(5) For the purposes of subsection (2), “demand liabilities” does not include demand deposits placed with the Authority which consist of public funds.
+[section 8 subsection (3) amended by 2006:27 s.16 & Sch effective 27 December 2006]

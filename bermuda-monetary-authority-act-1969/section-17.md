@@ -1,0 +1,2 @@
+# Damaged notes or coins
+17 No person shall be entitled to recover from the Authority the value of any damaged, mutilated or imperfect currency note or coin or any coin which has ceased to be legal tender by virtue of section 16(3), but notwithstanding the foregoing the Authority may, as of grace and subject to such conditions and limitations as it may see fit, refund the value of such currency note or coin.

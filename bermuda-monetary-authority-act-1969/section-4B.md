@@ -1,0 +1,6 @@
+# Immunity from suit
+4B (1) No action, suit, prosecution or other proceeding shall be brought or instituted personally against an officer, servant or agent of the Authority in respect of any act done bona fide in pursuance or execution or intended execution of this Act or any other Act and regulations made thereunder.
+(2) Where any officer is exempt from liability by reason only of subsection (1), the Authority shall be liable to the extent that it would be if that officer were a servant or agent of the Authority.
+(3) Neither the Authority nor any person who is, or is acting as, an officer, servant or agent of the Authority is liable in damages for anything done or omitted in the discharge or purported discharge of the Authority’s functions under this Act or any other Act and regulations made thereunder unless it is shown that the act or omission was in bad faith.
+(4) For the purposes of this section, “agent” includes an auditor, accountant or other person who by or under any statutory provision is under a duty to give notice of, or report on, any fact or matter to the Authority for the purposes of its functions.
+[section 4B inserted by 2000:31 s.3 effective 22 August 2000; repealed and replaced by 2001:34 s.6 effective 1 January 2002; subsection (4) inserted by 2006:27 s.5 effective 27 December 2006]
