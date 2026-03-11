@@ -1,0 +1,3 @@
+# 29/7 Directions
+7 (1) Where an application is made under any of the foregoing provisions of this Order, the Court may give directions as to the further proceedings in the cause or matter.
+(2) If, in an action begun by writ, not being any such action as is mentioned in sub-paragraphs (a) to (c) and (e) to (h) of Order 25, rule 1(2), the Court thinks fit to give directions under this rule before the summons for directions, rules 2 to 7 of that Order shall, with the omission of so much of rule 7(1), is requires parties to serve a notice specifying the orders and directions which they desire and with any other necessary modifications, apply as if the application were a summons for directions.

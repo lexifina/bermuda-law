@@ -1,0 +1,5 @@
+# 76/4 Lodgment of grant in action for revocation
+4 (1) Where, at the commencement of an action for the revocation of a grant of probate of the will or letters of administration of the estate of a deceased person, the probate or letters of administration, as the case may be, have not been lodged in court, then—
+(a) if the action is commenced by a person to whom the grant was made, he shall lodge the probate or letters of administration in the Registry within seven days after the issue of the writ;
+(b) if any defendant to the action has the probate or letters of administration in his possession or under his control, he shall lodge it or them in the Registry within fourteen days after the service of the writ upon him.
+(2) Any person who fails to comply with paragraph (1) may, on the application of any party to the action, be ordered by the Court to lodge the probate or letters of administration in the Registry within a specified time; and any person against whom such an order is made shall not be entitled to take any step in the action without the leave of the Court until he has complied with the order.

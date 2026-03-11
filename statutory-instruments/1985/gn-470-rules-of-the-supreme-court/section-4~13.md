@@ -1,0 +1,7 @@
+# 15/4 Joinder of parties
+4 (1) Subject to rule 5(1), two or more persons may be joined together in one action as plaintiffs or as defendants with the leave of the Court or where—
+(a) if separate actions were brought by or against each of them, as the case may be, some common question of law or fact would arise in all the actions, and
+(b) all rights to relief claimed in the action (whether they are joint, several or alternative) are in respect of or arise out of the same transaction or series of transactions.
+(2) Where the plaintiff in any action claims any relief to which any other person is entitled jointly with him, all persons so entitled must, subject to the provisions of any enactment and unless the Court gives leave to the contrary, be parties to the action and any of them who does not consent to being joined as a plaintiff must, subject to any order made by the Court on an application for leave under this paragraph, be made a defendant.
+This paragraph shall not apply to a probate action.
+(3) Where relief is claimed in an action against a defendant who is jointly liable with some other person and also severally liable, that other person need not be made a defendant to the action; but where persons are jointly, but not severally, liable under a contract and relief is claimed against some but not all of those persons in an action in respect of that contract, the Court may, on the application of any defendant to the action, by order stay proceedings in the action until the other persons so liable are added as defendants.

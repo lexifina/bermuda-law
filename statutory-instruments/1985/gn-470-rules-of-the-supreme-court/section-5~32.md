@@ -1,0 +1,3 @@
+# 40/5 Remuneration of court expert
+5 (1) The remuneration of the court expert shall be fixed by the Court and shall include a fee for his report and a proper sum for each day during which he is required to be present either in court or before an examiner.
+(2) Without prejudice to any order providing for payment of the court expert’s remuneration as part of the costs of the cause or matter, the parties shall be jointly and severally liable to pay the amount fixed by the Court for his remuneration but, where the appointment of a court expert is opposed, the Court may, as a condition of making the appointment, require the party applying for the appointment to give such security for the remuneration of the expert as the Court thinks fit.

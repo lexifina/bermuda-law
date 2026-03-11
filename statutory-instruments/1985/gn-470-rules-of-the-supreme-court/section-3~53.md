@@ -1,0 +1,4 @@
+# 66/3 Copies of documents for other party
+3 (1) Where a document prepared by a party for use in the Court is printed the party by whom it was prepared must, on receiving a written request from any party entitled to a copy of that document and on payment of the proper charges, supply him with such number of copies thereof, not exceeding ten, as may be specified in the request.
+(2) Where a document prepared by a party for use in the Court is written or typewritten, the party by whom it was prepared must supply any other party entitled to a copy of it, not being a party on whom it has been served, with one copy of it and, where the document in question is an affidavit, of any document exhibited to it.
+The copy must be ready for delivery within forty-eight hours after a written request for it, together with an undertaking to pay the proper charges, is received and must be supplied thereafter on payment of those charges.

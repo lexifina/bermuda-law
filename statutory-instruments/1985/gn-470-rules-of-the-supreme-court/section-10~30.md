@@ -1,0 +1,2 @@
+# 115/10 Summons for directions to be applied for if money not paid into court
+10 If within twenty-one days the insurance company does not pay the money into court he shall issue a summons for directions which shall be served by registered post on the insurance company and on all the persons to whom he has given notice of his application and Order 25 shall apply mutatis mutandis to such a summons.

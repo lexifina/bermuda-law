@@ -1,0 +1,4 @@
+# 1/5 Construction of references to Orders, rules, etc.
+5 (1) Unless the context otherwise requires, any reference in these rules to a specified Order, rule or Appendix is a reference to that Order or rule of, or that Appendix to, these rules and any reference to a specified rule, paragraph or sub-paragraph is a reference to that rule of the Order, that paragraph of the rule, or that sub-paragraph of the paragraph, in which the reference occurs.
+(2) Any reference in these Rules to anything done under a rule of these Rules includes a reference to the same thing done before the commencement of that rule under any corresponding rule of court ceasing to have effect on the commencement of that rule.
+(3) Except where the context otherwise requires, any reference in these Rules to any enactment shall be construed as a reference to that enactment as amended, extended, or applied by or under any other enactment.

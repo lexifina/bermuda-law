@@ -1,0 +1,3 @@
+# 8/2 Notice of motion
+2 (1) Except where an application by motion may properly be made ex parte, no motion shall be made without previous notice to the parties affected thereby, but the Court, if satisfied that the delay caused by proceeding in the ordinary way would or might entail irreparable or serious mischief may make an order ex parte on such terms as to costs or otherwise, and subject to such undertaking, if any, as it thinks just; and any party affected by such order may apply to the Court to set it aside.
+(2) Unless the Court gives leave to the contrary there must be at least two clear days between the service of notice of a motion and the day named in the notice for hearing the motion.

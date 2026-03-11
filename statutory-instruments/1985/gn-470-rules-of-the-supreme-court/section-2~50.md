@@ -1,0 +1,6 @@
+# 66/2 Regulations as to printing, etc.
+2 (1) Except where these rules otherwise provide, every document prepared by a party for use in the Court must be produced by one of the following means, that is to say, printing, writing (which must be clear and legible) and typewriting otherwise than by means of a carbon, and may be produced partly by one of those means and partly by another or others of them.
+(2) For the purpose of these rules a document shall be deemed to be printed if it is produced by type lithography or duplicating.
+(3) Any type used in producing a document for use as aforesaid must be such as to give a clear and legible impression and must be no smaller than 11 point type for printing or elite type for type lithography, duplicating or typewriting.
+(4) Any document produced by a photographic or similar process giving a positive and permanent representation free from blemishes shall, to the extent that it contains a facsimile of any printed, written or typewritten matter, be treated for the purposes of these rules as if it were printed, written or typewritten, as the case may be.
+(5) Any notice required by these rules may not be given orally except with the leave of the Court.

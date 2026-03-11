@@ -1,0 +1,6 @@
+## ORDER 2
+## EFFECT OF NON-COMPLIANCE
+# 2/1 Non-compliance with rules
+1 (1) Where, in beginning or purporting to begin any proceedings or at any stage in the course of or in connection with any proceedings, there has, by reason of anything done or left undone, been a failure to comply with the requirements of these Rules, whether in respect of time, place, manner, form or content or in any other respect, the failure shall be treated as an irregularity and shall not nullify the proceedings, any step taken in the proceedings, or any document, judgment or order therein.
+(2) Subject to paragraph (3), the Court may, on the ground that there has been such a failure as is mentioned in paragraph (1), and on such terms as to costs or otherwise as it thinks just, set aside either wholly or in part the proceedings in which the failure occurred, any steps taken in those proceedings or any document, judgment or order therein or exercise its powers under these Rules to allow such amendments (if any) to be made and to make such order (if any) dealing with the proceedings generally as it thinks fit.
+(3) The Court shall not wholly set aside any proceedings or the writ or other originating process by which they were begun on the ground that the proceedings were required by any of these rules to be begun by an originating process other than the one employed.

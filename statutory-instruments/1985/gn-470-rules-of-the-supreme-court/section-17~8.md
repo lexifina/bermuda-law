@@ -1,0 +1,5 @@
+# 75/17 Interveners
+17 (1) Where property against which an action in rem is brought is under arrest or money representing the proceeds of sale of that property is in court, a person who has an interest in that property or money but who is not a defendant to the action may, with the leave of the Court, intervene in the action.
+(2) An application for the grant of leave under this rule must be made ex parte by affidavit showing the interest of the applicant in the property against which the action is brought or in the money in court.
+(3) A person to whom leave is granted to intervene in an action must enter an appearance therein in the Registry within the period specified in the order granting leave; and Order 12, rules 1 to 4, shall, with the necessary modifications, apply in relation to the entry of appearance by an intervener as if he were a defendant named in the writ.
+(4) The Court may order that person to whom it grants leave to intervene in an action shall, within such period as may be specified in the order, serve on every other party to the action such pleading as may be so specified.

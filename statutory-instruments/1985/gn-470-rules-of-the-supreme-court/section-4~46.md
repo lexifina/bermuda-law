@@ -1,0 +1,7 @@
+# 55/4 Service of notice of motion and entry of appeal
+4 (1) The persons to be served with notice of the motion by which an appeal to which this Order applies is brought are the following—
+(a) if the appeal is against a judgment, order or other decision of a court, the responsible officer of the court and any party to the proceedings in which the decision was given who is directly affected by the appeal;
+(b) if the appeal is against an order, determination, award or other decision of a tribunal, Minister, government board or other person, the chairman of the tribunal, Minister, government board or person, as the case may be, and every party to the proceedings (other than the appellant) in which the decision appealed against was given.
+(2) The notice must be served, and the appeal entered, within twenty-eight days after the date of the judgment, order, determination or other decision against which the appeal is brought.
+(3) In the case of an appeal against a judgment, order or decision of a court, the period specified in paragraph (2) shall be calculated from the date of the judgment or order or the date on which the decision was given.
+(4) In the case of an appeal against an order, determination, award or other decision of a tribunal, Minister, government board or other person, the period specified in paragraph (2) shall be calculated from the date on which notice of the decision was given to the appellant by the person who made the decision or by a person authorized in that behalf to do so.

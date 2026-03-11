@@ -1,0 +1,5 @@
+# 38/29 Power of Court to allow statement to be given in evidence
+29 (1) Without prejudice to section 27B(2)(a) and 27D(2)(a) of the Act and rule 28, the Court may, if it thinks it just to do so, allow a statement falling within section 27B(1), 27D(1) or 27E(1) of the Act to be given in evidence at the trial or hearing of a cause or matter notwithstanding—
+(a) that the statement is one in relation to which rule 21 (1) applies and that the party desiring to give the statement in evidence has failed to comply with that rule, or
+(b) that that party has failed to comply with any requirement of a counter-notice relating to that statement which was served on him in accordance with rule 26.
+(2) Without prejudice to the generality of paragraph (1), the Court may exercise its power under that paragraph to allow a statement to be given in evidence at the trial or hearing of a cause or matter if a refusal to exercise that power might oblige the party desiring to give the statement in evidence to call as a witness at the trial or hearing an opposite party or a person who is or was at the material time the servant or agent of an opposite party.

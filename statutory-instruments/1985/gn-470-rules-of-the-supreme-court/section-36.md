@@ -1,0 +1,3 @@
+# 38/36 Restrictions on adducing expert evidence
+36 (1) Except with the leave of the Court or where all parties agree, no expert evidence may be adduced at the trial or hearing of any cause or matter unless the party seeking to adduce the evidence has applied to the Court to determine whether a direction should be given under rule 3, 38, or 41 (whichever is appropriate) and has complied with any direction given on the application.
+(2) Nothing in paragraph (1) shall apply to evidence which is permitted to be given by affidavit or shall affect the enforcement under any other provision of these Rules (except Order 45, rule 5) of a direction given under this Part of this Order.

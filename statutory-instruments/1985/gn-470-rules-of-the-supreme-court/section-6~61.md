@@ -1,0 +1,3 @@
+# 119/6 Service of summons
+6 (1) Subject to paragraph (2), every originating summons issued under this Order shall be served on each of the persons against whom the summons is issued (in this Order referred to as “the defendants”) as soon as practicable after it has been issued and, in the case of a summons to which rule 7(2) applies, in any event within 2 days of issue (but subject always to any delay resulting from compliance with the law of the country in which service is effected).
+(2) The Authority shall be made a defendant to every summons issued under this Order. The summons shall be served on the Authority as soon as possible after, and in any event on the day of, issue.

@@ -1,0 +1,4 @@
+# 49/6 Claims of third persons
+6 (1) If in garnishee proceedings it is brought to the notice of the Court that some other person than the judgment debtor is or claims to be entitled to the debt sought to be attached or has or claims to have a charge or lien upon it, the Court may order that person to attend before the Court and state the nature of his claim with particulars thereof.
+(2) After hearing any person who attends before the Court in compliance with an order under paragraph (1), the Court may summarily determine the questions at issue between the claimants or make such other order as it thinks just, including an order that any question or issue necessary for determining the validity of the claim of such other person as is mentioned in paragraph (1) be tried in such manner as is mentioned in rule 5. 49/7
+[blank]

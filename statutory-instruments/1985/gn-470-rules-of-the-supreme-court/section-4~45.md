@@ -1,0 +1,3 @@
+# 54/4 Power to order release of person restrained
+4 (1) Without prejudice to rule 2(1), the Court or judge hearing an application for a writ of habeas corpus ad subjiciendum may in its or his discretion order that the person restrained be released, and such order shall be a sufficient warrant to the Commissioner of Prisons, any police officer or other person for the release of the person under restraint.
+(2) Where such an application in a criminal cause or matter is heard by a judge and the judge does not order the release of the person restrained, he shall direct that the application be made by originating motion to a judge in Court.

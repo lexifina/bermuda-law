@@ -1,0 +1,2 @@
+# 48/2 Examination of party liable to satisfy other judgment
+2 Where any difficulty arises in or in connection with the enforcement of any judgment or order, other than such a judgment or order as is mentioned in rule 1, the Court may make an order under that rule for the attendance of the party liable to satisfy the judgment or order and for his examination on such questions as may be specified in the order, and that rule shall apply accordingly with the necessary modifications.

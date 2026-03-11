@@ -1,0 +1,2 @@
+# 116/2 Order upon summons
+2 On the day specified in the summons the Court or Judge shall give such directions as he may think fit as to the proceedings on the reference including, without prejudice to the generality of the foregoing words, a direction requiring the valuation of any property to be made by a person appointed by the Court in accordance with section 53(3) of the Stamp Duties Act 1976 [title 14 item 24].

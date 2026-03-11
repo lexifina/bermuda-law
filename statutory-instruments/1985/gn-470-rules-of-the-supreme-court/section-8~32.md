@@ -1,0 +1,4 @@
+# 58/8 Appeal from judgment, etc. of judge in interpleader proceedings
+8 (1) Any judgment, order or decision of a judge given or made in summarily determining under Order 17, rule 5(2)(b) or (c), any question at issue between claimants in interpleader proceedings shall be final and conclusive against the claimants and all persons claiming under them unless leave to appeal to the Court of Appeal is given by the judge or the Court of Appeal.
+(2) Where an interpleader issue is tried by a judge (with or without a jury), an appeal shall lie to the Court of Appeal, without the leave of the judge, or that Court, from any judgment, order or decision given or made by the judge on the trial.
+(3) The time within which notice of appeal under this rule must be served shall be the same as in the case of an appeal from an interlocutory order.

@@ -1,0 +1,2 @@
+# 40/3 Experiments and tests
+3 If the court expert is of opinion that an experiment or test of any kind (other than one of a trifling character) is necessary to enable him to make a satisfactory report he shall inform the parties or their attorneys and shall, if possible, make an arrangement with them as to the expenses involved, the persons to attend and other relevant matters; and if the parties are unable to agree on any of those matters it shall be settled by the Court.

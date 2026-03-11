@@ -1,0 +1,3 @@
+# 22/11 Payment out: small intestate estates
+11 Where a person entitled to a fund in court, or a share of such fund, dies intestate and the Court is satisfied that no grant of administration of his estate has been made and that the assets of his estate do not exceed $2,500 in value, including the value of the fund or share, it may order that the fund or share shall be paid, transferred or delivered to the person who, being a widower, widow, child, father, mother, brother or sister of the deceased, would have the prior right to a grant of administration of the estate of the deceased. 22/12
+[blank]

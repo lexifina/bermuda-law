@@ -1,0 +1,5 @@
+# 55/6 Amendment of grounds of appeal etc.
+6 (1) The notice of the motion by which an appeal to which this Order applies is brought may be amended by the appellant, without leave, by supplementary notice served not less than seven days before the day appointed for the hearing of the appeal, on each of the persons on whom the notice to be amended was served.
+(2) Within two days after service of a supplementary notice under paragraph (1) the appellant must lodge two copies of the notice in the Registry.
+(3) Except with the leave of the Court or a judge, no grounds other than those stated in the notice of the motion by which the appeal is brought or any supplementary notice under paragraph (1) may be relied upon by the appellant at the hearing; but the Court or a judge may amend the grounds so stated or make any other order, on such terms as it or he thinks just, to ensure the determination on the merits of the real question in controversy between the parties.
+(4) The foregoing provisions of this rule are without prejudice to the powers of the Court or a judge under Order 20.

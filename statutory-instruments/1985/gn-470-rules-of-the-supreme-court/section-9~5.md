@@ -1,0 +1,2 @@
+# 14/9 Judgment for delivery up of chattel
+9 Where the claim to which an application under rule 1 or rule 5 relates is for the delivery up of a specified chattel and the Court gives judgment under this Order for the applicant, it shall have the same power to order the party against whom judgment is given to deliver up the chattel without giving him an option to retain it on paying the assessed value thereof as if the judgment had been given after trial.

@@ -1,0 +1,2 @@
+# 75/35 Agreement between attorneys may be made order of court
+35 (1) Any agreement in writing between the attorneys of the parties to a cause or matter, dated and signed by those attorneys, may, if the Registrar thinks it reasonable and such as a judge would under the circumstances allow, be filed in the Registry, and the agreement shall thereupon become an order of court and have the same effect as if such order had been made by a judge.

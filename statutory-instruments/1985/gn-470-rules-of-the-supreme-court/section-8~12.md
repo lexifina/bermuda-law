@@ -1,0 +1,2 @@
+# 24/8 Discovery to be ordered only if necessary
+8 On the hearing of an application for an order under rule 3 or 7 the Court, if satisfied that discovery is not necessary, or not necessary at that stage of the cause or matter, may dismiss or, as the case may be, adjourn the application and shall in any case refuse to make such an order if and so far as it is of opinion that discovery is not necessary either for disposing fairly of the cause or matter or for saving costs.

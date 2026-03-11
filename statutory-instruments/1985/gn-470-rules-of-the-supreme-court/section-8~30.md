@@ -1,0 +1,2 @@
+# 54/8 Procedure at hearing of writ
+8 When a return to a writ of habeas corpus ad subjiciendum is made, the return shall first be read, and motion then made for discharging or remanding the person restrained or amending or quashing the return, and where that person is brought up in accordance with the writ, his counsel shall be heard first, then the counsel for the Crown, and then one counsel for the person restrained in reply.

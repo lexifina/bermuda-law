@@ -1,0 +1,2 @@
+# 99/12 Applications in proceedings under section 13 or 15 of Act
+12 Where an order has been made on an application under section 13 or 15 of the Act, any subsequent application, whether made by a party to the proceedings in which such order was made, or by a person on whom notice of the application for the order was served or by or on behalf of such person as is mentioned in section 19 of the Act, must be made by summons in those proceedings.

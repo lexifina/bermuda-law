@@ -1,0 +1,3 @@
+# 119/18 Costs
+18 (1) The Court shall not order the Authority to pay any costs of or incidental to or relating to proceedings commenced by originating summons under this Order, and shall order that such costs incurred by the Authority shall be paid by whichever of the other parties to the proceedings the Court in its discretion thinks fit and, if by more than one other such party, in such proportion as the Court considers appropriate.
+(2) This rule is without prejudice to the generality of the discretion of the Court with respect to orders as to costs and the provisions of Order 62 insofar as parties other than the Authority are concerned.

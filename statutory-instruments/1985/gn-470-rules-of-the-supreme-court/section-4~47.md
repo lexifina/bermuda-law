@@ -1,0 +1,4 @@
+# 62/4 Cases where no order for costs is to be made
+4 (1) [blank]
+(2) No order shall be made for costs to be paid by or to any person (other than the Parliamentary Registrar) who is respondent to an appeal to the Court from a decision of the Parliamentary Registrar under section 23 of the Parliamentary Elections Act 1978, unless that person appears in support of the decision of the Parliamentary Registrar.
+(3) In a probate action where a defendant has given notice with his defence to the party setting up the will that he merely insists upon the will being proved in solemn form of law and only intends to cross-examine the witnesses produced in support of the will, no order for costs shall be made against him unless it appears to the Court that there was no reasonable ground for opposing the will.

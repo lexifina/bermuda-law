@@ -1,0 +1,3 @@
+# 82/5 Statement in open Court
+5 (1) Where a party accepts money paid into court in satisfaction of a cause of action for libel or slander, the plaintiff or defendant, as the case may be, may apply to a judge in Chambers by summons for leave to make in open Court a statement in terms approved by the judge.
+(2) Where a party to an action for libel or slander which is settled before trial desires to make a statement in open Court, an application must be made to the Court for an order that the action be set down for trial, and before the date fixed for the trial the statement must be submitted for the approval of the judge before whom it is to be made.

@@ -1,0 +1,2 @@
+# 65/7 Effect of service after certain hours
+7 Any document (other than a writ of summons or other originating process) service of which is effected under rule 2 or under rule 5(1)(a) between four in the afternoon on a Friday and midnight on the following Sunday or after four in the afternoon on any other weekday shall, for the purpose of computing any period of time after service of that document, be deemed to have been served on the Monday following that Friday or on the day following that other weekday, as the case may be.

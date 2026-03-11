@@ -1,0 +1,3 @@
+# 24/13 Production to be ordered only if necessary, etc.
+13 (1) No order for the production of any documents for inspection or to the Court shall be made under any of the foregoing rules unless the Court is of opinion that the order is necessary either for disposing fairly of the cause or matter or for saving costs.
+(2) Where on an application under this Order for production of any document for inspection or to the Court privilege from such production is claimed or objection is made to such production on any other ground, the Court may inspect the document for the purpose of deciding whether the claim or objection is valid.

@@ -1,0 +1,3 @@
+# 62/10 Misconduct or neglect in the conduct of any proceedings
+10 (1) Where it appears to the Court in any proceedings that any thing has been done, or that any omission has been made, unreasonably or improperly by or on behalf of any party, the Court may order that the costs of that party in respect of the act or omission, as the case may be, shall not be allowed and that any costs occasioned by it to any other party shall be paid by him to that other party.
+(2) Instead of making an order under paragraph (1) the Court may refer the matter to the Registrar, in which case the Registrar shall deal with the matter under rule 28(1).

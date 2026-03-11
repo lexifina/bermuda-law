@@ -1,0 +1,2 @@
+# 11/8 Undertaking to pay expenses of service by Deputy Governor
+8 Every request lodged under rule 6(4) or rule 7 must contain an undertaking by the person making the request to be responsible personally for all expenses incurred by the Deputy Governor in respect of the service requested and, on receiving due notification of the amount of those expenses, to pay that amount to the Accountant General and to produce a receipt for the payment to the Registrar.

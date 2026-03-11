@@ -1,0 +1,2 @@
+# 86/7 Costs
+7 If the plaintiff makes an application under rule 1 where the case is not within this Order, or if it appears to the Court that the plaintiff knew that the defendant relied on the contention which would entitle him to unconditional leave to defend, then, without prejudice to Order 62, and, in particular, to rule 4(1) thereof, the Court may dismiss the application with costs and may, if the plaintiff is not an assisted person, require the costs to be paid by him forthwith.

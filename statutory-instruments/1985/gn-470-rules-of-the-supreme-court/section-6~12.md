@@ -1,0 +1,2 @@
+# 17/6 Power to order sale of goods taken in execution
+6 Where an application for relief under this Order is made by the Provost Marshal General who has taken possession of any goods or chattels in execution under any process, and a claimant alleges that he is entitled, under a chattel mortgage or otherwise, to the goods or chattels by way of security for debt, the Court may order those goods or chattels or any part thereof to be sold and may direct that the proceeds of sale be applied in such manner and on such terms as may be just and as may be specified in the order.

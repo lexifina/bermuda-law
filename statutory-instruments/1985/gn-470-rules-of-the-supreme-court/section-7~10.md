@@ -1,0 +1,5 @@
+# 18/7 Facts, not evidence, to be pleaded
+7 (1) Subject to the provisions of this rule, and rules 7A, 10, 11 and 12, every pleading must contain, and contain only, a statement in a summary form of the material facts on which the party pleading relies for his claim or defence, as the case may be, but not the evidence by which those facts are to be proved, and the statement must be as brief as the nature of the case admits.
+(2) Without prejudice to paragraph (1), the effect of any document or the purport of any conversation referred to in the pleading must, if material, be briefly stated, and the precise words of the document or conversation shall not be stated, except in so far as those words are themselves material.
+(3) A party need not plead any fact if it is presumed by law to be true or the burden of disproving it lies on the other party, unless the other party has specifically denied it in his pleading.
+(4) A statement that a thing has been done or that an event has occurred, being a thing or event the doing or occurrence of which, as the case may be, constitutes a condition precedent necessary for the case of a party is to be implied in his pleading.

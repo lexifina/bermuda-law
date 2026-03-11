@@ -1,0 +1,2 @@
+# 116/3 Disposal of matters in summary manner
+3 The Court or a Judge may, with the consent of both the Registrar and the estate representative or other person acting in the administration of the estate, if having regard to the value of the subject matter in dispute it seems desirable to do so, decide the matter in a summary manner and on such terms as may be just and he may also deal with and decide the matter if the respondent does not appear in pursuance of the summons.

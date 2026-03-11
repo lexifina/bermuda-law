@@ -1,0 +1,5 @@
+# 119/26 Application to set aside
+26 (1) The person against whom the order of the Authority was made may, at any time within the time limited by the order to register after service on him of the notice of registration of the order of the Authority, apply by summons in chambers to set aside the registration.
+(2) Where the Court hearing an application to set aside such registration is satisfied that the case comes within any of the cases under the relevant enactment in which no order of the Authority can be ordered to be registered or that it is not just or convenient that the order should be registered in Bermuda or that there is other sufficient reason for setting aside the registration, it may order the registration to be set aside either unconditionally or on such terms as it thinks fit and either altogether or until such time as it directs.
+(3) The summons referred to in paragraph (1) of this rule shall be an ordinary summons entitled in the same manner as the summons and affidavit referred to in rule 22.
+[Order 119 inserted by BR 41/2000 effective 12 May 2000]

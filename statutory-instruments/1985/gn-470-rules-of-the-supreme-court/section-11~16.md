@@ -1,0 +1,2 @@
+# 45/11 Matters occurring after judgment: stay of execution, etc.
+11 Without prejudice to Order 47, rule 1, a party against whom a judgment has been given or an order made may apply to the Court for a stay of execution of the judgment or order or other relief on the ground of matters which have occurred since the date of the judgment or order, and the Court may by order grant such relief, and on such terms, as it thinks just.

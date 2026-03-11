@@ -1,0 +1,2 @@
+# 49/5 Dispute of liability by garnishee
+5 Where on the further consideration of the matter the garnishee disputes liability to pay the debt due or claimed to be due from him to the judgment debtor, the Court may summarily determine the question at issue or order that any question necessary for determining the liability of the garnishee be tried in any manner in which any question or issue in an action may be tried, without if it orders trial before the Registrar, the need for any consent by the parties.

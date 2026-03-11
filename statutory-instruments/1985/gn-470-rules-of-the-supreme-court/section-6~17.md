@@ -1,0 +1,5 @@
+# 24/6 Defendant entitled to copy of co-defendant’s list
+6 (1) A defendant who has pleaded in an action shall be entitled to have a copy of any list of documents served under any of the foregoing rules of this Order on the plaintiff by any other defendant to the action; and a plaintiff against whom a counterclaim is made in an action begun by writ shall be entitled to have a copy of any list of documents served under any of those rules on the party making the counterclaim by any other defendant to the counterclaim.
+(2) A party required by virtue of paragraph (1) to supply a copy of a list of documents must supply it free of charge on a request made by the party entitled to it.
+(3) Where in an action begun by originating summons the Court makes an order under rule 3 requiring a defendant to the action to serve a list of documents on the plaintiff, it may also order him to supply any other defendant to the action with a copy of that list.
+(4) In this rule “list of documents” includes an affidavit verifying a list of documents.

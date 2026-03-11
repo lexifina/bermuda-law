@@ -1,0 +1,2 @@
+# 67/3 Notice of appointment of attorney
+3 Where a party after having sued or defended in person, appoints an attorney to act in the cause or matter on his behalf, the change may be made without an order for that purpose and rule 1(2), (3) and (4) shall, with the necessary modifications, apply in relation to a notice of appointment of an attorney as they apply in relation to a notice of change of attorney.

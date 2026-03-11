@@ -1,0 +1,2 @@
+# 33/7 Dismissal of action, etc. after decision of preliminary issue
+7 If it appears to the Court that the decision of any question or issue arising in a cause or matter and tried separately from the cause or matter substantially disposes of the cause or matter or renders the trial of the cause or matter unnecessary, it may dismiss the cause or matter or make such other order or give such judgment as may be just.

@@ -1,0 +1,2 @@
+# 38/25 Reasons for not calling a person as a witness
+25 The reasons referred to in rules 22(3), 23(2) and 24(3) are that the person in question is dead, or beyond the seas or unfit by reason of his bodily or mental condition to attend as a witness or that despite the exercise of reasonable diligence it has not been possible to identify or find him or that he cannot reasonably be expected to have any recollection of matters relevant to the accuracy or otherwise of the statement to which the notice relates.

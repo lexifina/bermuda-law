@@ -1,0 +1,4 @@
+# 16/9 Claims by third and subsequent parties
+9 (1) Where a defendant has served a third party notice and the third party makes such a claim or requirement as is mentioned in rule 1 or rule 8, this Order shall, with the modification mentioned in paragraph (2) and any other necessary modifications, apply as if the third party were a defendant; and similarly where any further person to whom by virtue of this rule this Order applies as if he were a third party makes such a claim or requirement.
+(2) The modification referred to in paragraph (1) is that paragraph (3) shall have effect in relation to the issue of a notice under rule 1 by a third party in substitution for rule 1(2).
+(3) A third party may not issue a notice under rule 1 without the leave of the Court unless the action in question was begun by writ and he issues the notice before the expiration of fourteen days after the time limited for appearing to the notice issued against him.

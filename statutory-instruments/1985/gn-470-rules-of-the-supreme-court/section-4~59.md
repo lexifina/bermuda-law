@@ -1,0 +1,2 @@
+# 85/4 Grant of relief in action begun by originating summons
+4 In an administration action or such an action as is referred to in rule 2, the Court may make any certificate or order and grant any relief to which the plaintiff may be entitled by reason of any breach of trust, wilful default or other misconduct of the defendant notwithstanding that the action was begun by originating summons, but the foregoing provision is without prejudice to the power of the Court to make an order under Order 28, rule 8, in relation to the action.

@@ -1,0 +1,5 @@
+# 38/28 Directions with respect to statement made in previous proceedings
+28 Where a party to a cause or matter has given notice in accordance with rule 21 that he desires to give in evidence at the trial or hearing of the cause or matter—
+(a) a statement falling within section 27B(1) of the Act which was made by a person, whether orally or in a document, in the course of giving evidence in some other legal proceedings (whether civil or criminal), or
+(b) a statement falling within section 27D(1) of the said Act which is contained in a record of direct oral evidence given in some other legal proceedings (whether civil or criminal),
+any party to the cause or matter may apply to the Court for directions under this rule, and the Court hearing such an application may give directions as to whether, and if so on what conditions, the party desiring to give the statement in evidence will be permitted to do so and (where applicable) as to the manner in which that statement and any other evidence given in those other proceedings is to be proved.

@@ -1,0 +1,3 @@
+# 38/10 Court documents admissible or receivable in evidence
+10 (1) Certified copies of writs, records, pleadings and documents filed in the Court shall be admissible in evidence in any cause or matter and between all parties to the same extent as the original would be admissible.
+(2) Without prejudice to the provisions of any enactment, every document purporting to be sealed with the seal of the Court shall be received in evidence without further proof, and any document purporting to be so sealed and to be a copy of a document filed in, or issued out of, the Registry shall be deemed to be a certified copy of that document without further proof unless the contrary is shown.

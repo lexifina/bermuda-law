@@ -1,0 +1,9 @@
+# 16/8 Claims and issues between a defendant and some other party
+8 (1) Where in any action a defendant who has entered an appearance—
+(a) claims against a person who is already a party to the action any contribution or indemnity; or
+(b) claims against such a person any relief or remedy relating to or connected with the original subject-matter of the action and substantially the same as some relief or remedy claimed by the plaintiff; or
+(c) requires that any question or issue relating to or connected with the original subject-matter of the action should be determined not only as between the plaintiff and himself but also as between either or both of them and some other person who is already a party to the action;
+then, subject to paragraph (2), the defendant may, without leave, issue and serve on that person a notice containing a statement of the nature and grounds of his claim or, as the case may be, of the question or issue required to be determined.
+(2) Where a defendant makes such a claim as is mentioned in paragraph (1) and that claim could be made by him by counterclaim in the action, paragraph (1) shall not apply in relation to the claim.
+(3) No appearance to such a notice shall be necessary if the person on whom it is served has entered an appearance in the action or is a plaintiff therein, and the same procedure shall be adopted for the determination between the defendant by whom, and the person on whom, such a notice is served of the claim, question or issue stated in the notice as would be appropriate under this Order if the person served with the notice were a third party and (where he has entered an appearance in the action or is a plaintiff) had entered an appearance to the notice.
+(4) Rule 4(2) shall have effect in relation to proceedings on a notice issued under this rule as if for the words “seven days after entering an appearance” there were substituted the words “fourteen days after service of the notice on him.”

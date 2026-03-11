@@ -1,0 +1,2 @@
+# 19/6 Default of defence: mixed claims
+6 Where the plaintiff makes against a defendant two or more of the claims mentioned in rules 2 to 5, and no other claim, then, if that defendant fails to serve a defence on the plaintiff, the plaintiff may, after the expiration of the period fixed by or under these rules for service of the defence, enter against that defendant such judgment in respect of any such claim as he would be entitled to enter under those rules if that were the only claim made, and proceed with the action against the other defendants, if any.

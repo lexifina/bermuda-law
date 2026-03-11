@@ -1,0 +1,3 @@
+# 19/2 Default of defence: claim for liquidated demand
+2 (1) Where the plaintiff’s claim against a defendant is for a liquidated demand only, then, if that defendant fails to serve a defence on the plaintiff, the plaintiff may, after the expiration of the period fixed by or under these Rules for service of the defence, enter final judgment against that defendant for a sum not exceeding that claimed by the writ in respect of the demand and for costs, and proceed with the action against the other defendants, if any.
+(2) Order 13, rule 1(2), shall apply for the purposes of this rule as it applies for the purposes of that rule.

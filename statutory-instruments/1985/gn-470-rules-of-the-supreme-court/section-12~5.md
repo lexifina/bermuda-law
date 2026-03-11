@@ -1,0 +1,2 @@
+# 35/12 Custody of exhibit after trial
+12 It shall be the duty of every party to an action who has put in any exhibit to apply to the Registrar immediately after the trial for the return of the exhibit, and, so far as is practicable, regard being had to the nature of the exhibit, to keep it duly marked and labelled as before, so that in the event of an appeal, he may be able to produce the exhibit so marked and labelled at the hearing of the appeal in case he is required to do so.

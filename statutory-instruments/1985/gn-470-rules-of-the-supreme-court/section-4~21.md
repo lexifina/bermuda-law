@@ -1,0 +1,3 @@
+# 24/4 Order for determination of issue, etc. before discovery
+4 (1) Where on an application for an order under rule 2 or 3 it appears to the Court that any issue or question in the cause or matter should be determined before any discovery of documents is made by the parties, the Court may order that that issue or question be determined first.
+(2) Where in an action begun by writ an order is made under this rule for the determination of an issue or question, Order 25, rules 2 to 7, shall, with the omission of so much of rule 7(1), as requires parties to serve a notice specifying the orders and directions which they desire and with any other necessary modifications, apply as if the application on which the order was made were a summons for directions.

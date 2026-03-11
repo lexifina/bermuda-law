@@ -1,0 +1,5 @@
+# 15/2 Counterclaim against plaintiff
+2 (1) Subject to rule 5(2), a defendant in any action who alleges that he has any claim or is entitled to any relief or remedy against a plaintiff in the action in respect of any matter (whenever and however arising) may, instead of bringing a separate action, make a counterclaim in respect of that matter; and where he does so he must add the counterclaim to his defence.
+(2) Rule 1 shall apply in relation to a counterclaim as if the counterclaim were a separate action and as if the person making the counterclaim were the plaintiff and the person against whom it is made a defendant.
+(3) A counterclaim may be proceeded with notwithstanding that judgment is given for the plaintiff in the action or that the action is stayed, discontinued or dismissed.
+(4) Where a defendant establishes a counterclaim against the claim of the plaintiff and there is a balance in favour of one of the parties, the Court may give judgment for the balance, so, however, that this provision shall not be taken as affecting the Court’s discretion with respect to costs.

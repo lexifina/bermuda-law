@@ -1,0 +1,9 @@
+# 21/2 Discontinuance of action, etc. without leave
+2 (1) The plaintiff in an action begun by writ may without the leave of the Court, discontinue the action, or withdraw any particular claim made by him therein, as against any or all of the defendants at any time not later than fourteen days after service of the defence on him or, if there are two or more defendants, of the defence last served, by serving a notice to that effect on the defendant concerned.
+(2) A defendant may, without the leave of the Court—
+(a) withdraw his defence or any part of it at any time,
+(b) discontinue a counterclaim, or withdraw any particular claim made by him therein, as against any or all of the parties against whom it is made, at any time not later than fourteen days after service on him of a defence to counterclaim or, if the counterclaim is made against two or more parties, of the defence to counterclaim last served,
+by serving a notice to that effect on the plaintiff or other party concerned.
+(3) Where there are two or more defendants to an action not all of whom serve a defence on the plaintiff, and the period fixed by or under these rules for service by any of those defendants of his defence expires after the latest date on which any other defendant serves his defence, paragraph (1) shall have effect as if the reference therein to the service of the defence last served were a reference to the expiration of that period.
+This paragraph shall apply in relation to a counterclaim as it applies in relation to an action with the substitution for references to a defence, to the plaintiff and to paragraph (1), of references to a defence to counterclaim, to the defendant and to paragraph (2) respectively.
+(4) If all the parties to an action consent, the action may be withdrawn without the leave of the Court at any time before trial by producing to the Registrar a written consent to the action being withdrawn signed by all the parties.

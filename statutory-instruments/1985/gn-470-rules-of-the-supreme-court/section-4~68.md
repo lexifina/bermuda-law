@@ -1,0 +1,2 @@
+# 115/4 Copies of applications to be sent to interested parties
+4 Any person applying to the Court for insurance money to be paid to him under rule 3 shall forthwith send by registered post copies of his application and any affidavits filed by him to the insurance company and to all the persons named by the insurance company as being likely to be interested in the insurance money and to any other person whom he believes is likely to be interested in the money.

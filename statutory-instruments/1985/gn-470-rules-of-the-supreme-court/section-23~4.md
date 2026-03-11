@@ -1,0 +1,6 @@
+# 75/23 Appraisement and sale of property
+23 (1) A commission for the appraisement and sale of any property under an order of the Court shall not be issued until the party applying for it has filed a praecipe in Form No. 12 in Appendix B.
+(2) Such a commission must, unless the Court otherwise orders, be executed by the marshal and must be in Form No. 13 in Appendix B.
+(3) A commission for appraisement and sale shall not be executed until an undertaking in writing satisfactory to the marshal to pay the fees and expenses of the marshal on demand has been lodged in the marshal’s office.
+(4) The marshal shall pay into court the gross proceeds of the sale of any property sold by him under a commission for sale and shall bring into court the account relating to the sale (with vouchers in support) for taxation.
+(5) On the taxation of the marshal’s account relating to a sale any person interested in the proceeds of the sale shall be entitled to be heard, and any decision of the Registrar made on the taxation to which objection is taken may be reviewed in the same manner and by the same persons as any decisions of the Registrar made in taxation proceedings under Order 62, and rules 33 to 35 of that Order shall apply accordingly with the necessary modifications.

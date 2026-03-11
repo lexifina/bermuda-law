@@ -1,0 +1,3 @@
+# 16/7 Judgment between defendant and third party
+7 (1) Where in any action a defendant has served a third party notice, the Court may at or after the trial of the action or, if the action is decided otherwise than by trial, on an application by summons or motion, order such judgment as the nature of the case may require to be entered for the defendant against the third party or for the third party against the defendant.
+(2) Where in an action judgment is given against a defendant and judgment is given for the defendant against a third party, execution shall not issue against the third party without the leave of the Court until the judgment against the defendant has been satisfied.

@@ -1,0 +1,2 @@
+# 38/5 Limitation of plans, etc. in evidence
+5 Unless, at or before the trial, the Court for special reasons otherwise orders, no plan, photograph or model shall be receivable in evidence at the trial of an action unless at least ten days before the commencement of the trial the parties, other than the party producing it, have been given an opportunity to inspect it and to agree to the admission thereof without further proof.

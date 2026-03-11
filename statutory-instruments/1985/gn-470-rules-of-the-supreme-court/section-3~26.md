@@ -1,0 +1,4 @@
+# 29/3 Power to order samples to be taken, etc.
+3 (1) Where it considers it necessary or expedient for the purpose of obtaining full information or evidence in any cause or matter, the Court may, on the application of a party to the cause or matter, and on such terms, if any, as it thinks just, by order authorise or require any sample to be taken of any property which is the subject-matter of the cause or matter or as to which any question may arise therein, any observation to be made on such property or any experiment to be tried on or with such property
+(2) For the purpose of enabling any order under paragraph (1) to be carried out the Court may by the order authorise any person to enter upon any land or building in the possession of any party to the cause or matter.
+(3) Rule 2(5) and (6) shall apply in relation to an application for an order under this rule as they apply in relation to an application for an order under that rule.

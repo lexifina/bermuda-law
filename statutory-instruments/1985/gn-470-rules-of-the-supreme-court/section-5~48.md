@@ -1,0 +1,3 @@
+# 72/5 Transfer of action to commercial list after action begun
+5 (1) At any stage of the proceedings in a commercial action in the Supreme Court any party to the action may apply by summons to a Commercial Judge to transfer the action to the commercial list.
+(2) If, at any stage of the proceedings in a commercial action in the Supreme Court, it appears to the Court that the action may be one suitable for trial in the Commercial Court and any party wishes the action to be transferred to the commercial list, then the Court may adjourn any hearing so that it can proceed before a Commercial Judge and be treated by him as a summons to transfer the action to that list.

@@ -1,0 +1,4 @@
+# Confidentiality of Court documents
+11 (1) When an application is issued, the Court file will be sealed and, unless a judge grants permission, the Court records relating to the application (including the summons, documents filed in support, and any order or warrant that is made) will not be made available by the Court for any person to inspect or copy, either before or after the hearing of the application.
+(2) An application for permission under paragraph (1) shall be made on notice to every other party in accordance with Order 32 (applications and proceedings in chambers) and shall be made to a judge in chambers.
+(Order 32(3) provides that unless the Court otherwise orders or any of these rules otherwise provides, a summons shall be served on every other party not less than two clear days before the day specified in the summons for the hearing.)
