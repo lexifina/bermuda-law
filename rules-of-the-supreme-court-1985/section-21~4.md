@@ -1,0 +1,5 @@
+# 44/21 Registrar’s certificate
+21 (1) The result of proceedings before the Registrar under a judgment shall be stated in the form of a certificate by the Registrar.
+(2) Such certificate shall refer to so much of the judgment, to such documents or parts thereof and to such of the evidence as will make it clear upon what the result stated in the certificate is founded but shall not, unless the circumstances of the case render it necessary, set out the judgment or any documents, evidence or reasons.
+(3) Where the judgment requires the taking of any account, the certificate must refer to the account verified by filed affidavit and must specify by reference to the numbered items in the account which, if any, of such items have been disallowed or varied and the additions, if any, which have been made by way of surcharge or otherwise.
+(4) Where by reason of the alterations made in the account verified by filed affidavit the Court has directed a fresh account incorporating the alterations to be made, the reference in paragraph (3) to the account so verified shall be construed as a reference to the fresh account.

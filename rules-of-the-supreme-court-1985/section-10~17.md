@@ -1,0 +1,2 @@
+# 45/10 Conditional judgment: waiver
+10 A party entitled under any judgment or order to any relief subject to the fulfilment of any condition who fails to fulfil that condition is deemed to have abandoned the benefit of the judgment or order, and, unless the Court otherwise directs, any other person interested may take any proceedings which either are warranted by the judgment or order or might have been taken if the judgment or order had not been given or made.

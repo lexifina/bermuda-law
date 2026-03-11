@@ -1,0 +1,2 @@
+# 115/6 Summons for directions to issue where more than one claimant
+6 If more than one person has within ninety days applied under rule 3 to the Court for insurance money to be paid to him the Registrar shall within the next twenty days himself issue a summons for directions addressed to the insurance company and all persons who have applied for the insurance money to be paid to them and shall fix the date of the hearing of the summons bearing in mind the address of any claimant living outside Bermuda.

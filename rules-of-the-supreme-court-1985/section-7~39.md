@@ -1,0 +1,2 @@
+# 76/7 Service of statement of claim
+7 The plaintiff in a probate action must, unless the court gives leave to the contrary or unless a statement of claim is indorsed on the writ, serve a statement of claim on every defendant who enters an appearance in the action and must do so before the expiration of six weeks after entry of appearance by that defendant or of eight days after the filing by that defendant of an affidavit under rule 5, whichever is the later.

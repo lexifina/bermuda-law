@@ -1,0 +1,2 @@
+# 24/9 Inspection of documents referred to in list
+9 A party who has served a list of documents on any other party, whether in compliance with rule 2 or with an order under rule 3, must allow the other party to inspect the documents referred to in the list (other than any which he objects to produce) and to take copies thereof, and, accordingly, he must when he serves the list on the other party also serve on him a notice stating a time within seven days after the service thereof at which the said documents may be inspected at a place specified in the notice.

@@ -1,0 +1,3 @@
+# 27/2 Notice to admit facts
+2 (1) A party to a cause or matter may not later than twenty-one days after the cause or matter is set down for trial serve on any other party a notice requiring him to admit, for the purpose of that cause or matter only, the facts specified in the notice.
+(2) An admission made in compliance with a notice under this rule shall not be used against the party by whom it was made in any cause or matter other than the cause or matter for the purpose of which it was made or in favour of any person other than the person by whom the notice was given, and the Court may at any time allow a party to amend or withdraw an admission so made by him on such terms as may be just.

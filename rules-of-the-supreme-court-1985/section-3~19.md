@@ -1,0 +1,13 @@
+# 22/3 Acceptance of money paid into court
+3 (1) Where money is paid into court under rule 1, then, subject to paragraph (2), within twenty-one days after receipt of the notice of payment, or, where more than one payment has been made or the notice has been amended, within twenty-one days after receipt of the notice of the last payment or the amended notice but, in any case, before the trial or hearing of the action begins, the plaintiff may—
+(a) where the money was paid in respect of the cause of action or all the causes of action in respect of which he claims, accept the money in satisfaction of that cause of action or those causes of action, as the case may be, or
+(b) where the money was paid in respect of some only of the causes of action in respect of which the claims, accept in satisfaction of any such cause or causes of action the sum specified in respect of that cause or those causes of action in the notice of payment,
+by giving notice in Form No. 24 in Appendix A to every defendant to the action.
+(2) Where after the trial or hearing of an action has begun—
+(a) money is paid into court under rule 1, or
+(b) money in court is increased by a further payment into court under that rule,
+the plaintiff may accept the money in accordance with paragraph (1) within two days after receipt of the notice of payment or notice of the further payment, as the case may be, but, in any case, before the judge begins to deliver judgment or, if the trial is with a jury, before the judge begins his summing up.
+(3) Rule 1(5) shall not apply in relation to money paid into court in an action after the trial or hearing of the action has begun.
+(4) On the plaintiff accepting any money paid into court all further proceedings in the action or in respect of the specified cause or causes of action, as the case may be, to which the acceptance relates, both against the defendant making the payment and against any other defendant sued jointly with or in the alternative to him, shall be stayed.
+(5) Where money is paid into court by a defendant who made a counterclaim and the notice of payment stated, in relation to any sum paid, that in making the payment the defendant had taken into account and satisfied the cause or causes of action, or the specified cause or causes of action, in respect of which he claimed, then, on the plaintiff accepting that sum, all further proceedings on the counterclaim or in respect of the specified cause or causes of action, as the case may be, against the plaintiff shall be stayed.
+(6) A plaintiff who has accepted any sum paid into court shall, subject to rules 4 and 10 and Order 80, rule 12, be entitled to receive payment of that sum in satisfaction of the cause or causes of action to which the acceptance relates.

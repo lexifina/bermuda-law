@@ -1,0 +1,2 @@
+# 99/8 Disposal of application in chambers, etc.
+8 Any application under the Act in which it appears to the Court that the interests of an infant or other person under a disability are affected may, if the Court thinks fit so to direct, be disposed of in chambers, but any permission of the Court under section 18 of the Act and any order under section 13, 15, 19, 20 or 23 of the Act shall be given or made by the judge. 99/9 to 99/11 [blank]

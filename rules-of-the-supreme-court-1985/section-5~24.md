@@ -1,0 +1,3 @@
+# 29/5 Order for early trial
+5 Where on the hearing of an application, made before the trial of a cause or matter, for an injunction or the appointment of a receiver or an order under rule 2, 3 or 4 it appears to the Court that the matter in dispute can be better dealt with by an early trial than by considering the whole merits thereof for the purposes of the application, the Court may make an order accordingly and may also make such order as respects the period before trial as the justice of the case requires.
+Where the Court makes an order for early trial it shall by the order determine the place and mode of the trial.

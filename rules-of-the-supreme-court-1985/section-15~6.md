@@ -1,0 +1,5 @@
+# 44/15 Service of notice of judgment on certain claimants
+15 (1) Where a claimant other than a creditor has established his claim, then, unless he is a party to the cause or matter or has previously been served with notice of the judgment or the Court otherwise directs, the party having the conduct of the cause or matter must serve notice of the judgment on him.
+(2) A person duly served with notice of a judgment under this rule shall, subject to rule 3(5), as applied by paragraph (4), be bound by the judgment to the same extent as he would have been if he had originally been made a party to the action.
+(3) Where the Court directs under paragraph (1) that notice of a judgment shall not be served on a person, it may also order that that person shall be bound by the judgment to the same extent as if he had been served with notice thereof, and he shall be bound accordingly except where the judgment has been obtained by fraud or non-disclosure of material facts.
+(4) Rule 3(5) and (6) shall apply in relation to a person served with notice of a judgment under this rule as they apply in relation to a person served with notice of a judgment under that rule.

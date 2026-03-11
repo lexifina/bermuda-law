@@ -1,0 +1,4 @@
+# 39/10 Objection to questions
+10 (1) If any person being examined before the examiner objects to answer any questions put to him, or if objection is taken to any such question, that question, the ground for the objection and the answer to any such question to which objection is taken must be set out in the deposition of that person or in a statement annexed thereto.
+(2) The validity of the ground for objecting to answer any such question or for objecting to any such question shall be decided by the Court and not by the examiner, but the examiner must state to the parties his opinion thereon, and the statement of his opinion must be set out in the deposition or in a statement annexed thereto.
+(3) If the Court decides against the person taking the objection it may order him to pay the costs occasioned by his objection.

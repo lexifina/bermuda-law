@@ -1,0 +1,3 @@
+# 21/5 Stay of subsequent action until costs paid
+5 (1) Where a party has discontinued an action or counterclaim or withdrawn any particular claim made by him therein and he is liable to pay any other party’s costs of the action or counterclaim or the costs occasioned to any other party by the claim withdrawn, then, if, before payment of those costs, he subsequently brings an action for the same, or substantially the same, cause of action, the Court may order the proceedings in that action to be stayed until those costs are paid.
+(2) An application for an order under this rule may be made by summons or motion, or by notice under Order 25, rule 7.

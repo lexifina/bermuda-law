@@ -1,0 +1,2 @@
+# 86/6 Directions
+6 Where the Court orders that a defendant have leave to defend the action, the Court shall give directions as to the further conduct of the action, and Order 25 rules 2 to 7, shall, with the omission of so much of rule 7(1) as requires parties to serve a notice specifying the orders and directions which they require and with any other necessary modifications, apply as if the application under rule 1 were a summons for directions.

@@ -1,0 +1,13 @@
+# 1/2 Application
+2 (1) Subject to the following provisions of this rule, these Rules shall have effect in relation to all proceedings in the Supreme Court.
+(2) These Rules shall not have effect in relation to proceedings of the kinds specified in the first column of the following Table (being proceedings in respect of which rules may be made under enactments specified in the second column of that Table):—
+TABLE
+Proceedings | Enactments 1 Bankruptcy proceedings | Bankruptcy Act 1876 section 58 [title 8 item 49]
+2 Proceedings relating to the Companies Act 1981 section 288 [title winding up of companies | 17 item 5] 3 Non-contentious or common Administration of Estates Act 1974 form probate proceedings | section 57 [title 26 item 12] 4 Proceedings in Supreme Court Colonial Courts of Admiralty Act 1890 when acting as Prize Court | section 7 5 Proceedings before the judge Mental Health Act 1968 section 60 [title within the meaning of Part IV of 11 item 36] the Mental Health Act 1968 6 Matrimonial proceedings | Supreme Court Act 1905 section 62 [title 8 item 1]
+7 Controverted election Legislature (Appointment, Election and proceedings | Membership Controversies) Act 1968
+section 43 [title 2 item 3] 8 Proceedings relating to appeal Hotels (Licensing and Control) Act 1969 against cancellation of licence or section 18 [title 17 item 2] permit Companies Act 1981 sections 141 and 276A, [title 17 item 35] under section 62 of the Supreme Court Act 1905 9 Civil appeals proceedings | Civil Appeals Act 1971 section 18 [title 8 item 85]
+10 Planning appeals proceedings | Development and Planning Act 1974 section 54 [title 20 item 1] 11 Workmen’s compensation Workmen’s Compensation Act 1965 proceedings | section 41 [title 18 item 3] 12 Acquisition of land proceedings | Acquisition of Land Act 1970 section 26 [title 19 item 2]
+(3) These Rules shall not have effect in relation to any criminal proceedings.
+(4) In the case of the proceedings mentioned in paragraph (2), nothing in that paragraph shall be taken as affecting any provision of any rules (whether made under the Act or any other Act) by virtue of which the Rules of the Supreme Court 1985 or any provisions thereof are applied in relation to any of those proceedings.
+(5) These Rules shall not have effect in relation to any proceedings taken in any cause or matter which was pending before the Court or a judge thereof immediately before the date appointed under rule 1(1) and any proceedings taken in such cause or matter shall be continued to final determination in accordance with the rules in force immediately before the date so appointed.
+[Order 1/2 amended by BR81/1999 effective 1 January 2000 and by BR55/2005 effective 1 January 2006]

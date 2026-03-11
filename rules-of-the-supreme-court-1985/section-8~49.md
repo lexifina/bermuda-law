@@ -1,0 +1,5 @@
+# 119/8 Service - general provisions
+8 (1) In addition to any other method of service permitted by these Rules or directed by any order of the Court, an originating summons issued under this Order may be served on the defendants (whether within or out of the jurisdiction) by fax.
+(2) An affidavit shall be filed by or on behalf of the plaintiff proving due service of the originating summons on each of the defendants.
+(3) In the event that service of the summons is effected by fax the affidavit made under paragraph (2) shall confirm the date and time of transmission of each fax serving the summons on each defendant and the grounds on which the plaintiff believes that the summons will, by virtue of such transmission, have come to the attention of the defendants.
+(4) The affidavit made under paragraph (2) shall be filed with the Court and a copy thereof served on each defendant, in each case no later than the day before the day listed for the first hearing of the summons under rule 9(1) of this Order.

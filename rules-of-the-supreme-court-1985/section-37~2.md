@@ -1,0 +1,6 @@
+# 75/37 Limitation action: parties
+37 (1) In a limitation action the person seeking relief shall be the plaintiff and shall be named in the writ by his name and not described merely as the owner of, or as bearing some other relation to, a particular ship or other property.
+(2) The plaintiff must make one of the persons with claims against him in respect of the casualty to which the action relates defendant to the action and may make any or all of the others defendants also.
+(3) At least one of the defendants to the action must be named in the writ by his name but the other defendants may be described generally and not named by their names.
+(4) The writ must be served on one or more of the defendants who are named by their names therein and need not be served on any other defendant.
+(5) In this rule and rules 38, 39 and 40 “name” includes a firm name or the name under which a person carries on his business, and where any person with a claim against the plaintiff in respect of the casualty to which the action relates has described himself for the purposes of his claim merely as the owner of, or as bearing some other relation to, a ship or other property, he may be so described as defendant in the writ and, if so described, shall be deemed for the purposes of the rules aforesaid to have been named in the writ by his name.

@@ -1,0 +1,6 @@
+# 19/7 Default of defence: other claims
+7 (1) Where the plaintiff makes against a defendant or defendants a claim of a description not mentioned in rules 2 to 5, then, if the defendant or all the defendants (where there is more than one) fails or fail to serve a defence on the plaintiff, the plaintiff may, after the expiration of the period fixed by or under these rules for service of the defence, apply to the Court for judgment, and on the hearing of the application the Court shall give such judgment as the plaintiff appears entitled to on his statement of claim.
+(2) Where the plaintiff makes such a claim as is mentioned in paragraph (1) against more than one defendant, then, if one of the defendants makes default as mentioned in that paragraph, the plaintiff may—
+(a) if his claim against the defendant in default is severable from his claim against the other defendants, apply under that paragraph for judgment against that defendant, and proceed with the action against the other defendants; or
+(b) set down the action on motion for judgment against the defendant in default at the time when the action is set down for trial, or is set down on motion for judgment, against the other defendants.
+(3) An application under paragraph (1) must be by summons.

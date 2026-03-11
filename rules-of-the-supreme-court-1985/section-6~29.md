@@ -1,0 +1,2 @@
+# 40/6 Calling of expert witnesses
+6 Where a court expert is appointed in a cause or matter, any party may, on giving to the other parties a reasonable time before the trial notice of his intention to do so, call one expert witness to give evidence on the question reported on by the court expert but no party may call more than one such witness without the leave of the Court, and the Court shall not grant leave unless it considers the circumstances of the case to be exceptional.

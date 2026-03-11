@@ -1,0 +1,2 @@
+# 26/2 Interrogatory where party is a body of persons
+2 Where a party to a cause or matter is a body of persons, whether corporate or unincorporate, being a body which is empowered by law to sue or be sued whether in its own name or in the name of an officer or other person, the Court may, on the application of any other party, make an order allowing him to serve interrogatories on such officer or member of the body as may be specified in the order.

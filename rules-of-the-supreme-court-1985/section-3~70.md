@@ -1,0 +1,2 @@
+# 115/3 Interested persons may apply to the Court
+3 Any person believing himself to be entitled to any insurance money that has been paid into court under section 43 of the Act may apply within ninety days of the payment being made to the Court for the money to be paid to him and shall file an affidavit stating the grounds upon which he bases his claims and may support that affidavit with the affidavits of other persons.

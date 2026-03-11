@@ -1,0 +1,2 @@
+# 32/3 Service of summons
+3 A summons asking only for the extension or abridgment of any period of time may be served on the day before the day specified in the summons for the hearing thereof but, except as aforesaid and unless the Court otherwise orders or any of these rules otherwise provides, a summons must be served on every other party not less than two clear days before the day so specified.

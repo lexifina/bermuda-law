@@ -1,0 +1,3 @@
+# 14/8 Right to proceed with residue of action or counterclaim
+8 (1) Where on an application under rule 1 the plaintiff obtains judgment on a claim or a part of a claim against any defendant, he may proceed with the action as respects any other claim or as respects the remainder of the claim or against any other defendant.
+(2) Where on an application under rule 5 a defendant obtains judgment on a claim or part of a claim made in a counterclaim against the plaintiff, he may proceed with the counterclaim as respects any other claim or as respects the remainder of the claim or against any other defendant to the counter claim.

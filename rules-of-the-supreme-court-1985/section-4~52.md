@@ -1,0 +1,4 @@
+# 70/4 Person to take and manner of taking examination
+4 (1) Any order made in pursuance of this Order for the examination of a witness may order the examination to be taken before any fit and proper person nominated by the person applying for the order or before such other qualified person as the Court seems fit.
+(2) Subject to any special directions contained in any order made in pursuance of this Order for the examination of any witness, the examination shall be taken in manner provided by Order 39, rules 5 to 10 and 11(1) to (3), and an order may be made under Order 39, rule 14, for payment of the fees and expenses due to the examiner, and those rules shall apply accordingly with any necessary modifications.
+(3) If the examination is directed to be taken before one of the examiners of the Court, Order 39, rules 17, 18 and 19, shall apply in relation to the examination.

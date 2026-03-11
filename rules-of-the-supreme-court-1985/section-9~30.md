@@ -1,0 +1,2 @@
+# 65/9 No service required in certain cases
+9 Where by virtue of these rules any document is required to be served on any person but is not required to be served personally, and at the time when service is to be effected that person is in default as to entry of appearance or has no address for service, the document need not be served on that person unless the Court otherwise directs or any of these rules otherwise provides.

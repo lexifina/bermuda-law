@@ -1,0 +1,3 @@
+# 99/13 Indorsement of memorandum on probate, etc.
+13 (1) The estate representatives of the deceased to whose estate an application under the Act relates must produce in court at the hearing of the application the probate or letters of administration under which the estate is being administered; and if the Court makes an order under the Act or an order dismissing the application the probate or letters of administration shall remain in the custody of the Court until section 21(4) of the Act has been complied with.
+(3) The memorandum of the order required by section 21(4) of the Act to be indorsed or annexed as therein mentioned must set out the title of the proceedings in question and the operative part of the order in full.

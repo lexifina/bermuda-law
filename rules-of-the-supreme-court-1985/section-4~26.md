@@ -1,0 +1,3 @@
+# 29/4 Sale of perishable property, etc.
+4 (1) The Court may, on the application of any party to a cause or matter, make an order for the sale by such person, in such manner and on such terms (if any) as may be specified in the order of any property (other than land) which is the subject-matter of the cause or matter or as to which any question arises therein and which is of a perishable nature or likely to deteriorate if kept or which for any other good reason it is desirable to sell forthwith,
+(2) Rule 2(5) and (6) shall apply in relation to an application for an order under this rule as they apply in relation to an application for an order under that rule.

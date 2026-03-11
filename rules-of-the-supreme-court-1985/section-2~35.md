@@ -1,0 +1,2 @@
+# 36/2 Reference to special referee of question of fact for inquiry, etc.
+2 In any cause or matter other than a criminal proceeding by the Crown the Court may, subject to any right to a trial with a jury, refer to a special referee for inquiry and report any question or issue of fact arising therein; and, unless the Court otherwise orders, the further consideration of the cause or matter shall stand adjourned until the receipt of the special referee’s report.

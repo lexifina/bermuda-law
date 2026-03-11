@@ -1,0 +1,4 @@
+# 117/5 Adjustment on final judgment or order
+5 Where a defendant has made an interim payment, the Court may on giving or making a final judgment or order determining that defendant’s liability to the plaintiff in the action, make any such order with respect to the interim payment as may be necessary for giving effect to the determination and in particular—
+(a) an order for the repayment by the plaintiff of any sum by which the interim payment exceeds the amount which that defendant is liable to pay the plaintiff; or
+(b) an order for the payment by any other defendant of any part of the interim payment which the defendant who made it is entitled to recover from him by way of contribution or indemnity or in respect of any remedy or relief relating to or connected with the plaintiff’s claim.

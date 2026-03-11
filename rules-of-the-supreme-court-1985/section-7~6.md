@@ -1,0 +1,3 @@
+# 14/7 Costs
+7 (1) If the plaintiff makes an application under rule 1 where the case is not within this Order or if it appears to the Court that the plaintiff knew that the defendant relied on a contention which would entitle him to unconditional leave to defend then, without prejudice to Order 62, and, in particular, to rule 4(1) thereof, the Court may dismiss the application with costs and may require the costs to be paid by him forthwith.
+(2) The Court shall have the same power to dismiss an application under rule 5 as it has under paragraph (1) to dismiss an application under rule 1, and that paragraph shall apply accordingly with the necessary modifications.

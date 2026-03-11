@@ -1,0 +1,2 @@
+# 49/8 Discharge of garnishee
+8 Any payment made by a garnishee in compliance with an order absolute under this Order, and any execution levied against him in pursuance of such an order, shall be a valid discharge of his liability to the judgment debtor to the extent of the amount paid or levied notwithstanding that the garnishee proceedings are subsequently set aside or the judgment or order from which they arose reversed.

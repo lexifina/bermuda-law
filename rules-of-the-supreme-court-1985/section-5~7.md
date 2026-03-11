@@ -1,0 +1,2 @@
+# 10/5 Service of originating summons, petition and notice of motion
+5 The foregoing rules of this Order (except rule 1(4)) shall apply in relation to an originating summons to which an appearance is required to be entered as they apply in relation to a writ, and rule 1(1) and (2) shall, with any necessary modifications, apply in relation to an originating summons to which no appearance need be entered, a notice of an originating motion and a petition as they apply in relation to a writ.

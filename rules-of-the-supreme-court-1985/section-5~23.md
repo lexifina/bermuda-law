@@ -1,0 +1,3 @@
+# 28/5 Adjournment of summons
+5 (1) The hearing of the summons by the Court may (if necessary) be adjourned from time to time, either generally or to a particular date, as may be appropriate, and the powers of the Court under rule 4 may be exercised at any resumed hearing.
+(2) If the hearing of the summons is adjourned generally the party on whose application the day for its hearing was fixed under rule 2 may restore it to the list on two days’ notice to all the other parties (except a defendant who has failed to enter an appearance, or if the summons is one to which an appearance is not required, has not been served with the summons), and any of those parties may restore it with the leave of the Court.

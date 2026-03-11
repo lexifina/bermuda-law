@@ -1,0 +1,3 @@
+# 76/8 Counterclaim
+8 (1) Notwithstanding anything in Order 15, rule 2(1), a defendant to a probate action who alleges that he has any claim or is entitled to any relief or remedy in respect of any matter relating to the grant of probate of the will, or letters of administration of the estate, of the deceased person which is the subject of the action must add to his defence a counterclaim in respect of that matter.
+(2) If the plaintiff fails to serve a statement of claim, any such defendant may, with the leave of the Court, serve a counterclaim and the action shall then proceed as if the counterclaim were the statement of claim.

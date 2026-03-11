@@ -1,0 +1,4 @@
+# 72/7 Pleadings in commercial list actions
+7 (1) The pleadings in an action in the commercial list must be in the form of points of claim, or of defence, counterclaim, defence to counterclaim or reply, as the case may be and must be as brief as possible.
+(2) Without prejudice to Order 18, rule 12 (1) no particulars shall be applied for or ordered in an action in the commercial list except such particulars as are necessary to enable the party applying to be informed of the case he has to meet or as are for some other reason necessary to secure the just, expeditious and economical disposal of any question at issue in the action.
+(3) The foregoing provisions are without prejudice to the power of a Commercial Judge to order that an action in the commercial list shall be tried without pleadings or further pleadings, as the case may be.

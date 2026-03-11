@@ -1,0 +1,3 @@
+# 42/2 Judgment, etc. requiring act to be done: time for doing it
+2 (1) Subject to paragraph (2), a judgment or order which requires a person to do an act must specify the time after service of the judgment or order, or some other time, within which the act is to be done.
+(2) Where the act which any person is required by any judgment or order to do is to pay money to some other person, give possession of any land or deliver any goods, a time within which the act is to be done need not be specified in the judgment or order by virtue of paragraph (1); but the foregoing provision shall not affect the power of the Court to specify such a time and to adjudge or order accordingly.

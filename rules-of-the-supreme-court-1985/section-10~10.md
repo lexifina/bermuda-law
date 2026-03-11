@@ -1,0 +1,4 @@
+# 28/10 Failure to prosecute proceedings with despatch
+10 (1) If the plaintiff in a cause or matter begun by originating summons makes default in complying with any order or direction of the Court as to the conduct of the proceedings, or if the Court is satisfied that the plaintiff in a cause or matter so begun is not prosecuting the proceedings with due despatch, the Court may order the cause or matter to be dismissed or may make such other order as may be just.
+(2) Paragraph (1) shall, with any necessary modifications, apply in relation to a defendant by whom a counterclaim is made under rule 7 as it applies in relation to a plaintiff.
+(3) Where, by virtue of an order made under rule 8, proceedings in a cause or matter begun by originating summons are to continue as if the cause or matter had been begun by writ, the foregoing provisions of this rule shall not apply in relation to the cause or matter after the making of the order.

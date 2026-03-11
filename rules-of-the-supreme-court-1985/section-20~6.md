@@ -1,0 +1,3 @@
+# 75/20 Special provisions as to pleadings in collision, etc. actions
+20 (1) Notwithstanding anything in Order 18, rule 3, the plaintiff in any such action as is referred to in rule 2(1) may not serve a reply or a defence to counterclaim on the defendant except with the leave of the Court.
+(2) If in such an action there is a counterclaim and no defence to counterclaim by the plaintiff, then, notwithstanding Order 18, rule 14(3), but without prejudice to the other provisions of that rule, there is an implied joinder of issue on the counterclaim, and the joinder of issue operates as a denial of every material allegation of fact made in the counterclaim.

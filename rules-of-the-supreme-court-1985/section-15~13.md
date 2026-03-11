@@ -1,0 +1,3 @@
+# 119/15 Failure to prosecute proceedings with despatch
+15 (1) If the plaintiff in a cause or matter begun by originating summons under this Order makes default in complying with any order or direction of the Court as to the conduct of the proceedings, or if the Court is satisfied that the plaintiff in a cause or matter so begun is not prosecuting the proceedings with due despatch, the Court may order the cause or matter to be dismissed or may make such other order as may be just.
+(2) Paragraph (1) shall, with any necessary modifications, apply in relation to a defendant by whom a counterclaim is made under rule 13 as it applies in relation to a plaintiff.

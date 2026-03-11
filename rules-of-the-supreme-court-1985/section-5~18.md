@@ -1,0 +1,2 @@
+# 22/5 Money remaining in court
+5 If any money paid into court in an action is not accepted in accordance with rule 3, the money remaining in court shall not be paid out except in pursuance of an order of the Court which may be made at any time before, at or after the trial or hearing of the action; and where such an order is made before the trial or hearing the money shall not be paid out except in satisfaction of the cause or causes of action in respect of which it was paid in.

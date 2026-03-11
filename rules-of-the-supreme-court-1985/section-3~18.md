@@ -1,0 +1,3 @@
+# 21/3 Discontinuance of action, etc. with leave
+3 (1) Except as provided by rule 2, a party may not discontinue an action (whether begun by writ or otherwise) or counterclaim, or withdraw any particular claim made by him therein, without the leave of the Court, and the Court hearing an application for the grant of such leave may order the action or counterclaim to be discontinued, or any particular claim made therein to be struck out, as against any or all of the parties against whom it is brought or made on such terms as to costs, the bringing of a subsequent action or otherwise as it thinks just.
+(2) An application for the grant of leave under this rule may be made by summons or motion or by notice under Order 25, rule 7.

@@ -1,0 +1,7 @@
+# 18/21 Trial without pleadings
+21 (1) Where in an action to which this rule applies any defendant has entered an appearance in the action, the plaintiff or that defendant may apply to the Court by summons for an order that the action shall be tried without pleadings or further pleadings, as the case may be.
+(2) If, on the hearing of an application under this rule, the Court is satisfied that the issues in dispute between the parties can be defined without pleadings or further pleadings, or that for any reason the action can properly be tried without pleadings or further pleadings, as the case may be, the Court shall order the action to be so tried, and may direct the parties to prepare a statement of the issues in dispute or, if the parties are unable to agree such a statement, may settle the statement itself.
+(3) Where the Court makes an order under paragraph (2), it shall, and where it dismisses an application for such an order, it may, give such directions as to the further conduct of the action as may be appropriate, and Order 25, rules 2 to 7, shall, with the omission of so much of rule 7(1) as requires parties to serve a notice specifying the orders and directions which they desire and with any other necessary modifications, apply as if the application under this rule were a summons for directions.
+(4) This rule applies to every action begun by writ other than one which includes—
+(a) a claim by the plaintiff for libel, slander, malicious prosecution or false imprisonment; or
+(b) a claim by the plaintiff based on an allegation of fraud.

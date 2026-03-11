@@ -1,0 +1,2 @@
+# 20/9 Failure to amend after order
+9 Where the Court makes an order under this Order giving any party leave to amend a writ, pleading or other document, then, if that party does not amend the document in accordance with the order before the expiration of the period specified for that purpose in the order or, if no period is so specified, of a period of fourteen days after the order was made, the order shall cease to have effect, without prejudice, however, to the power of the Court to extend the period.

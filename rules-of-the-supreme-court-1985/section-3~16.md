@@ -1,0 +1,2 @@
+# 19/3 Default of defence: claim for unliquidated damages
+3 Where the plaintiff’s claim against a defendant is for unliquidated damages only, then, if that defendant fails to serve a defence on the plaintiff, the plaintiff may, after the expiration of the period fixed by or under these rules for service of the defence, enter interlocutory judgment against that defendant for damages to be assessed and costs, and proceed with the action against the other defendants, if any.

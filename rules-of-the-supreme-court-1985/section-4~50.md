@@ -1,0 +1,2 @@
+# 67/4 Notice of intention to act in person
+4 Where a party after having sued or defended by an attorney intends and is entitled to act in person, the change may be made without an order for that purpose and rule 1 shall, with the necessary modifications, apply in relation to a notice of intention to act in person as it applies in relation to a notice of change of attorney except that the notice of intention to act in person must contain an address for service of the party giving it.

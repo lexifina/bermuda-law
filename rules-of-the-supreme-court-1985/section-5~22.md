@@ -1,0 +1,5 @@
+# 27/5 Notices to admit or produce documents
+5 (1) Except where rule 4(1) applies, a party to a cause or matter may within twenty-one days after the cause or matter is set down for trial serve on any other party a notice requiring him to admit the authenticity of the documents specified in the notice.
+(2) If a party on whom a notice under paragraph (1) is served desires to challenge the authenticity of any document therein specified he must, within twenty-one days after service of the notice, serve on the party by whom it was given a notice stating that he does not admit the authenticity of the document and requires it to be proved at the trial.
+(3) A party who fails to give a notice of non-admission in accordance with paragraph (2) in relation to any document shall be deemed to have admitted the authenticity of that document unless the Court otherwise orders.
+(4) Except where rule 4(3) applies, a party to a cause or matter may serve on any other party a notice requiring him to produce the documents specified in the notice at the trial of the cause or matter.

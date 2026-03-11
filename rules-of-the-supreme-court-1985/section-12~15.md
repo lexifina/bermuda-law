@@ -1,0 +1,9 @@
+# 80/12 Control of money recovered by person under disability
+12 (1) Where in any proceedings—
+(a) money is recovered by or on behalf of, or adjudged or ordered or agreed to be paid to, or for the benefit of, a person under disability, or
+(b) money paid into court is accepted by or on behalf of a plaintiff who is a person under disability,
+the money shall be dealt with in accordance with directions given by the Court, and not otherwise.
+(2) Directions given under this rule may provide that the money shall, as to the whole or any part thereof, be paid into the Court and invested or otherwise dealt with there.
+(3) Without prejudice to the foregoing provisions of this rule, directions given under this rule may include any general or special directions that the Court thinks fit to give and, in particular, directions as to how the money is to be applied or dealt with and as to any payment to be made, either directly or out of the amount paid into court to the plaintiff, or to the next friend in respect of moneys paid or expenses incurred for or on behalf or for the benefit of the person under disability or for his maintenance or otherwise for his benefit or to the plaintiff’s attorney in respect of costs.
+(4) Where in pursuance of directions given under this rule money is paid into court to be invested or otherwise dealt with there, the money (including any interest thereon) shall not be paid out, nor shall any securities in which the money is invested, or the dividends thereon, be sold, transferred or paid out of court, except in accordance with an order of the Court.
+(5) The foregoing provisions of this rule shall apply in relation to a counterclaim by or on behalf of a person under a disability as if for references to a plaintiff and a next friend there were substituted references to a defendant and to a guardian ad litem respectively. 80/13 and [blank] 80/14

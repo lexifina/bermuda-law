@@ -1,0 +1,2 @@
+# 38/40 Expert evidence of engineers in accident cases
+40 In an action arising out of an accident on land due to a collision or apprehended collision a party who intends to apply to the Court under rule 36 in respect of the expert evidence of an engineer sought to be called on account of his skill and knowledge as respects motor vehicles shall before the hearing of the summons for directions make available to all parties for their inspection a report by the engineer containing the substance of his evidence.

@@ -1,0 +1,2 @@
+# 13/5 Mixed claims
+5 Where a writ issued against any defendant is indorsed with two or more of the claims mentioned in the foregoing rules, and no other claim, then, if that defendant fails to enter an appearance, the plaintiff may, after the time limited for appearing, enter against that defendant such judgment in respect of any such claim as he would be entitled to enter under those rules if that were the only claim indorsed on the writ, and proceed with the action against the other defendants, if any.

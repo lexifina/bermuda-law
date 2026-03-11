@@ -1,0 +1,3 @@
+# 77/10 Third party notices
+10 (1) Notwithstanding anything in Order 16, a third party notice (including a notice issuable by virtue of Order 16, rule 9) for service on the Crown shall not be issued without the leave of the Court, and the application for the grant of such leave must be made by summons, and the summons must be served on the plaintiff and the Crown.
+(2) Leave to issue such a notice for service on the Crown shall not be granted unless the Court is satisfied that the Crown is in possession of all such information as it reasonably requires as to the circumstances in which it is alleged that the liability of the Crown has arisen and as to the departments and officers of the Crown concerned.

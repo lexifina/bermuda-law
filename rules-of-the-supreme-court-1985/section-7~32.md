@@ -1,0 +1,10 @@
+# 62/7 Special circumstances in which costs shall not or may not be taxed
+7 (1) The provisions of this rule shall apply in the circumstances mentioned in this rule.
+(2) Costs which by or under any direction of the Court are to be paid to a receiver appointed by the Court under section 19(c) of the Act, in respect of his remuneration, disbursements or expenses, shall be allowed in accordance with Order 30, rule 3 and shall not be taxed.
+(3) Where a writ in an action is indorsed in accordance with Order 6, rule 2(1)(b), and judgment is entered on failure to give notice of intention to defend or in default of defence for the amount claimed for costs (whether alone or together with any other amount claimed), the plaintiff is not entitled to tax his costs; but if the amount claimed for costs as aforesaid is paid in accordance with the indorsement (or is accepted by the plaintiff as if so paid) the defendant shall be entitled to have those costs taxed.
+(4) In awarding costs to any person the Court may order that, instead of his taxed costs, that person shall be entitled to a proportion (specified in the order) of those costs from or up to a stage of the proceedings so specified.
+(5) Where the court orders a party to pay costs to another party (other than fixed costs) it may make a summary assessment of the costs, unless any rule, practice direction or other enactment provides otherwise.
+(6) Where the court makes a summary assessment under paragraph (4), the costs so assessed shall be payable forthwith, unless the court orders otherwise.
+(7) Where a claimant is entitled to costs under rule 6(3) the amount of the costs shall be assessed by the Court unless it thinks fit to order taxation and the amount so assessed or taxed shall be added to the debt due to the claimant.
+(8) Subject to paragraph (7), where a party is entitled to costs under rule 6(7) or (8) the amount of those costs may be assessed by the Court and be ordered to be paid forthwith.
+(9) No order may be made under paragraph (6) in a case where the person against whom the order is made is an assisted person within the meaning of the statutory provisions relating to legal aid.

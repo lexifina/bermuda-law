@@ -1,0 +1,4 @@
+# 15/10 Actions for possession of land
+10 (1) Without prejudice to rule 6, the Court may at any stage of the proceedings in an action for possession of land order any person not a party to the action who is in possession of the land (whether in actual possession or by a tenant) to be added as a defendant.
+(2) An application by any person for an order under this rule may be made ex parte, supported by an affidavit showing that he is in possession of the land in question and if by a tenant, naming him.
+(3) A person added as a defendant by an order under this rule must serve a copy of the order on the plaintiff and must enter an appearance in the action within such period, if any, as may be specified in the order or, if no period is so specified, within seven days after the making of the order, and the rules as to entry of appearance shall apply accordingly to entry of appearance by him.

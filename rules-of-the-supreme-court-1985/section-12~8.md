@@ -1,0 +1,2 @@
+# 41/12 Affidavit taken in countries outside Bermuda
+12 A document purporting to have affixed or impressed thereon or subscribed thereto the seal or signature of a court, judge, notary public or person having authority to administer oaths outside Bermuda in testimony of an affidavit being taken before it or him shall be admitted in evidence without proof of the seal or signature being the seal or signature of that court, judge, notary public or person.

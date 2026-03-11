@@ -1,0 +1,2 @@
+# 25/4 Admissions and agreements to be made
+4 At the hearing of the summons for directions, the Court shall endeavour to secure that the parties make all admissions and all agreements as to the conduct of the proceedings which ought reasonably to be made by them and may cause the order on the summons to record any admissions or agreements so made, and (with a view to such special order, if any, as to costs as may be just being made at the trial) any refusal to make any admission or agreement.

@@ -1,0 +1,2 @@
+# 44/5 Court may require parties to be represented by same attorney
+5 Where on the hearing of the summons to proceed or at any stage of the proceedings under the judgment it appears to the Court that the interests of the parties can be classified, it may require the parties constituting each or any class to be represented by the same attorney to represent them, the Court may nominate an attorney to represent the class in the proceedings.
