@@ -1,0 +1,3 @@
+# Time limit for annual reports of Auditor
+10 (1) An annual report under section 9 shall be addressed to the Speaker of the House of Assembly, and, subject to subsection (2) of this section and to section 11, it is the Auditor’s duty to deliver each such report to the Speaker, and send a copy of the report to the Governor and the President of the Senate, on or before 30th November in the financial year next following the financial year to which the report relates.
+(2) Where in any case the Auditor will be unable to fulfil his duty under subsection (1), he shall so inform the Speaker of the House of Assembly in writing beforehand, giving his reasons; and he shall then use his best endeavours to deliver the report to the Speaker as soon after 30th November as he is able.

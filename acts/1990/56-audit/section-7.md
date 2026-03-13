@@ -1,0 +1,6 @@
+# Procedure for audits
+7 (1) The Auditor shall as soon as may be deliver to the relevant Minister a report on every audit conducted by the Auditor pursuant to section 6(1)(a)(ii), and that Minister shall lay the report before the House of Assembly as soon as may be thereafter.
+(2) In subsection (1) the expression “the relevant Minister” means the Minister responsible for the Government-controlled entity to which the accounts in question relate or, if there is no such Minister, then the Minister of Finance.
+(3) If any difficulty arises in determining for the purposes of subsection (2) of this section or section 11(1)(b) the Minister who is responsible for a Government-controlled entity, then that difficulty shall be resolved by the Premier after consultation with the Attorney-General.
+(4) Every report delivered by the Auditor to a Minister, or laid by a Minister before the House of Assembly, pursuant to subsection (1) shall have attached to it a copy of the accounts to which the report relates.
+(5) Subsections (1) and (4) of this section apply mutatis mutandis in relation to audits conducted pursuant to section 6(5) as those subsections apply in relation to audits conducted by the Auditor.
