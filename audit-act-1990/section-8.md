@@ -1,0 +1,3 @@
+# Ad hoc reports in connexion with audits
+8 (1) Notwithstanding section 6, where it appears to the Auditor at any time in the course of the discharge of his functions under section 6(1) and (3) that a matter to which this section applies requires some action in the public interest, the Auditor shall report the matter to the entity in question and, if the circumstances in his judgment so warrant, also to the Minister; and, where the matter appears to the Auditor to be one requiring immediate or urgent action, he shall report under this section immediately.
+(2) This section applies to any matter affecting an entity whose accounts are referred to in section 6(1).

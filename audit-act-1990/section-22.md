@@ -1,0 +1,5 @@
+# Commencement and transitional
+22 (1) The provisions of this Act commence on such day as the Minister may be notice published in the Gazette appoint; and different days may be so appointed for different provisions or for different purposes.
+(2) The arrangements for auditing provided for by sections 6 and 7 (“the new arrangements”) apply on and after commencement day in relation to any Government-controlled entity (whether or not constituted by or under any statutory provision) that was in being immediately before that day; and, if any arrangements in force in relation to any such entity immediately before commencement day are inconsistent with the new arrangements, the former arrangements cease to have effect to the extent of the inconsistency, and are superseded by the new arrangements, on commencement day.
+(3) The expression “commencement day” in subsection (2) means the day appointed pursuant to subsection (1) for sections 6 and 7 to commence.
+[all the provisions of the Act were brought into operation on 1 April 1991 by BR 13/1991 made 21 March 1991 Gazette 28 March 1991]
