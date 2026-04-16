@@ -1,0 +1,8 @@
+# Import duties
+2 (1) The Rules of Interpretation in the First Schedule and Sections I to XXII of that Schedule have effect with respect to the classification of goods and, subject to subsection (2), the assignment of rates of duty.
+(2) Except as otherwise provided in this Act or any other enactment, on goods—
+(a) imported into Bermuda; or
+(b) taken out of bond from any bonded warehouse in Bermuda for home use,
+there shall be imposed duty at the rate specified in the First Schedule with respect to goods of that class or description, calculated by reference to the unit for duty specified in relation thereto.
+(3) [Repealed by 2013 : 39 s. 20.]
+[Section 2 amended by 1994:8 effective 23 February 1994; by 1995:12 effective 15 February 1995; subsection (1) substituted and (1A) inserted by 2000:36 s.4 effective 8 November 2000; subsection (2) amended and (3) inserted by 2004:2 s.2 effective 20 February 2004; subsection (1) substituted, (1A) renamed as (2), and (2)-(3) repealed by 2006:5 s.2 effective 1 April 2006; Section 2 amended by 1994:8 effective 23 February 1994; by 1995:12 effective 15 February 1995; subsection (1) substituted and (1A) inserted by 2000:36 s.4 effective 8 November 2000; subsection (2) amended and (3) inserted by 2004:2 s.2 effective 20 February 2004; subsection (1) substituted, (1A) renamed as (2), and (2)-(3) repealed by 2006:5 s.2 effective 1 April 2006; subsection (3) inserted by 2011 : 5 s. 2 effective 1 April 2011; subsections (1) and (2) amended by 2012 : 5 s. 3 effective 1 April 2012; Section 2 subsection (2) repealed and substituted by 2013 : 8 s. 3 effective 1 April 2013; Section 2 subsection (3) repealed by 2013 : 39 s. 20 effective 1 April 2014]
