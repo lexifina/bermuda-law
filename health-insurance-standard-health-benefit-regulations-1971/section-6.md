@@ -1,0 +1,3 @@
+# Treatment provided in the general hospital
+6 In relation to treatment provided in the general hospital, standard health benefit shall include, subject to any exclusions specified pursuant to section 13(1) of the Bermuda Hospitals Board Act 1970, services and supplies which are provided by the Board or its officers and servants, but shall not include fees for professional services provided in a private capacity or provided by any physician, surgeon, dental practitioner or other practitioner of a profession associated with medicine who is not an officer or servant of the Board.
+[Regulation 6 amended by 2012 : 13 s. 3(b) effective 1 April 2012]
