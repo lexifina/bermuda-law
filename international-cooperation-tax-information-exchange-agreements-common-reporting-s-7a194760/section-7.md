@@ -1,0 +1,4 @@
+# Use of service providers
+7 (1) As referred to in Section II paragraph D of the Common Reporting Standard, a Reporting Financial Institution may use service providers to fulfil the reporting and due diligence obligations imposed on such Reporting Financial Institution, but in such cases the obligations continue to be the obligations and the responsibility of the Reporting Financial Institution.
+(2) If a Reporting Financial Institution utilises service providers, the Reporting Financial Institution shall ensure that the Reporting Financial Institution continues to have access to and is able to produce to the Minister records and Documentary Evidence used to identify and report on Reportable Accounts.
+(3) The Reporting Financial Institution is responsible for any failure of the person appointed under paragraph (1) to satisfy the Reporting Financial Institution’s obligations under the Common Reporting Standard.
