@@ -1,0 +1,3 @@
+# Exchange of information
+6 (1) Subject to section 6 of the Act, the International Cooperation (Tax Information Exchange Agreements) Act 2005, in particular, section 4A, and any agreement made under that Act, information received by the competent authority for Bermuda under section 6 of the Act shall be exchanged by way of the spontaneous exchange of information.
+(2) For purposes of paragraph (1), spontaneous exchange of information means an unrequested automatic exchange of information set forth in section 6 of the Act by the competent authority for Bermuda with the foreign competent authority (as those terms are defined in the Act).
