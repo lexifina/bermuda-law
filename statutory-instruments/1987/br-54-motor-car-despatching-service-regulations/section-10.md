@@ -1,0 +1,5 @@
+# Hours during which taxis must be available
+10 (1) Subject to paragraphs (2) and (3), every motor taxi registered with a despatching service shall be made available for the conveyance of passengers for hire or reward not less than 16 hours a day unless there is a reason acceptable to the Minister for not making the motor taxi so available.
+(2) The Minister may by notification in the Gazette vary the requirement of paragraph (1) to take account of seasonal variations in the demand for the services of motor taxis or in such other circumstances as the Minister thinks fit.
+(3) The Minister may, on application in writing by the owner of a motor taxi, grant to the owner permission to make his motor taxi available for periods other than those specified in paragraph (1) where the Minister is satisfied that in the circumstances of the case the new hours so permitted would not result in the under utilisation of the motor taxi concerned.
+[Regulation 10 amended by BR 51/2008 effective 22 August 2008; Regulation 10 amended by BR 40 / 2026 reg. 12 effective 29 April 2026]
