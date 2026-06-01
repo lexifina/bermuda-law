@@ -1,0 +1,3 @@
+# Lost licences
+27 The Minister, on proof to his satisfaction that an auxiliary bicycle licence, Bermuda youth licence or driver’s licence has been lost or destroyed, and on payment of the prescribed fee, shall issue a duplicate of the lost licence to the person entitled thereto: Provided that if any such licence as aforesaid has been lost and is subsequently found, the holder of the duplicate shall forthwith deliver up to the Minister the duplicate; and any person knowingly retaining or having in his possession both an original and duplicate of any such licence as aforesaid commits an offence against this Act.
+[Section 27 amended by 2009 : 22 s. 7 effective 1 April 2010]

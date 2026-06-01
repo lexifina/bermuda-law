@@ -1,0 +1,6 @@
+# Production of driver’s licence or Bermuda youth licence
+10 (1) A person who resides in Bermuda and who is driving, or for the time being is in charge of, a private auxiliary bicycle or a livery auxiliary bicycle, on any road shall carry with him his driver’s licence or Bermuda youth licence and shall produce his driver’s licence or Bermuda youth licence for inspection when so required by a police officer or by a traffic officer.
+(2) Any person who fails or refuses to produce his driver’s licence or Bermuda youth licence when so required under subsection (1) commits an offence.
+(3) It shall be a defence to a charge of an offence under subsection (2) if the person on whom the requirement is imposed under subsection (1) proves that he produced his driver’s licence or Bermuda youth licence at a police station within twenty-four hours after the time of the requirement.
+(4) In this section “driver’s licence or Bermuda youth licence” includes a learner’s permit.
+[Section 10 amended by 1995:41 effective 21 December 1995; amended by 2008:22 s.5 effective 26 June 2008; Section 10 amended by 2009 : 22 s. 5 effective 1 April 2010; Section 10 subsection (4) inserted by 2026 : 9 s. 6 effective 30 March 2026]
