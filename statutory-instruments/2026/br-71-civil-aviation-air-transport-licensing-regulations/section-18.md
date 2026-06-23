@@ -1,0 +1,2 @@
+# Surrender of licences
+18 If revocation or variation of an air transport licence has taken effect, the Panel may require any person who has the licence in his possession or control to surrender it for cancellation or variation, as the case may be and any person who fails, without reasonable cause, to comply with any such requirement, shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding $20,000.
