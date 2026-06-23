@@ -1,0 +1,3 @@
+# Contributions during leave of absence with bursary
+16 (1) Where a contributor is granted leave of absence without salary for educational purposes and he receives a bursary or other financial assistance from the Government or from a Government Board (as the case may be), the leave shall be deemed for the purposes of this Act to be educational leave of absence with pay, and he shall contribute to the Fund an amount equal to the amount he would have contributed if he had not been granted the leave, and the amount of the contribution shall be deducted from his bursary or other financial assistance.
+(2) If the contributor does not resume his service at the end of the leave the period during which he was absent on leave shall not be counted as pensionable service.

@@ -1,0 +1,4 @@
+# Capital sum in case of death in the service of the Government
+49 (1) In the case of the death of a contributor to whom this Part applies, the Accountant General shall, notwithstanding any other provision of this Act, pay out of the Fund to one or more nominees a sum or sums not exceeding in the aggregate one year's salary of that contributor calculated by reference to the rate of the basic salary of which he was in receipt at the date of his death; and for the purpose of this subsection "basic salary" means the salary attached to the contributor's substantive office.
+(2) Section 43(1) shall, mutatis mutandis, apply to a payment made under this section to or for a child under the age of twenty-one years and unmarried.
+[NB reference to 21 years in subsection (2) not amended by 2001:20 – see s.6(3) & Sch 1 to that Act.]

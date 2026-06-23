@@ -1,0 +1,3 @@
+# Government's contribution
+13 Where an amount deducted under subsection (1), (1A) or (1B) of section 12 is credited to the Fund, or where a contributor makes payment of contributions pursuant to any provision of this Act, the Accountant General shall in each case pay out of the Consolidated Fund into the Fund an equivalent amount as Government’s contribution to the Fund.
+[Section 13 amended by 2006:6 s.3 effective 1 April 2006; Section 13 modified during period 1 April 2015 to 31 March 2016 by s.2 of 2015:13 effective 1 April 2015; Section 13 amended by 2025 : 19 s. 4 effective 1 October 2025]
