@@ -1,0 +1,3 @@
+# Teachers who seek election
+46 (1) Where a teacher relinquishes his post as a teacher in accordance with an undertaking given pursuant to the Legislature (Qualification and Disqualification) Act 1968 and is unsuccessful in the election in respect of which he gives the undertaking, the period during which he is not actually engaged in teaching shall not be counted as service entitling him to a pension under this Act unless within three months of his failure to be elected that teacher resumes teaching at a school.
+(2) Where subsection (1) applies to any teacher, he shall, within three months of his resumption of teaching, contribute to the Fund an amount equal to the amount which he would have contributed had that subsection not applied.

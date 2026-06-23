@@ -1,0 +1,13 @@
+# Option to elect re-instatement in the Fund in certain circumstances
+27 (1) Where a contributor ceases to be employed in the public service in the circumstances set out in paragraph (a) of section 26(1) then if within 4 years of his ceasing to be so employed he is re-employed in the public service otherwise than on a part-time or casual basis he may, within sixty days of being so re-employed, elect either—
+(a) to repay to the Fund the amount refunded to him together with interest thereon calculated from the date of the withdrawal from the Fund of his contributions to the date of repayment into the Fund; or
+(b) to make repayment into the Fund as provided in paragraph (a), and to pay contributions for the period during which he was not employed in the public service, such contributions to be calculated upon the salary at which he is re-employed at the rate of 10% per annum or such other rate as may be prevailing at the date of such reemployment; or
+(c) to retain the amount refunded to him and contribute to the Fund as from the date of his re-employment.
+(2) If a person elects—
+(a) only to repay the amount refunded to him as provided in subsection (1) (a) the period during which he was not employed in the public service shall not be counted as pensionable;
+(b) to reinstate his account in the Fund in accordance with subsection (1)(b) his service shall not, for the purpose of calculating his pensionable service, be regarded as having been broken by the fact of his not having been employed in the public service for the period between his ceasing to be employed and his re-employment therein;
+(c) to retain the amount refunded to him and contribute to the Fund as in subsection (1)(c) his pensionable service shall commence as from the date when he is re-employed.
+(3) Where a refund of his contributions has been made to a contributor pursuant to section 26 and be elects to retain the amount so refunded, the Government's contributions to the Fund in respect of that contributor shall remain therein.
+(4) The Board may allow a person who has elected to reinstate his account in the Fund under subsection (1) to repay the amounts mentioned in subsection (1)(a) or (b) as the case may be, in monthly instalments with interest thereon calculated on the balance outstanding from month to month, over such period, not exceeding 4 years, as the Board may think fit.
+(5) The purchase, under this section, of any period or periods of broken service shall not exceed in any case a total of 4 years.
+[Section 27 amended by 1993:6 effective 1 April 1993; subsection (1) amended by 2007:18 s.10 effective 14 September 2007]

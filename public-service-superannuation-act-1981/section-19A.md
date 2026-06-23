@@ -1,0 +1,5 @@
+# Reduced pension payments upon early retirement
+19A (1) This section applies to a contributor referred to in subparagraph (b) to (f) of paragraph (i), (ii), (iii) or (iv) of the proviso to section 19(1) who elects to take reduced monthly pension payments instead of having his pension deferred.
+(2) A contributor referred to in subsection (1) who makes an election under this section shall do so by delivering to the Accountant General a direction, in such form as the Accountant General may determine, sixty days before the day he retires; and an election is revocable up to five days before that day but not thereafter.
+(3) The amount of the reduction in monthly pension payments shall be determined in accordance with the prevailing actuarial review and prescribed as soon as possible thereafter by the Minister, after consultation with the Board, by Notice in the Gazette subject to the negative resolution procedure.
+[Section 19A inserted by 2025 : 19 s. 6 effective 1 October 2025; Section 19A subsection (1) amended by 2026 : 14 s. 4 effective 11 June 2026]

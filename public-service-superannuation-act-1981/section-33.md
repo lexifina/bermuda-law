@@ -1,0 +1,15 @@
+## PART V
+## PENSIONABLE SERVICE AND COMPUTATION OF PENSIONS
+# Rate of pension
+33 Subject to sections 36 and 37, a contributor who has been in the service of the Government for a period of 8 years or upwards and who retires in accordance with this Act—
+(a) on or before 31 March 2027, then that contributor shall be paid a pension at the rate of one eight-hundredth of the salary payable to him immediately preceding the date of his retirement for each complete month of pensionable service;
+(b) from 1 April 2027, then that contributor shall be paid a pension at the rate of one eight-hundredth of the average salary payable to him in the twenty-four months immediately preceding the date of his retirement for each complete month of pensionable service;
+(c) from 1 April 2028, then that contributor shall be paid a pension at the rate of one eight-hundredth of the average salary payable to him in the thirty-six months immediately preceding the date of his retirement for each complete month of pensionable service;
+(d) from 1 April 2029, then that contributor shall be paid a pension at the rate one eight-hundredth of the average salary payable to him in the forty-eight months immediately preceding the date of his retirement for each complete month of pensionable service;
+(e) from 1 April 2030, then that contributor shall be paid a pension at the rate of one eight-hundredth of the average salary payable to him in the sixty months immediately preceding the date of his retirement for each complete month of pensionable service;
+(f) from 1 April 2031, then that contributor shall be paid a pension at the rate of one eight-hundredth of the average salary payable to him in the seventy-two months immediately preceding the date of his retirement for each complete month of pensionable service;
+(g) from 1 April 2032, then that contributor shall be paid a pension at the rate of one eight-hundredth of the average salary payable to him in the eighty-four months immediately preceding the date of his retirement for each complete month of pensionable service;
+(h) from 1 April 2033, then that contributor shall be paid a pension at the rate of one eight-hundredth of the average salary payable to him in the ninety-six months immediately preceding the date of his retirement for each complete month of pensionable service;
+(i) from 1 April 2034, then that contributor shall be paid a pension at the rate of one eight-hundredth of the average salary payable to him in the one hundred and eight months immediately preceding the date of his retirement for each complete month of pensionable service;
+(j) on or after 1 April 2035, then that contributor shall be paid a pension at the rate of one eight-hundredth of the average salary payable to him in the one hundred and twenty months immediately preceding the date of his retirement for each complete month of pensionable service.
+[Section 33 repealed and replaced by 2025 : 19 s. 11 effective 1 October 2025; Section 33(a) amended by 2026 : 14 s. 7 effective 11 June 2026]

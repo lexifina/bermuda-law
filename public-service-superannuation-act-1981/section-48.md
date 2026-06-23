@@ -1,0 +1,6 @@
+# Nomination by contributor
+48 (1) Subject to this Part a contributor may, at any time before he ceases to be employed in the public service, nominate another person or persons, as a person or persons to whom or for whose benefit a payment may be made under this Part after the nominator's death in the circumstances set out in section 47, and, subject as aforesaid, the Accountant General shall, after the death of the nominator and if the nomination is still in force, make payment to or for the benefit of the nominee or nominees, as the case may be.
+(2) The nominee or nominees referred to in subsection (1) must be any one or more persons specified by the nominator in writing addressed to the Accountant General.
+(3) If a contributor to whom this Part applies dies without having made a nomination, the Accountant General shall make payment of the amount specified in section 49 to the duly appointed estate representative of the contributor.
+(4) A nomination shall be in writing addressed to the Accountant General and may at any time be revoked by the nominator by notice in writing given to the Accountant General.
+(5) A nomination shall, in relation to a nominee, become void on the death of that nominee in the lifetime of the nominator and while the nominator is still in the public service.

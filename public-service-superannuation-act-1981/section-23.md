@@ -1,0 +1,3 @@
+# Maximum pension
+23 (1) A pension payable to a contributor under this Act shall not exceed sixty per centum of the highest salary drawn by him at any time in the course of his service in Bermuda.
+(2) For the purpose of subsection (1) an additional pension certified by the Board under section 38 in respect of injury shall not be taken into account, but where the contributor is granted such an additional pension, the amount of such additional pension which he may draw shall not exceed fifteen per centum of his highest salary at any time in the course of his public service by more than the sum by which the amount of his pension, apart from such additional pension, falls short of sixty per centum of such highest salary.

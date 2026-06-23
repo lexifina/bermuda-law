@@ -1,0 +1,4 @@
+# Reorganization of office and compulsory retirement
+37 (1) If a contributor is removed from the public service for the purpose of facilitating improvement in the administration of the public service by which greater efficiency can be effected, he shall be paid a pension at the rate specified in section 33:
+Provided that in the case of a contributor who does not qualify for a pension under that section he shall be entitled to a refund of his contributions with interest thereon.
+(2) It shall be lawful for the Board to certify the entitlement to an additional pension of a contributor removed from the public service under subsection (1) as though he had retired from the public service in consequence of the abolition of his office if it is considered by the Board that the circumstances of the case justify the payment of such an additional pension and in any such case section 36(2) shall have effect.
