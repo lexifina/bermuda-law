@@ -1,0 +1,7 @@
+# Duties of claimants for relief
+8 (1) Either of the following persons may claim relief in respect of goods, namely,—
+(a) the retailer in question himself or herself; or
+(b) a person in Bermuda, who supplied the goods to the retailer.
+(2) A person who will be making a claim for relief by virtue of subsection (1)(b) shall make himself known to the Collector as soon as may be so that the requirements of this section may be fulfilled in relation to him or her.
+(3) The Collector may give to every retailer for whom a scheme has been approved and to every person who will be making a claim for relief by virtue of subsection (1)(b), such reasonable directions as the Collector deems necessary for the purpose of ensuring that relief is made available to persons entitled to relief and is not enjoyed by others; and a person to whom such a direction is given shall comply with the direction.
+(4) A retailer for whom a scheme has been approved shall, whenever so required by the Collector during the period beginning, in the case of a retailer, on the day he or she ordered, imported or purchased the goods and, in any other case, on the day the person in question ordered or imported the goods and ending six months after the expiration of the statutory period, permit the Collector or any person authorised by him or her for that purpose, to inspect the shop premises or as the case may be, the goods to which the approved scheme applies.
