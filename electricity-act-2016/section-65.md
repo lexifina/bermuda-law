@@ -1,0 +1,3 @@
+# Repeal of Energy Act 2009
+65 (1) The Energy Act 2009 is hereby repealed.
+(2) Notwithstanding subsection (1), any matters relating to the electricity sector (except those that are referred to in section 68), that are pending before the Minister or the Energy Commission as at the date of commencement of this Act, or the relevant Part thereof, shall be transferred to the Authority for resolution in accordance with the procedures established by the Regulatory Authority Act 2011, subject to any modifications that the Authority may deem appropriate and efficient, depending on the status of each case.
