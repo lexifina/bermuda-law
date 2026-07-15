@@ -1,0 +1,2 @@
+# Failure to comply with statutory duties or regulations
+99 Any sectoral participant that knowingly contravenes any statutory duty contained in this Act, or who contravenes any regulations made by a Minister pursuant to this Act or to sectoral legislation, commits an offence triable either way and, unless sectoral legislation provides otherwise, is liable on conviction to a fine of up to $50,000 or imprisonment for up to two years, or both.

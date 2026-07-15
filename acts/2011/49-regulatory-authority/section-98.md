@@ -1,0 +1,2 @@
+# Failure to comply with a direction of the Authority
+98 Any sectoral participant that knowingly refuses or fails to comply with a direction issued to it by the Authority directing the sectoral participant to comply with its duties and obligations under this Act, sectoral legislation, any regulations, any general determination or any authorization condition commits an offence triable either way and, unless sectoral legislation provides otherwise, is liable on conviction to a fine of up to $5,000 for each day during which the refusal or failure continues.

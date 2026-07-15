@@ -1,0 +1,3 @@
+# Liability where offence committed by corporation
+107 (1) Where an offence under this Act committed by a person that is a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of any director, manager, company secretary or other officer of the sectoral participant, he, as well as the body corporate, is guilty of an offence and is liable to be proceeded against and punished in the manner specified in this Part.
+(2) Where the affairs of a body corporate are managed by its members, subsection (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.

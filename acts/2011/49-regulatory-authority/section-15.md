@@ -1,0 +1,5 @@
+# Scope of authority
+15 (1) The Authority shall have the power to supervise, monitor and regulate any regulated industry sector, in accordance with this Act, sectoral legislation and any regulations or policies made by a Minister.
+(2) The Authority, when acting within the scope of its authority, may make administrative determinations that are binding on sectoral participants, including general determinations to implement this Act, sectoral legislation and regulations and policies made by a Minister.
+(3) The Authority, following an adjudication, shall have the power to issue an adjudicative decision as to whether a specific person satisfies the criteria specified in sectoral legislation and, therefore, is a sectoral participant.
+(4) The Authority, when acting pursuant to sections 85 and 86, may make adjudicative decisions and orders that are binding on persons that are not sectoral participants, if the Authority determines that an action taken by any such person unreasonably restricts, or is likely to unreasonably restrict, competition in a regulated industry sector.
