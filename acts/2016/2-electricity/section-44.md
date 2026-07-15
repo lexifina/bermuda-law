@@ -1,0 +1,5 @@
+# Integrated Resource Plan review and approval
+44 (1) The TD&R Licensee shall prepare for the review and approval of the Authority a final draft Integrated Resource Plan that takes into consideration public comments and proposals, and implements comments of the Authority, if any.
+(2) The Authority may approve the Integrated Resource Plan if, acting in accordance with the regulatory principles and any administrative determinations, it considers that the final draft Integrated Resource Plan is the best approach to meeting the purposes of the Act and complying with Ministerial directions.
+(3) In any case to which section 45B applies and following the resumption of the IRP process, the Authority, acting in accordance with the regulatory principles and any administrative determinations, may approve the Integrated Resource Plan if it considers that the final draft Integrated Resource Plan is the best approach to meeting the purposes of the Act and complying with Ministerial directions.
+[Section 44 subsection (3) inserted by 2026 : 15 s. 6 effective 30 June 2026]
