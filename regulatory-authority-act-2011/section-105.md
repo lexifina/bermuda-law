@@ -1,0 +1,2 @@
+# Obstruction of the Authority
+105 Any person who wilfully obstructs, or knowingly fails to comply with a reasonable request for information by, any Commissioner or any member of the staff or any inspector appointed by the Authority in the exercise of any function conferred by this Act or by sectoral legislation commits an offence and is liable on summary conviction to a fine of up to $20,000 or imprisonment for up to six months, or both.

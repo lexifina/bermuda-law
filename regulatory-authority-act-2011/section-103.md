@@ -1,0 +1,2 @@
+# Failure to file reports
+103 The secretary of a sectoral provider that is a body corporate and is required to submit a report required by the Authority pursuant to section 53, or by sectoral legislation, commits an offence triable either way in any case in which the secretary knowingly fails to submit the report at the specified time without prior written approval from the Authority, and is liable on to a fine of up to $20,000 or imprisonment for up to six months, or both.
