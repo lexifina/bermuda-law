@@ -1,0 +1,2 @@
+# Notices to be in writing
+105 All notices, orders and other documents authorized or required by or under this Act or by or under regulations made thereunder to be given, made or issued by the Minister or Board, and all notices and applications authorized or required by or under this Act or by or under any such regulations to be given or made to the Minister, the Board or to any officer of the Department shall be in writing.

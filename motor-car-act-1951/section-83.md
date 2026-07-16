@@ -1,0 +1,7 @@
+# Discretionary power of Minister concerning issue of drivers’ licences to drive heavy trucks
+83 (1) Where a person applies for the issue or renewal of a driver’s licence to drive a heavy truck or tank wagon, the Minister shall make due enquiry with regard to his record as a driver; and where it appears to the Minister that the applicant—
+(i) has been convicted at any time of manslaughter, where the offence occurred by reason of the driving by him of any vehicle; or
+(ii) has been convicted at any time of an offence contrary to section 35 or section 36 of the Road Traffic Act 1947 [title 21 item 3]; or
+(iii) has twice been convicted, during the period of two years last preceding the date of his application, of an offence contrary to section 7 or section 37 of the Road Traffic Act 1947 [title 21 item 3],
+the Minister may refuse to issue to him a driver’s licence, or, as the case may be, to renew a driver’s licence, valid for the driving of a heavy truck or tank wagon; and shall by notice cause him to be informed of his decision.
+(2) Where a person is aggrieved by a decision of the Minister to refuse to issue him with a driver’s licence, or, as the case may be, to renew any such licence, valid for the driving of a heavy truck or tank wagon, he may have the matter remitted to a court of summary jurisdiction in the manner provided and subject to the conditions set out in section 116.

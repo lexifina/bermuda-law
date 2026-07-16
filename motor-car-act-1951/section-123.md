@@ -1,0 +1,11 @@
+# Offences of driving motor car while disqualified for obtaining drivers’ licence
+123 (1) Notwithstanding anything in the foregoing provisions of this Act, any person who—
+(a) while he is disqualified under any Act for obtaining a driver’s licence, or as the case may be, a driver’s licence valid for the driving of any particular class of motor car; or
+(b) while his driver’s licence is suspended under any Act, or, as the case may be, is suspended to the extent of its validity for the driving of any particular class of motor car,
+drives a motor car or, where the disqualification or suspension is in respect of a motor car of a particular class, then a motor car of that class, commits an offence against this Act.
+(2) A person to whom a driver’s licence, or, as the case may be, a driver’s licence valid for the driving of any particular class of motor car, may not, by virtue of any of the provisions of Part V, be issued by reason of his age shall, if he drives a motor car or, where such prohibition as aforesaid relates to a particular class of motor car, then if he drives a motor car of that class, be deemed, for the purposes of the foregoing provisions of this section, to drive that motor car whilst disqualified for obtaining a driver’s licence.
+(3) A person whose driver’s licence has been cancelled under section 88 or of section 89 in connection with his suffering from a physical or mental disability shall, if he drives a motor car before a new driver’s licence is issued to him, be deemed for the purposes of this section to drive that motor car whilst disqualified for obtaining a driver’s licence.
+(4) Notwithstanding any enactment prescribing a time within which proceedings may be brought before a court of summary jurisdiction, proceedings for an offence under this section may be brought—
+(a) within a period of 6 months from the date of the commission of the alleged offence; or
+(b) within a period which exceeds neither 3 months from the date on which it came to the knowledge of the informant in the proceedings that the offence had been committed nor one year from the date of the commission of the offence, whichever is the longer period.
+(5) Without prejudice to section 115, a police officer in uniform may arrest without warrant any person whom he had reasonable cause to suspect of committing an offence against subsection (1).
