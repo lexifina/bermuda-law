@@ -1,0 +1,14 @@
+# Repeals and consequential, transitional and saving provisions
+26 (1) Subject to this section—
+(a) the provisions of Parts II to IV of the Miscellaneous Taxes Act 1976 and every other provision of that Act referring to those Parts or to employment tax or hospital levy are repealed; and
+(b) every provision of the Miscellaneous Taxes (Rates) Act 1980 prescribing or otherwise relating to a rate for that tax or that levy is also repealed.
+(2) A provision mentioned in subsection (1) is referred to in this section as “a repealed provision”.
+(3) Consequentially upon the enactment of this Act—
+(a) the Management Act is amended by adding to the list of taxes specified in the First Schedule to that Act the following—
+“Payroll Tax”; and
+(b) the remainder of the Management Act is deemed amended so as to reflect the inclusion of payroll tax in the list of taxes to which that Act applies, except that for the avoidance of doubt it is declared that section 36A of that Act has no application to payroll tax.
+(4) Without prejudice to section 16 of the Interpretation Act 1951, the repeals made by subsection (1) above (“the above repeals”) do not affect any right of any person (including the Commissioner) or any obligation of any person (including the Commissioner), being a right or obligation that had arisen in relation to a matter regulated by a repealed provision before the commencement day and was in existence immediately before that day.
+(5) Subsection (4) above has effect only so far as it may be needed for the exercise or enforcement, on or after the commencement day, of a right or obligation under a repealed provision as in force immediately before that day.
+(6) Notwithstanding the above repeals—
+(a) any matter requiring registration under a repealed provision before its repeal that was accepted by the Commissioner as being registered immediately before the commencement day shall continue to be accepted by him as being duly registered for the corresponding purposes of this Act until its registration is discontinued by the Commissioner; and the Commissioner may effect such a discontinuance by issuing under this paragraph a notice in writing for that purpose to such person or persons as may be concerned; and
+(b) any approval or determination by the Minister or the Commissioner that was given or made by the Minister or the Commissioner under a repealed provision as respects a matter for which similar provision is made under this Act shall, if the approval or determination was in force immediately before the commencement day, continue in force for the purposes of this Act until discontinued by the Minister or the Commissioner; and the Minister or the Commissioner may effect such a discontinuance by issuing under this paragraph a notice in writing for that purpose to such person or persons as may be concerned.
