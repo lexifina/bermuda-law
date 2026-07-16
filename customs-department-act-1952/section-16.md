@@ -1,0 +1,3 @@
+# Savings of agreements for national and international cooperation
+16 Every memorandum of understanding or arrangement entered into by or on behalf of the Collector of Customs and any other party with respect to national or international cooperation for the purpose of enabling or assisting with the performance of the functions of that party or with respect to the duties of the Department, immediately before the commencement of this section, shall continue to subsist between the Collector of Customs and such other party, subject to the terms of such memorandum or arrangement.
+[Section 16 inserted by 2024 : 42 s. 4 effective 28 December 2024]
