@@ -1,0 +1,7 @@
+# Special provisions relating to landing, etc., of alien wives, etc., of persons who pos- sess Bermudian status
+27 Notwithstanding anything in section 25, and without prejudice to anything in section 60 (which section imposes restrictions on the engagement of such persons in gainful occupation) the wife and dependent children under eighteen years of age of a person who possesses Bermudian status shall be allowed to land and to remain or reside in Bermuda in connection with the residence therein of the person who possesses Bermudian status as if such wife or child were deemed to possess Bermudian status if all the following conditions are fulfilled—
+(a) the wife or dependent children must not land, or remain or reside in Bermuda, while the husband or father, as the case may be, is not ordinarily resident, or is not domiciled, in Bermuda;
+(b) the wife must not commence to live apart from her husband under a decree of a competent court or under a deed of separation; and
+(c) the wife and dependent children must not, while residing in Bermuda, contravene any provision of Part V (which Part relates to engagement in gainful occupation),
+but if any of such conditions are not fulfilled, then the landing of such wife and dependent children, or their residence in Bermuda, shall be deemed to become unlawful except with the specific permission of the Minister.
+[Section 27 amended by 2001:20 s.7(1) & Sch 2 effective 1 November 2001]

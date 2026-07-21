@@ -1,0 +1,3 @@
+# Power to require medical examinations
+48 (1) Any immigration officer may require any passenger or member of the crew of any ship or aircraft (other than a person who possesses Bermudian status) arriving in Bermuda to be examined, as respects his physical or mental condition, by the ship’s surgeon (if any), or by a Government Medical Officer or by any other registered medical practitioner who is willing to carry out such examination, as a condition of such person being allowed to land in Bermuda.
+(2) Any immigration officer may, for the purposes of subsection (1), direct any passenger or member of the crew of the ship or aircraft to be landed in such custody as the immigration officer may require.

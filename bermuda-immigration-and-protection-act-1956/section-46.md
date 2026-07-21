@@ -1,0 +1,2 @@
+# Financial responsibility for maintenance of persons illegally landed
+46 Where a person lands from a ship or aircraft in contravention of any provision of sections 23 to 45, then, without prejudice to any other provision of this Act, the local representative of such ship or aircraft shall be financially responsible for any public charges reasonably incurred in respect of such person’s maintenance while in Bermuda and of his subsequent repatriation, removal or deportation therefrom.

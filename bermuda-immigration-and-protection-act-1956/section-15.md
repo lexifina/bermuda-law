@@ -1,0 +1,2 @@
+# Duty of police and customs officers in connection with administration of Act
+15 It shall be the duty of every police officer and customs officer to aid and assist generally in carrying out this Act; and if any contravention of this Act, or any statutory instrument in force thereunder, or any orders or directions given thereunder, becomes known to any police officer, or customs officer, then it shall be the duty of such officer forthwith to report the contravention to an immigration officer.

@@ -1,0 +1,4 @@
+# Supervision of landing from aircraft by immigration officer
+41 (1) It shall be the duty of the Chief Immigration Officer to ensure that the passengers disembarking from any aircraft, and, where practicable, from any service aircraft when carrying passengers, are, as soon as practicable after disembarkation and before they have landed in Bermuda by reason of leaving the airport or Base at which they have disembarked, interviewed by an immigration officer.
+(2) No person having been a passenger in an aircraft, or a member of the crew of an aircraft other than a service aircraft, shall, except in emergency (the proof of which shall be upon him), leave the airport or Base at which he has disembarked from the aircraft until an immigration officer has given him permission to do so.
+(3) In this section “Base” has the meaning assigned to it by the United States Bases (Agreement) Act 1952.
