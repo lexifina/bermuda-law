@@ -1,0 +1,7 @@
+# Special provisions as to Government ships and service aircraft
+39 Notwithstanding anything in sections 35, 36, 37 and 38, this section shall have effect in relation to the arrival and departure of Government ships or service aircraft in Bermuda—
+(a) it shall be the duty of the appropriate naval, military or air force authority to notify to the Chief Immigration Officer the arrival of the Government ship or service aircraft where the ship or aircraft is believed to carry any person other than—
+(i) a member of the crew; or
+(ii) a member of Her Majesty’s Forces or of the armed forces of any government recognized by Her Majesty for that purpose, being a person who is arriving in Bermuda in the course of his duty as such a member;
+(b) it shall be the duty of the captain or other officer commanding a Government ship or service aircraft arriving in Bermuda, to furnish to an immigration officer, if so required, lists showing the names and particulars of persons on board such ship or aircraft (other than persons mentioned in paragraph (a)(i) or (ii)) before any such person lands in Bermuda; and
+(c) it shall be the duty of the captain or other officer commanding a Government ship or service aircraft departing from Bermuda, or of the appropriate naval, military or air force authority, to furnish to an immigration officer, if so required, lists showing the names and particulars of persons (other than persons mentioned in paragraph (a)(i) or (ii)) who are departing from Bermuda in such ship or aircraft.

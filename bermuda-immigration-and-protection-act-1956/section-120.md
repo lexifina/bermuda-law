@@ -1,0 +1,6 @@
+# General provisions relating to regulations
+120 (1) Regulations made in pursuance of any provision of this Act may require that the regulations, or any part or extract therefrom, shall be displayed in any prescribed place.
+(2) Regulations may provide for prescribing the forms, notices or other documents to be used, and particulars to be given, in connection with this Act.
+(3) Any person who contravenes any provision of any regulations made in pursuance of any provision of this Act or with any order, direction or requirement lawfully made, given or imposed by any person under the authority of those regulations, commits an offence against this Act:
+Provided that where a person engaged or employed in the administration of such regulations omits to perform any duty imposed upon him as such the omission shall not constitute an offence against this Act.
+(4) Regulations made in pursuance of any provision of this Act, shall not, except as expressly provided in this Act, prescribe any charge or fee to be made or recovered in respect of any service performed, or duty executed, or power exercised, or permit granted, by or on behalf of the Minister or person charged with the execution of this Act.

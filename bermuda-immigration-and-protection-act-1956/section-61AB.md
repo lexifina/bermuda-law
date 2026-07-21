@@ -1,0 +1,6 @@
+# Cost of repatriation of employee and dependants
+61AB (1) Subject to subsection (2), the most recent employer of a person (“former employee”) whose work permit has expired, been revoked, or is deemed to have been revoked under section 61(7E), shall be responsible for any costs associated with repatriation of the former employee and his qualifying dependants, and for reimbursing the Chief Immigration Officer if he incurs any such costs.
+(2) Subsection (1) does not apply if the employer and former employee have agreed in writing that the former employee will be responsible for any such repatriation costs, but it shall apply if in any case the former employee is unable to meet those costs.
+(3) Any costs associated with repatriation of dependants who are not qualifying dependants shall be the responsibility of the former employee, who shall be responsible for notifying the Chief Immigration Officer of any changes to the dependants listed on the original work permit in accordance with Guidelines issued for the purposes of this section.
+(4) “Qualifying dependants” means dependants who were listed on the former employee’s original work permit application.
+[Section 61AB inserted by 2013 : 35 s. 4 effective 1 April 2014]
