@@ -1,0 +1,3 @@
+# Procedure after hearing
+15 (1) The Tribunal shall, after the close of a hearing, notify the parties of its determination and give a statement of its reasons in accordance with section 13D(3) of the Act.
+(2) The Tribunal may arrange for the publication of its determination and a statement of its reasons, but in doing so shall have regard to the desirability of safeguarding confidential information given to the parties, or information which was communicated or obtained in confidence, or information relating to any person who is not a party to the appeal, or the name of the appellant, and for that purpose may make any necessary amendments to the text of its determination and statement of reasons.
