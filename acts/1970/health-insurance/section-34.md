@@ -1,0 +1,2 @@
+# Offence by corporate body; liability of officers
+34 Where an offence under this Act which has been committed by a corporate body is proved to have been committed with the consent or connivance of, or to be attributable to any negligence on the part of any manager, director, secretary or other officer of the body corporate, such person, as well as the corporate body, shall be liable to be proceeded against and punished accordingly.
