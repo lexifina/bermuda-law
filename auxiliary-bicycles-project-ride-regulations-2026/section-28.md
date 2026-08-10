@@ -1,0 +1,3 @@
+# Condition relating to corrective devices
+28 (1) Where a person has a disability that impairs their ability to control an auxiliary bicycle but is able, by means of glasses, an artificial limb or another corrective device, to correct the disability to an extent sufficient for the issue of a learner’s permit or a Bermuda youth licence, it is a condition of the permit or licence that the holder, when controlling an auxiliary bicycle, uses the glasses, artificial limb or other corrective device required to correct the disability.
+(2) A learner’s permit or a Bermuda youth licence is not valid while its holder is controlling an auxiliary bicycle in contravention of subsection (1).
