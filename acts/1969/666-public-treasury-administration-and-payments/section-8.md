@@ -1,0 +1,2 @@
+# Financial year
+8 The financial year in Bermuda shall, for the purposes of managing and accounting for public funds be the period of twelve months extending from the first day of April in any year to the thirty-first day of March in the year next following and accordingly, for the purposes of section 102(1) of the Constitution [title 2 item 1] the first day of April in any year is hereby prescribed as the beginning of the twelve months constituting the financial year.
