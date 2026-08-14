@@ -1,0 +1,20 @@
+# Payment out of Consolidated Fund of sums due on death
+13 (1) If at the time of the death of any person there is payable to him any sum of money out of the Consolidated Fund, the Accountant-general shall, subject to subsections (2) and (3), pay the sum to the executor of or administrator of the estate of the deceased person upon production of the probate of the will or letters of administration of the estate of the deceased person, or to any other person on production of an order of the Court addressed to the Accountant-General and directing the payment to be made; and the receipt of any such executor, administrator or other person shall be a good discharge to the Accountant-General for the sum specified therein.
+(2) Notwithstanding anything in subsection (1), where a person dies to whom, at the time of his death, a sum of money is payable out of the Consolidated Fund, and there is not produced to the Accountant-General within three months after the death—
+(a) a probate of the will of the deceased person; or
+(b) letters of administration of his estate; or
+(c) an order of the Court addressed to the Accountant-general relating to the disposition of the sum of money; or
+(d) notice in writing of the existence of a will of the deceased person and intention to prove such will; or
+(e) notice in writing of intention to take out letters of administration,
+the sum of money may be dealt with in accordance with the succeeding provisions of this section.
+(3) Where the sum of money exceeds twenty thousand dollars, the Minister, after notice of the intended payment has been three times published in the Gazette, may order that the sum of money be paid to the person or persons who would in the opinion of the Minister be entitled to the effects of the deceased person were letters of administration granted under the law for the time being regulating the distribution of the personal estate of a person dying intestate; and the receipt of any such person or persons to whom any payment is made as aforesaid shall be a good discharge to the Accountant-General for the sum specified therein.
+(4) Where the sum of money is twenty thousand dollars or less, the Accountant-General, subject to the approval of the Minister, may pay or divide the sum of money to or among any of the persons hereinafter mentioned—
+(a) the widow or widower of the deceased person;
+(b) any person or persons who would in the opinion of the Accountant-General be entitled to the effects of the deceased person were letters of administration granted under the law for the time being regulating the estates of persons dying intestate;
+(c) any person or persons who make out to the Accountant-General a claim based on legal, equitable or moral grounds;
+(d) without prejudice to the generality of paragraph (c), any person or persons who are creditors of the deceased person (including a person or persons who paid the funeral expenses), any person or persons who during the last illness of the deceased person waited on or nursed him or provided him with food or other necessities, and any person or persons who, but for illegitimacy, would have been eligible for payment under paragraph (b) ;
+(e) the appropriate officer or authority where the relatives of the deceased person reside outside Bermuda; and
+(f) any person or persons undertaking to apply the sum in or towards the maintenance or education of any or all of the children of the deceased person;
+and the receipt of any such person or persons to whom any payment is made as aforesaid shall be a good discharge to the Accountant-General for the sum specified therein.
+(5) Subsection (3) or subsection (4) (according to the amount of the sum of money) shall also have effect in any case where notice has been given as mentioned in subsection (2)(d) or (e), but no will is proved or (as the case may be) no letters of administration are taken out, and produced to the Accountant-General within six months after the death of the deceased person.
+[Section 13 subsections (3) and (4) amended by 2003:3 s.2 effective 19 March 2003]

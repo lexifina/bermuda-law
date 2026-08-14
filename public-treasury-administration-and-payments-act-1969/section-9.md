@@ -1,0 +1,2 @@
+# Consolidated Fund to be managed on accrual basis
+9 The accounts of the Consolidated Fund shall be managed on an accrual basis and, in respect of any financial year, there shall be included in the revenue and expenditure accounts all items of revenue which become due, and all items of expenditure which are incurred, in that year, without regard to the actual date of receipt or payment of any item.

@@ -1,0 +1,3 @@
+# Investment of balance with Crown Agents
+26 (1) In any case where there is a balance in the general account of the Government with the Crown Agents standing to the credit of the Government, then the balance shall be subject to the management and control of, and may be invested by the Minister, subject to and in accordance with the Public Funds Act 1954 [title 15 item 1].
+(2) Any sums earned by way of any such loans or deposits as aforesaid shall, subject to payment of the appropriate commission, if any, to the Crown Agents, be placed to the credit of the Government in the general account of the Government with the Crown Agents.

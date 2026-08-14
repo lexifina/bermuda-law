@@ -1,0 +1,3 @@
+# Cheques drawn on Consolidated Fund remaining unpaid for six months
+24 Where after payment has been duly made to any person out of the Consolidated Fund by way of a cheque drawn in accordance with section 21 that cheque is not paid within six months of the date on which the cheque was drawn, no payment shall thereafter be made upon that cheque and the amount of such cheque shall be appropriated to the general revenue of Bermuda:
+Provided that the Minister may at any time, where he thinks it equitable and proper in the circumstances, direct the payment of the amount of any such cheque to any person after the elapse of the period of six months as aforesaid.
