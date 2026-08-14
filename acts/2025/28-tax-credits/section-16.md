@@ -1,0 +1,29 @@
+# Headcount factor
+16 (1) The headcount factor shall be determined based on the aggregate number of full-time eligible employees of the Qualifying Bermuda Group for a fiscal year.
+(2) To the extent that the aggregate number of full-time eligible employees of the Qualifying Bermuda Group for a fiscal year is—
+(a) less than 20, the headcount factor of the Qualifying Bermuda Group for the fiscal year shall be 0%;
+(b) 20 or more but less than 40, the headcount factor of the Qualifying Bermuda Group for the fiscal year shall be 20%;
+(c) 40 or more but less than 60, the headcount factor of the Qualifying Bermuda Group for the fiscal year shall be 25%;
+(d) 60 or more but less than 80, the headcount factor of the Qualifying Bermuda Group for the fiscal year shall be 30%;
+(e) 80 or more but less than 100, the headcount factor of the Qualifying Bermuda Group for the fiscal year shall be 35%;
+(f) 100 or more but less than 125, the headcount factor of the Qualifying Bermuda Group for the fiscal year shall be 40%;
+(g) 125 or more but less than 150, the headcount factor of the Qualifying Bermuda Group for the fiscal year shall be 45%; and
+(h) 150 or more, the headcount factor of the Qualifying Bermuda Group for the fiscal year shall be 50%.
+(3) For the purposes of subsection (1), the aggregate number of full-time eligible employees of the Qualifying Bermuda Group for the fiscal year shall be equal to the sum of—
+(a) with respect to each eligible employee of a Qualifying Bermuda Group Entity member of the Qualifying Bermuda Group who had a Bermuda workdays percentage in excess of 50% for the fiscal year, the full-time equivalent factor determined with respect to the eligible employee for the fiscal year; and
+(b) with respect to each eligible employee of a Qualifying Bermuda Group Entity member of the Qualifying Bermuda Group who had a Bermuda workdays percentage of 50% or less for the fiscal year, the product of—
+(i) the Bermuda workdays percentage of the eligible employee for the fiscal year; and
+(ii) the full-time equivalent factor determined with respect to the eligible employee for the fiscal year.
+(4) The full-time equivalent factor for an eligible employee for the fiscal year shall be—
+(a) in the case of an eligible employee who has an agreement with one or more Qualifying Bermuda Group Entity members of the Qualifying Bermuda Group which establishes the standard working hours of the eligible employee with respect to the fiscal year, the product of—
+(i) the result obtained by dividing the standard weekly working hours of the eligible employee established by the agreement for the fiscal year by 30, which shall not exceed 1; and
+(ii) the result obtained by dividing the number of weeks (including a portion of a week) in which the eligible employee was employed by one or more Qualifying Bermuda Group Entity members of the Qualifying Bermuda Group during the fiscal year by the number of weeks (including a portion of a week) during the fiscal year;
+(b) in the case of an eligible employee who is not described in paragraph (a), the product of—
+(i) the result obtained (which shall not exceed 1) by dividing the weekly average of the number of hours of service provided by the eligible employee,(which shall be determined by dividing the number of hours of service provided by the eligible employee to Qualifying Bermuda Group Entity members of the Qualifying Bermuda Group during the fiscal year by the number of weeks (including a portion of a week) in which the individual was an eligible employee of one or more Qualifying Bermuda Group Entity members of the Qualifying Bermuda Group during the fiscal year) by 30; and
+(ii) the result obtained by dividing the number of weeks (including a portion of a week) in which the eligible employee was employed by one or more Qualifying Bermuda Group Entity members of the Qualifying Bermuda Group during the fiscal year by the number of weeks (including a portion of a week) during the fiscal year.
+(5) For the purposes of subsection (4)—
+(a) to the extent that an eligible employee had one or more agreements which established different standard working hours for the eligible employee for portions of the fiscal year, subsection (4)(a) shall be applied separately to each such portion of the fiscal year and the results obtained by such separate applications of subsection (4)(a) shall be added together to obtain an aggregate full-time equivalent factor for the eligible employee for the fiscal year;
+(b) to the extent that an eligible employee had an agreement for only a portion of the period during which the eligible employee was an eligible employee of one or more Qualifying Bermuda Group Entity members of the Qualifying Bermuda Group during the fiscal year, such that the eligible employee is described in subsection (4)(a) and (b) for the fiscal year, subsection (4)(a) and (b) shall be applied separately to such portions of the fiscal year and the results obtained by such separate applications of subsection (4)(a) and (b) shall be added together to obtain an aggregate full-time equivalent factor for the eligible employee for the fiscal year;
+(c) where subsection (4)(a) or (b) is being applied separately to more than one portion of a fiscal year (determined without regard to section 33(1)), whether by virtue of the application of paragraphs (a) or (b) or section 33, the aggregate of the number of weeks in which the eligible employee was employed by one or more Qualifying Bermuda Group Entity members of the Qualifying Bermuda Group during the fiscal year, as determined in subsection (4)(a)(ii) and (b)(ii) shall not exceed the total number of weeks during the fiscal year.
+(6) The Filing Qualifying Bermuda Group Entity may make an annual election to disregard one or more eligible employees for the purposes of this section.
+[Section 16 subsections (4) and (5) amended by 2026 : 24 s. 2 effective 28 July 2026]
