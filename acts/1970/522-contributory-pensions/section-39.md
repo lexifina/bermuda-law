@@ -1,0 +1,2 @@
+# Insured persons over 65
+39 For the avoidance of doubt it is hereby declared that any person who, being over the age of 65 on 5 August 1968, was engaged in insurable employment under the repealed Act and in respect of whom contributions were paid under that Act, shall, as from 5 August 1968 or the date of entry into such employment, be deemed for the purpose of section 2(1) to have been a person who was insured under the repealed Act; and for the purposes of this Act the pension age of any such person shall be the fifth anniversary of 5 August 1968.
