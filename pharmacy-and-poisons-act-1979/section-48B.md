@@ -1,0 +1,3 @@
+# Minister may provisionally add or remove drugs in the Third or Fourth Schedule
+48B The Minister may, on the recommendation of the Chief Medical Officer or the Council, by Notice in the Gazette, provisionally list, or remove, the drugs in the Third or Fourth Schedule and such drugs shall be considered listed in, or removed from, the Third or Fourth Schedule for a period not exceeding 30 days or until the Minister issues an order either adding to, or deleting from, the Third or Fourth Schedule such drugs, whichever occurs earlier.
+[Section 48B inserted by 2014 : 36 s. 2 effective 22 December 2014]

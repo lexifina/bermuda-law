@@ -1,0 +1,6 @@
+# Student pharmacists
+54 (1) Nothing in section 6 shall have effect in relation to a student pharmacist acting in accordance with a permit granted to him under this section.
+(2) The Minister may grant a permit under this section to a student pharmacist to compound or dispense any substance specified in the Third, Fourth or Fifth Schedule, subject to the conditions specified in the permit.
+(3) A permit under this section must contain a condition that the permit-holder when acting under the permit shall do so under the direct personal control and supervision of a registered pharmacist who is named in the permit and who has endorsed the permit in acknowledgement of his responsibility thereunder; and (but without prejudice to any liability of the permit-holder apart from this Act) any act done by the permit-holder under, or in reliance upon, the authority of the permit shall for the purposes of this Act be deemed to be the act of that registered pharmacist.
+(4) The Minister may without notice at any time in writing revoke a permit granted under this section.
+(5) In this section “student pharmacist” means a person who has satisfied the Minister that he is undergoing a course of training that will qualify him in due course to receive a certificate of competence from the Council.
