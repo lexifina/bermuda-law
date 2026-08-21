@@ -1,0 +1,7 @@
+# Powers and duties of Municipalities
+9 (1) Subject and without prejudice to Part I, the powers and duties hereinafter mentioned in this section shall be conferred or imposed upon a Municipality—
+(a) the Municipality may exercise the powers and shall perform the duties conferred or imposed upon it by virtue of Part III;
+(b) the Municipality, in respect of matters concerning the public health in relation to its municipal area, shall act as an advisory body to the Minister, and shall make such recommendations to the Minister for the preservation and improvement of the public health within that area as the Municipality may from time to time consider expedient;
+(c) the Municipality may make and may amend, vary or revoke ordinances for regulating the execution or administration in detail of any of the functions which, by virtue of this Act, the Municipality is authorized or required to perform, so, however, that the conditions set out in section 38(3) of the Municipalities Act 1923 [title 4 item 1], shall apply in relation to any such ordinance.
+(2) Officers of a Municipality shall have, as respect any functions exercisable by the Municipality under this Act, the like powers and duties as officers of the Department exercising like functions.
+(3) Subject to sections 3, 4, 12, 13 and 32, nothing in this Act shall derogate from or abridge any powers or duties conferred or imposed upon a Municipality by or under any other Act.

@@ -1,0 +1,5 @@
+# Medical examination of school children
+166 (1) Subject to this section, a Government Medical Officer or Dental Officer may from time to time carry out in any school a medical examination of the school children attending that school.
+(2) Medical examinations, in pursuance of this section, of the school children of any school shall be carried out in such manner and at such times as not unreasonably to interfere with the organization or work of the school; and the headmaster or other person in charge of the school shall in each case be consulted as to the manner and time of the examination.
+(3) Subject as aforesaid, it shall be the duty of the headmaster or other person in charge of a school to aid and assist a Government Medical Officer or Dental Officer in the exercise of his functions under this section.
+(4) The parent or guardian of any child may lodge a written objection with the Minister to the inclusion of the child in any medical examination carried out in pursuance of this section; and any child in respect of whom an objection is so lodged shall be excluded from any such examination.

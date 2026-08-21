@@ -1,0 +1,4 @@
+# Powers of entry to detect nuisance
+62 (1) Subject to section 176 an authorized officer may enter at any reasonable time any building or premises for the purpose of examining as to the existence of any nuisance thereon; and an authorized officer may, if necessary, open up the ground of such premises and cause the drains to be tested, or such other work to be done as appears to him necessary for the effectual examination of the premises.
+(2) Where after an examination carried out under this section no nuisance is found to exist the Minister shall restore the premises at the public expense, and shall pay reasonable compensation to any person who, as a result of the examination, has suffered loss or damage.
+(3) Any person who is aggrieved by the amount of compensation tendered to him by the Minister in pursuance of subsection (2) may appeal to a court of summary jurisdiction in accordance with section 190.

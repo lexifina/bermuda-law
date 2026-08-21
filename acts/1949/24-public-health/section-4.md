@@ -1,0 +1,8 @@
+# Municipalities to comply with directions of Minister
+4 (1) Where—
+(a) a Municipality exercises any power conferred upon it by this Act or any power conferred upon it by any other Act (being a power the exercise of which is related to or affects the purposes of this Act) or omits to exercise any such power, and
+(b) the Minister is satisfied that the exercise of the power or the manner in which the power is exercised or the omission to exercise the power is or is likely to be prejudicial to the public health,
+the Minister may give to the Municipality such general or special directions as may seem to him proper in the circumstances and, subject as hereinafter provided, the Municipality shall comply with any such directions:
+Provided that where a Municipality is aggrieved by any such directions the Municipality may within fourteen days after the receipt of the directions appeal to the Governor who may give such directions as may seem to him to be proper in the circumstances; and any directions so given by the Governor annulling or modifying the directions given by the Minister shall be substituted for the directions which were the subject of the appeal.
+(2) Every officer of a Municipality shall, in respect of matters within his municipal area, aid in carrying out and giving effect to the provisions and objects of this Act.
+(2a) If any contravention of this Act or of any regulations, orders or directions made in pursuance thereof becomes known to an officer of the Municipality, he shall forthwith report the matter to the appropriate authority of the Municipality concerned who shall thereupon report the same to the Minister or to a Public Health Officer.

@@ -1,0 +1,2 @@
+# Power of Minister to make a charge in respect of establishment expenses
+183 Where under this Act the Minister has power to execute works and to recover from any person the expenses incurred by him in so doing, he may include in, and recover as part of, the expenses thereof such additional sum, not exceeding five per centum of the cost of the works, as he thinks fit in respect of their establishment charges.

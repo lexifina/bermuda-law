@@ -1,0 +1,4 @@
+# Duties of person to whom permission to disinter is granted
+129 (1) Every permission granted in pursuance of section 127 or 138 shall be granted either to the applicant, if he is able and intends to supervise the disinterment, or to some other person nominated by him, who is able and willing to supervise the disinterment.
+(2) Every permission as aforesaid shall state the name of the person to whom it is granted, and shall specify any conditions subject to which it is granted; and it shall be deemed to be such a condition that the person to whom it is granted shall personally supervise the disinterment.
+(3) In this section “disinterment”, in addition to the meaning assigned to it in section 120, also includes the subsequent conveyance and custody of the human remains until such time as they are disposed of in a manner specified in section 124(3), or are duly received on board a ship or aircraft in order to be removed from Bermuda.

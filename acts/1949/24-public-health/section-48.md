@@ -1,0 +1,2 @@
+# Treatment of articles infected with vermin
+48 Where it appears to a Public Health Officer that any article in any dwelling-house is infested with vermin, or by reason of its having been used by, or having been in contact with, any person infested with vermin, is likely to be so infested, the Public Health Officer may cause the article to be cleansed, disinfected or destroyed, and if necessary for that purpose to be removed from the premises.

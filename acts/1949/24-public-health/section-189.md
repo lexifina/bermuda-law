@@ -1,0 +1,3 @@
+# Persons entitled to bring proceedings
+189 (1) Proceedings in respect of an offence created by or under this Act or by or under any regulations made thereunder shall not, without the written consent of the Attorney General, be instituted by any person other than a party aggrieved, or by the Minister, or by a Municipality whose function it is to enforce the provision of the Act or the provision of the regulations in question.
+(2) A prosecution for an offence against this Act or against regulations made thereunder may be conducted before a court of summary jurisdiction by any officer of the Department or, as the case may be, of a Municipality, where such officer is duly authorized by the Minister or the Municipality in that behalf.

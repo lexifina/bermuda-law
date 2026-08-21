@@ -1,0 +1,4 @@
+# Powers and duties of Minister in disseminating and providing information regarding overcrowding
+142 (1) The Minister may from time to time and in such manner as he thinks expedient publish information in simple form for the assistance of occupiers and landlords of dwelling-houses as to their rights and duties under the provisions of this Part relating to overcrowding and as to the enforcement thereof.
+(2) It shall be the duty of the Minister, upon the application of the occupier of a dwelling-house, to inform him in writing of the number of persons constituting the permitted number in relation to the house.
+(3) A certificate of the Minister stating the number and floor area of the rooms in a dwelling-house, and that the floor areas thereof have been ascertained in the prescribed manner, shall be, prima facie, evidence of the facts stated therein.

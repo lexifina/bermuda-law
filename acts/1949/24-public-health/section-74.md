@@ -1,0 +1,5 @@
+# Restriction on sending or taking infected articles to laundry or to cleaners
+74 (1) A person shall not send or take to any laundry for the purpose of being washed, or to any place for the purpose of being cleaned, any article which he suspects or has reasonable cause to believe to be infected with a communicable disease, unless that article has been disinfected by, or to the satisfaction of, a Public Health Officer, or is sent with proper precautions to a laundry for the purpose of disinfection, with notice that it is, or is suspected to be, so infected,
+(2) The Minister may pay the expenses of the disinfection of any such article as aforesaid if carried out by him or under the direction of a Public Health Officer.
+(3) The occupier of a building in which a person is suffering from a communicable disease shall, if required by the Minister, furnish to him the address of any laundry or other place to which articles from the building have been, or will be, sent during the continuance of the disease for the purpose of being washed or cleaned.
+(4) Any person who contravenes any of the foregoing provisions of this section commits an offence against this Act.

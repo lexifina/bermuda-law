@@ -1,0 +1,2 @@
+# Power of Minister to execute certain work on behalf of owners or occupiers of premises
+174 The Minister may, by agreement with the owner or occupier of any premises, execute at the expense of such owner or occupier any work which, in pursuance of any provision of this Act, the Minister has required the owner or occupier to execute; and for that purpose the Minister shall have such rights as the owner or occupier would have if the owner or occupier had himself executed the work.

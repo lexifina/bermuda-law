@@ -1,0 +1,4 @@
+# Discontinuance of places as cemeteries
+122 (1) Where it appears to the Minister that, for the protection of the public health, burials in any cemetery should be discontinued, either wholly or subject to any exception or qualification, the Minister by notice in the Gazette may order that after a date to be specified in the notice the burial of human remains in that cemetery shall be discontinued, either wholly or subject to any exception or qualification specified in the notice.
+(2) No person, after the date specified in any such notice for the discontinuance of burials as aforesaid, shall bury or attempt to bury any human remains in any former cemetery in contravention of any order made by the Minister under subsection (1).
+(3) Any person who contravenes subsection (2) commits an offence against this Act.

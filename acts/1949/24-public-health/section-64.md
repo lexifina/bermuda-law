@@ -1,0 +1,2 @@
+# Regulations; offensive trades
+64 Provision may be made by regulations made under this Act for preventing or mitigating any noxious or injurious effects of any trade, business or manufacture which is an offensive trade within the meaning of section 63, established either with or without the consent of the Minister and either before or after 5 August 1949; and such regulations may provide for the inspection of premises upon which an offensive trade is carried on.

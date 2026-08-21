@@ -1,0 +1,3 @@
+# Procedure where child immune from smallpox
+113 (1) Where a public vaccinator is of opinion that a child taken to him for vaccination is not physically fit to be vaccinated, he shall forthwith complete and deliver to the parent a certificate in the prescribed form.
+(2) Any certificate as aforesaid shall remain in force for three months only, but shall be renewable for a like period from time to time, until such time as a public vaccinator considers the child to be physically fit for vaccination, when the child shall with all reasonable despatch be vaccinated; and with respect to any such vaccination this Part shall apply in like manner as though it were a vaccination carried out in pursuance of section 110.
