@@ -1,0 +1,4 @@
+# Drainage of yards
+20 (1) If any court or yard appurtenant to, or any passage giving access to, a building is not so formed, flagged, asphalted or paved, or is not provided with such works on, above or below its surface, as to allow of the satisfactory drainage of its surface or subsoil to a proper outfall, the Minister may by order require the owner or occupier of the building to execute such works as appear to the Minister necessary to remedy the defect.
+(2) The provisions of Part XI with respect to appeals against, and the enforcement of orders requiring the execution of works shall apply in relation to any order made under this section.
+(3) The foregoing provisions of this section shall apply in relation to any court, yard, or passage which is used in common by the occupiers of two or more houses, but which is not a highway.

@@ -1,0 +1,4 @@
+# Power to order child liable to convey communicable disease not to attend school
+72 (1) A person having the care of a school child who is or has been suffering from, or has been exposed to infection by, a communicable disease, shall not, after receiving a notice from a Government Medical Officer or private medical practitioner that the child is not to be sent to school, again send the child to school until he has obtained from a Government Medical Officer a certificate, that in his opinion the child may attend the school without undue risk of communicating the disease to other school children.
+(2) No teacher or person in charge of any school shall knowingly allow any school child to attend the school where the attendance is in contravention of subsection (1).
+(3) Any person who contravenes any of the foregoing provisions of this section commits an offence against this Act.

@@ -1,0 +1,3 @@
+# Venereal disease; obligation of secrecy
+104 (1) Subject to section 103 but without prejudice to the effect of the proviso to section 100(1) no person who is engaged in or employed in connection with the execution or enforcement of those provisions of this Part relating to the control of venereal disease shall disclose to any person who is not so engaged or employed the name or any information as to the identity of any person who is or has been suspected or has been found to be suffering from a venereal disease.
+(2) Any person who contravenes the foregoing provisions of this section commits an offence against this Act.

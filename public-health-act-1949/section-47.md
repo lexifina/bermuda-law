@@ -1,0 +1,6 @@
+# Attendance of verminous persons to be cleansed
+47 (1) Where any person, or the clothing of any person, is in such a verminous state as to be likely to spread disease, a Government Medical Officer may by written order direct that person to attend at such time and place as may be specified in the order and to undergo such cleansing as will, in the opinion of the Government Medical Officer, free him and his clothing from vermin.
+(2) Where a person fails to comply with an order as aforesaid, without prejudice to any punishment to which that person may be liable in respect of the failure to comply, a court of summary jurisdiction may make an order for his removal to a place at which he can be cleansed and for his detention thereat for such period and subject to such conditions as may be specified in the order.
+(3) The cleansing of females under this section shall be effected only by a Government Medical Officer or by a woman duly authorized by the Minister.
+(4) No charge shall be made in respect of the cleansing of a person or of his clothing, or of his removal to or maintenance at any place under this section.
+(5) Any person who wilfully disobeys or obstructs the execution of any order made under this section commits an offence against this Act.

@@ -1,0 +1,2 @@
+# Effect of decision of court upon determination of appeal
+191 Where upon the determination of any appeal under this Act a court varies or reverses any decision of the Minister, it shall be the duty of the Minister to give effect to the order of the court and, in particular, to grant or issue any necessary consent, certificate or other document, and to make any necessary entry in any register accordingly.

@@ -1,0 +1,4 @@
+# Inspection of maternity homes, etc.
+164 Without prejudice to anything in section 176 (which section relates generally to powers of entry upon premises), any Public Health Officer, duly authorized by the Minister for the purpose, may at all reasonable times enter and inspect any premises which are used, or which that officer has reasonable cause to believe to be used, for the purpose of keeping a maternity home and may inspect any records required to be kept in connection with a maternity home in pursuance of regulations made under this Part:
+Provided that nothing in this Part shall authorize any such officer to inspect any medical record relating to a patient in a maternity home.
+[Section 164 amended by 1999:22 s.6 effective 9 July 1999; amended by 1999:28 s.27 & Sch effective 27 April 2001; amended by 2002:28 s.6 effective 15 May 2003; Section 164 amended by 2026 : 20 s. 2 effective 12 August 2026]

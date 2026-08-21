@@ -1,0 +1,2 @@
+# Recovery of expenses by Minister
+184 Any sum which the Minister is entitled to recover under this Act and with respect to the recovery of which provision is not made by or under any other provision of this Act, shall, without limit of amount be recoverable before a court of summary jurisdiction in the manner provided by the Magistrates Act 1948 [title 8 item 15], for the recovery of a debt or liquidated demand.

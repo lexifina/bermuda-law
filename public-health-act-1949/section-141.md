@@ -1,0 +1,2 @@
+# Regulations; floor space
+141 Provision may be made by regulations made under this Act for determining what sub-divisions of rooms are, for the purposes of this Part, to be considered to be rooms, and for prescribing the manner in which the floor area of a room is to be ascertained for the purposes of the Second Schedule; and regulations made as aforesaid may provide for the exclusion from computation, or for the bringing into computation at a reduced figure, of floor space in any part of a room which is of less than a specified height.

@@ -1,0 +1,5 @@
+# Prohibition of exposing infected person or articles
+70 Without prejudice to anything in sections 96 to 99 inclusive (control of venereal disease), any person—
+(a) who knowing or having reasonable cause to believe that he is suffering from any communicable disease exposes other persons to the risk of infection by his presence and conduct, without proper precautions against spreading the disease, in any street, public place, school, shop, place of entertainment, assembly or resort, factory, hotel or public conveyance; or
+(b) who, being in charge of any person whom he knows or has reasonable cause to believe to be suffering from any communicable disease, causes or allows that person to expose other persons to the risk of infection by his presence or conduct in any such place as aforesaid; or
+(c) who gives, lends, sells, transmits or exposes without proper cleansing or disinfection any bedding, clothes, rags or other articles which he suspects or has reasonable cause to believe are infected with any communicable disease, commits an offence against this Act.

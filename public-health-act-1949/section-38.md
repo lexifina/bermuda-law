@@ -1,0 +1,7 @@
+# Regulations; collection of refuse
+38 (1) Provision may be made by regulations made under this Act for regulating the collection and disposal of house refuse and other offensive matter; and, without prejudice to the generality of the foregoing provision, regulations made as aforesaid may provide—
+(a) for prescribing the method to be employed for the storage, collection and disposal of house refuse, the manner in which and the times at which house refuse shall be put out for collection, and the type of receptacle to be used by householders and other persons for that purpose;
+(b) for restricting the accumulation of house refuse on premises and in public places and for prescribing the duties of occupiers of premises and other persons with regard thereto;
+(c) for prescribing or authorizing methods for the emptying and cleansing of cesspools, types of vehicles to be used for the carrying of offensive matter, the times at which cesspools may be emptied and the hours during which offensive matter may be transported;
+(d) for prescribing the conditions under which persons may deposit offensive matter, house refuse and other rubbish on land provided for that purpose by the Minister or a Municipality, and for prescribing charges, if any, that may be made for such deposit.
+(2) A contravention of any regulations made under subsection (1) shall, for the purposes of Part IV, be deemed to be a nuisance.

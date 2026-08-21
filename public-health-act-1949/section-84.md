@@ -1,0 +1,6 @@
+# Power of Minister to remove temporarily inmates of infected house
+84 (1) When any communicable disease of the first or second category occurs in a dwelling-house, or where it appears to the Minister necessary in the interests of the public health to disinfect any dwelling-house, the Minister—
+(a) may cause any person who is not himself sick and who consents to leave the house, or whose parent or guardian, where the person is a child, consents to his leaving the house, to be removed therefrom to any temporary shelter or house accommodation provided by the Minister; or
+(b) may cause any such person to be so removed without any consent if a Justice of the Peace (acting, if he deems it necessary, ex parte) is satisfied, on the application of a Government Medical Officer, of the necessity for the removal and makes an order for the removal, subject to such conditions, if any, as may be specified in the order.
+(2) The Minister shall in every case cause the removal to be effected and the conditions of any order to be fulfilled without charge to the person removed, or, as the case may be, to the parent or guardian of that person.
+(3) The Minister may provide temporary shelter or house accommodation for the purpose of giving effect to this section.

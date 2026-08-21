@@ -1,0 +1,8 @@
+# Nuisances caused by two or more persons
+58 (1) Where any nuisance which can be dealt with in the manner provided in this Part appears to be wholly or partly caused by the acts or defaults of two or more persons, the Minister may take proceedings against any one or any two or more of such persons and any one or more of such persons—
+(a) may be ordered to abate the nuisance, so far as it appears to the court to be caused by his or their acts or defaults; or
+(b) may be prohibited from continuing any acts or defaults which contribute to the nuisance; or
+(c) may be fined or otherwise dealt with notwithstanding that the acts or defaults of any one of such persons would not separately have caused a nuisance;
+and the costs arising from such proceedings may be apportioned in such manner as appears to the court of summary jurisdiction to be fair and reasonable.
+(2) Proceedings under subsection (1) shall not abate by reason only of the death of any of the persons included therein, but may be carried on as if the deceased person had not been originally so included.
+(3) Where some only of the persons by whose act or default any nuisance has been caused or partly caused have been proceeded against in pursuance of this Part, they shall, without prejudice to any other remedy, be entitled to recover from any other persons who were not so proceeded against, and by whose act or default the nuisance was caused or partly caused, a proportionate part of the costs of and incidental to such proceedings and of the costs of abating such nuisance and of any fine and costs ordered to be paid in such proceedings.

@@ -1,0 +1,9 @@
+# General provisions relating to regulations
+171 (1) Regulations made in pursuance of any provision of this Act—
+(a) may, for or in connection with any of the purposes of the regulations, provide for the inspection of any premises or land, and for the examination of any person, animal or thing, and for the analysis of any article;
+(b) may require that the regulations, or any part or extract therefrom, shall be displayed in any prescribed place;
+(c) may provide for the punishment of persons guilty of offences against the regulations, so, however, that any such punishment shall not exceed a fine of $6,000 in respect of a first offence; and in the case of a second or subsequent offence, shall not exceed a fine of $10,000 or imprisonment for a term not exceeding three months, or both such fine and imprisonment; or in the case of a continuing offence, shall not exceed, in addition to any such punishment as aforesaid, a fine of $1,000 in respect of each day during which the offence is continued.
+(2) Any person who contravenes any provision of any regulations made in pursuance of any provision of this Act or with any order, direction or requirement lawfully made, given or imposed by any person under the authority of those regulations, commits an offence against the regulations:
+Provided that where a person engaged or employed in the administration of such regulations omits to perform any duty imposed upon him as such the omission shall not constitute an offence against the regulations.
+(3) Regulations made in pursuance of any provision of this Act may confer power on such authority as may be specified in the regulations to make an Order in relation to any matter governed by the regulations.
+[Section 171 subsection (1)(c) amended by 2002:28 s.8 effective 15 May 2003; subsection (1)(c) amended by 2016 : 12 s. 10 effective 28 March 2016]

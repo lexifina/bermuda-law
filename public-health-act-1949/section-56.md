@@ -1,0 +1,7 @@
+# Punishment where order not complied with
+56 (1) Subject to subsection (3), any person who fails to comply with an order (not being a closing order), or any requirement in such an order, made by a court of summary jurisdiction under section 55 shall, unless he satisfies the court that he has used all due diligence to remove the nuisance or otherwise to comply with the order, commits an offence against this Act:
+Punishment on summary conviction: a fine of $2,000 for each day during which the default continues.
+(2) Where a person fails to comply with an order (not being a closing order) made by a court of summary jurisdiction under section 55, a Public Health Officer or any other person authorized by the Minister in that behalf may in such case enter the premises to which any such order of the court relates, and may abate the nuisance and do whatever is necessary for the due execution of the order, and the Minister may recover in the manner provided in Part XI the expenses incurred from the person on whom the order was made.
+(3) Without prejudice to anything in the foregoing provisions of this section, any person who wilfully acts in contravention of a closing order made under section 55 commits an offence against this Act:
+Punishment on summary conviction: a fine of $500 for each day during which the contravention continues.
+[Section 56 subsections (1) and (3) amended by 2016 : 12 s. 10 effective 28 March 2016]
