@@ -1,0 +1,4 @@
+# Minister may grant licences
+3 (1) On application in the prescribed manner by any person desiring to obtain a licence under this Act, or to renew a licence issued under this Act, the Minister may grant or refuse to grant a licence to the applicant or renew or refuse to renew the licence issued under this Act as the case may be.
+(2) Every application for a licence under this Act or for renewal of a licence issued under this Act shall be accompanied by such information or particulars as may be prescribed or as the Minister may require.
+(3) Every licence granted or renewed under subsection (1) shall, on payment of such fee as may be prescribed under the Government Fees Act 1965 [title 15 item 18] be issued or renewed in the prescribed manner and in the appropriate prescribed form, and shall be valid, unless cancelled or suspended, for such period as the Minister may determine,

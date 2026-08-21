@@ -1,0 +1,4 @@
+# Forfeiture
+11 (1) A magistrate may order to be forfeited to the Crown any radioactive substance or irradiating apparatus in respect of which an offence against this Act or any regulation made thereunder has been committed whether any person has been charged with such offence or not and if he does so order then such substance or apparatus shall be forfeited.
+(2) Before making an order pursuant to subsection (1) the magistrate shall give any person appearing to the magistrate to have an interest in the substance or apparatus an opportunity to be heard.
+(3) Any person aggrieved by an order of a magistrate under this section may appeal to the Supreme Court and, where the order is made otherwise than in the course of criminal proceedings, the order shall be deemed to be an order of a court of summary jurisdiction for the purposes of the Civil Appeals Act 1971 [title 8 item 85].

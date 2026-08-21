@@ -1,0 +1,3 @@
+# Minister may issue recommendations for protection from radiation hazards
+8 (1) The Minister may from time to time issue in such manner as he thinks fit recommendations for protection from radiation hazards for the guidance of licensees and persons engaged in radiation work.
+(2) Failure on the part of any person to observe the provisions of any such recommendations shall not of itself render that person liable to criminal proceedings of any kind, but any such failure may in any proceedings under this Act be relied upon by any party to the proceedings as tending to establish or to negative any liability which is in question in those proceedings.
