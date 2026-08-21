@@ -1,0 +1,2 @@
+# Cancelling registration of health technology
+12 Where the registered owner of high risk health technology intends to cancel registration of the technology, the owner shall notify the Council in writing at least 60 days before the date of cancellation; and the Council must satisfy itself as far as possible that matters relating to the proper removal or disposal of the technology have been administered prudently.
