@@ -1,0 +1,3 @@
+# Damage or loss to equipment
+27 If any member of the Service or Reserve Police wrongfully disposes of or loses by neglect or wilfully damages any Government property in his custody as such member or any lost, stolen or unclaimed property committed to his charge, he may, in addition to or in lieu of any other punishment to which he may be liable, be ordered by the Commissioner to make good the amount of any loss or damage incurred by the Government, and such amount may be recovered by deduction from his pay as if the amount so ordered to be paid were a fine imposed in respect of a disciplinary offence.
+[Section 27 amended by 1997:37 effective 6 May 1999]

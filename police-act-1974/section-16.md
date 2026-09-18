@@ -1,0 +1,4 @@
+# Calling out of Reserve Police
+16 (1) The Commissioner may, with the prior approval of the Governor, by order published in the Gazette, or otherwise made known to members of the Reserve Police in such manner as the Commissioner thinks fit, direct that the Reserve Police or members thereof be called out for general duty.
+(2) On the making of such an order every member of the Reserve Police affected thereby shall report for service at such place and at such time as may be specified in the order or made known to him by or through any of his superior officers, and such service shall continue until an order is made by the commissioner, with the prior approval of the Governor, cancelling such first named order.
+(3) Any member of the Reserve Police who fails to comply with subsection (2) shall be liable to be discharged from the Reserve Police.
