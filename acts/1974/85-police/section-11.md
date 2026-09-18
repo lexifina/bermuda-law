@@ -1,0 +1,2 @@
+# Command and administration of Reserve Police
+11 The Reserve Police shall be under the overall command of the Commissioner, who, subject only to such general directions of policy with respect to the maintenance of public safety and public order as the Governor may give him, shall determine the use and control the operations of the Reserve Police, and shall be responsible, subject to such directions as the Governor may give him, for the administration of the Reserve Police.

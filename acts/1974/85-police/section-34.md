@@ -1,0 +1,3 @@
+# Protection of members of Service
+34 Every member of the Service, and every member of the Reserve Police while called out for general duty or otherwise acting in aid of the Service, shall have and enjoy all the immunities, powers, privileges and protection enjoyed at common law by, or conferred by any Act or any Act of the Parliament of England or of the United Kingdom in force in Bermuda, on constables or peace officers, and every such member shall be deemed to be a peace officer within the meaning of any such Act or Act of the Parliament of England or of the United Kingdom.
+[Section 34 amended by 1997:37 effective 6 May 1999]

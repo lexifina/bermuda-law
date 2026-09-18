@@ -1,0 +1,5 @@
+# Power to obtain information on behalf of overseas law enforcement authorities
+9G (1) The Commissioner may, after receiving a request for co-operation by an overseas law enforcement authority, in connection with the exercise of the functions of the Service obtain investigative information available in Bermuda on behalf of that authority where the Commissioner is satisfied that it is necessary in the public interest to obtain such information.
+(2) The Commissioner may disclose investigative information obtained in accordance with subsection (1) to the overseas law enforcement authority that made the request subject to section 9E.
+(3) For the avoidance of doubt, this section shall not be used to obtain investigative information on behalf of an overseas law enforcement authority where the information could not lawfully be obtained by the Bermuda Police Service for an equivalent domestic investigation without a warrant, order, consent or other judicial authorisation.
+[Section 9G inserted by 2026 : 33 s. 2 effective 14 September 2026]
