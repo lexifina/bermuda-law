@@ -1,0 +1,7 @@
+# Shell banks, anonymous accounts etc.
+13 (1) An AML/ATF regulated financial institution shall not enter into, or continue, a correspondent banking relationship with a shell bank.
+(2) An AML/ATF regulated financial institution must take appropriate measures to ensure that it does not enter into, or continue, a correspondent banking relationship with a bank which is known to permit its accounts to be used by a shell bank.
+(3) An AML/ATF regulated financial institution must not set up an anonymous account, an anonymous pass book or an account obviously in a fictitious name for any new or existing customer.
+(4) As soon as possible after the commencement of these Regulations all AML/ATF regulated financial institutions must apply customer due diligence measures to, and conduct ongoing monitoring of, all anonymous accounts and passbooks in existence on that date and in any event before such accounts or passbooks are used in any way.
+(5) A “shell bank” means a banking institution, or an institution engaged in equivalent activities, incorporated in a jurisdiction in which it has no physical presence involving meaningful decision making and management, and which is unaffiliated with a regulated financial group.
+[Regulation 13 amended by 2008:49 s.39(6) effective 1 January 2009; Regulation 13 paragraph (3) amended by 2018 : 5 s. 5 effective 21 March 2018; Regulation 13 paragraphs (1) and (2) amended by 2025 : 20 s. 4 effective 20 October 2025]

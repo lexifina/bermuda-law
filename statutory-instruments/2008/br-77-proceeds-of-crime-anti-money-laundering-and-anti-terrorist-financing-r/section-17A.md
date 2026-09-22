@@ -1,0 +1,4 @@
+# Independent audit function
+17A (1) A relevant person must maintain an independent audit function to be conducted by a qualified independent third party or internally by persons independent of any other function, the lines of business over which the function has audit responsibilities, and financial operations.
+(2) An independent audit function must provide and document an independent and objective evaluation of the robustness of the AML/ATF/CPF framework, and the reliability, integrity and completeness of the design and effectiveness of the AML/ATF/CPF risk management function and AML/ATF/CPF internal controls framework, and the AML/ATF/CPF compliance.
+[Regulation 17A inserted by 2015 : 53 s. 40 effective 1 January 2016; Regulation 17A paragraph (2) amended by BR 70 / 2026 reg. 13 effective 22 June 2026]
