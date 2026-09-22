@@ -1,0 +1,4 @@
+# Enforcement of duty of liquidator to make returns etc.
+251 (1) If any liquidator who has made any default in filing, delivering or making any return, account or other document, or in giving any notice which he is by law required to file, deliver, make or give, fails to make good the default within fourteen days after the service on him of a notice requiring him to do so, the Court may, on an application made to the Court by any contributory or creditor of the company or by the Registrar, make an order directing the liquidator to make good the default within such time as may be specified in the order.
+(2) Any such order may provide that all costs of and incidental to the application shall be borne by the liquidator.
+(3) Nothing in this section shall be taken to prejudice the operation of any provision imposing penalties on a liquidator in respect of any such default as aforesaid.

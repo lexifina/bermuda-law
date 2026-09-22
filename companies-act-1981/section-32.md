@@ -1,0 +1,2 @@
+# When experts are not liable
+32 A person referred to as an expert in a prospectus shall not be liable under section 30 or 31 if any untrue statement was not made by him or that as regards any untrue statement made by him he was competent to make the statement and had reasonable grounds to believe and did believe up to the date of the issue of the prospectus that it was true or on becoming aware that the statement was untrue before the issue of the prospectus he had given reasonable public notice of his disassociation from the prospectus and the reasons therefor.

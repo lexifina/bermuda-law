@@ -1,0 +1,3 @@
+# Information on whether company is Bermuda Constituent Entity
+5B Every company to which this Act applies shall provide to the Registrar on its application for incorporation or registration, in such form as the Registrar may determine, information as to whether or not the company shall, upon its incorporation or registration, be a Bermuda Constituent Entity (following commencement of the CIT Act) and, if a Bermuda Constituent Entity, details of its representative entity in Bermuda for these purposes, provided that information submitted pursuant to this section shall not be publicly available, but may be shared by the Registrar with the CIT Agency.
+[Section 5B inserted by 2024 : 41 s. 2 effective 28 December 2024]

@@ -1,0 +1,8 @@
+# Inspection of register
+66 (1) Except when the register of members is closed under this Act, the register of the members of a company shall during business hours (subject to such reasonable restrictions as the company may impose, so that not less than two hours in each day be allowed for inspection) be open for inspection by members of the public without charge.
+(2) Any member of the public may require a copy of the register, or of any part thereof, on payment of the appropriate fee prescribed in the Eighth Schedule.
+(3) If any inspection required under this section is refused or if any copy required under this section is not sent within fourteen days from the receipt of a written request, the company and every officer of the company who is in default shall be liable in respect of each offence to a default fine.
+(4) In the case of any such refusal or default, the Court may by order compel an immediate inspection of the register or direct that the copies required shall be sent to the persons requiring them.
+(5) A company may on giving notice by advertisement in an appointed newspaper close the register of members for any time or times not exceeding in the whole thirty days in a year.
+(6) This section applies to a branch register kept under section 65 except that in relation to a branch register subsection (5) shall have effect as if for reference to an appointed newspaper there were substituted reference to a national newspaper in the jurisdiction in which the branch register is kept.
+[Section 66 amended by 1992:51 effective 1 July 1992; by 1998:35 effective 5 October 1998; subsection (6) added 1999:25 s.8 effective 23 July 1999; subsections (1) and (2) amended by 2006:40 s.19 effective 29 December 2006]

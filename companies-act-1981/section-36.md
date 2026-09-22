@@ -1,0 +1,2 @@
+# Effect of irregular allotment
+36 An allotment made by a company to an applicant in contravention of section 35 shall be violable at the instance of the applicant within one month after the holding of the statutory meeting of the company and not later, or, in any case where the company is not required to hold a statutory meeting, or where the allotment is made after the holding of the statutory meeting within one month after the date of the allotment, and not later, and shall be so voidable notwithstanding that the company is in course of being wound up.

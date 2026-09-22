@@ -1,0 +1,2 @@
+# Certain companies incorporated after 1 July 1983 deemed to be mutual funds
+156G Every company incorporated after 30 June 1983 and before 12 July 1984 having the power to redeem or purchase for cancellation its issued shares or any class of shares at the option of, or on the request of, a member and which is an open-ended company (as defined in Part II of the Fifth Schedule) shall be deemed for the purposes of this Act to be a mutual fund and to have and always to have had the powers set out in section 156C.

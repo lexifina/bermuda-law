@@ -1,0 +1,9 @@
+# Circulation of members’ resolution, etc.
+79 (1) Subject to this section it shall be the duty of a company, on the requisition in writing of such number of members as is hereinafter specified, at the expense of the requisitionists unless the company otherwise resolves—
+(a) to give to members of the company entitled to receive notice of the next annual general meeting notice of any resolution which may properly be moved and is intended to be moved at that meeting;
+(b) to circulate to members entitled to have notice of any general meeting sent to them any statement of not more than one thousand words with respect to the matter referred to in any proposed resolution or the business to be dealt with at that meeting.
+(2) The number of members necessary for a requisition under subsection (1) shall be—
+(a) either any number of members representing not less than one-twentieth of the total voting rights of all the members having at the date of the requisition a right to vote at the meeting to which the requisition relates; or
+(b) not less than one hundred members.
+(3) Notice of any such intended resolution shall be given, and any such statement shall be circulated, to members of the company entitled to have notice of the meeting sent to them by serving a copy of the resolution or statement on each such member in any manner permitted for service of notice of the meeting, and notice of any such resolution shall be given to any other member of the company by giving notice of the general effect of the resolution in any manner permitted for giving him notice of meetings of the company:
+Provided that the copy shall be served, or notice of the effect of the resolution shall be given, as the case may be, in the same manner and, so far as practicable, at the same time as notice of the meeting and, where it is not practicable for it to be served or given at that time, it shall be served or given as soon as practicable thereafter.

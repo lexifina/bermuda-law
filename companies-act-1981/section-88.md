@@ -1,0 +1,7 @@
+# Power to waive laying of accounts and appointment of auditor
+88 (1) Notwithstanding sections 13(2)(c) and (d), 84, 87 and 89, if all members and directors of a company, either in writing or at a general meeting, agree that in respect of a particular interval no financial statements or auditor’s report thereon need be laid before a general meeting or that no auditor shall be appointed then there shall be no obligation to lay financial statements for such period or to appoint an auditor, as the case may be:
+Provided that if a general meeting of the company does not take place within 18 months of the agreement reached, any member or members of the company may, by notice to the company, require the holding of a general meeting within 6 months of the notice for the purpose of terminating the agreement.
+(2) For the purposes of subsection (1) all the members of a company shall be deemed to have agreed at a general meeting if either—
+(a) all the members are present in person at the meeting and agree; or
+(b) if some of the members are not present in person at the meeting then if the members present in person at the meeting agree and there are produced at the meeting statements in writing from the members not present in person stating that they agree.
+[Section 88 amended by 1993:37 effective 13 July 1993; subsection (1) repealed and substituted by 2011 : 43 s. 14 effective 18 December 2011]

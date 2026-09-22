@@ -1,0 +1,2 @@
+# Penalty for falsification of books
+244 If any officer or contributory of any company being wound up destroys, mutilates, alters or falsifies any books, papers or securities, or makes or is privy to the making of any false or fraudulent entry in any register, book of account or document belonging to the company with intent to defraud or deceive any person, he shall be liable on conviction on indictment to imprisonment for a period of five years.

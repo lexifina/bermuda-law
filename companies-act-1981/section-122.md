@@ -1,0 +1,3 @@
+# Accountant General may call for auditor’s certificate
+122 (1) The Accountant General may by notice in writing require a company to produce the certificate of an auditor approved by him setting out the issued capital of that company on the first day of January of such year as the Accountant General may specify in the notice.
+(2) If a company without lawful excuse fails to comply with subsection (1), then that company shall be deemed to be liable for the maximum annual tax payable by a company pursuant to this Act in respect of the year to which the notice relates unless that company satisfies the Accountant General that it is liable to a lesser sum by way of annual tax.

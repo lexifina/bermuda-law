@@ -1,0 +1,6 @@
+# Final meeting and dissolution. Members voluntary winding up
+213 (1) Subject to section 214, as soon as the affairs of the company are fully wound up, the liquidator shall make up an account of the winding-up, showing how the winding-up has been conducted and the property has been disposed of, and thereupon shall call a general meeting of the company for the purpose of laying before it the account, and giving any explanation thereof.
+(2) The meeting shall be called by advertisement in an appointed newspaper, specifying the time, place and object thereof, and published one month at least before the meeting.
+(3) Within one week after the meeting the liquidator shall notify the Registrar that the company has been dissolved and the Registrar shall record that fact and the date of the dissolution in the appropriate register:
+Provided that, if a quorum is not present at the meeting the liquidator, in lieu of notifying the Registrar as herebefore mentioned, shall notify him that the meeting was duly summoned and that no quorum was present thereat and on such notification the requirements of this subsection shall be deemed to have been complied with.
+(4) If the liquidator fails to call a general meeting of the company as required by this section or fails to comply with the requirements of subsection (3), he shall be liable to a default fine.
