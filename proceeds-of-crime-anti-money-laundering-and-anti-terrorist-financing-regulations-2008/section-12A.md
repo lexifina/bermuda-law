@@ -1,0 +1,7 @@
+# Financial groups
+12A A financial group shall implement group-wide policies and procedures against money laundering, terrorist financing and proliferation financing which are applicable and appropriate to all members of the financial group, and these policies and procedures shall include—
+(a) procedures and requirements set out in Part 2 (Customer Due Diligence), Part 3 (Record-keeping, Systems, Training etc.) and Part 4 (Transfer of Funds), as applicable, of these Regulations;
+(b) policies and procedures for sharing information required for the purposes of customer due diligence, money laundering, terrorist financing and proliferation financing risk management, including information on transactions which appear unusual and have generated a suspicious transaction report;
+(c) the provision at group level of compliance, audit and anti-money laundering, anti-terrorist financing and counter-proliferation financing functions, of customer, transaction and account information from branches and subsidiaries when necessary for anti-money laundering, anti-terrorist financing or counter-proliferation financing purposes; and
+(d) adequate safeguards on the confidentiality and use of information exchanged.
+[Regulation 12A inserted by 2018 : 51 s. 4 effective 10 August 2018; Regulation 12A paragraph (a) amended by 2022 : 2 s. 3(6) effective 27 February 2022; Regulation 12A amended by BR 70 / 2026 reg. 9 effective 22 June 2026]
