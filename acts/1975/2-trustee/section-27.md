@@ -1,0 +1,7 @@
+# Supplemental provisions as to appointment of trustees
+27 On the appointment of a trustee for the whole or any part of trust property—
+(a) the number of trustees may be increased; and
+(b) a separate set of trustees may be appointed for any part of the trust property held on trusts distinct from those relating to any other part or parts of the trust property, notwithstanding that no new trustees or trustee are or is to be appointed for other parts of the trust property, and any existing trustee may be appointed or remain one of such separate set of trustees, or, if only one trustee was originally appointed, then, save as hereinafter provided, one separate trustee may be so appointed; and
+(c) it shall not be obligatory, save as hereinafter provided, to appoint more than one new trustee where only one trustee was originally appointed, or to fill up the original number of trustees where more than two trustees were originally appointed but, except where only one trustee was originally appointed, a trustee shall not be discharged from his trust unless there will be a trust corporation, any other body corporate, wherever incorporated, with power to act as a trustee or at least two individuals to act as trustees to perform the trust; and
+(d) any assurance or thing requisite for vesting the trust property, or any part thereof, in a sole trustee, or jointly in the persons who are the trustees, shall be executed or done.
+[Section 27 amended by 1999:19 effective 10 July 1999]

@@ -1,0 +1,3 @@
+# Power to relieve trustee from personal liability
+52 (1) If it appears to the court that a trustee, whether appointed by the court or otherwise, is or may be personally liable for any breach of trust, whether the transaction alleged to be a breach of trust occurred before, on or after 1 March 1975, but has acted honestly and reasonably, and ought fairly to be excused for the breach of trust and for omitting to obtain the directions of the court in the matter in which he committed such breach, then the court may relieve him either wholly or partly from personal liability for the same.
+(2) In this section “trustee” includes a person who has ceased to be a trustee and the estate representative of a deceased trustee.

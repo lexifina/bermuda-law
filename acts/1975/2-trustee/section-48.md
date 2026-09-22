@@ -1,0 +1,10 @@
+# Jurisdiction of court to vary trusts
+48 (1) Subject to subsection (2), where property is held on any trusts or settlements arising under any will, settlement or other disposition, the court may if it thinks fit by order approve on behalf of—
+(a) any person having, directly or indirectly, an estate or interest, whether vested or contingent, under the trusts or settlements who by reason of infancy or other incapacity is incapable of assenting; or
+(b) any person (whether ascertained or not) who may become entitled, directly or indirectly, to an estate or interest under the trusts or settlements as being at a future date or on the happening of a future event a person of any specified description or a member of any specified class of persons so, however, that this paragraph shall not include any person who would be of that description, or a member of that class, as the case may be, if the said date had fallen or the said event had happened at the date of the application to the court; or
+(c) any person unborn; or
+(d) any person in respect of any discretionary interest of his under protective trusts where the interest of the principal beneficiary has not failed or determined,
+any arrangement (by whomsoever proposed, and whether or not there is any other person beneficially interested who is capable of assenting thereto) varying or revoking all or any of the trusts or settlements, or enlarging the powers of the trustees of managing or administering any of the property subject to the trusts or settlements.
+(2) Except by virtue of subsection (1)(d) the court shall not approve an arrangement on behalf of any person unless the carrying out of the arrangement would be for the benefit of that person.
+(3) In subsection (1), “protective trusts” means the trusts specified in section 25(1)(a) and (b) or any like trusts, “the principal beneficiary” has the same meaning as in section 25(1) and “discretionary interest” means an interest arising under the trust specified in section 25(1)(b) or any like trust.
+(4) Nothing in this section shall be taken to limit the powers conferred by section 47.

@@ -1,0 +1,17 @@
+## Vesting Orders
+# Vesting orders of land
+34 (1) Subject to subsection (2), where—
+(a) the court appoints or has appointed a trustee, or where a trustee has been appointed out of court under any statutory or express power; or
+(b) a trustee entitled to or possessed of any land or estate or interest therein, whether by way of mortgage or otherwise, or entitled to a contingent right therein, either solely or jointly with any other person—
+(i) is an infant; or
+(ii) is out of the jurisdiction of the court; or
+(iii) cannot be found, or, being a corporation, has been dissolved; or
+(c) it is uncertain who was the survivor of two or more trustees jointly entitled to or possessed of any estate or interest in land; or
+(d) it is uncertain whether the last trustee known to have been entitled to or possessed of any estate or interest in land is living or dead; or
+(e) there is no estate representative of a deceased trustee who was entitled to or possessed of any estate or interest in land, or where it is uncertain who is the estate representative of a deceased trustee who was entitled to or possessed of any estate or interest in land; or
+(f) a trustee jointly or solely entitled to or possessed of any estate or interest in land, or entitled to a contingent right therein, has been required, by or on behalf of a person entitled to require a conveyance of the land or estate or interest or a release of the right, to convey the land or estate or interest or to release the right, and has wilfully refused or neglected to convey the land or estate or interest or release the right for twenty-eight days after the date of the requirement; or
+(g) land or any estate or interest therein is vested in a trustee whether by way of mortgage or otherwise, and it appears to the court to be expedient;
+the court may make an order (in this Act referred to as a “vesting order”) vesting the land or estate or interest therein in any such person in any such manner and for any such estate or interest as the court may direct, or releasing or disposing of the contingent right to such person as the court may direct.
+(2) Where an order made under subsection (1)—
+(a) is consequential on the appointment of a trustee the land or estate or interest therein shall be vested for such estate or interest as the court may direct in the persons who on the appointment are the trustees; and
+(b) relates to a trustee entitled or formerly entitled jointly with another person, and such trustee is an infant or out of the jurisdiction of the court or cannot be found, or being a corporation has been dissolved, the land estate interest or right shall be vested in such other person who remains entitled, either alone or with any other person the court may appoint.

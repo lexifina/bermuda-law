@@ -1,0 +1,2 @@
+# Powers of new trustee appointed by the court
+33 Every trustee appointed by a court of competent jurisdiction shall, as well before as after the trust property becomes by law, or by assurance, or otherwise, vested in him, have the same powers, authorities, and discretions, and may in all respects act as if he had been originally appointed a trustee by the instrument, if any, creating the trust.
