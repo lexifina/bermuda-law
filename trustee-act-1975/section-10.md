@@ -1,0 +1,2 @@
+# Power to insure
+10 A trustee may insure against loss or damage from any cause any building or other insurable property to any amount, including the amount of any insurance already in force, not exceeding the full value of the building or property, and pay the premiums for such insurance out of the income thereof or out of the income of any other property subject to the same trusts without obtaining the consent of any person who may be entitled wholly or partly to such income.

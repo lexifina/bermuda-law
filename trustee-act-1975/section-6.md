@@ -1,0 +1,9 @@
+# Power to compound liabilities
+6 (1) Any one of several estate representatives, or a sole estate representative, or two or more trustees acting together, or a sole acting trustee where by the instrument, if any, creating the trust, or by any statutory provision, a sole trustee is authorised to execute the trusts and powers reposed in him, may, if and as he or they think fit—
+(a) accept any property, real or personal, before the time at which it is made transferable or payable; or
+(b) sever and apportion any blended trust funds or property; or
+(c) pay or allow any debt or claim on any evidence that he or they may think sufficient; or
+(d) accept any composition or any security, real or personal, for any debt or for any property, real or personal, claimed; or
+(e) allow any time for payment of any debt; or
+(f) compromise, compound, abandon, submit to arbitration, or otherwise settle any debt, account, claim, or thing whatever relating to the trust,
+and for any of those purposes may enter into, give, execute, and do such agreements, instruments of composition or arrangement, releases, and other things as to him or them seem expedient, without being responsible for any loss occasioned by any act or thing so done by him or them in good faith.

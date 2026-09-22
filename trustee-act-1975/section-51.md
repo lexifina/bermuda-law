@@ -1,0 +1,2 @@
+# Power to charge costs on trust estate
+51 The court may order the costs and expenses of and incidental to any application for an order under this Act or for any order or declaration in respect of any property subject to a trust, or of and incidental to any such order or declaration, or any document executed or act performed in pursuance thereof, to be raised and paid out of the property in respect whereof the same is made or performed, or out of the income thereof, or to be borne and paid in such manner and by such persons as to the court may seem just.

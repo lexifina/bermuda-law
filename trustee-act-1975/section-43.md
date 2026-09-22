@@ -1,0 +1,2 @@
+# Vesting orders of charity property
+43 The powers conferred by this Act as to vesting orders may be exercised for vesting any estate or interest in land, stock, or thing in action in any trustee of a charity or society over which the court would have jurisdiction upon action duly instituted, whether the appointment of the trustee was made by instrument under a power or by the court under its general or statutory jurisdiction.
