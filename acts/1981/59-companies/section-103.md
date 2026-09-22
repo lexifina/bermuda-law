@@ -1,0 +1,19 @@
+# Holders of 95% of shares may acquire remainder
+103 (1) The holders of not less than ninety-five per cent of the shares or any class of shares in a company (hereinafter in this section referred to as the “purchasers”) may give notice to the remaining shareholders or class of shareholders of the intention to acquire their shares on the terms set out in the notice. When such a notice is given the purchasers shall be entitled and bound to acquire the shares of the remaining shareholders on the terms set out in the notice unless a remaining shareholder applies to the Court for an appraisal under subsection (2):
+Provided that the foregoing provisions of this subsection shall not apply unless the purchasers offer the same terms to all holders of the shares whose acquisition is involved.
+(2) Any shareholder to whom a notice has been given under subsection (1) may within one month of receiving the notice apply to the Court to appraise the value of the shares to be purchased from him and the purchasers shall be entitled to acquire the shares at the price so fixed by the Court.
+(3) Within one month of the Court appraising the value of any shares under subsection (2) the purchasers shall be entitled either—
+(a) to acquire all the shares involved at the price fixed by the Court; or
+(b) cancel the notice given under subsection (1).
+(4) Where the Court has appraised any shares under subsection (2) and the purchasers have prior to the appraisal acquired any shares by virtue of a notice under subsection (1) then within one month of the Court appraising the value of the shares if the price of the shares they have paid to any shareholder is less than that appraised by the Court they shall either—
+(a) pay to such shareholder the difference in the price they have paid to him and the price appraised by the Court; or
+(b) cancel the notice given under subsection (1) and return to the shareholder any shares they have acquired and the shareholder shall repay the purchasers the purchase price.
+(5) No appeal shall lie from an appraisal by the Court under this section.
+(6) The costs of any application to the Court under this section shall be in the discretion of the Court.
+(6A) Where the purchaser is entitled and bound to acquire shares pursuant to subsection (1) or has determined in accordance with subsection (3)(a) to proceed to acquire all the shares involved at the price fixed by the Court, on the expiration of one month from the date on which the notice was given, or, if an application to the Court to appraise the value of the shares to be purchased is then pending, from the date that application has been disposed of, the purchaser may—
+(a) transmit a copy of the notice to the subject company together with an instrument of transfer executed on behalf of the shareholder by any person appointed by the purchaser and on its own behalf by the purchaser; and
+(b) pay or transfer to the subject company the amount or other consideration representing the price payable by the purchaser for the shares which by virtue of this section the purchaser is entitled to acquire,
+whereupon the subject company shall register the purchaser as the holder of those shares.
+(6B) Any sums received by the subject company under this section shall be paid into a separate bank account, and any such sums and any other consideration so received shall be held by that company on trust for the several persons entitled to the shares in respect of which the sums or other consideration were respectively received.
+(7) In this section “price” shall include not only monetary price but also the monetary value of any shares or other securities offered by the purchasers in exchange for the shares to be acquired.
+[Section 103 subsections (6A) and (6B) inserted by 2011 : 43 s. 20 effective 18 December 2011]

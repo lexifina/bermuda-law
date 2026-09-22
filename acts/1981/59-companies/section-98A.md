@@ -1,0 +1,12 @@
+# Insurance of officers
+98A A company may purchase and maintain insurance for the benefit of any officer of the company against any liability incurred by him under section 97(1)(b) in his capacity as an officer of the company or indemnifying such an officer in respect of any loss arising or liability attaching to him by virtue of any rule of law in respect of any negligence, default, breach of duty or breach of trust of which the officer may be guilty in relation to the company or any subsidiary thereof and nothing in this Act shall make void or voidable any such policy.
+[Section 98A amended by 1995:33 effective 7 July 1995]
+### Liability of auditor or officer
+98(B) (1) Where an auditor or an officer is found liable to any person for damages arising out of the performance of any function as such auditor or officer as contemplated by this Act, then the following provisions of this section shall apply.
+(2) An auditor or officer may be liable jointly and severally only if it is proved that he knowingly engaged in fraud or dishonesty.
+(3) In any case other than that contemplated by subsection (2) hereof, the liability of the auditor or officer, as the case may be, shall be determined as follows—
+(a) the Court shall determine the percentage of responsibility of the plaintiff, of each of the defendants, and of each of the other persons alleged by the parties to have caused or contributed to the loss of the plaintiff. In considering the percentages of responsibility, the Court shall consider both the nature of the conduct of each person and the nature and extent of the causal relationship between the conduct and the loss claimed by the plaintiff;
+(b) the liability of the auditor or officer, as the case may be, shall be equal to the total loss suffered by the plaintiff multiplied by the auditor’s or officer’s, as the case may be, percentage of responsibility as determined under paragraph (a) hereof.
+(4) No auditor or officer whose liability is determined under subsection (3) hereof shall have any liability in respect of any judgement entered against any other party to the action.
+(5) Except where agreed in writing between the parties, where the liability of an auditor or officer has been determined in accordance with subsection (3) no other person shall have any right to recover from such auditor or officer any portion of any judgment entered against such other person in respect of the action.
+[Section 98B inserted by 1996:21 effective 24 July 1996]

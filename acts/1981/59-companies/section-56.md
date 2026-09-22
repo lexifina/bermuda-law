@@ -1,0 +1,4 @@
+# Correction of register
+56 (1) The Registrar on being satisfied that an omission or misstatement of any particulars with respect to any registered charge on the assets of a company was accidental, or due to inadvertence or to some other sufficient cause, and is not of a nature to prejudice the position of creditors or shareholders of the company, may, on the application of the company or any person interested rectify the register; and any such rectification shall have effect from the date of the first entry of the charge in the register.
+(2) Any creditor or member of the company aggrieved by a decision of the Registrar either to rectify or not rectify the register may within six months of the decision of the Registrar appeal to the Court which shall have the same powers as the Registrar. No appeal shall lie from a decision of the Court.
+[Section 56 amended by 1992:51 effective 1 July 1992]

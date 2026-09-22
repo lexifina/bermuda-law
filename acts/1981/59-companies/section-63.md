@@ -1,0 +1,3 @@
+# Publication of name of company
+63 (1) Every company shall have its name mentioned in legible characters in all business letters of the company and in all notices and other official publications of the company, and in all bills of exchange, promissory notes, endorsements, cheques and orders for money or goods purporting to be signed by or on behalf of the company, and in all bills of parcels, invoices, receipts and letters of credit of the company.
+(2) If default is made in complying with this section the company and every officer of the company who is in default shall be liable to a fine of five hundred dollars.

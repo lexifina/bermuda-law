@@ -1,0 +1,6 @@
+# Information where receiver or manager appointed
+269 (1) Where, a receiver or manager of the whole or substantially the whole of the property of the company (in this section and in section 270 referred to as “the receiver”) is appointed on behalf of the holders of any debentures of the company secured by a floating charge, then subject to this section and section 270—
+(a) the receiver shall forthwith send to the company notice of his appointment; and
+(b) the company shall, within fourteen days after receipt of the notice, or such longer time as may be allowed by the Court or the receiver, submit to the receiver a statement showing as at the date of the receiver’s appointment particulars of the company’s assets, debts and liabilities, the names, addresses and occupations of its creditors, the securities held by them respectively and such further information as the receiver shall require and the company is able to give.
+(2) The receiver may require any statement or part of a statement submitted under subsection 1(b) to be verified by an affidavit from an officer of the company.
+(3) If any person without reasonable excuse makes default in complying with the requirements of this section, he shall be liable to a default fine.

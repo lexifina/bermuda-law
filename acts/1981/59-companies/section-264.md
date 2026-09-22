@@ -1,0 +1,4 @@
+# Investment of surplus funds
+264 (1) When the cash balance standing to the credit of the account of any company in liquidation is in excess of the amount which, in the opinion of the liquidator is required for the time being to answer demands in respect of the company’s debts, the liquidator may invest the amount not so required in investments that the committee of inspection authorizes, or in the absence of a committee of inspection that the Court authorizes.
+(2) In the case of a winding up by the Court the liquidator shall not make any investment under subsection (1) without the sanction of the Court; in the case of a members’ or creditors’ voluntary winding up the liquidator shall not act without the sanction of the committee of inspection or when there is no committee of inspection without the sanction of a general meeting of members or a meeting of creditors, as the case may be.
+[Section 264 amended by 1992:51 effective 1 July 1992]

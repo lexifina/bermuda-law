@@ -1,0 +1,3 @@
+# Power of directors to amend bye-laws to ensure compliance with prescribed requirements
+156N (1) Notwithstanding section 13(5), the directors of a mutual fund certified under section 156H shall have the right to amend the bye-laws of the mutual fund to the extent required to ensure continued compliance of such bye-laws with the requirements prescribed from time to time and no such amendment shall require the approval of the company in general meeting.
+(2) Notwithstanding anything in this Act contained, no amendment may be made to the bye-laws of a mutual fund certified under section 156H if the effect thereof would be that the bye-laws of the mutual fund would no longer comply with such requirements as are prescribed from time to time.

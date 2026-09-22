@@ -1,0 +1,2 @@
+# Debts of all description may be proved
+234 In every winding up, subject in the case of insolvent companies to the rules of bankruptcy as applied by this Act all debts payable on a contingency, and all claims against the company, present or future, certain or contingent, ascertained or sounding only in damages, shall be admissible to proof against the company, a just estimate being made so far as possible, of the value of such debts or claims as may be subject to any contingency or sound only in damages, or for some other reason do not bear a certain value.

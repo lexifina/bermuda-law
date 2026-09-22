@@ -1,0 +1,3 @@
+# Avoidance of dispositions of property etc. after commencement of winding up
+166 (1) In a winding-up by the Court, any disposition of the property of the company, including things in action, and any transfer of shares, or alteration in the status of the members of the company, made after the commencement of the winding-up, shall, unless the Court otherwise orders, be void.
+(2) Where any company is being wound up by the Court, any attachment, sequestration, distress or execution put in force against the estate or effects of the company after the commencement of the winding up shall be void to all intents.

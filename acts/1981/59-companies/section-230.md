@@ -1,0 +1,5 @@
+# Liquidator’s power to stay voluntary winding up
+230 (1) The liquidator of a company may at any time after he has been appointed stay the winding up either altogether or for a limited time if he is satisfied that such a stay is in the best interests of the contributories or the creditors.
+(2) The liquidator shall three weeks prior to staying the winding up of a company under subsection (1) publish in an appointed newspaper his intentions and his reasons for so doing and shall give notice of such intention to the Registrar.
+(3) The Official Receiver or any contributory or creditor may within three weeks of the publication of a notice under subsection (2) apply to the Court under section 231 for an order requiring the liquidator to continue the winding up proceedings.
+(4) When a liquidator stays the winding up of a company altogether he shall, after the period allowed for an application under subsection (3) has expired, take such steps as he considers desirable to enable the company to be as near as practicable as it was before the resolution to wind up the company was made.

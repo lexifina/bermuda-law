@@ -1,0 +1,3 @@
+# Power of Minister to direct custodian or manager of fund to furnish information
+156O (1) For the purposes of obtaining any information which the Minister needs to ensure that the provisions of this Part are fulfilled, the Minister may direct the custodian or the manager of a mutual fund certified under section 156H to furnish him with such information in such form and manner and within such time as he may specify.
+(2) The custodian and manager of a mutual fund certified under section 156H shall furnish the trustee or administrator of any compensation arrangement with such information as he may require for the proper performance of his duties as such.

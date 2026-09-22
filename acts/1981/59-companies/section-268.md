@@ -1,0 +1,2 @@
+# Power of Court to fix remuneration on application of liquidator
+268 The Court may, on an application made to the Court by the liquidator of a company, by order fix the amount to be paid by way of remuneration to any person who, under the powers contained in any instrument, has been appointed as receiver or manager of the property of the company and may from time to time, on an application made either by the liquidator or by the receiver or manager, vary or amend any order so made.

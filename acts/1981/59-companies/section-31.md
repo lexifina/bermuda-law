@@ -1,0 +1,19 @@
+# Civil liability for mis-statements in prospectus
+31 (1) Where a prospectus invites persons to subscribe for shares in a company, the following persons shall be liable to pay compensation to all persons who subscribe for any shares on the faith of the prospectus for the loss or damage they may have sustained by reason of any untrue statement included therein that is to say—
+(a) every person who is an officer of the company a the time of the issue of the prospectus;
+(b) every person who has authorized himself to be named and is named in the prospectus as an officer or a having agreed to become an officer either immediately or after an interval of time;
+(c) every person being a promoter of the company; and
+(d) every person who has authorized the issue to the public of the prospectus.
+(2) No person shall be liable under subsection (1) if he proves—
+(a) that, having consented to become an officer of the company, he withdrew his consent before the issue of the prospectus, and that it was issued without his authority or consent; or
+(b) that the prospectus was issued without his knowledge or consent, and that on becoming aware of its issue he forthwith gave reasonable public notice that it was issued without his knowledge or consent; or
+(c) that, after the issue of the prospectus and before allotment thereunder, he, on becoming aware of an untrue statement therein, withdrew his consent thereto and gave reasonable public notice of the withdrawal and of the reason therefor; or
+(d) that—
+(i) as regards every untrue statement not purporting to be made on the authority of an expert or of a public official document or statement, he had reasonable ground to believe, and did up to the time of the allotment of the shares believe, that the statement was true; and
+(ii) as regards every untrue statement purporting to be a statement by an expert or contained in what purports to be a copy of or extract from a report or valuation of an expert, it fairly represented the statement, or was a correct and fair copy of or extract from the report or valuation, and he had reasonable ground to believe and did up to the time of the issue of the prospectus believe that the person making the statement was competent to make it and had not withdrawn or altered it; and
+(iii) as regards every untrue statement purporting to be a statement made by an official person or contained in what purports to be a copy of or extract from a public official document, it was a correct and fair representation of the statement or copy of or extract from the document.
+(3) Where the prospectus contains—
+(a) the name of a person as an officer of the company or as having agreed to become an officer of the company thereof, and he has not consented to become an officer, or has withdrawn his consent before the issue of the prospectus, and has not authorized or consented to the issue thereof; or
+(b) a statement by an expert or contains what purports to be a copy of or extract from a report or valuation of an expert, which the expert has withdrawn or altered,
+the officers of the company, except any without whose knowledge or consent the prospectus was issued, and any other person who authorized the issue thereof shall be liable to indemnify the person named as aforesaid or whose consent was required as aforesaid, as the case may be, against all damages, costs and expenses to which he may be made liable by reason of his name having been inserted in the prospectus or of the inclusion therein of a statement purporting to be made by him as an expert, as the case may be, or in defending himself against any action or legal proceeding brought against him in respect thereof:
+Provided that a person shall not be deemed for the purposes of this subsection to have authorized the issue of a prospectus by reason only of the inclusion therein of a statement purporting to be made by him as an expert.

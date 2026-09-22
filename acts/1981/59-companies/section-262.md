@@ -1,0 +1,2 @@
+# Property of dissolved company to be bona vacantia
+262 Where a company is dissolved, all property and rights whatsoever vested in or held on trust for the company immediately before its dissolution, including leasehold property but not including property held by the company on trust for any other person, shall, subject and without prejudice to any order which may at any time be made by the Court under sections 260 and 261, be deemed to be bona vacantia and shall accordingly belong to the Crown.

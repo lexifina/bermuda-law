@@ -1,0 +1,14 @@
+# Register of members
+65 (1) Every company shall keep a register of its members and enter therein in respect of every member becoming a member after the appointed day the following particulars—
+(a) the names and addresses of the members, and in the case of a company having a share capital—
+(i) a statement of the shares held by each member, distinguishing each share by its number so long as the share has a number;
+(ii) in respect of any shares that are not fully paid, a statement specifying the amount paid or agreed to be considered as paid on such shares; and
+(iii) the categories of shares, including the nature of the associated voting rights; and
+(b) in respect of any company that does not keep a branch register pursuant to subsection (3), the date at which each person was entered in the register as a member.
+(2) The register of members shall be kept at the registered office of the company or after giving written notice to the Registrar of the place at such other place in Bermuda convenient for inspection by members of the company and other persons entitled to inspect it.
+(3) A company the shares of which are listed on an appointed stock exchange or have been offered to the public pursuant to a prospectus filed under section 26 or which is subject to the rules or regulations of a competent regulatory authority, may keep in any place outside Bermuda, one or more branch registers after giving written notice to the Registrar of the place where each such register is to be kept.
+(4) A branch register shall be kept in the same manner in which the register of members is by subsection (1) required to be kept.
+(5) Every company shall, as soon as reasonably practicable, after the date on which any entry or alteration is made in a branch register, make any necessary alteration in the register of members.
+(6) If the register of members or any branch register is not made easily available for inspection by members the company and every officer of the company shall be liable to a fine of five hundred dollars and the court convicting the company or the officers, as the case may be, may order the company to make the register immediately available for inspection.
+(7) A company shall not be bound to see to the execution of any trust, whether express, implied or constructive, to which any of its shares are subject and whether or not the company had notice of such trust; and the receipt of the person, firm or corporation in whose name any share stands shall be sufficient discharge to the company for any money paid by the company in respect of such share notwithstanding any trust to which it may be subject.
+[Section 65 subsection (6) amended by 1999:25 s.7 effective 23 July 1999; subsections (1) and (3) substituted by 2003:1 s.9 effective 14 February 2003; subsection (1)(a) repealed and substituted by 2018 : 51 s. 9 effective 10 August 2018]

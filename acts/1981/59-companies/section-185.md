@@ -1,0 +1,4 @@
+# Settlement of list of contributories and application of assets
+185 (1) As soon as may be after making a winding-up order, the Court shall settle a list of contributories with power to rectify the register of members in all cases where rectification is required in pursuance of this Act, and shall cause the assets of the company to be collected and applied in discharge of its liabilities:
+Provided that, where it appears to the Court that it will not be necessary to make calls on or adjust the rights of the contributories, the Court may dispense with the settlement of a list of contributories.
+(2) In settling the list of contributories the Court shall distinguish between persons who are contributories in their own right and persons who are contributories as being representatives or liable for the debts of others.

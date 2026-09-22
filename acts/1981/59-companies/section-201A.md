@@ -1,0 +1,9 @@
+# Appointment of liquidator and dissolution of company of limited duration
+201A (1) A company shall be wound up voluntarily upon the expiration of the period fixed for the duration of the company by its incorporating Act or its memorandum or upon the occurrence of the event on the occurrence of which its incorporating Act or its memorandum provides that the company is to be dissolved and thereafter the company shall be dissolved in accordance with this Part.
+(2) Where a company is being wound up pursuant to subsection (1)—
+(a) references in this Part to the resolution for voluntary winding up shall be deemed to be references to the expiration of the period, or the occurrence of the event, referred to in subsection (1);
+(b) section 216(1) shall be read as requiring the meeting of the creditors of the company to be summoned within thirty days of the expiration of the period, or the occurrence of the event, referred to in subsection (1);
+(c) sections 208(1), 216(5) and 230 shall not apply to the company.
+(3) Subject to section 227, where a company is being wound up pursuant to subsection (1) by way of members’ voluntary winding up, within ninety days after the expiration of the period, or the occurrence of the event, referred to in that subsection the members of the company shall appoint one or more liquidators for the purpose of winding up the affairs, and distributing the assets, of the company, and may fix their remuneration, and in the absence of such an appointment within that time period, the Official Receiver shall be the liquidator.
+(4) Where a company is being wound up pursuant to subsection (1) by way of a creditor’s voluntary winding up and no liquidator has been appointed within ninety days after the expiration of the period, or the occurrence of the event, referred to in subsection (1), the Official Receiver shall be the liquidator.
+[Section 201A replaced by 1996:21 effective 24 July 1996]

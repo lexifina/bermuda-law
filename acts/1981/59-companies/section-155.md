@@ -1,0 +1,2 @@
+# Apportionment of assets of mutual companies
+155 When a mutual company is wound up, after its liabilities have been satisfied the person carrying out the winding up shall either apportion the remaining assets in accordance with the byelaws of the company or if there is no provision in the bye-laws for such apportionment then in such a fair and equitable manner amongst the members of the company as such person may decide.

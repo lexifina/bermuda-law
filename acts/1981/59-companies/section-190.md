@@ -1,0 +1,4 @@
+# Appointment of special manager
+190 (1) Where in proceedings the Official Receiver becomes the liquidator of a company, whether provisionally or otherwise, he may, if satisfied that the nature of the estate or business of the company, or the interests of the creditors or contributories generally, require the appointment of a special manager of the estate or business of the company other than himself, apply to the Court, and the Court may on such application appoint a special manager of the said estate or business to act during such time as the Court may direct, with such powers, including any of the powers of a receiver or manager, as may be entrusted to him by the Court.
+(2) The special manager shall give such security and account in such manner as the Court shall direct.
+(3) The special manager shall receive such remuneration as may be fixed by the Court.
