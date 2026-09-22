@@ -1,0 +1,5 @@
+# Legal person to verify identity of beneficial owners
+9 (1) A legal person to which this Act applies shall take reasonable measures to verify the identity of its beneficial owners, including verifying the minimum required information by means of documents, data or information obtained from a reliable and independent source, and shall do so prior to entering the minimum required information in its beneficial ownership register.
+(2) A legal person to which this Act applies shall keep and maintain records of the measures used for any verification under subsection (1) and the documents used to verify the accuracy of the minimum required information referred to in section 10.
+(3) A legal person to which this Act applies shall cooperate fully and promptly with the Registrar with respect to determining and verifying the identity of its beneficial owners; including by providing its beneficial ownership register and the information specified in subsection (2) and related information or control information.
+[Section 9 amended by 2026 : 28 s. 7 effective 14 September 2026]
