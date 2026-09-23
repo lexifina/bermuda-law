@@ -1,0 +1,3 @@
+# Voluntary recording of documents
+10 (1) The Registrar-General is authorized, upon payment of such fee as may be prescribed under the Government Fees Act 1965 [title 15 item 12], to record and register any deed or other instrument although the same shall not be required by law to be recorded or registered.
+(2) Where application is made to the Registrar-General to record and register under subsection (1) any deed or other instrument which is required to be or which may be recorded or registered under any other statutory provision the Registrar-General may, if he considers that the deed or instrument ought properly to be recorded or registered under that provision, refuse to record and register the deed or other instrument under subsection (1).
