@@ -1,0 +1,7 @@
+# Registrar-General; statutory functions
+2 (1) For the purposes of this Act there shall be appointed a public officer to be Registrar-General who shall have the powers and discharge the duties conferred or imposed upon the Registrar-General by or under this or any other Act.
+(2) In the exercise of his statutory functions the Registrar-General shall, save where otherwise expressly provided, be subject to the general directions and control of the Minister, but—
+(a) nothing herein contained shall empower the Minister to give special directions to the Registrar-General as to the exercise of his statutory functions in a particular case or series of cases; and
+(b) where any statutory provision gives the Registrar-General power to exercise any function acting in his discretion (which, for the purposes of this section, shall include any functions in relation to which the Registrar-General is given power to act as he thinks fit, or if satisfied that it is just so to do, or in relation to which by the use of any other expression the Registrar-General is given a discretion), in exercising such function he will not be subject to the direction or control of the Minister.
+(3) In the exercise of his statutory functions the Registrar-General shall be assisted by such number of public officers as may from time to time be authorized by the Governor.
+[Section 2 amended by 1998 : 20 effective 18 June 1998]
