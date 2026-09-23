@@ -1,0 +1,4 @@
+## CORRECTION OF ERRORS IN REGISTERS
+# Registrar-General may require information
+14 (1) The Registrar-General may, for the purpose of completing or rectifying the registration of any birth or death, require any person who is required by this Act or was required by any Act repealed by this Act to give any notice or certificate relating to the birth or death in question, or who may reasonably be expected to have knowledge of the true facts relating to the birth or death, to make any written declaration or to give any information within his knowledge relating to the birth or death and to attend at his office for the purpose of making the declaration or giving the information.
+(2) The Registrar-General may require any such declaration or information to be made or given on oath; and the Registrar-General is hereby authorized to administer an oath for that purpose.

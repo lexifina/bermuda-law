@@ -1,0 +1,2 @@
+# Registers as evidence of births and deaths
+5 Every entry in any register, whether made and kept under this Act or under any Act repealed by this Act, and every copy of any such entry purporting to be certified as a true copy under the hand and seal of the Registrar-General, shall be received in all courts and in all proceedings whatsoever as evidence of the birth or death to which the entry relates.

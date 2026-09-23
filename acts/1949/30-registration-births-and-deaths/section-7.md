@@ -1,0 +1,2 @@
+# Still born child; new born child found dead; registration of particulars
+7 The Registrar-General, upon receiving notice in Form A of any child which was still-born or of any new born child found exposed and dead shall enter in the General Register of Births the particulars contained in the notice; and shall write in red ink in the margin opposite the entry the word “still-born” or, as the case may be, the words “new born found dead”.
