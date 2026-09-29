@@ -1,0 +1,4 @@
+# Preservation of statement of accounts and annual report
+39 (1) The charity trustees of a registered charity shall preserve any statement of accounts prepared by them under section 36(1), and any annual report prepared by them under section 38(1), for at least seven years from the end of the financial year to which any such statement or report relates.
+(2) Subsection (3) applies if a charity ceases to exist within the period of seven years mentioned in subsection (1) as it applies to any statement of accounts or annual report.
+(3) The obligation to preserve the statement or accounts and annual report in accordance with subsection (1) shall continue to be discharged by the last charity trustees of the charity, unless the Registrar consents in writing to the statement of accounts or annual report (as the case may be) being destroyed or otherwise disposed of.
