@@ -1,0 +1,9 @@
+# Grant or refusal of exemption application
+11 (1) The Registrar shall consider and determine each exemption application on a case-by-case basis following a detailed evaluation of the nature of the circumstances and risks described in the application.
+(2) Where the Registrar grants an exemption application, which may be a general or specific exemption from the disclosure of beneficial ownership information to a person specified in section 18(1A) or (1B), the Registrar may—
+(a) provide for the exemption to apply for a specific period as determined by the Registrar;
+(b) impose such other conditions or requirements as he thinks fit.
+(3) Where the Registrar determines that it is not appropriate to grant an exemption application, he shall notify the applicant and provide reasons in writing for the refusal.
+(4) Where an exemption application has been made and subsequently a disclosure application is made by a person specified in section 18(1A) or (1B), the Registrar shall first determine the exemption application before dealing with the disclosure application.
+(5) Where, following determination of an exemption application, the Registrar is satisfied that any of the circumstances specified in regulation 10(3) in respect of a beneficial owner exists or is likely to occur if disclosure of beneficial ownership information is made to a person specified in section 18(1A) or (1B), the Registrar shall refuse the disclosure application.
+(6) Where a circumstance specified in regulation 10(3) which formed the basis of the Registrar's decision to grant the exemption changes, or where new information is available which makes the circumstance less likely if a disclosure application were granted to a person specified in section 18(1A) or (1B), the applicant or beneficial owner (if different) shall forthwith, by notice, inform the Registrar who may revoke the exemption or make any other order as he thinks fit.
