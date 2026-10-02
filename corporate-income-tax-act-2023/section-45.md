@@ -1,0 +1,8 @@
+# Elective recognition of gain or loss and use of fair value of assets and liabilities
+45 (1) At the election of the Filing Bermuda Constituent Entity, a Bermuda Constituent Entity that acquires assets and liabilities in a transaction subject to sections 43 or 44 shall―
+(a) include in the computation of its taxable income or loss an amount of gain or loss in respect of each of its assets and liabilities that is equal to the difference between the carrying value of the asset or liability immediately before and the fair value of the asset or liability immediately after the acquisition, decreased (or increased) by the non-qualifying gain or loss, if any, arising in connection with the acquisition;
+(b) use the fair value for financial accounting purposes of the asset or liability immediately after the acquisition to determine taxable income or loss in fiscal years ending after the acquisition; and
+(c) include the net total of the amounts determined in paragraph (a) in the relevant Bermuda Constituent Entity’s taxable income or loss in one of the following ways―
+(i) the net total of the amounts is included in the fiscal year in which the acquisition occurs; or
+(ii) an amount equal to the net total of the amounts divided by five is included in the fiscal year in which the acquisition occurs and in each of the immediate four subsequent fiscal years, unless the Bermuda Constituent Entity leaves the In Scope MNE Group in a fiscal year within this period, in which case the remaining amount will be wholly included in that fiscal year.
+[Section 45 subsection (1) amended by 2025 : 12 s. 24 effective 29 July 2025]

@@ -1,0 +1,5 @@
+# Multi-Parented MNE Group
+12 (1) This section applies in relation to Multi-Parented MNE Groups.
+(2) An entity (other than an excluded entity) shall be treated as a constituent entity if it is consolidated on a line-by-line basis by the Multi-Parented MNE Group or its controlling interests are held by entities in the Multi-Parented MNE Group.
+(3) The consolidated financial statements of the Multi-Parented MNE Group shall be the consolidated financial statements referred to in the definition of stapled structure or dual-listed arrangement (as relevant) prepared under an acceptable financial accounting standard, which is deemed to be the accounting standard of the ultimate parent entity.
+(4) The ultimate parent entities of the separate groups that comprise the Multi-Parented MNE Group shall be the ultimate parent entities of the Multi-Parented MNE Group; and when applying these rules in respect of a Multi-Parented MNE Group, references to an ultimate parent entity shall apply, as required, as if they were references to multiple ultimate parent entities.
