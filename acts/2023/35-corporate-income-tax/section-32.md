@@ -1,0 +1,5 @@
+# Additional tier one capital adjustments
+32 (1) Amounts recognised as a decrease to the equity of a Bermuda Constituent Entity attributable to distributions paid or payable in respect of additional tier one capital issued by the Bermuda Constituent Entity shall be treated as an expense in the computation of its taxable income or loss.
+(2) Amounts recognised as an increase to the equity of a Bermuda Constituent Entity attributable to distributions received or receivable in respect of additional tier one capital held by the Bermuda Constituent Entity shall be included in the computation of its taxable income or loss.
+(3) Amounts arising from the conversion to equity or write down of additional tier one capital issued by the Bermuda Constituent Entity, where the pre-specified trigger event occurs shall be excluded from the computation of its taxable income or loss.
+(4) Amounts arising from the write up of additional tier one capital issued by the Bermuda Constituent Entity, which was previously written down where the pre-specified trigger event occurred, shall be excluded from the computation of its taxable income or loss.

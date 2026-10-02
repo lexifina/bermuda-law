@@ -1,0 +1,2 @@
+# Qualifying reorganisation
+43 If the disposition or acquisition of assets and liabilities is part of a qualifying reorganisation, section 42 shall not apply and the disposing Bermuda Constituent Entity will exclude any gain or loss on the disposition from the computation of its taxable income or loss and an acquiring Bermuda Constituent Entity will determine its taxable income or loss after the acquisition using the disposing entity’s carrying values of the acquired assets and liabilities upon disposition.

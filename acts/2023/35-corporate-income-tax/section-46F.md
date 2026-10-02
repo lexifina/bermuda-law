@@ -1,0 +1,4 @@
+# Failure to pay tax when due
+46F (1) A Filing Bermuda Constituent Entity shall be liable to a civil penalty where, without reasonable excuse, it fails to pay the tax due for the fiscal year by the due date prescribed under this Act, the CIT Agency Act, or any regulations made thereunder.
+(2) The amount of civil penalty imposed under this section shall be equal to 0.5% of the amount of tax due as of the date of the failure, provided that, where one or more partial payments of tax due is made subsequent to the original failure, then the penalty for each month that the failure continues after each partial payment shall be recalculated (as at the start of the month following the partial payment) to take account of the reduction in tax due caused by applying any partial payment against the original tax due.
+[Section 46F inserted by 2025 : 2 s. 2 effective 21 April 2025; Section 46F subsection (2) amended by 2026 : 25 s. 14 effective 29 July 2026]

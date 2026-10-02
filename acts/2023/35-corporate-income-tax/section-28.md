@@ -1,0 +1,11 @@
+# Prior period errors and changes in accounting principles
+28 (1) A Bermuda Constituent Entity’s financial accounting net income or loss shall be adjusted for prior period errors and change in accounting principles by adjusting for all changes in the opening equity at the beginning of the fiscal year of a constituent entity attributable to—
+(a) a correction of an error in the determination of financial accounting net income or loss in a previous fiscal year that affected the income or expenses includible in the computation of taxable income or loss for such fiscal year;
+(b) a change in accounting principle or policy that affected income or expenses, gains or losses includible in the computation of taxable income or loss in a previous financial year; or
+(c) a change in the accounting standard used in the financial statements used in the calculation of financial accounting net income or loss pursuant to section 21.
+(2) Subject to section 29, the adjustment described in subsection (1) shall be accounted for as follows—
+(a) to the extent the adjustment—
+(i) relates to a change in the opening equity in a fiscal year which begins on or after the first day of the first fiscal year in which the In Scope MNE Group meets the requirements of section 11(1), subject to section 13, and
+(ii) results in an increase in taxable income or a decrease in taxable loss,
+such adjustment must be taken into account in taxable income or loss ratably over the four-fiscal year period beginning with the fiscal year for which the change in opening equity is recognised in the Bermuda Constituent Entity’s financial statements used to determine financial accounting net income or loss, provided that if, in any fiscal year, the Bermuda Constituent Entity ceases to engage in the trade or business that is the subject of an adjustment, the Bermuda Constituent Entity must take into account for such fiscal year any portion of the adjustment not taken into account in taxable income or loss in a previous fiscal year;
+(b) in all other cases, such adjustment must be taken into account in full in the fiscal year for which the change in opening equity is recognised in the Bermuda Constituent Entity’s financial statements used to determine financial accounting net income or loss.

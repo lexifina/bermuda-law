@@ -1,0 +1,22 @@
+# International shipping income exclusion
+36 (1) Each Bermuda Constituent Entity’s international shipping income and qualified ancillary international shipping income shall be excluded from the computation of its taxable income or loss; and where the computation of a Bermuda Constituent Entity’s international shipping income and qualified ancillary international shipping income results in a loss, the loss shall be excluded from the computation of its taxable income or loss.
+(2) In this section, international shipping income means the net income obtained by a Bermuda Constituent Entity from―
+(a) the transportation of passengers or cargo by ships that it operates in international traffic, whether the ship is owned, leased or otherwise at the disposal of the Bermuda Constituent Entity;
+(b) the transportation of passengers or cargo by ships operated in international traffic under slot-chartering arrangements;
+(c) leasing a ship, to be used for the transportation of passengers or cargo in international traffic, on charter fully equipped, crewed and supplied;
+(d) leasing a ship on a bare boat charter basis, for the use of transportation of passengers or cargo in international traffic, to another constituent entity;
+(e) the participation in a pool, a joint business or an international operating agency for the transportation of passengers or cargo by ships in international traffic; and
+(f) the sale of a ship used for the transportation of passengers or cargo in international traffic provided that the ship has been held for use by the Bermuda Constituent Entity for a minimum of one year.
+(3) International shipping income shall not include net income obtained from the transportation of passengers or cargo by ships via inland waterways within the same jurisdiction.
+(4) Qualified ancillary international shipping income means net income obtained by a Bermuda Constituent Entity from the following activities that are performed primarily in connection with the transportation of passengers or cargo by ships in international traffic―
+(a) leasing a ship on a bare boat charter basis to another shipping enterprise that is not a constituent entity, provided that the charter does not exceed three years;
+(b) sale of tickets issued by other shipping enterprises for the domestic leg of an international voyage;
+(c) leasing and short-term storage of containers or detention charges for the late return of containers;
+(d) provision of services to other shipping enterprises by engineers, maintenance staff, cargo handlers, catering staff, and customer services personnel; and
+(e) investment income where the investment that generates the income is made as an integral part of the carrying on the business of operating the ships in international traffic.
+(5) To the extent that the aggregated qualified ancillary international shipping income of all Bermuda Constituent Entities in a Bermuda Constituent Entity Group exceeds 50% of that Bermuda Constituent Entity Group’s international shipping income, such excess shall be disregarded and not subject to exclusion pursuant to this section.
+(6) The costs incurred by a Bermuda Constituent Entity that are directly attributable to its international shipping activities listed in subsection (3) and the costs directly attributable to its qualified ancillary activities listed in subsection (4)―
+(a) shall be deducted from the Bermuda Constituent Entity’s revenues from such activities to compute its international shipping income and qualified ancillary international shipping income;
+(b) other costs incurred by a Bermuda Constituent Entity that are indirectly attributable to a Bermuda Constituent Entity’s international shipping activities and qualified ancillary activities shall be allocated on the basis of the Bermuda Constituent Entity’s revenues from such activities in proportion to its total revenues; and
+(c) all direct and indirect costs attributed to a Bermuda Constituent Entity’s international shipping income and qualified ancillary international shipping income shall be excluded from the computation of its taxable income or loss.
+(7) In order for a Bermuda Constituent Entity’s international shipping income and qualified ancillary international shipping income to qualify for the exclusion from its net taxable income or loss under this section, the Bermuda Constituent Entity must demonstrate that the strategic or commercial management of all ships concerned is effectively carried on from or within Bermuda.
