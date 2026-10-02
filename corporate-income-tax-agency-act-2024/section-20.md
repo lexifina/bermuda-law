@@ -1,0 +1,21 @@
+# Confidentiality
+20 (1) Except in so far as may be necessary for the due performance of his functions under the Act or any other statutory provision, and subject to subsection (4), any person who is, or is acting as, an officer, employee, agent or adviser of the Agency shall preserve and aid in preserving confidentiality with regard to all matters relating to the affairs of the Government or the Agency or of any person that may come to his knowledge in the course of his duties.
+(2) The obligation to preserve confidentiality under subsection (1) continues to apply to persons no longer being or acting as an officer, employee, agent or adviser of the Agency, in respect of a matter that came to their knowledge in the course of their duties at the Agency.
+(3) Any such officer, employee, agent or adviser who communicates any such matter to any person other than the Minister, the Board or another officer, employee, agent or adviser of the Agency authorised in that behalf or suffers or permits any unauthorised person to have access to any books, papers or other records relating to the Government or the Agency, or to any person, commits an offence and shall be liable—
+(a) on summary conviction to a fine of $50,000 or imprisonment for two years or both;
+(b) on conviction on indictment to a fine of $100,000 or imprisonment for five years or both.
+(4) Subsection (1) does not preclude the disclosure of information—
+(a) to the Minister in any case in which the disclosure is for the purpose of enabling or assisting him to discharge his statutory functions or is in the public interest;
+(b) to the Bermuda Monetary Authority for the purposes of enabling or assisting it in the discharge of its statutory functions;
+(c) to the Registrar of Companies for the purpose of enabling or assisting him to discharge his statutory functions;
+(d) to the Office of the Tax Commissioner for the purpose of enabling or assisting him to discharge his statutory functions;
+(e) to the Financial Intelligence Agency, established under section 3 of the Financial Intelligence Agency Act 2007, for the purpose of its functions;
+(f) for the purpose of enabling or assisting the Agency to exercise any functions conferred on them by this Act and the CIT Act;
+(g) if the information is or has been available to the public from other sources;
+(h) in a summary or collection of information framed in such a way as not to enable the identity of any individual taxpayer;
+(i) for the prevention, detection, investigation or prosecution of criminal conduct, whether in Bermuda or elsewhere;
+(j) in assistance of the carrying out of any functions of any intelligence service; or
+(k) for the purposes of assisting with the implementation of, compliance with or enforcement of any international tax cooperation or information sharing agreements or international sanctions measures that have effect within Bermuda.
+(5) No officer, employee, agent or adviser of the Agency shall be required to produce in any court any book or document or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act or other statutory provision, except on the direction of the court or in so far as may be necessary for the purpose of carrying into effect this Act or other statutory provision.
+(6) Notwithstanding anything to the contrary in this section the Minister, where he is of the opinion that it is desirable so to do in the interests of internal security or for the detection of crime, may authorise any police officer of or above the rank of Inspector by warrant under his hand to inspect and take copies of any of the books or records of the Agency.
+(7) Any information which has been received by the Agency from a foreign tax authority may be shared pursuant to subsections (4) through (6), subject to the prior approval of the relevant foreign tax authority, except that the prior approval of the relevant foreign tax authority is not required where the information is shared for the assessment or collection of, the enforcement or prosecution in respect of, the determination of appeals in relation to the, taxes, or the oversight of the aforementioned in this subsection.

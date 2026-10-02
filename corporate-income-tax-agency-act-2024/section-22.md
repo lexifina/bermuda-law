@@ -1,0 +1,3 @@
+# Request for assistance by foreign tax authority
+22 (1) The Agency may, subject to this section, exercise its powers under this Act for the purposes of assisting a foreign tax authority which has requested assistance in connection with inquiries being carried out by it or on its behalf.
+(2) The Agency shall not exercise the powers conferred by subsection (1) unless the Minister is satisfied that the request from the foreign tax authority has been made in compliance with the International Cooperation (Tax Information Exchange Agreements) Act 2005 and, in the case of the U.S.A., the USA Bermuda Tax Convention Act 1986.

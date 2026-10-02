@@ -1,0 +1,8 @@
+# The Chief Executive Officer
+6 (1) Subject to subsection (5), there shall be appointed by the Board, following approval by the Minister, a Chief Executive Officer, who shall be an employee of the Agency.
+(2) The Chief Executive Officer shall receive such remuneration on such terms and conditions as shall be recommended by the Board and approved by the Minister.
+(3) The Chief Executive Officer shall be responsible for the day to day management of the Agency.
+(4) In discharging his responsibilities, the Chief Executive Officer may delegate his powers to the staff of the Agency as he shall see fit.
+(5) Subject to section 5(5)(a) and (b), the Chief Executive Officer must keep the Minister and the Board informed of any matter that could affect public policy or that could materially affect public finances, and any other matter that the Minister considers necessary.
+(6) If the Minister delegates to the Chief Executive Officer, or any other person within the Agency, a duty or function vested in the Minister by virtue of any other legislation, then the Minister may direct the Chief Executive Officer or such other person within the Agency in the performance of such delegated duty or function.
+(7) In respect of the first appointment of a Chief Executive Officer of the Agency, if there are insufficient directors then in office to form a quorum for the Board, in the interests of the prompt commencement by the Agency of its functions under this Act, the Minister shall have the power to make a temporary appointment of an interim Chief Executive Officer, for a period not to exceed 24 months.
