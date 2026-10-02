@@ -1,0 +1,6 @@
+# Indemnity against certain actions
+24 (1) No action shall lie against the Crown, the Minister, the Building Official or any person acting under the authority of the Minister or the Building Official in respect of any loss or damage whatsoever suffered by any person through the exercise, in good faith by the Minister, the Building Official or by any such person of the powers conferred upon them by this Act or the building Regulations or Codes save only in respect of any loss or damage which arises directly from the negligence of the Minister, the Building Official or any such person as aforesaid in the carrying out of any operation.
+(2) No person shall in any civil proceedings as against the Crown or the Minister rely—
+(a) on any provision in this Act or in Regulations or Codes made thereunder as constituting or imposing a duty upon the Minister or upon any public officer to inspect any building or any building operation; or
+(b) on any certificate, permit, report or other document given, granted, made or issued pursuant to this Act or to Regulations or Codes made thereunder as containing any representation respecting the state of any building, the standard of construction of any building or the compliance or non-compliance by any person of the Act or Regulations or Codes made thereunder.
+[Section 24 amended by 1998:33 effective 1 September 1998]

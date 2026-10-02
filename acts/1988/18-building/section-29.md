@@ -1,0 +1,5 @@
+# Savings and amendments
+29 (1) Any Regulations including the Building Code made under the repealed section 53 of the Development and Planning Act 1974 [title 20 item 1] and in force immediately before the commencement of this Act shall continue in force until repealed by Regulations made under this Act.
+(2) Any building work done before the commencement of this Act in, on or to a building shall be deemed to have been done in conformity with this Act and the building Regulations if done in conformity with the law in force at the time the work was done.
+(3) Any building work commenced before the date of commencement of this Act pursuant to a permit, licence, approval or other permission given or issued under the law in force immediately before that date may be completed in accordance with that law and, if and when so completed, shall be deemed to have been carried out in conformity with this Act and the building Regulations.
+(4) The laws specified in the first column of the Schedule are amended in the manner specified in the second column of that Schedule.
