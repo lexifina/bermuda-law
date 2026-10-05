@@ -1,0 +1,4 @@
+# The standard rate: employers and self-employed persons
+3 (1) 9.75% is prescribed as the rate for the purpose of paragraph (a) of subsection (1) of section 3.
+(2) 9.75% is prescribed as the rate for the purpose of paragraph (b) of subsection (1) of section 3.
+[Section 3 amended by 1996:5 effective 1 April 1996; by 2000:14 s.3 effective 1 April 2000; by 2004:12 s.2 effective 1 April 2004 ; by 2008:12 s.2 effective 1 April 2008; amended by 2010 : 17 s. 2 effective 1 April 2010; amended by 2011 : 8 s. 2 effective 1 April 2011; amended by 2015 : 11 s. 2 effective 1 April 2015; amended by 2016 : 11 s. 3 effective 1 April 2016; section heading and subsections (1) and (2) amended by 2017 : 21 s. 13 effective 1 April 2017; Section 3 subsections (1) and (2) amended by 2026 : 5 s. 6 effective 1 April 2026]
