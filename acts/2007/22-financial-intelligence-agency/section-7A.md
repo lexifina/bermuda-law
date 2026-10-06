@@ -1,0 +1,5 @@
+# Immunity from suit
+7A (1) No action, suit, prosecution or other proceeding shall be brought or instituted personally against the Director or an officer, servant or agent of the FIA, or any member of the Board, in respect of any act done bona fide in pursuance or execution or intended execution of their functions under this Act or any other Act and regulations made thereunder.
+(2) Where any member of the Board is exempt from liability by reason only of subsection (1), the FIA shall be liable to the extent that it would be if that member were a servant or agent of the FIA.
+(3) Neither the FIA nor any person who is, or is acting as, the Director or an officer, servant or agent of the FIA, or a member of the Board, is liable in damages for anything done or omitted to be done in the discharge or purported discharge of the FIA’s functions under this Act or any other Act and regulations made thereunder, unless it is shown that the person acted, or omitted to act, in bad faith.
+[section 7A inserted by 2008:27 s.5 effective 15 November 2008]
