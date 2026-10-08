@@ -1,0 +1,7 @@
+# Failure to meet solvency requirements
+31A (1) An insurer which at any time fails to meet its minimum margin of solvency shall after becoming aware of that failure or having reason to believe that such a failure has occurred immediately notify the Authority of such occurrence, and within 14 days of such notification furnish the Authority with a written report containing particulars—
+(a) of the circumstances leading to the failure, and
+(b) of a plan detailing the manner, specific actions to be taken and time frame in which the insurer intends to rectify the failure
+and, notwithstanding anything to the contrary in any other enactment, shall not declare or pay any dividends until the failure is rectified.
+(2) The Authority may require an insurer to modify the plan filed in accordance with subsection (1)(b) if it is satisfied that it is appropriate to do so in order for an insurer to satisfy its policyholder obligations.
+[Section 31A inserted by 1995:20 effective 29 April 1995; amended by 2001:27 effective 1 October 2001; amended by 2001:33 effective 1 January 2002; subsection (1) amended by 2008:34 s.19(a) effective 30 July 2008; subsection (2) repealed by 2008:34 s.19(b) effective 31 December 2008; subsection (1) amended by 2010 : 60 s. 27 effective 31 December 2010; subsection (1) amended by 2011 : 44 s. 11 effective 31 December 2011; subsection (1) amended, and subsection (2) inserted by 2012 : 36 s. 19 effective 1 January 2013]

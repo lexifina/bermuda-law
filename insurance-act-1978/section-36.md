@@ -1,0 +1,43 @@
+# Winding up of insurers carrying on long-term and general business
+36 (1) In a winding up of an insurer to which this section applies, the provisions of section 33 of the Employment Act 2000 and section 236 of the Companies Act 1981 shall not apply except as provided for in this section.
+(2) Subject to rules made by virtue of section 40, subsections (4) to (8) shall apply in a winding up of composite insurers entitled to carry on long-term business and general business, other than those composite insurers under subsection (3).
+(3) Subsections (4) to (8) shall not apply to a composite insurer—
+(a) that meets the requirements of section 24(6); or
+(b) where the long-term business of the composite insurer has been or is to be transferred as a going concern to another insurer in accordance with section 37.
+(4) Where a winding up of a composite insurer under subsection (2) applies—
+(a) the assets of the long-term business fund must be applied in discharge of the following debts and in the following order of priority—
+(i) Employment Act preferential debts attributable to its long-term business, to which the provisions of section 33 of the Employment Act 2000 shall apply mutatis mutandis so that references therein to—
+(A) assets of a company are deemed to be references to such assets as are attributable to the long-term business of the insurer; and
+(B) costs, charges and expenses of the winding up of a company are deemed to be references to such costs, charges and expenses as are attributable to the winding up of the long-term business of the insurer;
+(ii) Companies Act preferential debts attributable to its long-term business, to which the provisions of section 236 of the Companies Act 1981 shall apply mutatis mutandis so that references therein to—
+(A) assets, property, goods or effects of a company are deemed to be references to such assets, property, goods and effects as are attributable to the long-term business of the insurer; and
+(B) costs and expenses of the winding up of a company are deemed to be references to such costs and expenses as are attributable to the winding up of the long-term business of the insurer;
+(iii) insurance debts attributable to its long-term business which shall rank equally among themselves and be paid in full, unless the assets of the long-term business fund of the insurer remaining after payment of the preferential debts attributable to its long-term business are insufficient to meet them, in which case they abate in equal proportions;
+(b) the assets of the general business fund must be applied in discharge of the following debts and in the following order of priority—
+(i) Employment Act preferential debts attributable to its general business, to which the provisions of section 33 of the Employment Act 2000 shall apply mutatis mutandis so that references therein to—
+(A) assets of a company are deemed to be references to such assets as are attributable to the general business of the insurer; and
+(B) costs, charges and expenses of the winding up of a company are deemed to be references to such costs, charges and expenses as are attributable to the winding up of the general business of the insurer;
+(ii) Companies Act preferential debts attributable to its general business to which the provisions of section 236 of the Companies Act 1981 shall apply mutatis mutandis so that references therein to—
+(A) assets, property, goods or effects of a company are deemed to be references to such assets, property, goods and effects as are attributable to the general business of the insurer; and
+(B) costs and expenses of the winding up of a company are deemed to be references to such costs and expenses as are attributable to the winding up of the general business of the insurer;
+(iii) insurance debts attributable to its general business which shall rank equally among themselves and be paid in full, unless the assets of the general business fund of the insurer remaining after payment of the preferential debts attributable to its general business are insufficient to meet them, in which case they abate in equal proportions.
+(5) Section 194 of the Companies Act 1981 and rule 140 of the Companies (Winding-Up) Rules 1982 shall apply separately to the long-term business assets and to the general business assets of a composite insurer.
+(6) Where, under subsection (5), any fee, cost, charge or remuneration do not apply expressly to the long-term business assets or to the general business assets of a composite insurer, the liquidator may apportion any such fee, cost, charge or remuneration amongst those assets in such manner as he may determine.
+(7) Where the value of the assets mentioned in paragraph (a) or paragraph (b) of subsection (4) exceeds the amount of the liabilities mentioned in that paragraph, so much of those assets as represents the excess must be applied in discharge of the following debts and in the following order of priority—
+(a) any preferential debts mentioned in subsection (4) the assets of which were deemed insufficient to meet liabilities shall rank equally among themselves and be paid in full, unless the excess of such assets is insufficient to meet liabilities, in which case they abate in equal proportions;
+(b) any insurance debts mentioned in subsection (4) the assets of which were deemed insufficient to meet liabilities shall rank equally among themselves and be paid in full, unless the excess of such assets remaining after payment of such debts is insufficient to meet liabilities in which case they abate in equal proportions;
+(c) all other debts of the insurer, which shall rank equally among themselves and be paid in full, unless the excess of assets remaining after payment of the debts referred to in subsection (4) are insufficient to meet liabilities, in which case they abate in equal proportions.
+(8) In relation to the assets falling within either paragraph (a) or (b) of subsection (4), the creditors mentioned in section 176(1) and (2) of the Companies Act 1981 shall be only those who are creditors in respect of liabilities falling within that paragraph; and any general meetings of creditors summoned for the purposes of that section shall accordingly be separate general meetings of the creditors in respect of the liabilities falling within each paragraph.
+(9) Where under section 247(1) of the Companies Act 1981 (power of court to assess damages against delinquent officers) the Court orders any money or property to be repaid or restored to an insurer or any sum to be contributed to its assets, then, if and so far as the wrongful act which is the reason for the making of the order relates to assets belonging to an insurer’s long-term business fund or general business fund (as the case may be), the Court shall include in the order a direction that the money, property or contribution shall be treated for the purposes of this Act as assets of that fund, and this Act shall have effect accordingly.
+(10) For the purposes of this section—
+(a) a liability shall be attributable to the long-term business if it is, or would be, recorded in column C on Form 1SFS of Schedule 1 to the Insurance Account Rules 2016 or Form 4 of Schedule 1 to the Insurance Accounts Regulations 1980, as applicable; and
+(b) a liability shall be attributable to general business if it is, or would be, recorded on column A of Form 1SFS of Schedule 1 to the Insurance Account Rules 2016 or Form 1A of Schedule 1 to the Insurance Accounts Regulations 1980, as applicable.
+(11) For the purposes of this Part—
+“Companies Act preferential debts” means the debts mentioned in section 236(1) (a), (b), (c), (d) and (e) of the Companies Act 1981;
+“composite” has the meaning given in regulation 2 of the Insurance Accounts Regulations 1980;
+“Employment Act preferential debts” means the debts mentioned in section 33(3) (a), (b) and (c) of the Employment Act 2000;
+“insurance contract” means any contract of insurance, capital redemption contract or a contract that has been recorded as insurance business in the financial statements of the insurer pursuant to the Insurance Accounts 1980 or the Insurance Account Rules 2016, as applicable;
+“insurance debt” means a debt to which an insurer is or may become liable pursuant to an insurance contract, excluding debts owed to an insurer under an insurance contract where the insurer is the person insured;
+“preferential debts” means Companies Act preferential debts and Employment Act preferential debts.”;
+“section 24(6) composite” has the meaning given in regulation 2 of the Insurance Accounts Regulations 1980.
+[Section 36 repealed and substituted by 2018 : 42 s. 7 effective 30 July 2018]

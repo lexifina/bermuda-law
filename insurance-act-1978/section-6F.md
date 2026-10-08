@@ -1,0 +1,5 @@
+# Protection of public interest, policyholders of innovative insurers and clients of innovative intermediaries
+6F (1) Without prejudice to its powers under this Act to give directions, the Authority may, where it has made a determination in that respect, take any action necessary or desirable to protect the public, policyholders or proposed potential policyholders of innovative insurers or the clients or potential clients of innovative intermediaries.
+(2) Before taking any such action under subsection (1), the Authority shall serve notice in writing on the innovative insurer or innovative intermediary, as the case may be, giving its reasons therefor.
+(3) An innovative insurer or innovative intermediary served with a notice under subsection (2) may, within a period of 14 days from the date of the notice, make written representations to the Authority; and where such representations are made, the Authority shall take them into account in deciding whether to take the proposed action.”
+[Section 6F inserted by 2018 : 35 s. 10 effective 23 July 2018]

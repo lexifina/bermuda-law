@@ -1,0 +1,3 @@
+# Winding up of insurers under Companies Act 1981
+34 The Court may order the winding up, in accordance with the Companies Act 1981, of an insurer, being a company which may be wound up under that Act, and that Act shall apply accordingly subject to the modification that the insurer may be ordered to be wound up on the petition of ten or more policyholders owning policies of an aggregate value of not less than $50,000:
+Provided that such a petition shall not be presented except by leave of the Court, and leave shall not be granted until a prima facie case has been established to the satisfaction of the Court and until security for costs for such amount as the Court may think reasonable has been given.
