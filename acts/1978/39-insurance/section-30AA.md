@@ -1,0 +1,20 @@
+# Power to require production of documents
+30AA (1) The Authority may by notice in writing require the person who is the subject of an investigation under section 30A (“the person under investigation”) or any person connected with the person under investigation—
+(a) to provide, at such place as may be specified in the notice and either forthwith or at such time as may be so specified, such information as the Authority may reasonably require for the purpose of the investigation;
+(b) to produce, at such place as may be specified in the notice and either forthwith or at such time as may be so specified, such documents, or documents of such description, as may be specified, being documents the production of which may be reasonably required for the investigation;
+(c) to attend at such place and time as may be specified in the notice and answer questions relevant to the enquiry as the Authority may require.
+(1A) The Authority may by notice in writing require every person who is or was a controller, officer, employee, agent, banker, auditor, accountant, barrister and attorney or insurance manager, broker, agent or insurance marketplace provider, as applicable, of an insurer or insurance group which is under investigation by virtue of subsection (1) or any person appointed to make a report in respect of a registered person or designated insurer under section 29A (1) (b) —
+(a) to produce to the Authority, within such time and at such place as the Authority may require, such documents, or documents of such description, as may be specified, being documents the production of which may be reasonably required for the investigation, which are in his custody or power;
+(b) to attend before the Authority at such time and place as the Authority may require and answer questions relevant to the investigation as the Authority may require; and
+(c) to take such actions as the Authority may direct in connection with the investigation,
+and the Authority may take copies of or extracts from any documents produced to it under paragraph (a).
+(2) The Authority or a duly authorised officer, servant or agent of the Authority may take copies of or extracts from any documents produced under this section.
+(3) Any officer, servant or agent of the Authority may, on producing, if required, evidence of his authority, enter any premises occupied by a person on whom a notice has been served under subsection (1) for the purpose of obtaining there the information or documents required by the notice, putting the questions referred to in paragraph (c) of that subsection or exercising the powers conferred by subsection (2).
+(4) Any person who without reasonable excuse fails to comply with a requirement imposed on him under this section or intentionally obstructs a person in the exercise of the rights conferred by subsection (3) shall be guilty of an offence and liable on summary conviction to a fine of $10,000 or to imprisonment for 6 months or to both.
+(5) A statement made by a person in compliance with a requirement imposed by virtue of this section shall not be used in evidence against him in criminal proceedings.
+(6) Nothing in this section shall require the disclosure or production by a person of information or documents which he would be entitled to refuse to disclose or produce on the grounds of legal professional privilege in proceedings in Bermuda.
+(7) For the purposes of this section, a person is connected with the person under investigation if such person is or has at any relevant time been—
+(a) a member of the group of the person under investigation;
+(b) a controller of the person under investigation;
+(c) a partner of a partnership of which the person under investigation is a member.
+[Section 30A inserted by 2006:28 s.12 effective 24 July 2006; section heading deleted and substituted, and section 30A renumbered as 30AA by 2012 : 22 s. 10 effective 1 August 2012; subsections (1A) and (7) inserted by 2012 : 22 s. 10 effective 1 August 2012; Section 30AA subsection (1A) amended by 2018 : 68 s. 14 effective 31 December 2018; Section 30AA subsection (1A) amended by 2019 : 33 s. 30 effective 5 August 2019]

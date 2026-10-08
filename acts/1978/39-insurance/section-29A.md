@@ -1,0 +1,12 @@
+## PART VI
+# Power to obtain information and reports
+29A (1) The Authority may by notice in writing served on a registered person or designated insurer—
+(a) require the registered person or designated insurer to provide the Authority (or such person acting on behalf of the Authority as may be specified in the notice), at such time or times or at such intervals or in respect of such period or periods as may be so specified, with such information as the Authority may reasonably require with respect to matters that are likely to be material to the performance, in relation to the registered person or, as the case may be, the relevant insurance group, of its functions under this Act;
+(b) require the registered person or designated insurer to provide the Authority with a report, in such form as may be specified in the notice, by the registered person’s or designated insurer’s auditor or underwriter or by an accountant or other person with relevant professional skill in, or on any aspect of, any matter about which the Authority has required or could require the registered person or designated insurer as the case may be, to provide information under paragraph (a).
+(2) [Repealed by 2012 : 22 s. 7]
+(3) [Repealed by 2012 : 22 s. 7]
+(4) The person appointed by the registered person or the designated insurer, as the case may be, to make the report required under subsection (1)(b) shall immediately give written notice to the Authority of any fact or matter of which he becomes aware which indicates to him—
+(a) that any term or condition of registration of the registered person is not or has not been fulfilled, or may not be or may not have been fulfilled, in respect of the registered person; and
+(b) that the matters are likely to be material to the performance, in relation to the registered person or, as the case may be, the designated insurer or the relevant insurance group, of the Authority’s functions under this Act.
+(5) In this section and in sections 29B and 29C, “relevant insurance group” means the insurance group of which the designated insurer referred to in those sections is a member.
+[section 29A inserted by 2002:29 s.4 effective 14 October 2002; subsection (5) repealed by 2006:28 s.9 effective 24 July 2006; Section 29A repealed and replaced by 2010 : 22 s. 13 effective 29 March 2010; subsection (1)(b) repealed and substituted, subsections (2) and (3) repealed, and subsection 4 amended by 2012 : 22 s. 7 effective 1 August 2012]

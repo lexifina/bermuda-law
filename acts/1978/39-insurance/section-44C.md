@@ -1,0 +1,6 @@
+# Determination of appeals
+44C (1) Where an appeal is brought under the provisions of this Act the chairman or as the case may be the deputy chairman shall nominate two other members from the panel of members, who together with him shall constitute the tribunal which shall determine the appeal.
+(2) On an appeal under section 44A the question for the determination of the tribunal shall be whether, for the reasons adduced by the appellant, the decision was unlawful or not justified by the evidence on which it was based.
+(3) On any such appeal the tribunal may confirm or reverse the decision which is the subject of the appeal but shall not have power to vary it except that where the decision was to cancel a registration the tribunal may direct the Authority to impose conditions or issue directions instead.
+(4) Notice of a tribunal’s determination, together with a statement of its reasons, shall be given to the appellant and to the Authority; and, unless the tribunal otherwise directs, the determination shall come into operation when the notice is given to the appellant and to the Authority.
+[section 44C inserted by 2006:28 s.17 effective 24 July 2006; subsection (2) amended by 2016 : 33 s. 2 effective 1 January 2017]

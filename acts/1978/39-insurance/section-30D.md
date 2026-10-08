@@ -1,0 +1,8 @@
+# Notification by shareholder controllers of new or increased control – private companies
+30D (1) This section applies to a shareholder or a prospective shareholder of an insurer whose shares or the shares of its parent company, if any, are not traded on any stock exchange.
+(2) No person to whom this section applies shall become a 10 per cent, 20 per cent, 33 per cent, or 50 per cent shareholder controller of the insurer unless—
+(a) he has served on the Authority a notice in writing stating that he intends to become such a controller of the insurer; and
+(b) either the Authority has, before the end of the period of forty-five days beginning with the date of service of that notice, notified him in writing that there is no objection to his becoming such a controller of the insurer, or that period has elapsed without the Authority having served him under section 30F with a written notice of objection to his becoming such a controller of the insurer.
+(3) A notice under subsection (2)(a) shall contain such information as the Authority may direct and the Authority may after receiving such a notice from any person, by notice in writing require him to provide such additional information or documents as the Authority may reasonably require for deciding whether to serve notice of objection.
+(4) Where additional information or documents are required from any person by a notice under subsection (3) the time between the giving of the notice and the receipt of the information or documents shall be added to the period mentioned in subsection (2)(b).
+[section 30D inserted by 2006:28 s.12 effective 24 July 2006; section 30D amended by 2010 : 22 s. 17 effective 29 March 2010; section 30D repealed and replaced by 2010 : 60 s. 22 effective 31 December 2010]
