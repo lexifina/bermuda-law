@@ -1,0 +1,2 @@
+# Powers of magistrates, coroners, etc. with respect to bankers’ books
+61 Any magistrate or court of summary jurisdiction, coroner or marine court of enquiry, may, with respect to any proceeding before such officer or court in or over which such officer or court has lawful jurisdiction, exercise the powers of a Judge under section 59, and shall, in all such proceedings, receive in evidence any copy of an entry in a banker’s book for the purposes mentioned in section 56 on receiving such proof on oath by viva voce testimony, as is required by section 57 and section 58.

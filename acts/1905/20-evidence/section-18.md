@@ -1,0 +1,2 @@
+# Special provisions relating to indictments for public nuisances etc
+18 On the trial of any indictment or other proceeding for the non-repair of a public highway, or bridge, or for a nuisance to any public highway, or bridge, and of any other indictment or proceeding instituted for the purpose of trying or enforcing a civil right only, every defendant to such indictment or proceeding, and the wife or husband of any such defendant, shall be admissible witnesses and compellable to give evidence.

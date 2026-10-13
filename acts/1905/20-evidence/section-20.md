@@ -1,0 +1,2 @@
+# Proof of contradictory statements by witness
+20 If a witness upon cross-examination as to a former statement made by him relative to the subject matter of the cause or matter, and inconsistent with his present testimony, does not distinctly admit that he has made such statement, proof may be given that he did in fact make it; but before such proof can be given the circumstances of the supposed statement sufficient to designate the particular occasion must be mentioned to the witness and he must be asked whether or not he has made such statement.

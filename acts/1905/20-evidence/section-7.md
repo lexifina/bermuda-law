@@ -1,0 +1,2 @@
+# Expenses of witnesses in civil cases
+7 Any person subpoenaed to attend as a witness in a civil cause or matter may at the time of attendance apply to the Supreme Court for his expenses, and the Court shall direct the same to an amount not exceeding such amount as may be prescribed under the Court Fees and Expenses Act 1971 [title 8 item 7] to be paid by the party at whose instance the subpoena issued.

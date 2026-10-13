@@ -1,0 +1,2 @@
+# Case in which banker not compellable to produce banker’s book
+59 A banker or officer of a bank shall not, in any cause, arbitration or proceeding in which evidence may be given, to which the bank is not a party, be compellable to produce any banker’s book the contents of which can be proved under this Act, or to appear as a witness to prove the matters, transactions and accounts therein recorded, unless by order of a judge made for special cause.

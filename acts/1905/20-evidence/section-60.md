@@ -1,0 +1,5 @@
+# Power of court or Judge to order inspection; costs, enforcement, etc.
+60 (1) On the application of any party to a cause, arbitration or proceeding in which evidence may be given, a court or judge may order that such party be at liberty to inspect and take copies of any entries in a banker’s book for any of the purposes of such proceedings.
+(2) An order under this section may be made either with or without summoning the bank or any other party, and shall be served on the bank three clear days before the order is to be obeyed, unless the court or judge otherwise directs.
+(3) The costs of any application to a court or judge and the costs of anything done or to be done under an order of a court or judge, shall be in the discretion of the court or Judge, who may order the costs or any part thereof to be paid to any party by the bank where the costs have been occasioned by any default or delay on the part of the bank.
+(4) Any such order against a bank may be enforced as if the bank were a party to the proceeding, or otherwise as the court or Judge may allow or direct.

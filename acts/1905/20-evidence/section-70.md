@@ -1,0 +1,4 @@
+# Weight to be attached to evidence
+70 (1) In estimating the weight, if any, to be attached to a statement rendered admissible as evidence by virtue of section 69 regard shall be had to all the circumstances from which any inference can reasonably be drawn as to the accuracy or otherwise of the statement, and in particular to the question whether or not the statement was made contemporaneously with the occurrence or existence of the facts stated, and to the question whether or not the maker of the statement had any incentive to conceal or misrepresent facts.
+(2) For the purpose of any rule of law or practice requiring evidence to be corroborated or regulating the manner in which uncorroborated evidence is to be treated, a statement rendered admissible by virtue of section 69 shall not be treated as corroboration of evidence given by the maker of the statement.
+(3) In this section, “statement” has the meaning assigned to it in section 69(6).

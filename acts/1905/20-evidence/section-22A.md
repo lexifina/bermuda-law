@@ -1,0 +1,4 @@
+# Duty to substantiate with evidence suggestion that witness has given false evidence etc
+22A (1) If on cross-examination it is suggested to a witness that he has given evidence which he knows to be false or that his conduct in relation to an accused person or another party was unlawful or improper or that the witness is a person who should not be believed because of his general character then, without prejudice to section 16(1)(e), there shall be a duty on the party making the allegation to call evidence to substantiate it.
+(2) If an accused person only gives evidence to substantiate an allegation referred to in subsection (1) then he shall only be cross-examined on that evidence and his right to remain silent shall not be affected by the giving of such evidence.
+(3) If a party fails to substantiate with evidence an allegation referred to in subsection (1) the court shall ignore the allegation and if there is a jury the judge shall instruct the jury to ignore it.
