@@ -1,0 +1,2 @@
+# Stupefying in order to commit an indictable offence
+304 Any person who, with intent to commit or to facilitate the commission of an indictable offence, or to facilitate the flight of an offender after the commission or attempted commission of an indictable offence, administers, or attempts to administer, any stupefying or overpowering drug or thing to any person, is guilty of a felony, and is liable to imprisonment for ten years.

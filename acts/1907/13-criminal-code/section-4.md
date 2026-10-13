@@ -1,0 +1,2 @@
+# Construction of “on conviction on indictment”
+4 The expression “on conviction on indictment”, or any expression having the like meaning, where used in this or any other Act in relation to any offence or the punishment for any offence, shall be taken to imply that a person charged with that offence is triable on indictment before the Supreme Court, and that the offence is an indictable offence within the meaning and for the purposes of the Indictable Offences Act 1929 [title 8 item 32].

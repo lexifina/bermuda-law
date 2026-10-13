@@ -1,0 +1,2 @@
+# Prosecution of newspapers to be by sanction of a judge after notice
+222 No criminal prosecution shall be commenced against the proprietor, or publisher, or editor, or any person responsible for the publication of, any periodical, for the unlawful publication of any defamatory matter contained therein, except by order of a judge made after notice to the person accused, and after that person has had an opportunity of being heard in opposition to the application for the order.

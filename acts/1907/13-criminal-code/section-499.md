@@ -1,0 +1,2 @@
+# Indictments for joint receiving
+499 Upon an indictment charging two or more persons jointly with an offence of which the receiving of any property is an element, if the evidence establishes that one or more of them separately received any part or parts of the property under such circumstances as to constitute an offence, then such one or more of the accused persons may be convicted of the offence or offences so established by the evidence.

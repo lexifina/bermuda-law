@@ -1,0 +1,4 @@
+## Examination of persons in custody
+# Examination of person of accused person in custody
+245 (1) When a person is in lawful custody it is lawful for a police officer to search his person, and to take from him anything found upon his person, and to use such force as is reasonably necessary for that purpose.
+(2) When a person is in lawful custody and there are reasonable grounds for believing that an examination of his person will afford evidence as to the commission of an offence, it is lawful for a medical practitioner, acting at the request of a police officer, and for any person acting in good faith in aid and under the direction of such medical practitioner, to make such an examination of the person so in custody as is reasonably necessary in order to ascertain the facts which may afford such evidence, and to use such force as is reasonably necessary for that purpose.

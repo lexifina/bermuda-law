@@ -1,0 +1,4 @@
+# Destroying or damaging property in cases not otherwise provided for
+448 (1) Any person who wilfully and unlawfully destroys or does damage to any property, the injury done being to an amount exceeding $60, is, unless otherwise stated, guilty of a misdemeanour, and is, if no other punishment is provided, liable on conviction by a court of summary jurisdiction to imprisonment for twelve months and on conviction on indictment to imprisonment for two years:
+Provided that if the offence is committed in the night the offender is liable on conviction by a court of summary jurisdiction to imprisonment for twelve months and on conviction on indictment to imprisonment for three years.
+(2) Any person who wilfully and unlawfully destroys or damages any property, the injury being to an amount not exceeding $60 is, unless otherwise stated, guilty of a summary offence, and is liable to a fine of $250 or to imprisonment for two months.

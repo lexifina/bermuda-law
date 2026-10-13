@@ -1,0 +1,3 @@
+# False accounting by public officers
+398 (1) Any person who, being an officer charged with the receipt, custody, or management, of any part of the public revenue or property, knowingly furnishes any false statement or return of any money or property received by him or entrusted to his care, or of any balance of money or property in his possession or under his control, is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to imprisonment for twelve months and on conviction on indictment to imprisonment for two years.
+(2) No conviction for any offence constituted by this section shall be received in evidence against the person convicted in any civil cause or matter.

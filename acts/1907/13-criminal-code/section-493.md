@@ -1,0 +1,3 @@
+# Alternative conviction upon indictment charging offence involving specific result
+493 (1) Upon an indictment charging a person with an offence of which the causing of some specific result is an element, he may be convicted of any offence which is established by the evidence, and of which an intent to cause that result, or a result of a similar but less injurious nature, is an element.
+(2) Upon an indictment charging a person with an offence of which an intent to cause some specific result is an element, he may be convicted of any offence which is established by the evidence and of which the unlawful causing of that result is an element.

@@ -1,0 +1,5 @@
+## Common assault
+# Common assault
+314 (1) Any person who unlawfully assaults another person is guilty of an offence, and is liable, if no greater punishment is provided, on conviction by a court of summary jurisdiction, to imprisonment for twelve months.
+(2) Without prejudice to anything in the foregoing provisions of this Act, the court of summary jurisdiction by which a person is convicted under this section may require the offender, in addition to any other punishment, to enter into a recognizance, with or without sureties, to keep the peace and be of good behaviour for any term not exceeding six months from the date of the conviction or of the expiration of the sentence, whichever is the later date; and if an offender directed to enter into a recognizance as aforesaid fails duly to do so, the court of summary jurisdiction may order him to be imprisoned for two months, in addition to any other punishment to which he had been sentenced.
+(3) The foregoing provisions of this section shall apply to cases of assaults committed on the high seas, or in places out of Bermuda, on board of ships registered in, or belonging to, Bermuda.

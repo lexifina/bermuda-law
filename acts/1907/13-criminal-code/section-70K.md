@@ -1,0 +1,15 @@
+# Suspended sentence of imprisonment
+70K (1) If a court sentences an offender to imprisonment for 5 years or less it may order that the term of imprisonment be suspended in whole or in part during the period specified in the order (“the operational period”), which period shall not exceed 5 years, if the court is satisfied that it is appropriate to do so in the circumstances.
+(2) A court shall not make an order under subsection (1) if it would not have sentenced the offender to imprisonment in the absence of power to make an order suspending the sentence.
+(3) Before making an order under subsection (1) the court shall explain to the offender in ordinary language his liability under subsection (5) if during the operational period he commits in Bermuda an offence for which he is sentenced to imprisonment.
+(4) A court making an order under subsection (1) shall specify a suspended sentence that corresponds in length to the sentence of imprisonment that it would have imposed in the absence of power to make an order suspending the sentence.
+(5) Where an offender whose term of imprisonment has been suspended under this section is convicted of a further offence which is committed during the operational period and for which he is sentenced to imprisonment, the court which sentences the offender for the further offence shall order that the suspended sentence shall take effect unless it is of the opinion that it is unjust to do so in view of all the circumstances which have arisen since the suspended sentence was imposed, including the further offence.
+(6) Where a court decides under subsection (5) that it would be unjust for a suspended sentence to take effect, the court shall—
+(a) order that the suspended sentence—
+(i) take effect with a substitution of a lesser term of imprisonment; or
+(ii) be cancelled and be replaced by any non-custodial sentence that could have been imposed on the offender at the time when the offender was convicted of the offence for which the suspended sentence was imposed; or
+(b) decline to make any order referred to in paragraph (a) concerning the suspended sentence.
+(7) Where pursuant to subsection (5) or subsection (6) a court orders that the suspended sentence shall take effect, the sentence shall commence on the date of the making of that order.
+(8) Where a court imposes a suspended sentence for one offence, the court may also impose suspended sentences under subsection (1) for other offences for which the offender has appeared for sentence, so long as the total period of all suspended sentences to which the offender is subject does not exceed 5 years from the date of the commencement of the first such sentence, and, where two or more suspended sentences are imposed on an offender, the sentences shall be served concurrently.
+(9) For the purposes of any Act conferring rights of appeal in criminal cases any order made by a court under this section shall be treated as a sentence passed on the offender by that court for the offence for which the suspended sentence was passed.
+[Section 70K inserted by 2001:29 s.3 effective 29 October 2001]

@@ -1,0 +1,2 @@
+# Alternative conviction upon indictment for procuring commission of offence
+494 Upon an indictment charging a person with procuring the commission of any offence, he may be convicted of procuring the commission of any other offence of such a nature that a person may be convicted of it upon an indictment charging him with committing the offence of which the accused person is alleged to have procured the commission.

@@ -1,0 +1,2 @@
+# Protection of employers
+219 An employer is not responsible as for the unlawful publication of defamatory matter merely by reason of the sale by his servant of a book, pamphlet, print, writing or other thing, whether a periodical or not, containing the defamatory matter, unless it is proved that he authorized the sale, knowing that the book, pamphlet, print, writing or other thing, contained the defamatory matter, or, in the case of a number or part of a periodical, that defamatory matter was habitually or frequently contained in that periodical.

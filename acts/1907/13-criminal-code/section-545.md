@@ -1,0 +1,6 @@
+# Accused person insane at trial
+545 (1) If on the trial of any person charged with an indictable offence the jury find that he is insane, the Supreme Court shall require such finding to be recorded, and shall order him to be kept in strict custody, in such place and in such manner as the Court thinks fit, until the pleasure of the Governor is known.
+(2) A person so found to be insane may be again called upon to plead to the indictment and be tried for the offence.
+(3) If a person charged with an indictable offence and brought before the Supreme Court to be discharged for want of prosecution appears to be insane, the Court shall order a jury to be empanelled to try his sanity; and if the jury find him to be insane, the Court shall order him to be kept in strict custody, in such place and in such manner as the Court thinks fit, until the pleasure of the Governor is known.
+(4) Where any person is found to be insane under the this section, or section 514 (a person found unfit to plead), the Governor, acting after consultation with the Advisory Committee on the Prerogative of Mercy established under section 23 of the Constitution (hereinafter referred to as “the Committee”) shall give such order as he thinks fit for the removal to, and safe custody of such person in, a hospital.
+[Section 545 amended by 1998 : 32 effective 13 July 1998]

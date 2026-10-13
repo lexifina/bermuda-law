@@ -1,0 +1,3 @@
+# Making false statement under oath or solemn declaration
+141 (1) Any person who, on any occasion on which a person making a statement touching any matter is required by law to make it on oath, or under some sanction which may by law be substituted for an oath, or is required to verify it by solemn declaration or affirmation, makes a statement touching such matter which, in any material particular, is to his knowledge false, or which he does not believe to be true and verifies it on oath, or under such other sanction, or by solemn declaration or affirmation, is guilty of a misdemeanour, and is liable to imprisonment for five years.
+(2) A person cannot be convicted of an offence under this section upon the uncorroborated testimony of one witness.

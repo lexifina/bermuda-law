@@ -1,0 +1,4 @@
+# Destroying or damaging will
+437 (1) Any person who wilfully and unlawfully destroys or damages any testamentary instrument, whether the testator is living or dead, is, subject to subsection (2), guilty of a felony, and is liable to imprisonment for five years.
+(2) It is a defence to a charge of any of the offences constituted by subsection (1) to prove that the accused person, before being charged with the offence, and in consequence of the compulsory process of a court in an action or proceeding instituted in good faith by a party aggrieved, or in a compulsory examination or deposition before a court, disclosed on oath the act alleged to constitute the offence.
+(3) A person is not entitled to refuse to answer any question or interrogatory in any civil proceeding in any court on the ground that his so doing might tend to show he had committed any such offence.

@@ -1,0 +1,15 @@
+# Sentencing of dangerous offender
+71E (1) In this Part “dangerous offender” means a person suffering from a persistent disorder or disability of mind (whether or not including subnormality of intelligence) which results in abnormally aggressive or seriously irresponsible conduct on the part of the person whether or not he requires or is susceptible to medical treatment.
+(2) Where any person is convicted in the Supreme Court of any offence punishable under this Act or any other law, and the Court is satisfied by evidence tendered by the prosecution upon each of the matters specified in subsection (4), the convicted person shall be sentenced to serve an indeterminate period of detention in a maximum security prison for a period of not less than two but not more than seven years.
+(3) Where any person is convicted by a court of summary jurisdiction of an offence punishable under this Act or any other law and the Court is satisfied by evidence tendered by the prosecution upon each of the matters specified in subsection (4), the convicted person shall be committed in custody for sentence to the Supreme Court and if the Supreme Court is satisfied by such evidence, such person shall thereupon be sentenced in accordance with subsection (2).
+(4) The evidence referred to in subsections (2) and (3) is evidence tending to show that—
+(a) the convicted person has been assessed as a dangerous offender by at least two registered medical practitioners one of whom is a medical practitioner specializing in psychiatry;
+(b) the convicted person is a danger to himself and to the community; and
+(c) there is no other appropriate means of dealing with him having regard to those dangers.
+(5) Where an assessment is made by a medical practitioner referred to in subsection (4)(a) a certificate of that assessment shall be admissible as evidence in a court of summary jurisdiction.
+(6) A dangerous offender shall, during the period of his detention be assessed—
+(a) by the Treatment of Offenders Board after he has served at least two years of his detention, and thereafter at successive periods of not more than twelve months at a time; and
+(b) by a psychiatrist at successive periods of not more than twenty-four months,
+and the Minister responsible for corrections may, after consideration of the reports submitted to him by the Treatment of Offenders Board and a psychiatrist, release at any time the person so detained.
+(7) The Minister responsible for corrections may direct, after consideration of a psychiatrist’s report relating to the assessment of a person sentenced under this section, that such person be transferred from a maximum security prison to a hospital or some other institution approved by the Minister for the reception of detainees under this section; and the Minister may from time to time after consideration of any further such report direct that such person be transferred back to a maximum security prison or between any such hospital or other institution as aforesaid.
+[Section 71E amended by 1998 : 32 effective 13 July 1998; subsections (6) and (7) amended by BR 5/2011 para.5 effective 25 February 2011]

@@ -1,0 +1,4 @@
+# Contradictory statements with intent to mislead
+124 (1) Any person who, being a witness in a judicial proceeding gives material evidence with respect to any matter of fact or knowledge and who subsequently in a judicial proceeding gives evidence that is contrary to his previous evidence in a material respect is, if his intent is to mislead the court or tribunal in either of the judicial proceedings guilty of an offence and is liable on summary conviction to a fine of $50,000 or to imprisonment for five years, or both; and on conviction on indictment to an unlimited fine or imprisonment for ten years, or both.
+(2) In a prosecution under this section it shall not be incumbent upon the prosecutor to prove that either the prior or the latter evidence is false.
+[Section 124 subsection (1) amended by 2013 : 30 s. 16 effective 8 November 2013]

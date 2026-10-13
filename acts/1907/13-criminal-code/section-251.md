@@ -1,0 +1,4 @@
+# Suppression of riot by person acting without order in case of emergency
+251 (1) When any person, whether subject to military law or not believes, on reasonable grounds, that serious mischief will arise from a riot before there is time to procure the intervention of a Justice of the Peace, it is lawful for him to use such force as he believes, on reasonable grounds, to be necessary for the suppression of the riot, and is reasonably proportioned to the danger which he believes, on reasonable grounds, to be apprehended from the continuance of the riot.
+(2) In this section “military law” means any provision of the Acts of the Parliament of the United Kingdom entitled, respectively, the Naval Discipline Act, the Army Act or the Air Force Act or the Acts of the Legislature of Bermuda entitled the Defence Act 1965 [title 7 item 21].
+[Section 251 subsection (2) amended by 2015 : 48 s. 26 effective 1 November 2017]

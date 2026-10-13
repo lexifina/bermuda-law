@@ -1,0 +1,8 @@
+# Procedure on charge of an offence committed after previous conviction
+539 The proceedings upon an indictment for committing an offence after a previous conviction or convictions are required to be as follows—
+(a) the accused person shall in the first instance be called upon to plead to so much only of the indictment as charges the subsequent offence;
+(b) if the accused person pleads any plea which raises an issue to be tried by a jury, the jury shall be charged in the first instance to inquire concerning the subsequent offence only;
+(c) if the accused person pleads guilty, or if upon his trial he is convicted of the subsequent offence, he shall then, and not before, be asked whether he had been previously convicted, as alleged in the indictment;
+(d) if the accused person admits that he has been so previously convicted, the Supreme Court may proceed to pass sentence upon him accordingly;
+(e) if the accused person denies that he has been so previously convicted, or will not answer directly to the question, the jury shall then be charged to inquire concerning the previous conviction or convictions; and in that case it is not necessary that the jury should be sworn afresh, but the oath already taken by them is deemed to extend to such last mentioned inquiry:
+Provided that, if on the trial of a person charged with a subsequent offence, he offers evidence of his good character, the Crown may, in answer thereto, and before any verdict is given, offer evidence of his conviction of the previous offence or offences; and in that case the jury are required to inquire concerning the previous conviction or convictions at the same time that they inquire concerning the subsequent offence.

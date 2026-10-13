@@ -1,0 +1,4 @@
+# Two witnesses necessary
+86 (1) A person charged with treason, or with any of the felonies declared in either of section 84 or 85, cannot be convicted, except on his own plea of guilty, or on the evidence in open court of two witnesses at the least to one overt act of the kind of treason alleged, or, except where the felony charged is one under section 85 and the overt act alleged consists of spoken words, the evidence of one witness to one overt act, and one other witness to another overt act of the same kind of treason.
+(2) This section does not apply to cases in which the overt act of treason alleged is the killing of the Sovereign, or a direct attempt to endanger the life or injure the person of the Sovereign.
+(3) On the trial of a person charged with treason evidence cannot be admitted of any overt act not alleged in the indictment.

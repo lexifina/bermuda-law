@@ -1,0 +1,2 @@
+# Absolute protection: proceedings in courts of justice and at inquiries
+208 A person does not incur any liability as for defamation by publishing, in the course of a proceedings held before or under the authority of any court of justice, or in the course of an inquiry made under the authority of any court of justice, or in the course of an inquiry made under the authority of an Act or of an Act of the Parliament of the United Kingdom, or under the authority of Her Majesty, or of the Governor, any defamatory matter.

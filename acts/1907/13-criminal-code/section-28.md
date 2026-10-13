@@ -1,0 +1,2 @@
+# Offences committed in prosecution of common purpose
+28 When two or more persons form a common intention to prosecute an unlawful purpose in conjunction with one another, and in the prosecution of such purpose an offence is committed of such a nature that its commission was a probable consequence of the prosecution of such purpose, then each of such persons is deemed to have committed the offence.

@@ -1,0 +1,2 @@
+# Joinder of charges against accessories
+481 A person who counsels or procures another person to commit an offence, or who aids another person in committing an offence, or who becomes an accessory after the fact to an offence, may be charged in the same indictment with the principal offender, and may be tried with him or separately, or may be indicted and tried separately, whether the principal offender has or has not been convicted, or is not amenable to justice.

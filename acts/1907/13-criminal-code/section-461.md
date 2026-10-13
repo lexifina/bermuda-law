@@ -1,0 +1,2 @@
+# Duties with respect to detention and disposal of persons arrested
+461 It is the duty of a person who has arrested another person upon a charge of an offence to take him, with as little delay as possible, before a court of competent jurisdiction to be dealt with according to law, and in the meantime to keep him in safe custody at a police station, or to convey him to a prison if so directed by a Justice of the Peace or by a police officer not below the rank of Inspector.

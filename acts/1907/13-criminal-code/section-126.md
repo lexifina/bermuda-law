@@ -1,0 +1,3 @@
+# Destroying evidence
+126 Any person who, knowing that any book, document or other thing of any kind, is or may be required in evidence in a judicial proceeding, wilfully destroys it or renders it illegible or undecipherable or incapable of identification, with intent thereby to prevent it from being used in evidence, is guilty of an offence, and is liable on summary conviction to a fine of $50,000 or to imprisonment for five years, or both; and on conviction on indictment to an unlimited fine or imprisonment for ten years, or both.
+[Section 126 amended by 2013 : 30 s. 16 effective 8 November 2013]

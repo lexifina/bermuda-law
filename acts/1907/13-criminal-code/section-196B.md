@@ -1,0 +1,2 @@
+# Notice by Chief Medical Officer to inform him whether certificate authorizing termination of pregnancy has been issued
+196B The Chief Medical Officer may by notice in writing require the Therapeutic Abortion Committee of a hospital, or any member thereof, to inform him whether a certificate of the nature described in paragraph 196A(c) has been issued by that committee permitting the termination of a pregnancy.

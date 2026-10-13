@@ -1,0 +1,2 @@
+# Damaging bridges etc
+435 Any person who wilfully and unlawfully damages any bridge, viaduct, or aqueduct, with intent to render the bridge, viaduct or aqueduct, or any part thereof, dangerous, impassable, or unfit for use, and thereby does in fact render the bridge, viaduct or aqueduct, or any part thereof, dangerous, impassable or unfit for use, is guilty of a felony, and is liable to imprisonment for ten years.

@@ -1,0 +1,3 @@
+## Duty to provide necessaries
+# Duty to provide necessaries
+271 It is the duty of every person having charge of another person who is unable, by reason of age, sickness, unsoundness of mind, detention, or any other cause, to withdraw himself from such charge, and who is unable to provide himself with the necessaries of life, whether the charge is undertaken under a contract, or is imposed by law, or arises by reason of any act, whether lawful or unlawful, of the person who has such charge, to provide for that other person the necessaries of life; and he is deemed to have caused any consequences which result to the life or health of the other person by reason of any omission to perform that duty.

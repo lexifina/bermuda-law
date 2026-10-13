@@ -1,0 +1,2 @@
+# Duty of masters to provide food for servants
+273 It is the duty of every person who as a master or mistress has contracted to provide necessary food, clothing, or lodging, for any servant or apprentice under the age of sixteen years, to provide such food, clothing or lodging; and he or she is deemed to have caused any consequences which result to the life or health of the servant or apprentice, by reason of any omission to perform that duty,

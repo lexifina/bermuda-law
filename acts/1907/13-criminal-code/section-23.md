@@ -1,0 +1,2 @@
+# Persons not to be twice punished for same offence
+23 A person cannot be twice punished either under this Act or under any other law for the same act or omission, unless the act or omission is such that by means thereof he causes the death of another person, in which case he may be convicted of the offence of which he is guilty by reason of causing such death, notwithstanding that he has already been convicted of some other offence constituted by the act or omission.

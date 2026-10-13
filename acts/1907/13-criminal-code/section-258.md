@@ -1,0 +1,6 @@
+# Self-defence against provoked assault
+258 When a person has unlawfully assaulted another or has provoked an assault from another, and that other assaults him with such violence as to cause reasonable apprehension of death or grievous bodily harm, and to induce him to believe, on reasonable grounds, that it is necessary for his preservation from death or grievous bodily harm to use force in self-defence, he is not criminally responsible for using any such force as is reasonably necessary for such preservation, although such force may cause death or grievous bodily harm:
+Provided that the foregoing provisions of this section shall not have effect so as to excuse or justify—
+(a) the use by any person of force which causes death or grievous bodily harm where such person first began the assault with intent to kill or to do grievous bodily harm to some other person; or
+(b) the use by any person of force which causes death or grievous bodily harm where such person endeavoured to kill or cause grievous bodily harm to some other person before the necessity of so preserving himself arose; or
+(c) the use by any person of force which causes death or grievous bodily harm where such person has not before the necessity to use such force arose declined and quitted conflict or retreated from conflict as far as was practicable.

@@ -1,0 +1,2 @@
+# Killing by use of excessive force where some force is lawful
+296 An unlawful killing by a person of another person is manslaughter and not murder if the offender while in the exercise in good faith of any right to use force against another person uses more force than that allowed to him by law in relation to the exercise of that right and causes the death of the person against whom the force is used without premeditation and without any intention of doing more bodily harm than he honestly believes is necessary for the purpose of exercising that right.

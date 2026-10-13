@@ -1,0 +1,3 @@
+# Erroneous sentence or process or warrant
+236 If the sentence was passed, or the process was issued, by a court having jurisdiction under any circumstances to pass such a sentence or to issue such process, or if the warrant was issued by a court or other person having authority under any circumstances to issue such a warrant, it is immaterial whether the court or person had or had not authority to pass the sentence or issue the process or warrant in the particular case, unless the person executing the sentence, process or warrant knows that the sentence or process or warrant was in fact passed or issued without authority.
+[Section 236 amended by 2010 : 30 s. 7 effective 11 June 2010]

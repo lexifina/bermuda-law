@@ -1,0 +1,2 @@
+# Classification of unclassified indictable offences constituted by other Acts
+14 Where by or under any other Act any indictable offence is constituted, and it is not stated whether the offence is a felony or a misdemeanour, then that offence shall, for the purposes of the application of the general provisions of this Act relating to offences and criminal procedure, be deemed to be a misdemeanour.

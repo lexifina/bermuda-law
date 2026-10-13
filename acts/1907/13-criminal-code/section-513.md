@@ -1,0 +1,3 @@
+# Further pleas and trial of issues
+513 (1) When the issues raised by any plea or pleas, except the plea of not guilty, have been found against an accused person who has not pleaded the plea of not guilty, he is to be called upon to plead afresh, and, if those issues have been tried by a jury, the Supreme Court may direct the issues raised by any fresh plea to be tried by the same jury or by another jury.
+(2) If the Court directs them to be tried by the same jury, it is not necessary that the jury should be sworn afresh, but the oath already taken by them is to be deemed to extend to the trial of such fresh issues.

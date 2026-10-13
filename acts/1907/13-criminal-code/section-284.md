@@ -1,0 +1,2 @@
+# Injury causing death in consequence of subsequent treatment
+284 When a person does grievous bodily harm to another person, and such other person has recourse to surgical or medical treatment, and death results either from the injury or the treatment, he is deemed to have killed that other person, although the immediate cause of death was the surgical or medical treatment, if the treatment was reasonably proper under the circumstances, and was applied in good faith.

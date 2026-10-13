@@ -1,0 +1,2 @@
+# Trial in certain cases of homicide
+19 If any person is unlawfully hurt upon the sea, or at any place out of Bermuda, and dies in consequence thereof in Bermuda, or if any person is unlawfully hurt in Bermuda, and dies in consequence thereof upon the sea, or at any place out of Bermuda, then every such offence, whether the offence amounts to murder or manslaughter, or being accessory to murder or manslaughter, may be dealt with in Bermuda in the same manner in all respects as if such offence had been committed wholly in Bermuda.

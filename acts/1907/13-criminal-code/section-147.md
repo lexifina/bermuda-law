@@ -1,0 +1,3 @@
+# Neglect by public officers to suppress riot; neglecting to aid in suppressing riot
+147 (1) Any person who, being a magistrate, a Justice of the Peace, the Provost Marshal General, or a police office, and having notice that there is a riot in his neighbourhood, omits, without reasonable excuse, to do his duty in suppressing such riot, is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to a fine of $1,250, and on conviction on indictment to imprisonment for two years.
+(2) Any person who, having reasonable notice that he is required to assist any officer named in subsection (1) in suppressing a riot, without reasonable excuse omits to do so, is guilty of a summary offence, and is liable to imprisonment for twelve months.

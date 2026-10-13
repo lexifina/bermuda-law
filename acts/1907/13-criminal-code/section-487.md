@@ -1,0 +1,4 @@
+# Nolle prosequi
+487 (1) The Director of Public Prosecutions may inform the Supreme Court by writing under his hand, that the Crown will not then prefer any indictment, or he may, by writing under his hand or announcement in open court, inform the Supreme Court that the Crown will not then proceed further upon an indictment then pending before the Supreme Court.
+(2) When such information is given to the Supreme Court, the Supreme Court shall cause the accused person to be discharged from any further proceedings in respect of the charge or charges upon which the accused person was committed or, where an indictment is pending, which are contained in the indictment; but such discharge shall not operate as a bar to any further proceedings on the same the notice of any sending within twelve months of such sending.
+[Section 487 subsection (1) amended by 1999:8 s.2 & Sch 1 effective 1 April 1999; subsection (2) amended by 2015 : 38 s. 89 effective 6 November 2015]

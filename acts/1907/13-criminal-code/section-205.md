@@ -1,0 +1,8 @@
+## PART XII
+## DEFAMATION
+# Interpretation and construction of Part XII
+205 (1) In this Part “periodical” includes any newspaper, review, magazine or other writing or print published periodically.
+(2) Any imputation concerning any person, or any member of his family, whether living or dead, by which the reputation of that person is likely to be injured, or by which he is likely to be injured in his profession, occupation or trade, or by which other persons are likely to be induced to shun, or avoid, or ridicule, or despise him, is called defamatory, and the matter of the imputation is called defamatory matter.
+(3) An imputation may be expressed either directly or by insinuation or irony.
+(4) Any person who, by spoken words or audible sounds, or by words intended to be read either by sight or touch, or by signs, signals, gestures, or visible representations, publishes any defamatory imputation concerning any person is said to defame that person.
+(5) Publication is, in the case of spoken words or audible sounds, the speaking of such words or the making of such sounds in the presence and hearing of any person other than the person defamed, and, in the case of signs, signals, or gestures, the making of such signs, signals, or gestures, so as to be seen or felt by, or otherwise come to the knowledge of, any person other than the person defamed, and, in the case of other defamatory matter, the exhibiting of it in public, or causing it to be read or seen, or showing or delivering it, or causing it to be shown or delivered, with view to its being read or seen by any person other than the person defamed.

@@ -1,0 +1,3 @@
+# Mode of execution immaterial
+29 (1) When a person counsels another person to commit an offence, and an offence is actually committed after such counsel by the person to whom it is given, it is immaterial whether the offence actually committed is the same as that counselled or a different one, or whether the offence is committed in a different way, if in either case the facts constituting the offence actually committed are a probable consequence of carrying out the counsel.
+(2) In either case the person who gave the counsel is deemed to have counselled the other person to commit the offence actually committed by him.

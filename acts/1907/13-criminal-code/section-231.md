@@ -1,0 +1,8 @@
+# Conspiring to commit offence outside Bermuda
+231 (1) Every one who conspires with any other person to do or omit to do in any part of the world outside Bermuda anything of which the doing or omission in Bermuda would be an offence (in this section referred to as “the principal offence”) shall be guilty of an offence which shall be triable either summarily or on indictment in the manner of the principal offence, and the person committing such offence is liable to—
+(a) imprisonment for a term not exceeding half the term, if any, prescribed by law in Bermuda for the principal offence; and additionally or alternatively
+(b) imprisonment for ten years where the penalty prescribed for the principal offence is life imprisonment; and additionally or alternatively
+(c) a fine in an amount not exceeding half the amount, if any, prescribed by law in Bermuda for the principal offence; and additionally or alternatively
+(d) subject to paragraphs (a) and (c), to the penalty prescribed by law in Bermuda for the principal offence.
+(2) Where any one is charged with contravening this section, it is a defence to prove that the doing or omission of the act to which the conspiracy relates was not an offence under the law of the place where it was, or was to be, done or omitted.
+(3) Where the principal offence is one for which the offender may be arrested without warrant generally or without warrant subject to certain conditions then, for the purposes of Part XXIV, conspiracy to commit that offence shall be deemed to be an offence for which the offender may be arrested without warrant generally or, as the case may be, without warrant subject to such conditions.

@@ -1,0 +1,4 @@
+# Suicide pacts
+297 (1) It is manslaughter and not murder for a person acting in pursuance of a suicide pact between him and another to kill the other or be a party to the killing himself or being killed by a third person.
+(2) Where it is shown that a person charged with the murder of another killed the other or was a party to his killing himself or being killed, it shall be for the defence to prove that the person charged was acting in pursuance of a suicide pact between him and the other.
+(3) For the purpose of this section “suicide pact” means a common agreement between two or more persons having for its object the death of all of them, whether or not each is to take his own life, but nothing done by a person who enters into a suicide pact shall be treated as done by him in pursuance of the pact unless it is done while he has the settled intention of dying in pursuance of the pact.

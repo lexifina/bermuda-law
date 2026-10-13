@@ -1,0 +1,2 @@
+# Offences by partners and members of companies with respect to partnership or corporate property.
+52 Any person who, being a member of a partnership, corporation or any association recognized as a company by the Companies Act 1981 [title 17 item 5] does any act or makes any omission with respect to the property of the partnership, corporation or company which, if he were not a member of the partnership, corporation or company, would constitute an offence, is criminally responsible to the same extent as if he were not such member.

@@ -1,0 +1,8 @@
+# False statements by officials of corporations and companies
+396 (1) Any person who, being a promoter, director, officer, or auditor of a corporation or company, either existing or intended to be formed, makes, circulates, or publishes, or concurs in making, circulating or publishing, any written statement or account which, in any material particular, is to his knowledge false, with intent thereby to effect any of the following purposes—
+(a) to deceive or defraud any member, shareholder, or creditor, of the corporation or company, whether a particular person or not;
+(b) to induce any person, whether a particular person or not, to become a member of, or to intrust or advance any property to, the corporation or company, or to enter into any security for the benefit thereof,
+is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to imprisonment for twelve months and on conviction on indictment to imprisonment for two years.
+(2) It is a defence to a charge of any of the offences constituted by subsection (1) to prove that the accused person, before being charged with the offence, and in consequence of the compulsory process of a court in an action or proceeding instituted in good faith by a party aggrieved, or in a compulsory examination or deposition before a court, disclosed on oath the act alleged to constitute the offence.
+(3) A person is not entitled to refuse to answer any question or interrogatory in any civil proceeding in any court on the ground that his so doing might tend to show that he had committed any offence constituted by subsection (1).
+(4) No conviction for any offence constituted by subsection (1) shall be received in evidence against the person convicted in any civil cause or matter.

@@ -1,0 +1,4 @@
+# Obtaining services by deception
+348 (1) A person who by any deception dishonestly obtains services from another shall be guilty of an offence and liable on summary conviction to a fine of $10,000 or to imprisonment for five years, or both; and on conviction on indictment to a fine of $100,000 or imprisonment for ten years or both.
+(2) It is an obtaining of services where the other is induced to confer a benefit by doing some act, or causing or permitting some act to be done, on the understanding that the benefit has been or will be paid for.
+(3) Without prejudice to the generality of subsection (2), it is an obtaining of services where the other is induced to make a loan, or to cause or permit a loan to be made, on the understanding that any payment (whether by way of interest or otherwise) will or has been made in respect of the loan.
