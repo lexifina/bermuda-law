@@ -1,0 +1,7 @@
+# Borrowing powers
+16 (1) The Corporation may, with the approval of the Minister of Finance and subject to such conditions as he may determine, borrow moneys to enable it to discharge its functions under this Act and to meet its obligations; and the repayment of such moneys may be secured upon the property of the Corporation by the issue of debentures or debenture stock or otherwise howsoever.
+(2) The Corporation shall not borrow so as to have outstanding at any time in respect of moneys borrowed an aggregate amount exceeding the statutory maximum.
+(3) The powers of the Minister of Finance under this section shall extend to the amount (subject to the statutory maximum), the nature and sources of the borrowing, and the time at and conditions on which the borrowing may be effected, and his approval may be either general or limited to a particular borrowing.
+(4) The aggregate outstanding in respect of advances and loans to the Corporation by the Government, shall not exceed the statutory maximum.
+(5) Failure to enquire whether the borrowing of any money is within the power of the Corporation shall not preclude a person lending such money to the Corporation from enforcing the contract under which the money is lent.
+(6) In this section “the statutory maximum” means $50,000,000 or such greater amount as the Minister of Finance may by order made in accordance with the affirmative resolution procedure determine.

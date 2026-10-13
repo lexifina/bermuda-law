@@ -1,0 +1,3 @@
+# Conditions for approval of application for a loan
+52 (1) The Minister shall not consider an application for a loan if the works specified therein have been begun unless he is satisfied that there were good reasons for beginning the works before the application was approved.
+(2) The Minister shall not consider an application for a loan unless he is satisfied that the land or buildings will remain in a satisfactory condition for not less than fifteen years and are likely to conform with the requirements with respect to construction and physical condition and the provision of amenities as are likely to be expected during such period.

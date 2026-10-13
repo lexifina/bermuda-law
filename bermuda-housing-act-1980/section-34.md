@@ -1,0 +1,11 @@
+# Dwellings outside improvement areas
+34 (1) A person occupying a dwelling which is not in an improvement area and which is unfit for human habitation, may make representations in writing to the Minister with a view to the exercise by the Minister of his powers under this section.
+(2) The Minister shall notify the person having control of the dwelling of any representations so made.
+(3) If on taking the representations into consideration the Minister is satisfied—
+(a) that the person making representations with a view to the exercise by the Minister of his powers under this section is a person lawfully occupying the dwelling; and
+(b) that the dwelling is capable of being made fit for human habitation at reasonable expense; and
+(c) that, having regard to all the circumstances, the dwelling ought to be improved so as to be fit for human habitation and that it is unlikely that it will be so improved unless the Minister exercises his powers under this section; and
+(d) that the dwelling after being so improved will be in such condition as to be fit for human habitation, and will be likely, subject to normal maintenance, to remain in that condition and available for use as a dwelling for a period of not less than fifteen years,
+the Minister may serve a preliminary notice, pursuant to section 31, on the person having control of the dwelling, and shall serve a copy of any preliminary notice so served on the occupier, if not the person in control of the dwelling, and on every other person who is to the knowledge of the Minister an owner, lessee or mortgagee of the dwelling; and such persons, shall be entitled to be heard when the Minister’s proposals are discussed in accordance with the notice.
+(4) If the Minister decides not to serve a preliminary notice under this subsection he shall notify the occupier of the dwelling of his decision and, if the occupier so requests, shall give him a written statement setting out his reasons for making his decision.
+(5) After the service of a preliminary notice under subsection (3) in respect of a dwelling referred to in that subsection the provisions of this Act relating to buildings in general improvement areas shall apply to such dwelling as if it was in a general improvement area.
