@@ -1,0 +1,2 @@
+# Bringing up prisoner as witness
+6 The Supreme Court or a judge, if satisfied that any prisoner, or inmate of a training school established under the Young Offenders Act 1950 [title 10 item 33], is required as a witness in any cause or matter, may order him to be brought before the Supreme Court, and in any such case he shall be brought under the same care and custody, and be dealt with in like manner, as a prisoner brought up for the like purpose by a writ of habeas corpus.

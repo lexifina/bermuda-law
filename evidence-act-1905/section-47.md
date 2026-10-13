@@ -1,0 +1,2 @@
+# Judicial notice of Judge’s signatures
+47 All courts, and every person having by law or by consent of parties, authority to hear, receive and examine evidence, shall take judicial notice of the signature of any of the Judges of the Supreme Court, or of the Supreme Court of Judicature in England, if such signature is attached or appended to any decree, order, certificate, or other judicial or official document.

@@ -1,0 +1,4 @@
+# Method of administering and taking oaths
+23 (1) Any oath may be administered and taken in the manner and form following, that is to say, the person taking the oath shall hold the New Testament, or, in the case of a Jew, the Old Testament, in his uplifted hand, and shall say, or repeat after the officer administering the oath, the words “I swear by Almighty God that . . . . . . . . . . . . . . . . . . . .” followed by the words of the prescribed or usual oath.
+(2) The officer administering an oath shall, unless the person about to take the oath voluntarily objects thereto, or is physically incapable of so taking the oath, administer the oath in manner and form aforesaid without question:
+Provided that, in the case of a person who is neither a Christian nor a Jew, the oath shall be administered in any lawful manner.

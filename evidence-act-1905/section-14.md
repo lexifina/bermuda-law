@@ -1,0 +1,8 @@
+# Non-exclusion of witnesses for interest or crime
+14 No person offered as a witness shall be excluded by reason of interest or crime from giving evidence before any court of justice in Bermuda or person having, by law or consent of parties, authority to hear, receive and examine evidence, but any such witness shall, subject to this Act, be competent and compellable to give evidence:
+Provided that—
+(a) the parties to any action for breach of promise of marriage shall be competent to give evidence in any such action, but no plaintiff in an such action shall succeed in the action, unless his or her testimony is corroborated by some other material evidence in support of such promise;
+(b) the parties to any proceeding instituted in consequence of adultery shall be competent to give evidence in such proceeding, but no witness in any proceeding, whether a party to the suit or not, shall be liable to be asked or bound to answer any question tending to show that he or she has been guilty of adultery, unless such witness has already given evidence in the same proceeding in disproof of his or her alleged adultery;
+(c) nothing herein contained shall, except as is expressly provided, affect any provision of the Wills Act 1988 [title 26 item 2];
+(d) no husband shall be compellable to disclose any communication made to him by his wife during the marriage and no wife shall be compellable to disclose any communication made to her by her husband during the marriage; and
+(e) nothing herein contained shall, save as is hereinafter expressly excepted, render any person compellable to answer any question tending to criminate himself.

@@ -1,0 +1,11 @@
+# Proof of births, marriages or deaths registered outside Bermuda
+52 (1) A copy of any entry in any register of births, marriages or deaths kept in any place outside Bermuda shall, subject as hereinafter in this section provided, if the copy purports to be certified as a true copy, be received in any court in Bermuda as prima facie evidence of the fact of the birth or death, or of the lawful solemnization of the marriage, to which the copy of the entry relates.
+(2) For the purposes of this section—
+(a) such certificate as aforesaid shall purport to be under the seal of the office or officer issuing the certificate; or
+(b) such certificate shall be authenticated—
+(i) where the register is kept in the United Kingdom or in any part of Her Majesty’s dominions, then by a certificate purporting to be under the hand and seal of a Notary Public in the United Kingdom or (as the case may be) in that part of Her Majesty’s dominions; or by a certificate purporting to be under the hand, and under the seal of the court of which he is a member, of any judge or magistrate of that part of Her Majesty’s dominions, or by a certificate purporting to be under the seal of that part of Her Majesty’s dominions or of any province or island thereof, and under the hand of any person authorized to affix such seal; or
+(ii) where the register is kept in any city, town or borough in the United Kingdom or in any part of Her Majesty’s dominions, then by a certificate purporting to be under the hand of the Mayor or Chief Clerk, and under the seal of the city, town or borough; or
+(iii) where the register is kept in a place out of the United Kingdom or Her Majesty’s dominions, then by a certificate purporting to be under the hand, and under the seal of the court of which he is a member, of any judge of a court exercising jurisdiction in such place; or by a certificate under the hand and seal of a Notary Public in that place; or by a certificate under the hand and seal of a British diplomatic officer or of a British consular officer.
+(3) In this section—
+(a) “British consular officer” means any British consul-general, consul or vice-consul;
+(b) “British diplomatic officer” means any British ambassador, minister or envoy, and the first or principal secretary of any British embassy or legation.

@@ -1,0 +1,2 @@
+# Proof of acts of state etc.
+46 Any proclamation, treaty, or other act of state of any part of Her Majesty’s dominions or of any Foreign State may be proved in any court or before any person having by law, or consent of parties, authority to hear, receive and examine evidence, either by an examined copy, or by a copy purporting to be sealed with the seal of that part of Her Majesty’s dominions or of the Foreign State to which the original document belongs.

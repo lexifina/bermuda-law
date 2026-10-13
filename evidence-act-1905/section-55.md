@@ -1,0 +1,6 @@
+# Admissibility of examined or certified copies of books or documents of public character
+55 (1) Whenever in the opinion of a court any book or other document is of such a public character as to be admissible in evidence on its mere production from the proper custody, and no Act or Act of the Parliament of the United Kingdom exists which renders its contents provable by means of a copy, any copy thereof, or extract therefrom, shall be admissible in evidence—
+(a) if it is proved to be an examined copy or extract; or
+(b) if it purports to be signed and certified as a true copy or extract by the officer to whose custody the original is entrusted.
+(2) Without prejudice to anything in the Supreme Court (Records) Act 1955, the Registrar-General (Recording of Documents) Act 1955, the Land Title Registration Act 2011, or the Land Title Registrar (Recording of Documents) Act 2017, such officer shall furnish such certified copy or extract to any person applying at a reasonable time for the same upon payment of such sum as may be prescribed under the Court Fees and Expenses Act 1971.
+[Section 55 subsection (2) amended by 2017 : 9 s. 11 effective 20 February 2017; Section 55 subsection (2) amended by 2017 : 47 s. 20 effective 2 July 2018]

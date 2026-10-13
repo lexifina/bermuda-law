@@ -1,0 +1,3 @@
+# Cross-examination as to previous statements in writing
+21 A witness may be cross-examined as to previous statements made by him in writing or reduced into writing relative to the subject matter of the cause or matter without such writing being shown to him; but if it is intended to contradict such witness by the writing his attention must, before such contradictory proof may be given, be called to those parts of the writing which are to be used for the purpose of so contradicting him:
+Provided that it shall be competent for the court at any time during the trial to require the production of the writing for its inspection and the court may thereupon make such use of it for the purposes of the trial as the court may think fit.
