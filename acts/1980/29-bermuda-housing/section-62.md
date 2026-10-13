@@ -1,0 +1,6 @@
+# Service of notice
+62 Any notice or other document which is required or authorized under this Act to be given or served on any person may, in any case for which no other provision is made in this Act, be given or served—
+(a) by delivering to that person; or
+(b) by leaving it, or by sending it in a prepaid letter addressed to him, at his usual or last known residence; or
+(c) in the case of a corporate body or other body of persons, by delivering it to the secretary or clerk thereof at its registered or principal office, or by sending it in a prepaid letter addressed to the secretary or clerk at that office; or
+(d) in the case of a document to be given to or served on the owner or the occupier of any premises, if it is not practicable after reasonable inquiry to ascertain the name and address of the person to or on whom it should be given or served, or if the premises are unoccupied, by addressing it to the person concerned by the description of “owner” or “occupier” of the premises (naming them) to which it relates, and by delivering it to some person on the premises, or, if there is no person on the premises it can be delivered, by affixing it, or a copy, to a conspicuous part of the premises.

@@ -1,0 +1,9 @@
+# Provisions as to carrying out of works
+41 (1) The person having control of any premises—
+(a) which consist of or comprise a dwelling in an improvement area; or
+(b) which consist of or comprise a dwelling in respect of which representations have been made by the tenant under section 33(1),
+shall, as against any other person having an estate or interest in the premises, have the right to enter the premises in order to carry out any survey or examination required with a view to finding out whether the dwelling is fit for human habitation.
+(2) After service of an improvement notice in respect of any dwelling, the person having control of the dwelling shall have the right, as against any other person having an estate or interest in the premises including the occupier, to take any reasonable steps for the purpose of complying with the improvement notice; and any person bound by an undertaking accepted under this Act shall have the same right.
+(3) For the purposes of subsection (2) reasonable steps shall include requiring the occupier to vacate the premises if it is necessary for him so to do in order that the person having control of the dwelling may comply with an improvement notice or an undertaking:
+Provided that if an occupier is required to vacate any premises the person having control of the dwelling shall, when the improvement notice or undertaking has been complied with, offer to reinstate the occupier in the premises on the same terms subject to section 40 as when he occupied the premises prior to being required to vacate them.
+(4) Without prejudice to subsection (2), the carrying out of works in pursuance of an improvement notice or an undertaking accepted under this Act shall not give rise to any liability on the part of a lessee to reinstate the premises at any time in the condition in which they were before the works were carried out, or to any liability for failure so to reinstate the premises.
