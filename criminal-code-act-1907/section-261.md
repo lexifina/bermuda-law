@@ -1,0 +1,2 @@
+# Defence of moveable property under claim of right
+261 When a person is in peaceable possession of any moveable property under a claim of right, it is lawful for him, and for any person acting by his authority, to use such force as is reasonably necessary in order to defend his possession of the property, even against a person who is entitled by law to possession of the property, if he does not do bodily harm to such other person.

@@ -1,0 +1,13 @@
+# Corruption of witnesses; preventing witnesses from attending court etc
+125 (1) Any person—
+(a) who gives, confers or procures, or promises or offers to give or confer, or to procure or attempt to procure, any property or benefit of any kind to, upon, or for, any person, upon any agreement or understanding that any person called or to be called as a witness in any judicial proceeding shall give false testimony or withhold true testimony; or
+(b) who attempts by any other means to induce a person called or to be called as witness in any judicial proceeding to give false testimony; or
+(c) who asks, receives or obtains, or agrees or attempts to receive or obtain, any property or benefit of any kind for himself or for any other person, upon any agreement or understanding that any person shall as a witness in any judicial proceeding give false testimony or withhold true testimony,
+is guilty of an offence, and is liable on summary conviction to a fine of $50,000 or to imprisonment for five years, or both; and on conviction on indictment to an unlimited fine or imprisonment for ten years, or both.
+(2) Any person—
+(a) who gives, confers, or promises or offers to give or confer, or to procure or attempt, to procure, any property or benefit of any kind to, upon, or for any person, because such person gave false testimony or withheld true testimony in a judicial proceeding; or
+(b) who asks, receives or obtains, or agrees or attempts to receive or obtain, any property or benefit of any kind for himself or for any person because he has given false testimony or withheld true testimony in a judicial proceeding,
+is guilty of an offence, and is liable on summary conviction to a fine of $50,000 or to imprisonment for five years, or both; and on conviction on indictment to an unlimited fine or imprisonment for ten years, or both.
+(3) Any person who wilfully prevents or attempts to prevent any person who has been duly summoned to attend as a witness before any court or tribunal from attending as a witness, or from producing anything in evidence pursuant to the subpoena or summons, is guilty of an offence and is liable on summary conviction to a fine of $50,000 or to imprisonment for five years, or both; and on conviction on indictment to an unlimited fine or imprisonment for ten years, or both.
+(4) No person shall be charged with an offence under subsection (1)(a) or (c) or subsection (2) committed wholly on or after the commencement date of the Bribery Act 2016.
+[Section 125 subsections (1), (2) and (3) amended by 2013 : 30 s. 16 effective 8 November 2013; subsection (4) inserted by 2016 : 47 s. 24(1) & Sch 2 effective 1 September 2017]

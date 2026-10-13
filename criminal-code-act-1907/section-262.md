@@ -1,0 +1,2 @@
+# Defence of moveable property without claim of right
+262 When a person who is entitled by law to the possession of moveable property attempts to take from a person who is in possession of the property, but who neither claims right to it, nor acts by the authority of a person who claims right, and the person in possession resists him, it is lawful for the person so entitled to possession to use force in order to obtain possession of the property, if he does not do bodily harm to the person in possession.

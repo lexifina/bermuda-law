@@ -1,0 +1,4 @@
+# False statements tendered in evidence
+122 (1) Any person who, in making a written statement which is subsequently tendered in evidence under section 29 of the Evidence Act 1905 or section 19 of the Indictable Offences Act 1929, wilfully states in that statement anything which he knows to be false or does not believe to be true is guilty of a offence and is liable on summary conviction to a fine of $50,000 or to imprisonment for five years, or both; and on conviction on indictment to an unlimited fine or imprisonment for ten years, or both.
+(2) A person shall not be convicted of committing an offence against this section or of counselling or procuring the commission of an offence against this section, upon the uncorroborated testimony of one witness as to the falsity of any statement alleged to be false.
+[Section 122 amended by 2013 : 30 s. 16 effective 8 November 2013]

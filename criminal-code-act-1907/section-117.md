@@ -1,0 +1,8 @@
+# Official corruption not judicial but relating to offences
+117 (1) Any person—
+(a) who, being a Justice of the Peace not acting judicially, or being a person employed in the public service in any capacity not judicial for the prosecution or detention or punishment of offenders, corruptly asks, receives or obtains, or agrees or attempts to receive or obtain, any property or benefit of any kind for himself or for any other person, on account of anything already done or omitted to be done, or to be afterwards done or omitted to be done, by him, with a view to corrupt or improper interference with the due administration of justice, or the procurement or facilitation of the commission of any offence, or the protection of any offender or intending offender from detection or punishment; or
+(b) who corruptly gives, confers or procures, or promises or offers to give or confer, or to procure or attempt to procure, to, upon, or for, any such person, or to, upon, or for, any other person, any property or benefit of any kind, on account of any such act or omission on the part of the justice, or other person so employed,
+is guilty of an offence, and is liable on summary conviction to a fine of $50,000 or to imprisonment for five years, or both; and on conviction on indictment to an unlimited fine or imprisonment for 15 years, or both.
+(2) The offender cannot be arrested without warrant.
+(3) No person shall be charged with an offence under subsection (1) committed wholly on or after the commencement date of the Bribery Act 2016.
+[Section 117 amended by 2013 : 30 s. 16 effective 8 November 2013; subsection (3) inserted by 2016 : 47 s. 24(1) & Sch 2 effective 1 September 2017]

@@ -1,0 +1,3 @@
+# Assault on police officer, customs officer etc
+310 Any person who assaults a police officer, customs officer or prison officer with the intention of doing bodily harm to or wounding or who does bodily harm to or who wounds such officer, while such officer is acting in the execution of his duty, or any person acting in aid of such officer while so acting, is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to a fine of $5000 or to imprisonment for four years or to both such fine and imprisonment, or on conviction on indictment to imprisonment for five years.
+[Section 310 amended by 1999:51 s.4 & Sch effective 23 December 1999; and by 2004:27 s.5 effective 3 December 2004]

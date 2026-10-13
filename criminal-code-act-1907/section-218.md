@@ -1,0 +1,3 @@
+# Protection of innocent seller of periodicals, books etc
+218 (1) A person is not criminally responsible as for the unlawful publication of defamatory matter merely by reason of selling any number or part of a periodical containing the defamatory matter, unless he knows that such number or part contains the defamatory matter, or that defamatory matter is habitually or frequently contained in that periodical.
+(2) A person is not criminally responsible as for the unlawful publication of defamatory matter merely by reason of selling a book, pamphlet, print or writing, or other thing not forming part of a periodical, although it contains the defamatory matter, if at the time of sale he does not know that the defamatory matter is contained therein.

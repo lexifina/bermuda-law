@@ -1,0 +1,3 @@
+# View by jury
+531 (1) The Supreme Court may in any case, if it thinks fit, direct that the jury shall view any place or thing which the Court thinks it desirable that they should see, and may give any necessary directions for that purpose.
+(2) The validity of the proceedings is not affected by disobedience to any such directions, but if the fact is discovered before the verdict is given, the Court, if it is of opinion that such disobedience is likely to prejudice the fair trial of the charge, may discharge the jury, and may direct that a fresh jury be sworn, or may adjourn the trial.

@@ -1,0 +1,2 @@
+# Duty of head of family to provide necessaries for children
+272 It is the duty of every person who, as head of a family, has charge of a child under the age of fourteen years, being a member of his household, to provide the necessaries of life for such child; and he or she is deemed to have caused any consequences which result to the life or health of the child by reason of any omission to perform that duty, whether the child is helpless or not.

@@ -1,0 +1,5 @@
+# Formal defects in indictment
+488 (1) An indictment is not open to objection by reason of the designation of any person by a name of office or other descriptive appellation instead of by his proper name, nor for omitting to state the time at which the offence was committed, unless the time is an essential element of the offence, nor for stating imperfectly the time at which the offence was committed, nor for stating the offence to have been committed on an impossible day, or on a day that never happened or has not yet happened.
+(2) An objection to an indictment or to a count in an indictment, for a defect apparent on its face, shall be taken by motion to quash the indictment or count before the accused person enters a plea, and, after the accused person has entered a plea, only by leave of the court before which the proceedings take place.
+(3) The court before which an objection is taken under this section may, if it considers it necessary, order the indictment or count to be amended to cure the defect.
+[Section 488 subsection (2) deleted and substituted and subsection (3) inserted by 2015 : 37 s. 18 effective 6 November 2015]

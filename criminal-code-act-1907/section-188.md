@@ -1,0 +1,4 @@
+# Abduction of child with intent to have carnal knowledge
+188 (1) Any person who, with intent that an unmarried child may be unlawfully carnally known by any person, whether a particular person or not, takes the child or causes the child to be taken out of the custody or protection of the child's father or mother, or other person having the lawful care or charge of the child, and against the will of the child's father or mother, or other person, is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to imprisonment for twelve months and on conviction on indictment to imprisonment for two years.
+(2) It is a defence to a charge of any of the offences constituted by this section to prove that the accused person believed, on reasonable grounds, that the person taken was not a child.
+[Section 188 amended by 2019 : 36 s. 19 effective 1 November 2019]

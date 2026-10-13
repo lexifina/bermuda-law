@@ -1,0 +1,2 @@
+# Attempt by woman to procure own miscarriage
+195 Any woman who with intent to procure her own miscarriage, whether she is or is not with child, unlawfully administers to herself any poison or other noxious thing, or uses any force of any kind, or uses any other means whatsoever, or permits any such thing or means to be administered or used to her, is guilty of a felony, and is liable to imprisonment for three years.

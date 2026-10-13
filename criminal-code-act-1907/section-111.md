@@ -1,0 +1,7 @@
+# Official corruption
+111 (1) Any person—
+(a) who, being employed in the public service, or being the holder of any public office and being charged with the performance of any duty by virtue of such employment or office (not being a duty touching the administration of justice) corruptly asks, receives, or obtains, or agrees, or attempts to receive or obtain, any property or benefit of any kind for himself or for any other person on account of anything already done or omitted to be done, or to be afterwards done or omitted to be done, by him in the discharge of the duties of his office; or
+(b) who corruptly gives, confers, or procures, or promises or offers to give or confer or to procure or attempt to procure, to, upon, or for, any person employed in the public service, or being the holder of any public office, or to, upon, or for, any other person, any property or benefit of any kind on account of any such act or omission on the part of the person so employed or holding such office,
+is guilty of a misdemeanour, and is liable on summary conviction to a fine of $50,000 or to imprisonment for five years, or both; and on conviction on indictment to an unlimited fine or imprisonment for 15 years, or both.
+(2) No person shall be charged with an offence under subsection (1) committed wholly on or after the commencement date of the Bribery Act 2016.
+[Section 111 amended by 2013 : 30 s. 16 effective 8 November 2013; Section 111 amended by 2016 : 47 s. 24(1) & Sch 2 effective 1 September 2017]

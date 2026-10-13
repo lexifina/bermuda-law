@@ -1,0 +1,2 @@
+# Convicted person to be called on to show cause why sentence should not be passed
+547 When an accused person pleads that he is guilty of any offence, and when, upon trial, an accused person is convicted of any offence, the proper officer of the Supreme Court is required to ask him whether he has anything to say why sentence should not be passed upon him; but an omission to do so does not invalidate the judgment.

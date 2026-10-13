@@ -1,0 +1,2 @@
+# Plea of autrefois convict or acquit
+507 In a plea that the accused person has already been convicted or acquitted, it is sufficient to state that he has been lawfully convicted, or acquitted, as the case may be, of the offence charged in the indictment, or of the other offence of which he alleges that he has been convicted or acquitted, and, in the latter case, to describe the offence by any term by which it is commonly known.

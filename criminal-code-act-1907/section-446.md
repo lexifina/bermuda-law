@@ -1,0 +1,2 @@
+# Destroying or damaging vegetable products
+446 Any person who wilfully and unlawfully destroys or damages any cultivated root or plant used for the food of man or beast, or for medicine, or for distilling, or for dyeing, or for or in the course of any manufacture, which is growing in any land, open or enclosed, not being a garden, or orchard, or nursery-ground, is guilty of a summary offence, and is liable to a fine of $250 or to imprisonment for three months, or, in the case of a second or subsequent conviction, to imprisonment for six months.

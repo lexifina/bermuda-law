@@ -1,0 +1,6 @@
+# Drawing of juries and selection of special juries
+518 (1) This section shall have effect with respect to the composition of juries empanelled to try any issue in connection with the trial of any person charged with an indictable offence.
+(2) A jury required to be empanelled shall be drawn from among those members of the whole panel of jurors who are, by virtue of the provisions of the law for the time being having effect with respect to the returning of jurors, liable to serve as jurors at the session (as defined for the purposes of the Jurors Act 1971) [title 8 item 14] during which the trial takes place, and who are liable and available to serve as jurors at that particular trial.
+(3) Subject to subsection (4) and section 519, a jury shall consist of the twelve jurors whose names are first drawn and called in open court by the proper officer of the Supreme Court.
+(4) If the judge considers it advisable in the interests of justice to have one, two or three alternate jurors, the judge shall order that one, two or three further names be drawn.
+[Section 518 subsection (4) repealed by 2004:37 s.2 effective 17 December 2004; subsection (3) amended and subsection (4) inserted by 2015 : 37 s. 18 effective 6 November 2015]

@@ -1,0 +1,3 @@
+# Prohibition against disclosure of information
+196C (1) Any information furnished to the Therapeutic Abortion Committee in pursuance of its functions under section 196A or to the Chief Medical Officer pursuant to section 196B or any information contained in a certificate given to a qualified medical practitioner pursuant to section 196A(d) shall not be disclosed except in accordance with section 196A or 196B or to such persons or for such purposes as a court may direct.
+(2) Any person who contravenes the provisions of section (1) shall be guilty of an offence and shall be liable on summary conviction to a fine of $2,000 or to imprisonment for six months or to both.

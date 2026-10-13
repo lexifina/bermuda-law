@@ -1,0 +1,3 @@
+# Accessories after the fact
+30 (1) A person who receives, relieves or assists another person who has to his knowledge committed a felony or misdemeanour in order to enable him to escape punishment becomes an accessory after the fact to the felony or misdemeanour.
+(2) A married woman does not become an accessory after the fact to a felony or misdemeanour which her husband has committed by receiving, relieving or assisting her husband in order to enable him to escape punishment; nor by receiving, relieving or assisting, in her husband’s presence and by his authority, another person who has committed an offence in the commission of which her husband has taken part, in order to enable that other person to escape punishment.

@@ -1,0 +1,5 @@
+# Unlawful carnal knowledge of girl between 14 and 16 years of age; attempts
+181 (1) Any person who has, or attempts to have, unlawful carnal knowledge of a girl of or above fourteen years of age and under sixteen years of age is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to imprisonment for five years and on conviction on indictment to imprisonment for a term not exceeding twenty years.
+(2) In the case of a person under eighteen years of age at the time of the commission of the offence, it shall be a defence, on one occasion only on which he is charged with an offence under this section, for him to prove that he had reasonable cause to believe and did in fact believe that the girl was of or above sixteen years of age.
+(3) [Repealed by 2019 : 36 s. 8]
+[Section 181 amended by 1993:2 effective 1 June 1993; subsection (2) amended by 2001:20 s.7(1) & Sch 2 effective 1 November 2001;subsection (1) amended by 2006:26 effective 18 July 2006; Section 181 subsection (3) repealed by 2019 : 36 s. 8 effective 1 November 2019]

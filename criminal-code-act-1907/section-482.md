@@ -1,0 +1,2 @@
+# Joinder of charges connected with commission of one offence
+482 Any number of persons charged with committing or with procuring the commission of the same offence, although at different times, or with being accessories after the fact to the same offence, although at different times, may be charged with substantive offences in the same indictment, and may be tried together notwithstanding that the principal offender is not included in the same indictment, or is not amenable to justice.

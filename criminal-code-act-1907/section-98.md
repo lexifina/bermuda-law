@@ -1,0 +1,5 @@
+# Constitution of offences relating to unlawful assembly and riot
+98 (1) When three or more persons, with intent to carry out some common purpose, assemble in such a manner, or being assembled conduct themselves in such a manner, as to cause persons in the neighbourhood to fear on reasonable grounds that the persons so assembled will tumultuously disturb the peace, or will by such assembly needlessly and without any reasonable occasion provoke other persons tumultuously to disturb the peace, they are an unlawful assembly.
+(2) It is immaterial that the original assembling was lawful if, being assembled, they conduct themselves with a common purpose in such a manner as aforesaid.
+(3) An assembly of three or more persons who assemble for the purpose of protecting the house of any one of them against persons threatening to break and enter the house in order to commit a felony or misdemeanour therein is not an unlawful assembly.
+(4) When an unlawful assembly has begun to act in so tumultuous a manner as to disturb the peace, the assembly is called a riot, and the persons assembled are said to be riotously assembled.

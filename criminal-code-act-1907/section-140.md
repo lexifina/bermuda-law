@@ -1,0 +1,2 @@
+# Harbouring escaped prisoners
+140 Any person who harbours, maintains or employs a person who is to his knowledge an offender under sentence of such a kind as to involve deprivation of liberty, and illegally at large, is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to imprisonment for twelve months and on conviction on indictment to imprisonment for two years, or to a fine of $2,500

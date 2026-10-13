@@ -1,0 +1,2 @@
+# Extraordinary emergencies
+39 Subject to the express provisions of this Act relating to acts done or omissions made upon compulsion or provocation or in self-defence, a person is not criminally responsible for an act or omission done or made under such circumstances of sudden or extraordinary emergency that an ordinary person possessing ordinary powers of self-control could not reasonably be expected to act otherwise.

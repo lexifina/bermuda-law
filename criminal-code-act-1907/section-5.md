@@ -1,0 +1,2 @@
+# Construction of “on summary conviction” etc
+5 The expression “on summary conviction”, or “on conviction before a court of summary jurisdiction”, or any expression having the like meaning, when used in this or any other Act in relation to any offence or the punishment for any offence, shall be taken to imply that a person charged with that offence is triable and may be dealt with summarily by a court of summary jurisdiction.

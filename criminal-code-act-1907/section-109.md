@@ -1,0 +1,2 @@
+# Challenge to fight a duel
+109 Any person who challenges another person to fight a duel, or who attempts to provoke another person to fight a duel, or who attempts to provoke any person to challenge another person to fight a duel, is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to imprisonment for twelve months and on conviction on indictment to imprisonment for two years.

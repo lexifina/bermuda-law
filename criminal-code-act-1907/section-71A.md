@@ -1,0 +1,11 @@
+# Power to make community service order
+71A (1) Where a person of over sixteen years of age is convicted of an offence punishable with imprisonment, the court by which he is convicted may, instead of dealing with him in any other way but subject to subsection (3) make an order (referred to in this Act as a “community service order”) requiring him to perform unpaid work in accordance with this Part for such number of hours as may be specified in the order.
+(2) Where a court makes a community service order in respect of any offender, the number of hours specified in such order shall not in the aggregate exceed 1000.
+(3) A court shall not make a community service order in respect of any offender unless the offender consents and the court is satisfied, after considering a report by a probation officer about the offender and his circumstances and, if the court thinks it necessary, hearing evidence of a probation officer, that the offender is a suitable person to perform work under such all order.
+(4) Where a court makes community service orders in respect of two or more offences of which the offender has been convicted by, or before the court, the court may direct that the hours of work specified in any of those orders shall be concurrent with or additional to those specified in any other of those orders, but so that the total number of hours which are not concurrent shall not exceed the maximum specified in subsection (2).
+(5) Before making a community service order the court shall explain to the offender in ordinary language—
+(a) the purpose and effect of the order and in particular the requirements of the order as specified in section 71B;
+(b) the consequences which may follow under section 71C if he fails to comply with any of those requirements; and
+(c) that the court has under section 71D the power to review the order on the application either of the offender or of a probation officer.
+(6) The court by which a community service order is made shall forthwith give copies of the order to a probation officer assigned to the court and he shall give a copy to the offender and to the Director of Social Services.
+[Section 71A subsection (2) amended by 2001:29 s.4 effective 29 October 2001]

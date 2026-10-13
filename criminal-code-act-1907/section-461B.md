@@ -1,0 +1,2 @@
+# Rights of arrested persons held in custody
+461B Where any person has been arrested and is being held in custody in a police station or other premises he shall be entitled to have notification of his arrest and of the place where he is being held sent to one person reasonably named by him without delay or, where some delay is necessary in the interest of the investigation or prevention of crime or the apprehension of offenders, with no more delay than is so necessary.

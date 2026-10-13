@@ -1,0 +1,2 @@
+# Discharge of juror for cause subsequent to oath
+524 Where after a juror has been sworn, and during the trial of an accused person, it appears to the Supreme Court that the juror is not indifferent as between the Crown and the accused person, the Court, without prejudice to the power of the Court to discharge the whole jury, may discharge that juror from further service in connection with the trial.

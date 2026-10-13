@@ -1,0 +1,2 @@
+# Alternative conviction upon indictment charging offence involving circumstances of aggravation
+492 Except as hereinafter stated, upon an indictment charging a person with an offence committed with circumstances of aggravation, he may be convicted of any offence which is established by the evidence and which is constituted by any act or omission which is an element of the offence charged, with or without any of the circumstances of aggravation charged in the indictment.

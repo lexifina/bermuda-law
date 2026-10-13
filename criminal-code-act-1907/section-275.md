@@ -1,0 +1,2 @@
+# Duty of persons in charge of dangerous things
+275 It is the duty of every person who has in his charge or under his control anything, whether living or inanimate, and whether moving or stationary, of such a nature that, in the absence of care or precaution in its use or management, the life, safety, or health, of any person may be endangered, to use reasonable care and take reasonable precautions to avoid such danger; and he is deemed to have caused any consequences which result to the life or health of any person by reason of any omission to perform that duty.

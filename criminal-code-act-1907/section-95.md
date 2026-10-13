@@ -1,0 +1,2 @@
+# Effect of prosecution
+95 A person who has been tried, and convicted or acquitted, on a charge of any of the offences relating to sedition constituted by section 94 cannot afterwards be prosecuted upon the same facts for the offence of treason, or for the offence of failing, when he knows that any person intends to commit treason, to give information thereof with all reasonable despatch to a Justice of the Peace, or to use other reasonable endeavours to prevent the commission of the offence.

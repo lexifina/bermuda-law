@@ -1,0 +1,6 @@
+# Defence of diminished responsibility
+297A (1) Where a person unlawfully kills or is a party to that killing of another, he shall not be convicted of murder if he was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in doing or being a party to the killing.
+(2) On a charge of murder, it shall be for the defence to prove that the person charged is by virtue of this section not liable to be convicted of that offence.
+(3) A person who but for this section would be liable, whether as principal or as accessory, to be convicted of murder shall be liable instead to be convicted of manslaughter.
+(4) The fact that one party to a killing is by virtue of this section not liable to be convicted of murder shall not affect the question whether the killing amounted to either of those offences in the case of any other party to it.
+[Section 297A subsections (1) - (4) amended by 2014 : 14 s. 4 effective 19 September 2014]

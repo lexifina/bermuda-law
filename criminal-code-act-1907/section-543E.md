@@ -1,0 +1,3 @@
+# Rules and practice same as in civil proceedings
+543E (1) Except where otherwise provided by this Part or by rules of court, the practice and procedure in connection with the appointment of commissioners under this Part, the certifying and return of evidence by commissioners, and the use of the evidence in the proceedings shall, as far as possible, be the same as those that govern like matters in civil proceedings in the Supreme Court.
+(2) The power to make rules of court under section 62 of the Supreme Court Act 1905 [title 8 item 1] shall include power to make rules of court for the purpose of supplementing the provisions of this Part.

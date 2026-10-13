@@ -1,0 +1,2 @@
+# Saving for Royal Prerogative
+10 Nothing in this Act shall be construed so as to affect Her Majesty’s Royal Prerogative of Mercy or any power vested in the Governor, acting as the representative of Her Majesty, to exercise such Royal Prerogative on behalf of Her Majesty, or to grant a pardon either free or subject to conditions, or any remission of any sentence, or any respite of the execution of any sentence.

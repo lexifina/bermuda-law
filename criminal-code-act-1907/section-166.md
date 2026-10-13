@@ -1,0 +1,4 @@
+# Offences involving the custody or control of counterfeit notes and coins
+166 (1) It is an offence for a person to have in his custody or under his control anything which is and which he knows or believes to be a counterfeit of a currency note or of a protected coin, intending either to pass or tender it as genuine or to deliver it to another with the intention that he or another shall pass or tender it as genuine.
+(2) It is an offence for a person to have in his custody or under his control, without lawful authority or excuse, any thing which is, and which he knows or believes to be, a counterfeit of a currency note or of a protected coin.
+(3) It is immaterial for the purposes of subsections (1) and (2) that a coin or note is not in a fit state to be passed or tendered or that the making or counterfeiting of a coin or note has not been finished or perfected.

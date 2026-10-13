@@ -1,0 +1,3 @@
+# Making false declarations and statements
+142 (1) Any person who, on any occasion on which he is permitted or required by law to make a statement or declaration a before any person authorized by law to permit it to be made before him, makes a statement or declaration before that person which, in any material particular, is to his knowledge false, is guilty of a misdemeanour, and is liable on conviction by a court of summary jurisdiction to imprisonment for twelve months and on conviction on indictment to imprisonment for three years.
+(2) A person cannot be convicted of an offence under this section upon the uncorroborated testimony of one witness.

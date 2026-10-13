@@ -1,0 +1,13 @@
+# Taking motor vehicle or other conveyance without authority
+342 (1) Subject to subsections (5) and (6), a person shall be guilty of an offence if, without having the consent of the owner or other lawful authority, he takes any conveyance for his own or another’s use or, knowing that any conveyance has been taken without such authority, drives it or allows himself to be carried in or on it.
+(2) A person guilty of an offence under subsection (1) shall be liable on summary conviction to a fine of $5,000 or to imprisonment for two years, or both.
+(3) If on the trial of an indictment for theft the jury are not satisfied that the accused committed theft, but it is proved that the accused committed an offence under subsection (1), the jury may find him guilty of the offence under subsection (1) and if he is found guilty of it, he shall be liable as he would have been liable under subsection (2) on summary conviction.
+(4) Proceedings for an offence under subsection (1) (but not proceedings of a kind falling within subsection (3)) in relation to a mechanically propelled vehicle—
+(a) shall not be commenced after the end of the period of three years beginning with the day on which the offence was committed; but
+(b) subject to that may be commenced at any time within the period of six months beginning with the relevant day.
+(5) Subsection (1) shall not apply in relation to pedal cycles; but, subject to subsection (6), a person who, without having the consent of the owner or other lawful authority, takes a pedal cycle for his own or another’s use, or rides a pedal cycle knowing it to have been taken without such authority, is guilty of an offence and liable on summary conviction to a fine of $1,000.
+(6) A person does not commit an offence under this section by anything done in the belief that he has lawful authority to do it or that he would have the owner’s consent if the owner knew of his doing it and the circumstances of it.
+(7) For purposes of this section—
+“conveyance” means any conveyance constructed or adapted for the carriage of a person or persons whether by land, water or air, except that it does not include a conveyance constructed or adapted for use only under the control of a person not carried in or on it, and “drive” shall be construed accordingly;
+“owner”, in relation to a conveyance which is the subject of a hiring agreement or hire-purchase agreement, means the person in possession of the conveyance under that agreement;
+“relevant day” means the day on which sufficient evidence to justify the proceedings came to the knowledge of any person responsible for deciding whether to commence any such prosecution.
