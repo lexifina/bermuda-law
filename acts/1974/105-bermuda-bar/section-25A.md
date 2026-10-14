@@ -1,0 +1,9 @@
+## PART VA
+## BARRISTERS AND ACCOUNTANTS AML/ATF BOARD
+# Establishment
+25A (1) There shall be established a joint Board of the Bermuda Bar Association and the Chartered Professional Accountants of Bermuda under the name of the “Barristers and Accountants AML/ATF Board” which, upon designation by the Minister responsible for justice under section 4(1) of the Proceeds of Crime (Anti-Money Laundering and Anti-Terrorist Financing Supervision and Enforcement) Act 2008, shall have the powers and duties conferred by section 5 and Part 4A of that Act and any other statutory provision.
+(2) The Board shall be a body corporate having perpetual succession and a common seal and, subject to this Act, shall have power to acquire, hold and dispose of moveable and immoveable property of any kind and to enter into contracts and to do all things necessary for the purposes of its functions.
+(3) The Board may sue and be sued in its corporate name and may for all purposes be described by that name, to the use of which it shall have exclusive right.
+(4) All documents, other than those required by law to be under seal, made by the Board and all decisions of the Board may be signified under the hand of the Chairman or any other member or officer authorized to act for him.
+(5) The Board’s financial year shall be the period of twelve months ending on the 31st day of March.
+[Section 25A inserted by 2010 : 50 s. 47 effective 25 August 2010; subsection (1) amended by BR 5/2011 para.5 effective 25 February 2011; amended by 2014 : 8 s. 16 effective 11 April 2014; amended by 2018 : 53 s. 17 effective 25 September 2018]
