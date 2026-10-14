@@ -1,0 +1,9 @@
+# Registration of firms
+30C (1) Every firm shall register with the designated professional body annually, in such manner and form as the body may specify, by providing their name, address and such information about the nature of their business and activities as the professional body may require.
+(2) If at any time after registration there is a material change affecting any matter contained in the information provided under subsection (1) or if it becomes apparent that the information contains a significant inaccuracy, the firm shall provide to the designated professional body, without delay, updated information respecting the change or a correction of the inaccuracy.
+(3) The designated professional body shall make a determination from the information provided to it under subsections (1) and (2), whether or not a firm is a regulated professional firm for the purposes of section 5 and this Part.
+(4) If after registration it becomes apparent to the designated professional body that a person who is not a fit and proper person is or has become a shareholder, director, controller or senior executive exercising control of the firm, then the body shall require the firm to exclude such person as a shareholder, director, controller or senior executive of that firm.
+(5) A designated professional body may cancel the registration of a firm in the manner provided for in section 13, with appropriate modifications, where—
+(a) a firm has failed to exclude a shareholder, director, controller or senior executive who is not a fit and proper person as required under subsection (4); or
+(b) any of the matters mentioned in section 12, with appropriate modifications, apply to a firm.
+[Section 30C inserted by 2010 : 50 s. 37 effective 25 August 2010; Section 30C subsections (1) and (2) amended, and subsections (3), (4) and (5) inserted by 2018 : 53 s. 20 effective 25 September 2018]
