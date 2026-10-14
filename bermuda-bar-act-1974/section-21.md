@@ -1,0 +1,9 @@
+# Complaints of improper conduct
+21 (1) Subject to subsection (3), a complaint that a barrister, professional company or registered associate has been guilty of improper conduct may be made to the Bar Council in writing by the complainant.
+(2) As soon as may be practicable after receipt of a complaint under subsection (1), the Bar Council shall refer that complaint to the Committee.
+(3) Notwithstanding subsection (1), where the Bar Council is of the opinion that the conduct of a barrister, professional company or registered associate might constitute improper conduct, and no such complaint has been made by any person, it may, on its own motion, refer evidence of the conduct of that barrister, professional company or registered associate to the Committee.
+(3A) The Barristers and Accountants AML/ATF Board may on its own motion make a complaint directly to the Committee of any matter relating to the conduct of a barrister, professional company or registered associate arising in connection with Part 4A of the Proceeds of Crime (Anti-Money Laundering and Anti-Terrorist Financing Supervision and Enforcement) Act 2008 or with the AML/ATF Regulations.
+(4) As soon as may be practicable after receipt of a complaint from the Bar Council or the Board, the Committee shall inquire into, investigate and make a determination in respect of, the complaint in accordance with the Rules.
+(5) After making such determination, the Committee shall take such action prescribed under section 18A of this Act and the Rules as it thinks fit:
+Provided that, a determination by the Committee under paragraph (b) of subsection (1) of section 18A to dismiss a complaint in accordance with the Rules shall be final and not subject to appeal.
+[Section 21 amended by 2009:29 s.14 effective 19 October 2009; subsection (3A) inserted and subsection (4) amended by 2018 : 53 s. 14 effective 25 September 2018]
