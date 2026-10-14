@@ -1,0 +1,6 @@
+# Immunity from suit
+30N (1) No action, suit, prosecution or other proceeding shall be brought or instituted personally against any director, officer, servant or agent of a designated professional body, in respect of any act done bona fide in pursuance or execution or intended execution of their functions under this Act or any other Act and regulations made thereunder.
+(2) Where any director or officer is exempt from liability by reason only of subsection (1), the designated professional body shall be liable to the extent that it would be if that director or officer were a servant or agent of the designated professional body.
+(3) Neither the designated professional body, nor any director, officer, servant or agent of the body, is liable in damages for anything done or omitted to be done in the discharge or purported discharge of the designated professional body’s functions under this Act or any other Act and regulations made thereunder, unless it is shown that the person acted, or omitted to act, in bad faith.
+(4) For the purposes of this section, “agent” includes an auditor, accountant or other person who by or under any statutory provision is under a duty to give notice of, or report on, any fact or matter to the designated professional body for the purposes of its functions.
+[Section 30N inserted by 2010 : 50 s. 37 effective 25 August 2010]
