@@ -1,0 +1,3 @@
+# Rules of procedure
+45 (1) Subject to the provisions of this Constitution, each House may make rules of procedure for the regulation and orderly conduct of its own proceedings and the despatch of business, and the passing, intituling and numbering of bills and the presentation of the same to the Governor for assent.
+(2) The rules of procedure of a House may provide that a rule shall not be suspended, or that the ordinary procedure for the despatch of business shall not be departed from in favour of any exceptional procedure provided for in the rules, if such number of members of the House as is specified by the rules object to such suspension or departure.
