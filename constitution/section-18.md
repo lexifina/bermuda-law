@@ -1,0 +1,3 @@
+# Office of Deputy Governor
+18 (1) There shall be a Deputy Governor who shall be appointed by the Governor in pursuance of instructions given by Her Majesty through a Secretary of State and shall hold office during Her Majesty’s pleasure.
+(2) If the office of Deputy Governor is vacant or the person holding that office is acting in the office of Governor under section 19 of this Constitution or is for any other reason unable to perform the functions of the office of Deputy Governor, then the Governor, acting in his discretion, may appoint a person to act as Deputy Governor and any such person shall continue to act until his appointment is revoked by the Governor, acting in his discretion.

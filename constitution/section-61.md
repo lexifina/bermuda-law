@@ -1,0 +1,15 @@
+# Allocation of portfolios to Ministers
+61 (1) The Governor, acting in accordance with the advice of the Premier, may by directions in writing—
+(a) charge the Premier or any other Minister with responsibility for the conduct (subject to the provisions of this Constitution and of any other law) of any business of the Government including responsibility for the administration of any department of government;
+(b) designate the style by which any Minister so charged shall be known:
+Provided that a Minister appointed from among the members of the House of Assembly shall be charged with responsibility for finance and shall be styled “Minister of Finance”.
+(2) Nothing in this section shall empower the Governor to confer on any Minister authority to exercise any powers or discharge any duty that is conferred or imposed by this Constitution or any other law on the Governor or any person or authority other than a Minister.
+(3) Without prejudice to the generality of subsection (2) of this section, except for the purpose of submitting questions relating to such matters to the Cabinet and conducting government business relating to such matters in either House, a Minister shall not be charged under this section with responsibility for—
+(a) any matter for which the Governor, acting in his discretion, is responsible under section 62 of this Constitution;
+(b) the discharge by the courts of Bermuda of their judicial functions;
+(c) the initiation, conduct and discontinuance of criminal proceedings;
+(d) the audit of the accounts of Bermuda;
+(e) the making of appointments to public offices, the removal or disciplinary control of persons holding or acting in such offices and the grant of any benefits in relation to pensions and gratuities in pursuance of section 93 of this Constitution.
+(4) A Minister charged under subsection (1) of this section with responsibility for the conduct of any business of the Government may be assisted in the discharge of that responsibility by a board, committee or other similar body consisting wholly or partly of persons who are not public officers and established by a law enacted by the Legislature or by directions in writing given by the Minister concerned; and any such body shall have such advisory, consultative and administrative functions as may be conferred on it by such a law or such directions, but, in exercising any such functions, the body shall be subject to the directions of the Minister concerned.
+(5) Where a Minister has been charged under subsection (1) of this section with responsibility for the administration of any department of government, the Minister shall (subject to the provisions of this Constitution and of any other law) exercise general direction and control over that department, and, subject to such direction and control, the department shall be under the supervision of a public officer (whose office is referred to in this Constitution as the office of a permanent secretary):
+Provided that two or more departments of government may be placed under the supervision of one permanent secretary.

@@ -1,0 +1,2 @@
+# Validity of proceedings
+41 A House shall not be disqualified for the transaction of business by reason of any vacancy in the membership thereof including any vacancy not filled when the House first meets after any general election), and any proceedings therein shall be valid notwithstanding that some person who was not entitled so to do sat or voted in the House or otherwise took part in the proceedings.

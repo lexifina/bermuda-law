@@ -1,0 +1,3 @@
+# Appointment, etc., of magistrates and other legally qualified staff of the courts
+89 (1) Power to make appointments to the offices to which this section applies and to remove or exercise disciplinary control over persons holding or acting in those offices is vested in the Governor acting after consultation with the Chief Justice.
+(2) This section applies to the offices of magistrate, member of any other civil court subordinate to the Supreme Court and registrar of the Supreme Court or the Court of Appeal and of such other officers of the civil courts of Bermuda who are required to possess legal qualifications as the Legislature may by law prescribe.
