@@ -1,0 +1,3 @@
+# Bar to recovery of fees without proof of entitlement to practise dentistry
+4 A person who is not a registered dental practitioner or an exempted dental practitioner shall not be entitled to recover in any court any fees, expenses or charges in respect of his practice of dentistry in Bermuda, unless he proves that at the time of the practice in question he was a registered dental practitioner or an exempted dental practitioner entitled to perform such practice:
+Provided that nothing in this section shall apply in relation to any such dental surgery or dental work as is referred to in the proviso to section 2(1).
