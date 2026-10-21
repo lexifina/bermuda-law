@@ -1,0 +1,7 @@
+## PART 3
+## REGISTER AND REGISTRATION
+# Registrar of Optometrists and Opticians
+4A (1) For the purposes of this Act, there shall be a Registrar for the Council to be known as the Registrar of Optometrists and Opticians.
+(2) The Chief Executive Officer of the Bermuda Health Council shall be the Registrar of Optometrists and Opticians.
+(3) The Registrar shall perform the functions conferred on him by this Act or by any other statutory provision.
+[Section 4A inserted by 2020 : 47 s. 80 effective 11 December 2020]
