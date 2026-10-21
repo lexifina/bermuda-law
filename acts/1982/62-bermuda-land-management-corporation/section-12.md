@@ -1,0 +1,5 @@
+# General reserve
+12 (1) Without prejudice to the Corporation’s power to establish specific reserves, the Corporation shall establish and maintain a general reserve.
+(2) The management by the Corporation of its general reserve and the sums to be carried from time to time to the credit of, and the application of moneys comprised in, that general reserve shall, subject to the following provisions of this section, be as the Corporation may determine.
+(3) None of the moneys comprised in the Corporation’s general reserve shall be applied otherwise than for the purposes of the Corporation.
+(4) The power to give directions to the Corporation under section 6 shall, notwithstanding the limitation therein to the giving of directions of a general character, extend to the giving to the Corporation, with the approval of the Minister of Finance, of directions of a general or specific character as to any matter relating to the establishment or management of the Corporation’s general reserve or the carrying of sums to the credit or, or the application of the moneys comprised in, that general reserve.
