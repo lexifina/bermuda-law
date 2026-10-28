@@ -1,0 +1,44 @@
+{
+  "corpus": "bm/national/acts",
+  "name": "Laws of Bermuda (six consolidated laws from Bermuda Laws Online)",
+  "label": "Bermuda",
+  "language": "en",
+  "acts": 6,
+  "history": "current-only",
+  "history_from": "2022-06-29",
+  "record_to": "2026-10-19",
+  "record_note": "Bermuda Laws Online publishes only the current consolidation, so each law has one version here: the text as of the day its PDF was produced. Earlier text is not available; history notes and \"Amended by\" lists are kept as text and in data/amendments.csv.",
+  "checked_on": "2026-10-28",
+  "built": "2026-10-28",
+  "baseline_trailer": "Consolidated",
+  "in_force_trailer": "In-force",
+  "dates": {
+    "commit": "consolidation day (the CreationDate of each consolidated PDF)",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Latest-note-effective"
+    ],
+    "time": "12:00 Bermuda time (UTC-4; UTC-3 in daylight time)",
+    "before_1970": "clamped to 1970-01-01"
+  },
+  "author": {
+    "consolidated": "Attorney-General's Chambers, Bermuda (Bermuda Laws Online)",
+    "amendment": "none yet",
+    "unexplained": "Attorney-General's Chambers, Bermuda (Bermuda Laws Online)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "not extracted for Bermuda; savings and transitional rules are in the amending laws",
+    "default_reach": {
+      "rule": "presumption against retroactivity; savings on repeal",
+      "meaning": "unless the contrary intention appears, a repeal does not revive anything not in force, nor affect the previous operation of the repealed enactment, rights or liabilities accrued under it, or proceedings in respect of them",
+      "authority": "common-law presumption; Interpretation Act 1951 (Bermuda), section 16 (effect of repeal on rights, liabilities, etc., under repealed Act); see interpretation-act-1951/section-16.md",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "^([a-z0-9-]+)/section-([0-9]+[A-Z]*)\\.md$",
+    "cites": "[Ss]ections? {n}([^0-9A-Za-z]|$)"
+  },
+  "tool": "tools/in_force_on.py"
+}
