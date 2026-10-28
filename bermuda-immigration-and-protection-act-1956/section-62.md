@@ -1,0 +1,5 @@
+# Special provisions respecting obligation of employers with respect to special category persons
+62 (1) It shall be the duty of the employer of any special category person other than a special category person in Government employment, to make arrangements, if so required by the Minister, for the removal from Bermuda of any such person upon the termination of his employment by such employer, or at any time thereafter—
+(a) unless such person has subsequently been granted permission under this Part to engage in any other gainful occupation; or
+(b) unless such person acquires Bermudian status.
+(2) Notwithstanding anything in subsection (1), where an employee or person who has been employed as mentioned in subsection (1) is, under any provision of this Act, repatriated, removed or deported from Bermuda, the employer shall, unless such person has subsequently been granted permission under this Part to engage in other gainful occupation, be financially responsible for any public charges incurred in respect of such repatriation, removal or deportation.

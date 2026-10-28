@@ -1,0 +1,5 @@
+# Existing officers
+6 (1) Any person who, immediately before the appointed day [2 June 1968] holds or is acting in any office to which this section applies shall be deemed as from that day to have been appointed to or to act in that office or the corresponding office in accordance with the provisions of the Constitution and to have made any necessary oaths or affirmation under the Constitution:
+Provided that any person who under the existing instruments or any existing law would have been required to his office at the expiration of any period or on the attainment of any age shall vacate his office at the expiration of that period or on the attainment of that age.
+(2) This section applies to the offices of the Governor, judges of the Supreme Court and the Court of Appeal and the personal staff of the Governor and to any public office.
+(3) The provisions of this section shall be without prejudice to the power of any person or authority to abolish any office or to remove from office any person holding or acting in any office.

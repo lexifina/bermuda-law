@@ -1,0 +1,6 @@
+# Power to enter premises
+67 (1) Any immigration officer and any member of the Bermuda Police Service may enter any premises upon which such officer or member may have reason to believe any person may be engaged in gainful occupation, if need be, by force, for the purpose of ascertaining whether there is, or has been, any contravention of this Part in relation to such person or in relation to any records required to be kept by regulation made under section 68.
+(2) The power of entry conferred by this section shall be exercised only during normal working hours or at such other times as it may reasonably be supposed that persons engaged in gainful occupation are upon the premises.
+(3) An immigration officer or member of the Bermuda Police Service acting under this section may take with him such other persons as may be reasonably necessary in the circumstances.
+(4) If, upon effecting an entry upon any premises under this section, it appears that there has been a contravention of any provision of this Act or any other statutory provision the immigration officer or member of the Bermuda Police Service effecting entry may exercise such powers as may be conferred upon him by this Act or such statutory provision, whether to effect an arrest or otherwise howsoever.
+[Section 67 amended by 1997:37 effective 6 May 1999]

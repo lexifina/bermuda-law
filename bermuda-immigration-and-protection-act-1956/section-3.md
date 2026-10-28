@@ -1,0 +1,4 @@
+# Meaning of “Commonwealth citizen” and “alien”
+3 (1) For the purposes of this Act “Commonwealth citizen” has the same meaning as it has in the British Nationality Act 1981 of the United Kingdom, that is to say, it means a person who has the status of a Commonwealth citizen under that Act; and for those purposes “alien” also has the same meaning as “alien” has in that Act, that is to say, it means a person who is neither a Commonwealth citizen nor a British protected person nor a citizen of the Republic of Ireland within the meanings respectively assigned to those expressions in that Act.
+(2) A person who is a Commonwealth citizen shall for all the purposes of this Act be treated as a Commonwealth citizen, notwithstanding that by virtue of the law of any foreign country he may be also a national or citizen of that country.
+(3) [Added and repealed by 1995:36]

@@ -1,0 +1,3 @@
+# Duty of local representative of ship or aircraft to give notice of arrival
+35 (1) The local representative of every ship or aircraft arriving in Bermuda shall give adequate and timely notification of the arrival of the ship or aircraft to the Chief Immigration Officer or to any immigration officer designated by the Chief Immigration Officer in that behalf, and, if required, to furnish such particulars as he may then have in his possession regarding the passengers or crew on board such ship or aircraft.
+(2) Any person who fails to comply with any provision of subsection (1), or with any requirement duly given thereunder, commits an offence against this Act.

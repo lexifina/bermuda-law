@@ -1,0 +1,11 @@
+# Appointments
+104 (1) Where any person has vacated any office (including any seat in either House) established by this Constitution, he may, if qualified, again be appointed or elected or otherwise selected to hold that office in accordance with the provisions of this Constitution.
+(2) Where a power is conferred by this Constitution upon any person to make any appointment to any office, a person may be appointed to that office, notwithstanding that some other person may be holding that office, when that other person is on leave of absence pending relinquishment of that office; and where two or more persons are holding the same office by reason of an appointment made in pursuance of this subsection, then, for the purposes of any function conferred upon the holder of that office the person last appointed to that office shall be deemed to be the sole holder of the office.
+(3) In this Constitution, unless it is otherwise provided or required by the context, any reference to power to make appointments to any public office shall be construed as including reference to power to make appointments on promotion and transfer to that office and the power to appoint a person to act in that office during any period when it is vacant or the holder thereof is unable (whether by reason of absence or infirmity of body or mind or any other cause) to perform the functions of that office.
+(4) Where by this Constitution any person is directed, or power is conferred on any person or authority to appoint a person, to act in an office if the holder thereof is unable to perform the functions of that office, the validity of any performance of those functions by the person so directed or of any appointment made in exercise of that power shall not be called in question in any court on the ground that the holder of the office is not unable to perform the functions of the office.
+(5) Notwithstanding any other provision of this Constitution, a person may be appointed to the office of—
+(a) judge of the Supreme Court;
+(b) Attorney-General; or
+(c) Auditor General,
+for such term as may be specified in the instrument of appointment, and the office of a person so appointed shall become vacant on the day on which the specified term expires.
+[Section 104 amended by UK SI 2579/2001 effective 21 August 2001]

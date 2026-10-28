@@ -1,0 +1,3 @@
+# General provisions regarding contraventions of Act and statutory instruments
+132 Without prejudice to any other provision of this Act, any person who contravenes any provision of this Act or of any statutory instrument in force thereunder, or who fails to comply with any order, demand, requirement or direction lawfully issued, made or given under this Act or under any such statutory instrument, commits an offence against this Act:
+Provided that where a person engaged or employed in the administration of this Act omits to perform any duty imposed upon him, as such, the omission shall not constitute an offence against this Act.

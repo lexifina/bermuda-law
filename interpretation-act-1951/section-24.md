@@ -1,0 +1,2 @@
+# Changes in the title of public officers and public authorities, etc
+24 Whenever any change in title of any public officer or public office or of any public authority is effected by or under any Act, any reference in any other Act or in any statutory instrument to the public officer, public office or public authority by the former title shall be construed as a reference to that public officer, public office or public authority by the new title.

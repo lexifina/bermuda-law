@@ -1,0 +1,9 @@
+# Appointment, etc., of the Auditor General
+88 (1) Power to make appointments to the office of the Auditor General is vested in the Governor acting in his discretion.
+(2) Subject to the following provisions of this section, the Auditor General shall vacate his office when he attains the age of sixty-five years:
+Provided that the Governor, acting after consultation with the Premier, may permit an Auditor General who attains the age of sixty-five years to continue in office until he has attained such later age, not exceeding the age of seventy years, as may have been agreed between the Governor and that Auditor General.
+(3) The Auditor General may be removed from office only for inability to discharge the functions of his office (whether arising from inability of body or mind or any other cause) or for misbehaviour, and shall not be so removed except in accordance with the provisions of subsection (4) of this section.
+(4) The Auditor General shall be removed from office by the Governor if the Governor, acting in his discretion, is satisfied that he ought to be removed from office for inability as aforesaid or for misbehaviour.
+(5) During any period when the question of removing the Auditor General from office for inability as aforesaid or for misbehaviour is being investigated by, or in pursuance of directions given by, the Governor, the Governor, acting in his discretion, may suspend the Auditor General from performing the functions of his office.
+(6) References in subsections (2) to (5) of this section to the Auditor General do not include references to a person appointed to act in the office of Auditor General during any period when it is vacant or the holder thereof is unable to perform the functions thereof; and the appointment of such a person may be revoked by the Governor, acting in his discretion, at any time before the expiration of that period.
+[Section 88 amended by UK SI 2579/2001 effective 21 August 2001]

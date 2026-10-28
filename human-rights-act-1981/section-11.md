@@ -1,0 +1,2 @@
+# Provisions of law which purport to sanction discriminatory covenants
+11 Subject to section 10(8), any provision of law which purports to sanction any legal instrument the effect of which is curtailed by section 10 shall be read and construed with such modification and adaptation as may be necessary to enable such legal instrument to be read and construed in the manner provided for in section 10(4).

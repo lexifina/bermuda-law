@@ -1,0 +1,6 @@
+# Procedure on appeals to Governor, etc.
+32 (1) Where by any Act or statutory instrument a right of appeal to the Governor or a Minister against any decision of a public authority is given to any person, such person may, in the absence of any express provision to the contrary—
+(a) within thirty days after the notification of the decision submit for the consideration of the person to whom the right of appeal lies a written memorandum setting out the grounds of appeal on which he relies; and
+(b) if he so desires, with the consent of the person to whom the appeal lies, appear in person or by counsel on such date and at such time as the person to whom the appeal lies may determine.
+(2) It shall be lawful for the Governor or a Minister, when any appeal is made to him, to appoint a committee or a competent person for the purpose of hearing such appeal and advising him in writing as to the decision which should be made thereon; and in that event, the committee or person so appointed shall be deemed to be the person to whom the appeal lies for the purpose of subsection (1)(b).
+(3) Where a committee or person has been appointed under subsection (2) the Governor or Minister shall consider any advice tendered by such Committee or person before coming to a decision on the appeal but may act in his discretion.

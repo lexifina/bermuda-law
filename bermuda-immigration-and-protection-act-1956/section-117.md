@@ -1,0 +1,2 @@
+# Governor to act in his discretion in certain circumstances
+117 Notwithstanding any provision of law to the contrary, where the Governor is of the opinion that the exercise of any power or the discharge of any duty conferred or imposed by or under this Part relates to matters for which he is responsible under section 62 of the Constitution (which includes, amongst others, matters of external affairs and internal security) the Governor may exercise such power or discharge such duty acting in his discretion.

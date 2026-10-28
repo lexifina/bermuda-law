@@ -1,0 +1,3 @@
+# Change in style of a Minister
+24A (1) Where the Governor, by virtue of the powers vested in him by section 61 of the Constitution, alters the style by which any Minister shall be known and notification of such alteration is given in the Gazette, references to such Minister in any statutory provision or to his Ministry or department (other than references in any statutory provision which has become spent or which has had its effect) shall be read and construed as referring to the Minister or his Ministry or department according to the style by which he or they shall thenceforward be known.
+(2) In this section “department” means a Government Department known by the style of the Minister responsible for it.

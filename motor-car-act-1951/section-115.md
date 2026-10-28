@@ -1,0 +1,2 @@
+# Power of arrest
+115 Without prejudice to any provision of any Act authorizing arrest without warrant, a police officer or traffic officer may arrest without warrant the driver of a motor car whom the police officer or traffic officer has reason to suspect of having committed an offence against this Act if the driver, on being requested to do so by the police officer or traffic officer, refuses to give his name and address.
