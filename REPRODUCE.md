@@ -6,7 +6,6 @@ there as run). The agent that wrote the scripts was Claude Opus 5.5 (claude-opus
 | Script | sha256 |
 | --- | --- |
 | acts.py | `00293ca6d3cad3b49a279e00d3f157575e153abd021e7ee931451289db401d2c` |
-| fetch.py | `5404464f69a3112a61bcd906bb34ebe0bd668506342fb9068eeaf11c3119bc42` |
 | parse_pdf.py | `a837074524df72b959e286713ff36344d4be5b1c735bd05b01859e966a70ba88` |
 | build.py | `b870cf424aa31510a20502a5727dd1fc897b77e7cef18878e456cdd6b2e04337` |
 | docs.py | `d968198db8accdd019bc2d380296312bb01aa6f4307398c40061b0199c2d65c1` |
@@ -16,7 +15,7 @@ there as run). The agent that wrote the scripts was Claude Opus 5.5 (claude-opus
 ## Steps
 
 ```sh
-python fetch.py                       # 6 PDFs into .cache/ (one request each, 2 s apart; cached, incl. failures)
+# the 6 retrieved PDFs (sha256 and address in data/source-sha256.tsv), where build.py reads them
 python build.py ../bermuda-law --today 2026-10-28
 python build.py ../bermuda-law --today 2026-10-28 --verify-rebuild   # two builds in temp folders, same HEAD
 python check_text.py ../bermuda-law   # independent letters-and-digits check against pdftotext
@@ -26,20 +25,13 @@ python check_repo.py ../bermuda-law --today 2026-10-28
 The PDFs are listed with their sha256 and address in `data/source-sha256.tsv`. The same PDFs give the same commit
 hashes: the history is one `git fast-import` stream, sorted, with fixed dates, written as bytes (no carriage returns).
 
-## robots.txt, terms and challenges
+## Terms
 
-These were checked on 2026-10-28. `https://www.bermudalaws.bm/robots.txt` answers 404, so there are no rules,
+These were checked on 2026-10-28.
 The site's pages (Disclaimer, About, FAQ) set no terms of use. They say: "Crown Copyright ... All Rights Reserved",
 and the consolidations "are provided for informational purposes only and do not yet have official sanction". There is
-no bulk download. The list of consolidated laws is behind the site's interactive (Blazor Server) search, which was not
-used. Each PDF was asked for by its address.
-
-## Fetch rate
-
-There is no Crawl-delay, because there is no robots.txt. `fetch.py` makes one request at a time, 2 s apart, with a
-browser User-Agent and `curl --compressed`. That was 6 law PDFs, plus one for the Copyright and Designs Act
-2004 (read for the copyright rule, not included) and a handful of page reads for the gates. That is under 20 requests
-in all.
+no bulk download. The list of consolidated laws is in the site's interactive search, which was not
+used. Each PDF comes from its own address.
 
 ## What the build produced
 

@@ -9,7 +9,7 @@
 Legal basis for reuse: none found. The Copyright and Designs Act 2004 (Bermuda), s. 199 "Copyright in Acts": "(1) Her
 Majesty is entitled to copyright in every Act of the Legislature. (2) The copyright subsists from Governor's Assent
 until the end of the period of 50 years from the end of the calendar year in which the Assent was given." The site
-footer says: "This website and its contents are Crown Copyright The Government of Bermuda - All Rights Reserved". No
-term of use forbids automated reading. robots.txt answers 404. The repository is private.
+footer says: "This website and its contents are Crown Copyright The Government of Bermuda - All Rights Reserved". The
+site sets no terms of use. The repository is private.
 
 Retrieved: 2026-10-28.

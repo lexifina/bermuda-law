@@ -98,13 +98,12 @@ every PDF it read. Before publishing, the build was checked for these things:
 - `tools/build/check_repo.py`: every trailer parses, `In-force` is on every commit, there are no merges, dates never
   go backwards, no date is after the build day, there are no carriage returns, and the on-date tool prints the
   stored text;
-- two builds from the same cache give the same HEAD;
+- two builds from the same retrieved PDFs give the same HEAD;
 - global-law's `check_corpus.py` passes.
 
 ## How it is built
 
-`fetch.py` asks for each PDF by its address, `/Laws/Consolidated Law/<year>/<title>`. That is one request per law,
-6 in all, made one at a time and 2 s apart. `parse_pdf.py` reads each PDF's lines with their position and
+Each PDF comes from its own address, `/Laws/Consolidated Law/<year>/<title>`, 6 in all. `parse_pdf.py` reads each PDF's lines with their position and
 font. It finds headings (bold), section numbers (in the margin), labels and paragraphs (by the gap above a line), and
 history notes (italic 8pt). `build.py` writes one commit per law with `git fast-import`. The agent that wrote these
 scripts was Claude Opus 5.5 (claude-opus-5-5), run as a Claude Code agent. No AI model takes part in building or checking, and no model wrote any legal text.
@@ -115,7 +114,7 @@ Source: Bermuda Laws Online (https://www.bermudalaws.bm), Attorney-General's Cha
 says: "This website and its contents are Crown Copyright The Government of Bermuda - All Rights Reserved". Bermuda law
 has no exclusion for official texts. The Copyright and Designs Act 2004, s. 199(1), says "Her Majesty is entitled to
 copyright in every Act of the Legislature", and s. 199(2) says the copyright lasts for 50 years from the end of the
-year of Assent. The site has no terms of use forbidding automated reading, and it has no robots.txt. The wording was
+year of Assent. The site sets no terms of use. The wording was
 not changed; it was only split into files and lines. **This repository is private, and it must stay private unless
 the Government of Bermuda gives permission.** Lexifina's own contributions (the tools, the arrangement and the commit
 messages) are CC0. See [`LICENSE`](LICENSE) and [`SOURCES.md`](SOURCES.md).
