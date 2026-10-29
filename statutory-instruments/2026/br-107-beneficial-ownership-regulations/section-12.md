@@ -1,0 +1,5 @@
+# Duty to report discrepancies
+12 (1) A person specified in section 18(1), (1A) or (1B) to whom the Registrar has disclosed beneficial ownership information who becomes aware or has reason to believe that the information disclosed is materially inconsistent with other information in the person’s possession, shall report the details of the inconsistencies to the Registrar as soon as practicable, but not later than 30 days after the disclosure.
+(2) A report shall be in such form as the Registrar may determine.
+(3) The Registrar shall, on receipt of a report, notify the relevant legal person of the nature of the discrepancy and provide the relevant legal person with a reasonable opportunity to respond and if necessary rectify the minimum required information on the central register to ensure that such information is up to date and accurate.
+(4) The Registrar may, on receipt of a report, take such other measures as he considers appropriate to verify the information on the central register, and may place a notice in the central register in such form as he considers appropriate until satisfied that the relevant inconsistencies have been resolved.
