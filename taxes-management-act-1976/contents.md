@@ -23,6 +23,7 @@ PAYMENT, ASSESSMENT AND CLAIMS
 16 Assessments
 17 Notice of assessment
 18 Refunds
+18A Rebate of tax
 19 Recovery of tax repaid in consequence of fraud or negligence.
 20 Time limits
 21 Time to pay extensions and instalments
