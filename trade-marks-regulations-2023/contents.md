@@ -8,6 +8,7 @@ PRELIMINARY
 Part 2
 Application for registration
 5 Application for registration
+6 Claim to priority
 7 Classification of goods and services
 8 Application to specify class and may relate to more than one class
 9 Determination of classification
