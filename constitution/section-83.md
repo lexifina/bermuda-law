@@ -1,3 +1,0 @@
-# Delegation of Governor’s powers
-83 (1) The Governor, acting in accordance with the recommendation of the Public Service Commission, may by regulations delegate, to such extent and subject to such conditions as may be specified in the regulations, the powers vested in him by section 82 of this Constitution (other than powers in relation to the offices referred to in subsections (2) and (4)(c) thereof to the Chairman of the Commission or to such public officers as may be so specified.
-(2) Except in so far as regulations made under this section otherwise provide, any power delegated by such regulations may be exercised by any person to whom it is delegated without reference to the Public Service Commission.

@@ -1,6 +1,0 @@
-# Deferral certificate
-86 (1) Any person who believes that he is entitled to a deferral under section 85(1) or (2) may apply to the Minister for a deferral certificate, including in the application information concerning his identity, a description of the land, the date of the acquisition or holding of the land, and the reasons why he believes that he is entitled to a deferral.
-(2) The Minister shall issue a deferral certificate to every person whom he determines is entitled to a deferral under section section 85(1) or (2).
-(2A) Any person who seeks a further deferral under section 85(3) or (4) may apply to the Minister for a deferral certificate, including in the application information concerning his identity, a description of the land, the date of the acquisition or holding of the land, and the reasons why he seeks a further deferral.
-(3) No person who has made an application under subsection (1) or (2A) shall be prosecuted for an offence under section 76 or 77 before the application has been determined by the Minister.
-[Section 86 repealed and replaced by 2007:16 s.5 effective 22 June 2007; subsections (1), (2) and (3) amended and subsection (2A) inserted by 2015 : 22 s. 7 effective 8 June 2015]

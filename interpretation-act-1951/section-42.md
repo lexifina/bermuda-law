@@ -1,2 +1,0 @@
-# Effect, etc., of suspension of operation until Her Majesty’s pleasure is made known
-42 In any case where an Act contains an enactment substantially to the effect that the operation of the Act is suspended until Her Majesty’s pleasure is made known, then in any such case the Act shall not come into operation until the Governor, by order published in the Gazette, gives notice that it is Her Majesty’s pleasure not to disallow the Act; and where the Governor so gives notice then the Act shall come into operation on such day as may be specified in the order.

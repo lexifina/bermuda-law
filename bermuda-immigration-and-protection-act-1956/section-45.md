@@ -1,9 +1,0 @@
-# Special provisions relating to stowaways and deserters
-45 (1) Without prejudice to anything in section 37, (which section requires the submission of lists of persons on board ships) the master of any ship arriving in Bermuda shall forthwith inform an immigration officer of any stowaway or deserter who may be on board the ship, and shall take such steps as are reasonably necessary to prevent the stowaway or deserter from landing illegally in Bermuda.
-(2) Without prejudice to anything in subsection (3), no stowaway or deserter shall (unless he possesses Bermudian status) land in Bermuda without the specific permission of the Minister:
-Provided that the restriction imposed by subsection (2) shall not have effect so as to preclude any such stowaway or deserter being brought ashore by a police officer for the purposes of prosecution or for any other purpose in connection with the administration of justice.
-(3) No stowaway in a foreign ship shall (unless he possesses Bermudian status) be landed in Bermuda without the specific permission of the Governor where such stowaway is landed for the purpose of being prosecuted for a criminal offence:
-Provided that nothing in subsection (3) shall have effect so as to restrict the landing of a stowaway who is landed for the purpose of any proceedings to be taken against him under the Extradition Act 1877, or under the Act of the Parliament of the United Kingdom entitled the Fugitive Offenders Act 1881. [repealed by the Fugitive
-Offenders Act 1967 which is extended to Bermuda by SI 1967/1905 as amended (see title
-8 item 38)]
-(4) Any person who, without lawful excuse (the proof of which shall be upon him), in Bermuda harbours, maintains or employs a person who has landed in contravention of any provision of this section, and whom he knows or has reasonable cause to believe to have so landed, commits an offence against this Act.

@@ -1,2 +1,0 @@
-# Declaration of general principle of Act
-3 It is hereby declared that the use of motor cars in Bermuda shall be governed by the following general principle, that is to say, that the number and the kinds of motor cars used and the manner in which motor cars are used shall be subject to special control and regulation so as to preserve as far as possible the amenities of Bermuda, notwithstanding any consideration of private gain or personal convenience.

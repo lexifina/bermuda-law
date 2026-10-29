@@ -1,4 +1,0 @@
-# Performance of functions of Premier in certain events
-60 (1) Whenever the Premier is absent from Bermuda or is unable by reason of illness to perform the functions conferred upon him by this Constitution, the Governor may, by directions in writing, authorise any other Minister who was appointed from among the members of the House of Assembly to perform those functions (other than the functions conferred on the Premier by subsection (2) of this section) and that Minister may perform those functions until his authority is revoked by the Governor.
-(2) The powers conferred upon the Governor by this section shall be exercised by him in accordance with the advice of the Premier:
-Provided that if the Governor considers that it is impracticable to obtain the Premier’s advice owing to his absence or illness the Governor may exercise those powers in his discretion.

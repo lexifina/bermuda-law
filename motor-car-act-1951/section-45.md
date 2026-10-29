@@ -1,4 +1,0 @@
-# Restriction on use of motor cars in service of Municipality
-45 (1) No motor car other than a truck (including a tank-wagon) but excluding a private light truck, a fire-fighting vehicle, or a self-propelled constructional machine shall be used in the service of a Municipality:
-Provided that a tractor may be used in the service of a Municipality.
-(2) Section 40 and section 41 shall apply in relation, respectively, to trucks (including tank-wagons) but excluding private light trucks and to self-propelled constructional machines owned by and in the service of a Municipality and section 43 shall apply in relation to a tractor owned by and in the service of a Municipality; but in construing those provisions in relation to any such trucks, self-propelled constructional machines, or tractors, any references to a trade or business shall be construed as references to the functions of the Municipality.

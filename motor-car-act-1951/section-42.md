@@ -1,7 +1,0 @@
-# Restriction on use of tracked vehicles
-42 (1) No person shall use or cause or allow any other person to use a tracked vehicle on any highway or estate road except under the authority and in accordance with the terms and conditions of a permit granted by the Minister.
-(2) With respect to permits authorizing persons to use a tracked vehicle on a highway or estate road—
-(a) any person engaged in a trade or business involving the use of a tracked vehicle on a highway or estate road may apply to the Minister for a permit to use a tracked vehicle as aforesaid;
-(b) the Minister shall consider every such application and if he is satisfied that the trade or business of the applicant necessitates the use of a tracked vehicle on a highway or estate road, shall grant a permit accordingly;
-(c) the Minister if he grants a permit in accordance with paragraph (b), may insert in such permit such terms and conditions as to the use of the tracked vehicle on a highway or estate road as he may think expedient, and such terms and conditions may impose the route to be followed by the tracked vehicle and the times of the day during which the tracked vehicle may be used on a highway or estate road.
-(3) For the purposes of this section, “tracked vehicle” means a vehicle which is designed to lay its own tracks or surface for its wheels (or some of its wheels) or rollers to move over in order that it may be propelled from one position to another.

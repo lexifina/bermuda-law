@@ -1,6 +1,0 @@
-# Appointment of Premier and other Ministers
-58 (1) The Governor, acting in his discretion, shall appoint as the Premier the member of the House of Assembly who appears to him best able to command the confidence of a majority of the members of that House.
-(2) The other Ministers shall be appointed by the Governor in accordance with the advice of the Premier and, of those Ministers, not less than one nor more than two shall be appointed from among the Senators and the remainder shall be appointed from among the members of the House of Assembly.
-(3) If occasion arises for making an appointment of a Minister between a dissolution of the Legislature and the polling in the next following general election the preceding provisions of this section shall have effect for that purpose as if the Legislature had not been dissolved.
-(4) A person shall not be qualified to be appointed as a Minister if he is the President or Vice-President of the Senate or the Speaker or Deputy Speaker of the House of Assembly or holds or is acting in any public office specified under paragraph (a) of section 30(3) of this Constitution.
-(5) Appointments under this section shall be made by instrument under the Public Seal.

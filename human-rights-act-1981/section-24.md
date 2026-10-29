@@ -1,2 +1,0 @@
-# Style of prosecutions
-24 A prosecution for an offence under this Act may be instituted against a trade union or employers’ organization in the name of the union or organization, and any act or thing done or omitted by an officer, official or agent of a trade union or employers’ organization within the scope of his authority to act on behalf of the trade union or employers’ organization shall be deemed to be an act or thing done or omitted by the trade union or employers’ organization.

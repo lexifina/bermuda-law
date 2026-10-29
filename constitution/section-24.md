@@ -1,2 +1,0 @@
-# Powers to dispose of land
-24 Subject to the provisions of this Constitution and of any other law, the Governor or any person authorised by him in that behalf, in Her Majesty’s name and on Her Majesty’s behalf, may, under the Public Seal, make grants and dispositions of lands or other immovable property in Bermuda or interests in such property that are vested in Her Majesty for the purposes of the Government and may exercise in relation to such property or interests any other powers that are lawfully exercisable by Her Majesty.

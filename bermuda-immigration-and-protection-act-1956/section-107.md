@@ -1,6 +1,0 @@
-# Power to detain, etc., person charged
-107 (1) When a court recommends the making of a deportation order in respect of a convicted person such person may, if the court so orders, be detained in such manner as the court may direct for a period not exceeding twenty-eight days pending the decision of the Governor with regard to the making of a deportation order; and any person shall, whilst so detained, be deemed to be in lawful custody.
-(2) A person in respect of whom a deportation order has been made may be detained in such manner as may be directed by the Governor, and may be placed on board a ship or aircraft about to leave Bermuda, and shall be deemed to be in lawful custody whilst so detained and until the ship or aircraft finally leaves Bermuda:
-Provided that—
-(a) no person shall be detained under subsection (1) for a period exceeding twenty-eight days, and
-(b) nothing in this proviso shall derogate from any power mentioned in subsection (2) to place any person in respect of whom a deportation order is in force on a ship or aircraft, or derogate from any provision whereby any such person is to be deemed to be in lawful custody thereafter until such time as the ship or aircraft finally leaves Bermuda.

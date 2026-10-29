@@ -1,2 +1,0 @@
-# Exercise of functions after consultation
-30 Where any person is directed by any provision of law to exercise any function after consultation with any other person or public authority he shall, if practicable, consult with such other person or public authority before exercising the function but he shall not be obliged to exercise that function in accordance with the advice of that person or authority.

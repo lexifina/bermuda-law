@@ -1,2 +1,0 @@
-# Duty of Commissioner of Prisons to inform Chief Immigration Officer of persons detained who are liable to deportation
-116 It shall be the duty of the Commissioner of Prisons to forward to the Chief Immigration Officer, for the information of the Minister the name and particulars of any person committed to prison or to the senior training school as a result of his conviction as soon as may be after such committal where, after reasonable enquiries, it appears to the Commissioner of Prisons that the person so convicted is a person to whom this Part applies.

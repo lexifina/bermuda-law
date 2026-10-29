@@ -1,2 +1,0 @@
-# Powers and immunities of immigration officers
-14 An immigration officer shall, while discharging any duty, or while exercising any power, imposed or conferred on an immigration officer by or under any Act, or by or under any Act of the Parliament of the United Kingdom, be deemed to have the powers and immunities conferred upon police officers by any statutory provision to the extent that such powers or immunities are required in his case for the effective discharge of such duties or, as the case may be, the exercise of such powers.

@@ -1,4 +1,0 @@
-# Effect of repeal of repealing Act, etc.
-14 (1) Where any Act, or any enactment contained in an Act which repeals any former Act or enactment, is itself repealed, then such last repeal shall not have effect so as to revive the Act or enactment first repealed unless a provision appears expressly reviving such repealed former Act or enactment.
-(2) Where any Act repeals any former Act or any enactment contained in a former Act and substitutes any provisions for the former Act or enactment so repealed, then the former Act or enactment so repealed shall, unless the contrary intention appears in the repealing Act, remain in operation until the substituted provisions come into operation.
-(3) The provisions of subsections (1) and (2) shall apply, with necessary modifications, in relation to statutory instruments as those provisions apply in relation to Acts and enactments contained in Acts.

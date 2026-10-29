@@ -1,2 +1,0 @@
-# Notification of right to have certain matters remitted to a court
-108 Where in respect of an order or other decision of the Minister or the Board the matter may be remitted to a court of summary jurisdiction, the document notifying the person concerned of the decision of the Minister or the Board in the matter shall also notify the person that he has the right to have the matter remitted to a court and shall also notify the time within which he must lodge an application to have the matter so remitted as provided in section 116.

@@ -1,2 +1,0 @@
-# Effect of setting out punishment in section of Act or in provision of statutory instrument
-41 Where in any Act or statutory instrument a punishment is specified in any section of the Act or in any provision of the statutory instrument then the section or provision shall be deemed of to indicate that any contravention of the provisions of the section or provision shall be an offence against that Act or statutory instrument.

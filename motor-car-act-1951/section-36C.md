@@ -1,6 +1,0 @@
-# Transfer of permits
-36C (1) Subject to this section, a permit granted under section 36A shall be capable of being transferred by its holder or by the estate representative of the holder (in both cases in this section referred to as “the transferor”) to another person (in this section referred to as “the transferee”).
-(2) The transferor shall make an application for the transfer of the permit and the application shall be accompanied by such information relating to the transferee as the Board may require, and, if the Board is satisfied that the transferee is a suitable person to operate a limousine service, the Board may approve the application for transfer.
-(3) Upon approval of the application for transfer by the Board the transferor shall surrender the permit to the Board which may either cancel the permit and grant a new one to the transferee subject to such conditions as the Board may determine, or cause such endorsement to be made on the permit as may be necessary to evidence the transfer of the permit to the transferee.
-(4) Section 36A shall apply to a permit granted to the transferee under subsection (3) as it applies to a permit granted under that section.
-[Section 36C inserted by 2006:22 s.4 effective 11 June 2007]

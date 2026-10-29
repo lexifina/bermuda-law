@@ -1,6 +1,0 @@
-# Discrimination against Bermudians in disposal of premises
-4A (1) It shall be unlawful for any person to discriminate against a Bermudian who is seeking to acquire any accommodation, premises or other land, by refusing or deliberately omitting to dispose of it to him, or failing to dispose of it to him on the like terms and conditions upon which he would dispose of it to a non-Bermudian:
-Provided that it shall not be unlawful for an employer to provide or offer to provide residential accommodation to any employee who is a non-Bermudian if the provision of such accommodation is a bona fide and reasonable employment consideration for the category of employment of that employee.
-(2) It shall be unlawful for any person to advertise before the public an intention to discriminate against Bermudians in regard to the disposal of any accommodation, premises or other land.
-(3) It shall be unlawful for any person to instruct an employee, agent or other person acting on his behalf to discriminate or to advertise in contravention of subsection (1) or (2) as the case may be.
-(4) Any conveyance, lease, licence, contract or other legal instrument which is entered into in contravention of subsection (1) shall be null and void.

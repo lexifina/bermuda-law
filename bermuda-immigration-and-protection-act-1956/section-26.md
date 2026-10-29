@@ -1,7 +1,0 @@
-# Order to declare landing or entry prohibited
-26 (1) Notwithstanding anything in sections 23, 24, or 25, the Minister, after consultation with the Chief Immigration Officer, may by order prohibit the landing in or entry into Bermuda of persons of any particular nationality, from any particular place or of any category during the period specified in the order.
-(2) Nothing in an order under subsection (1) shall prohibit the landing or entry of any person who possesses Bermudian status or who is the spouse or dependent child of a person who possesses Bermudian status and in respect of whom the conditions in section 27 are fulfilled.
-(3) Any person provided in an order under subsection (1) who lands in, enters into, remains or resides in Bermuda without the written permission of the Chief Immigration Officer shall be removed or deported from Bermuda and shall be financially responsible for any public charges incurred in respect of such removal or deportation.
-(4) Written permission provided by the Chief Immigration Officer in subsection (3) shall be subject to any conditions or restrictions as appear to the Chief Immigration Officer to be necessary or desirable in the public interest and any person permitted to land or enter, remain or reside shall comply with such conditions or restrictions.
-(5) An order made under subsection (1) shall be subject to the negative resolution procedure.
-[Section 26 repealed and replaced by 2024 : 1 s. 2 effective 5 January 2024]

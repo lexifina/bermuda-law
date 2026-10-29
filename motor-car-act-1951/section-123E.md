@@ -1,9 +1,0 @@
-# Disposal of motor vehicles
-123E (1) If, by the date specified in the seizure notice in respect of a motor vehicle, a request for release of the motor vehicle, accompanied by a certificate of release issued by the Minister, has not been made, the Minister may dispose of the motor vehicle, in accordance with this section, in any manner that the Minister sees fit.
-(2) Before disposing of a motor vehicle, the Minister shall publish in the Gazette a notice that the Minister intends to dispose of the motor vehicle after the expiry of 30 days from the date when the notice is published.
-(3) A motor vehicle may not be disposed of earlier than 30 days after the date when the notice of intention to dispose of it is published.
-(4) Notwithstanding subsections (1) to (3), the owner of a motor vehicle or a person authorized by the owner may obtain the release of the motor vehicle at any time prior to it being disposed of if they meet the requirements of section 123D for release of the motor vehicle.
-(5) Where the Minister disposes of a motor vehicle, the Minister shall pay to the owner of the motor vehicle any proceeds realized from the disposal, after deducting the charges for towing and impounding the motor vehicle and all reasonable costs incurred by the Minister in respect of the disposal of the motor vehicle.
-(6) If the amount of the proceeds of the disposal does not exceed the amount of the charges and costs referred to in subsection (5), the owner is liable to pay the amount of the charges and costs that remains outstanding and that amount may be recovered from the owner as a debt owed to the Crown.
-(7) If the driver is not the owner and the Crown is unable to recover the outstanding amount referred to in subsection (6) from the owner, the driver is liable to pay the outstanding amount and that amount may be recovered from the driver as a debt owed to the Crown.
-[Section 123E inserted by 2008 : 9 s. 2 effective 19 June 2010]

@@ -1,2 +1,0 @@
-# Power to arrest persons illegally landed
-49 Where it is made to appear by information on oath to a Justice of the Peace that a person has landed from a ship or aircraft in Bermuda in contravention of this Part the Justice of the Peace may issue a warrant under his hand requiring any immigration officer or police officer to apprehend such person and convey him on board such ship or aircraft, if then in port, or, as the case may be, at an airport or to take him before a court of summary jurisdiction to be dealt with in accordance with this Act.

@@ -1,3 +1,0 @@
-# Proceedings of Cabinet
-66 (1) The Premier shall, so far as is practicable, attend and preside at all meetings of the Cabinet and in his absence such other Minister shall preside as the Premier shall appoint.
-(2) The Cabinet shall not be disqualified for the transaction of business by reason of any vacancy in the membership of the Cabinet (including any vacancy not filled when the Cabinet is first constituted or is reconstituted at any time) and the validity of the transaction of business in the Cabinet shall not be affected by reason only of the fact that some person who was not entitled to do so took part in the proceedings.

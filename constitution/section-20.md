@@ -1,4 +1,0 @@
-# Personal staff and expenditure of the Governor
-20 (1) The Legislature may, by law, prescribe the offices that are to constitute the personal staff of the Governor, the salaries and allowances that are to be paid to the members of that staff and the other sums that are to be paid in respect of the expenditure attaching to the office of Governor.
-(2) Any salaries, allowances or other sums prescribed under subsection (1) of this section shall be a charge on the Consolidated Fund.
-(3) The power to make appointments to the offices for the time being prescribed under subsection (1) of this section as being offices constituting the personal staff of the Governor, and to remove and to exercise disciplinary control over persons holding or acting in such offices, shall vest in the Governor, acting in his discretion.

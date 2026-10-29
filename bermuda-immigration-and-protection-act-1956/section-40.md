@@ -1,3 +1,0 @@
-# Supervision of landing from ships by immigration officer
-40 (1) It shall be the duty of the Chief Immigration Officer to ensure that every ship and, where practicable, every Government ship when carrying passengers, is, on arrival in Bermuda, visited by an immigration officer.
-(2) No person shall, except in emergency (the proof of which shall be upon him) land from a ship until an immigration officer has given permission generally for persons to land; so, however, that nothing in this subsection shall be construed as permitting any person to land whose landing would be contrary to any provision of this Part.

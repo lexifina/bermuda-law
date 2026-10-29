@@ -1,9 +1,0 @@
-# Power to enter premises
-126 (1) Subject to this section, an immigration officer in possession of a warrant granted by a magistrate or a Justice of the Peace under subsection (2) shall be entitled to enter any premises specified in the warrant, if need be by force, for the purpose of—
-(a) ascertaining whether there is, or has been, on or in connection with the premises any contravention of this Act or of any statutory instrument in force thereunder, being provisions which it is the duty of the Minister or of the Governor to enforce;
-(b) ascertaining whether or not circumstances exist which would authorize or require the Minister or the Governor to take any action under this Act or under any statutory instrument in force thereunder; or
-(c) taking any action authorized, or required by this Act, or any statutory instrument in force thereunder, or any order or direction made or given in pursuance of any provision of this Act or of any such statutory instrument, to be taken, or executed, by the Minister or by the Governor.
-(2) A magistrate or a Justice of the Peace may issue a search warrant on application by an immigration officer, and section 464(1), (1A), (2) and (6) to (8) of the Criminal Code 1907 apply as if the immigration officer were a police officer referred to in that section.
-(3) An immigration officer entering any premises in execution of a warrant granted under this section may take with him such other persons as may be reasonably necessary in the circumstances; and on leaving any unoccupied premises which he has entered in the execution of a warrant as aforesaid the immigration officer shall leave the premises as effectually secured against trespassers as he found them.
-(4) A warrant granted under this section shall continue in force until the purpose for which the entry is necessary has been satisfied.
-[Section 126 subsection (1) amended, and (2) substituted, by 2007:16 s.7 effective 22 June 2007]

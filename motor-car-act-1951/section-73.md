@@ -1,3 +1,0 @@
-# Authorization of movement of unlicensed motor cars
-73 (1) Notwithstanding anything in the foregoing provisions of this Part the Minister shall have power, where he considers it expedient and convenient to do so, to issue a permit so as to authorize the movement of an unlicensed motor car, subject to such conditions as the Minister may think proper to impose.
-(2) Any motor car shall, while being moved under the authority of a permit issued under this section, and in conformity with any conditions imposed in connection therewith, be treated for the purposes of this or any other Act as if a valid motor car licence were in force in respect of that motor car.

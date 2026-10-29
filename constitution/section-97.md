@@ -1,2 +1,0 @@
-# Authorisation of expenditure in advance of appropriation
-97 If the Appropriation law in respect of any financial year has not come into operation by the beginning of that financial year, the House of Assembly by resolution may empower the Minister of Finance to authorise the withdrawal of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of the Government until the expiration of four months from the beginning of that financial year or the coming into operation of the Appropriation law, whichever is the earlier.
