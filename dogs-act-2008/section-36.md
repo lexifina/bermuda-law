@@ -1,0 +1,3 @@
+# Payment of penalty out of court
+36 (1) An Officer who issues a ticket in respect to an offence under this Act may enter on the summons part of the ticket the amount of any penalty specified in the Schedule for that offence, in which case the Officer shall endorse the back of the summons part of the ticket with notice that the person to whom the summons is directed may, within seven days after delivery or service of the summons as the case may be, pay out of court the specified penalty.
+(2) Where a summons is endorsed under subsection (1), it shall provide for a plea of guilty in the following form —

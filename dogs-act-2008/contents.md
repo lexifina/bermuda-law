@@ -37,9 +37,19 @@ TABLE OF CONTENTS
 28 Requirement to give information in connection with offence committed under the Act
 29 General penalty
 30 Compensation
+31 Regulations
+32 Authorization of ticketing
+33 Form of ticket
+34 Issue of ticket
+35 Summons
+36 Payment of penalty out of court
+37 Information
+38 Amount of penalty
+39 Record of conviction
 39A Schedule 2— Prohibited breeds prohibitions and requirements
 39B Schedule 3— Restricted breeds prohibitions and requirements
 40 Amendment of Schedule
+41 Prescription of ticket by the Minister
 42 Repeal
 43 Commencement
 SCHEDULE 1 OFFENCES AND PENALTIES
