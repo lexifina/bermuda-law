@@ -1,7 +1,3 @@
-## PART 4
-## LICENSING
-## PART 5
-## CRITICAL INFRASTRUCTURE
 ## PART 6
 ## PRINCIPLES FOR PRICING OF FUEL
 # Prices for retail of fuel
