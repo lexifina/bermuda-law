@@ -203,7 +203,22 @@ Chapter 2 - Establishment and functions of Problem Gaming Council
 148 Functions of Council
 149 Validity of Council's actions
 Chapter 3 - Family exclusion orders
+150 Grounds for making a family exclusion order
+151 Dismissal of complaints or deferral of consideration
+152 Committee of Assessors for making family exclusion orders
+153 Committee to hear and determine applications for family exclusion orders
+154 Complaints
+155 Application by or on behalf of person under 18 years
+156 Application on behalf of incapacitated applicant
+157 Terms of family exclusion order
+158 Provisional family exclusion order
+159 Making family exclusion order in respondent's absence
+160 Conduct of proceedings
+161 Variation or revocation of family exclusion order, by Council
+162 Service of family exclusion order
+163 List of excluded persons
 164 Secrecy of proceedings of Council
+165 Rules
 PART 11
 GAMING ADVERTISING
 166 Casino advertising and promotions
