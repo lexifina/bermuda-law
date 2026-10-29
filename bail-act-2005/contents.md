@@ -5,12 +5,14 @@ PRELIMINARY
 3 Other definitions
 INCIDENTS OF BAIL IN CRIMINAL PROCEEDINGS
 4 General provisions
+5 Conditions of bail in case of police bail
 5A Police bail
 5B Liability to arrest for breaching conditions of police bail
 5C Application to vary police bail conditions
 6 General right to bail of accused persons and others
 SUPPLEMENTARY
 7 Supplementary provisions about decisions on bail
+8 Supplementary provisions in cases of police bail
 9 Reconsideration of decisions granting bail
 10 Liability to arrest for absconding or breaking conditions of bail
 10A Offence of breaching a bail condition

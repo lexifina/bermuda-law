@@ -4,11 +4,13 @@ section-1.md
 section-2.md
 section-3.md
 section-4.md
+section-5.md
 section-5A.md
 section-5B.md
 section-5C.md
 section-6.md
 section-7.md
+section-8.md
 section-9.md
 section-10.md
 section-10A.md
