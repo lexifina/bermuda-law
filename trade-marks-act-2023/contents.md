@@ -53,6 +53,7 @@ APPLICATION FOR REGISTERED TRADE MARK
 42 Date of filing
 43 Classification of trade marks in accordance with Nice Classification
 Priority
+44 Claim to priority of Convention application
 45 Claim to priority from other relevant overseas application
 Registration procedure
 46 Examination of application
@@ -122,12 +123,19 @@ REGULATIONS
 95 Rules affecting court procedure
 PART 10
 INTERNATIONAL CONVENTIONS AND EMBLEMS
+96 International Conventions
+97 Protection of well-known trade marks: Article 6bis
+98 National emblems etc. of Convention countries: Article 6ter
+99 Emblems etc. of certain international organisations: Article 6ter
+100 Notification under Article 6ter of the Convention
+101 Madrid Protocol
 PART 11
 FINAL PROVISIONS
 102 Repeal of Trade Marks Act 1974, savings and transitional provisions
 103 Commencement
 SCHEDULE 1 Collective Marks
 SCHEDULE 2 Certification Marks
+SCHEDULE 3 Madrid Protocol
 SCHEDULE 4 Transitional Provisions
 WHEREAS it is expedient to repeal the Trade Marks Act 1974 and replace it with a comprehensive statutory scheme for registered trade marks in order to give effect to the
 Protocol Relating to the Madrid Agreements Concerning International Registration of Marks of 27th June 1989, and selected provisions of the Paris Convention for the Protection of Industrial Property of 20th March 1883 and for connected purposes;

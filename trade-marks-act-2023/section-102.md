@@ -1,5 +1,3 @@
-## PART 10
-## INTERNATIONAL CONVENTIONS AND EMBLEMS
 ## PART 11
 ## FINAL PROVISIONS
 # Repeal of Trade Marks Act 1974, savings and transitional provisions
