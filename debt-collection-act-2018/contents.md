@@ -28,6 +28,7 @@ UNFAIR DEBT COLLECTION PRACTICES
 19 Debt collection fees and charges
 20 Validation of debts
 21 Multiple debts
+22 Credit reporting agencies
 PART 5
 COMPLAINTS, INSPECTIONS AND INVESTIGATIONS
 23 Lodging of complaint
