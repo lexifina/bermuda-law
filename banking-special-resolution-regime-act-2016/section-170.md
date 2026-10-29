@@ -1,0 +1,11 @@
+# Obligations arising under s. 169
+170 (1) For the purpose of an investigation by the Minister in consequence of a report made to him under section 169(2), any obligation imposed on a person by any provision of the Companies Act 1981 to produce documents or give information to, or otherwise to assist, inspectors appointed as mentioned in section 169(3) is to be regarded as an obligation similarly to assist the Minister in his investigation.
+(2) An answer given by a person to a question put to him in exercise of the powers conferred by section 169(3) may be used in evidence against him.
+(3) However, in criminal proceedings in which that person is charged with an offence to which this subsection applies—
+(a) no evidence relating to the answer may be adduced; and
+(b) no question relating to it may be asked,
+by or on behalf of the prosecution, unless evidence relating to it is adduced, or a question relating to it is asked, in the proceedings by or on behalf of that person.
+(4) Subsection (3) applies to any offence other than false statements made on oath otherwise than in judicial proceedings or made otherwise than on oath.
+(5) Where criminal proceedings are instituted by the Director of Public Prosecutions or the Minister following any report or reference under section 169, it is the duty of the bank liquidator and every officer and agent of the bank past and present (other than the defendant) to give to the Director of Public Prosecutions or the Minister (as the case may be) all assistance in connection with the prosecution which he is reasonably able to give.
+(6) For the purpose of subsection (5), “agent” includes any barrister and attorney of the bank and any person employed by the bank as auditor, whether that person is or is not an officer of the bank.
+(7) If a person fails or neglects to give assistance in the manner required by subsection (5), the court may, on the application of the Director of Public Prosecutions or the Minister (as the case may be), direct the person to comply with that subsection; and if the application is made with respect to a bank liquidator, the court may (unless it appears that the failure or neglect to comply was due to the bank liquidator not having in his hands sufficient assets of the bank to enable him to do so) direct that the costs shall be borne by the bank liquidator personally.

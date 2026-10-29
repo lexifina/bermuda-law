@@ -1,0 +1,7 @@
+# Duties of officers charged with execution of writs and other processes
+147 (1) The following applies where a bank’s goods are taken in execution and, before their sale or the completion of the execution (by the receipt or recovery of the full amount of the levy), notice is served on the bank officer charged with execution of the writ or other process, that a provisional bank liquidator has been appointed or that a bank insolvency order has been made.
+(2) The officer shall, on being so required, deliver the goods and any money seized or received in part satisfaction of the execution to the bank liquidator; but the costs of execution are a first charge on the goods or money so delivered, and the bank liquidator may sell the goods, or a sufficient part of them, for the purpose of satisfying the charge.
+(3) If under an execution in respect of a judgment for a sum exceeding $500 a bank’s goods are sold or money is paid in order to avoid sale, the officer shall deduct the costs of the execution from the proceeds of sale or the money paid and retain the balance for 14 days.
+(4) The rights conferred by this section on the bank liquidator may be set aside by the court in favour of the creditor to such extent and subject to such terms as the court thinks fit.
+(5) In this section, “goods” includes all chattels personal.
+(6) The Minister may by regulations increase or decrease the sum of money specified in subsection (3).

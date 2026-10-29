@@ -1,0 +1,7 @@
+# Transfer of accounts of depositors
+107 (1) This section applies where a bank liquidator arranges, in pursuit of Objective 1 in section 106(2)(a), for the transfer of eligible depositors’ accounts from the bank to another financial institution.
+(2) The arrangements may disapply, or provide that they shall have effect despite, any restriction arising by virtue of contract or legislation or in any other way.
+(3) In subsection (2), “restriction” includes—
+(a) any restriction, inability or incapacity affecting what can and cannot be assigned or transferred (whether generally or by a particular person); and
+(b) a requirement for consent (by any name).
+(4) In making the arrangements mentioned in subsection (1), the bank liquidator must ensure that eligible depositors will be able to remove money from transferred accounts as soon as is reasonably practicable after transfer.

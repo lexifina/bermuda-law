@@ -1,0 +1,3 @@
+# Land subject to rentcharge
+272 (1) The following applies where, in consequence of the disclaimer under section 270 of any land subject to a rentcharge, that land vests by operation of law in the Crown or any other person (referred to in subsection (2) as “the proprietor”).
+(2) The proprietor and the successors in title of the proprietor are not subject to any personal liability in respect of any sums becoming due under the rentcharge except sums becoming due after the proprietor, or some person claiming under or through the proprietor, has taken possession or control of the land or has entered into occupation of it.

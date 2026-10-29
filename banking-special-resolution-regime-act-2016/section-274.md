@@ -1,0 +1,8 @@
+# Powers of court (leaseholds)
+274 (1) The court shall not make an order under section 273 vesting property of a leasehold nature in any person claiming under the bank as underlessee or mortgagee except on terms making that person—
+(a) subject to the same liabilities and obligations as the bank was subject to under the lease at the commencement of the bank administration; or
+(b) if the court thinks fit, subject to the same liabilities and obligations as that person would be subject to if the lease had been assigned to him at the commencement of the bank administration.
+(2) For the purposes of an order under section 273 relating to only part of any property comprised in a lease, the requirements of subsection (1) apply as if the lease comprised only the property to which the order relates.
+(3) Where subsection (1) applies and no person claiming under the bank as underlessee or mortgagee is willing to accept an order under section 273 on the terms required by virtue of that subsection, the court may, by order under that section, vest the bank’s estate or interest in the property in any person who is liable (whether personally or in a representative capacity, and whether alone or jointly with the bank) to perform the lessee’s covenants in the lease.
+(4) The court may vest that estate and interest in such a person freed and discharged from all estates, encumbrances and interests created by the bank.
+(5) Where subsection (1) applies and a person claiming under the bank as underlessee or mortgagee declines to accept an order under section 273, that person is excluded from all interest in the property.

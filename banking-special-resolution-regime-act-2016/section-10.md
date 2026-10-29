@@ -1,7 +1,3 @@
-## Part 2
-## Special Resolution Framework
-Part 3
-Exercise of Powers: General
 # Banking Liaison Panel
 10 (1) The Minister shall appoint a panel to advise the relevant authorities about the effect of the special resolution regime on—
 (a) banks;
@@ -20,7 +16,3 @@ Exercise of Powers: General
 (e) one or more persons who in the Minister’s opinion have expertise in law relating to the financial systems of Bermuda;
 (f) one or more persons who in the Minister’s opinion have expertise in insolvency law and practice; and
 (g) one or more persons holding such qualifications as the Minister, in consultation with the BMA, may deem appropriate.
-DIVISION 2
-STABILISATION POWERS
-Part 1
-Stabilisation Options

@@ -1,0 +1,3 @@
+# Information as to pending bank insolvency
+153 (1) If the bank insolvency is not concluded within one year after its commencement, the bank liquidator shall, at such intervals as may be prescribed, until the bank insolvency is concluded, send to the Registrar of Companies a statement in the prescribed form and containing the prescribed particulars with respect to the proceedings in, and position of, the bank insolvency.
+(2) If a bank liquidator fails to comply with this section, he shall be guilty of an offence and liable on summary conviction to a fine of $10,000 and, for continued contravention, to a daily default fine of $200.

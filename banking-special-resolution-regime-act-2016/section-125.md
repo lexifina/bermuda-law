@@ -1,0 +1,3 @@
+# Debts due from contributory to bank
+125 (1) The court may, at any time after making a bank insolvency order, make an order with respect to any contributory for the time being on the lists of contributories to pay, in a manner directed by the order, any money due from him (or from the estate of the person whom he represents) to the bank, exclusive of any money payable by him or the estate by virtue of any call.
+(2) When all the creditors are paid in full (together with interest at the official rate), any money due on any account whatever to a contributory from the bank may be reimbursed to him by way of set-off against any subsequent call.

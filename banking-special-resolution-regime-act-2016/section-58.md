@@ -1,0 +1,4 @@
+# Termination rights
+58 A partial property transfer to which this Part applies may not make provision for sections 38(6) and (7) to apply in relation to—
+(a) a relevant financial instrument to the extent that it confers rights and liabilities which either party to the instrument is entitled to set-off or net under a set-off arrangement, netting arrangement or title transfer financial collateral arrangement, except in so far as those rights and liabilities are excluded rights or excluded liabilities; or
+(b) a set-off arrangement, netting arrangement or title transfer financial collateral arrangement to the extent that it confers a right to set-off or net rights and liabilities under a relevant financial instrument, except in so far as those rights and liabilities are excluded rights or excluded liabilities.

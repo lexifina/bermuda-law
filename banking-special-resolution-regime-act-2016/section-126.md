@@ -1,0 +1,3 @@
+# Power to make calls
+126 (1) The court may, at any time after making a bank insolvency order, and either before or after it has ascertained the sufficiency of the bank’s assets, make calls on all or any of the contributories for the time being settled on the list of the contributories to the extent of their liability, for payment of any money which the court considers necessary to satisfy the bank’s debts and liabilities, and the expenses of bank insolvency, and for the adjustment of the rights of the contributories among themselves, and make an order for payment of any calls so made.
+(2) In making a call, the court may take into consideration the probability that some of the contributories may partly or wholly fail to pay it.

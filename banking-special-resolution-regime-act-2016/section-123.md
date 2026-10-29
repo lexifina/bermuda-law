@@ -1,0 +1,4 @@
+# Power to stay bank insolvency
+123 (1) The court may at any time after the imposition of a bank insolvency order on the application either of the bank liquidator, the BMA, the BDIC or a creditor (but only if the liquidation committee has passed a full payment resolution) and on proof to the satisfaction of the court that all proceedings in the bank insolvency ought to be stayed, make an order staying the proceedings, either altogether or for a limited time, on such terms and conditions as the court thinks fit.
+(2) The court may, before making an order, require the bank liquidator to furnish to it a report with respect to any facts or matters which are in his opinion relevant to the application.
+(3) A copy of every order made under this section shall immediately be forwarded by the bank, or otherwise as may be prescribed, to the Registrar of Companies, who shall enter it in his records relating to the bank.
