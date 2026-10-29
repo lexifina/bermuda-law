@@ -154,6 +154,11 @@ ADVERSE POSSESSION AND PRESCRIPTION
 109 Prescription - easement and profit à prendre
 PART 18
 ELECTRONIC CONVEYANCING
+110 Electronic dispositions: formalities
+111 Authorized networks
+112 Power to require simultaneous registration
+113 Electronic settlement
+114 Supplementary
 PART 19
 MISCELLANEOUS AND GENERAL
 115 Rights of pre-emption
@@ -175,6 +180,7 @@ SCHEDULE 3 First Registration - Ancillary Matters
 SCHEDULE 4 Registrable Dispositions: Registration Requirements
 SCHEDULE 5 Unregistered Interests Which Override Registered Dispositions
 SCHEDULE 6 Alteration of the Register
+SCHEDULE 7 Authorized Networks
 SCHEDULE 8 Miscellaneous and General Provisions
 SCHEDULE 9 Consequential Amendments
 SCHEDULE 10 Registration of Judgments
