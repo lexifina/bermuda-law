@@ -49,14 +49,14 @@ def main() -> None:
                      'the consolidation Bermuda Laws Online publishes (it keeps no earlier text)')
         sys.exit(f'{path}: not found')
     if unit:
-        sys.stdout.write(git('show', f'{h}:{path}'))
+        sys.stdout.buffer.write((git('show', f'{h}:{path}')).encode("utf-8"))
         return
     try:
         names = [n for n in git('show', f'{h}:{law}/index.txt').splitlines() if n]
     except subprocess.CalledProcessError:
         names = sorted(n.rsplit('/', 1)[-1] for n in git('ls-tree', '--name-only', h, f'{law}/').split())
     for n in names:
-        sys.stdout.write(git('show', f'{h}:{law}/{n}') + '\n')
+        sys.stdout.buffer.write((git('show', f'{h}:{law}/{n}') + '\n').encode("utf-8"))
 
 
 if __name__ == '__main__':

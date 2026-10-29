@@ -10,7 +10,7 @@ there as run). The agent that wrote the scripts was Claude Opus 5.5 (claude-opus
 | parse_pdf.py | `532c2fd4b912d61d671d24adac14ddd0ba16a38407ad95a9a81ee51dd9897d72` |
 | build.py | `b870cf424aa31510a20502a5727dd1fc897b77e7cef18878e456cdd6b2e04337` |
 | docs.py | `d968198db8accdd019bc2d380296312bb01aa6f4307398c40061b0199c2d65c1` |
-| check_text.py | `ce952dd790ff4d58d4b2d880095fadfd11aa77215aec16a46d262780d186fa08` |
+| check_text.py | `5022196a5074d2599230e483dce123086bdf8f19d942b361eb75e64df54ac551` |
 | check_repo.py | `5729eea14f103727e03174181e2eb632a3c9c8b5f96135bb6e575245ad004ad7` |
 
 ## Steps

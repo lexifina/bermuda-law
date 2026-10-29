@@ -132,7 +132,7 @@ def schedule_id(text: str) -> str | None:
     if m.group(1):
         return m.group(1)
     if m.group(2):
-        return ORDINALS[m.group(2)]
+        return ORDINALS[m.group(2)] + (m.group(3) or '')
     return ''
 
 
@@ -215,7 +215,7 @@ def parse(pdf_path: str, act: dict) -> dict:
         p = path(name)
         k = 2
         while any(u.path == p for u in units):
-            p = path(f'{name}~{k}')
+            p = path(f'{name[:-3]}~{k}.md')
             k += 1
         cur = Unit(p, pending)
         pending = []
