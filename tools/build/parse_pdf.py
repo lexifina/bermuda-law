@@ -29,10 +29,10 @@ SECNUM = re.compile(r'^[0-9]{1,3}[A-Z]{0,3}$')
 ORDINALS = {'FIRST': '1', 'SECOND': '2', 'THIRD': '3', 'FOURTH': '4', 'FIFTH': '5', 'SIXTH': '6', 'SEVENTH': '7',
             'EIGHTH': '8', 'NINTH': '9', 'TENTH': '10'}
 SCHEDULE = re.compile(r'^(?:SCHEDULE\s+([0-9]{1,2}[A-Z]?)\b|(FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH|EIGHTH|'
-                      r'NINTH|TENTH)\s+SCHEDULE\b|SCHEDULE$)')
+                      r'NINTH|TENTH)\s+SCHEDULE(?:\s+([A-Z])\b(?!\s+[A-Z]))?|SCHEDULE$)')
 END_MATTER = re.compile(r'^\[(?:Assent Date:|Operative Date:|This (?:Act|Order) was brought into operation|Amended by:)')
-SOFT = re.compile('[­​﻿]')
-SPACES = re.compile(r'[\s     ]+')
+SOFT = re.compile('[\u00ad\u200b\ufeff]')
+SPACES = re.compile('[\\s\u2002\u2003\u2009\u202f]+')
 
 
 def norm(s: str) -> str:
@@ -132,7 +132,7 @@ def schedule_id(text: str) -> str | None:
     if m.group(1):
         return m.group(1)
     if m.group(2):
-        return ORDINALS[m.group(2)]
+        return ORDINALS[m.group(2)] + (m.group(3) or '')
     return ''
 
 
@@ -215,7 +215,7 @@ def parse(pdf_path: str, act: dict) -> dict:
         p = path(name)
         k = 2
         while any(u.path == p for u in units):
-            p = path(f'{name}~{k}')
+            p = path(f'{name[:-3]}~{k}.md')
             k += 1
         cur = Unit(p, pending)
         pending = []

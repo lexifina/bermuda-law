@@ -198,8 +198,8 @@ section-144.md
 section-145.md
 section-146.md
 section-147.md
+schedule-1A.md
 schedule-1.md
-schedule-1.md~2
 schedule-2.md
 schedule-3.md
 schedule-4.md

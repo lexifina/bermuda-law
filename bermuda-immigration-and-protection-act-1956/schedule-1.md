@@ -1,23 +1,18 @@
-## FIRST SCHEDULE A
-(Section 19(2))
-## PERSONS WITH A QUALIFYING BERMUDIAN CONNECTION
-1. For a person to have a qualifying Bermudian connection under section 19 of this Act, he must fall within a class of a description set forth in paragraph 2; and those descriptions are subject to paragraphs 3 and 4.
-2. The classes of persons referred to are—
-A a person who at any time answered one of the following descriptions—
-(a) he was deemed to possess Bermudian status under subsection (2) of section 16 of this Act;
-(b) [Repealed by 2020 : 16 s. 9]
-(c) he would have qualified under (a) above had he been a Commonwealth citizen.
-B a person who at any time possessed Bermudian status under this Act, except where his claim to possess such status depends solely on his rights under subsection (2) of section 16 of this Act or under subsection (2) of section 4 of the Bermuda Immigration and Protection Amendment Act 1980;
-C [Repealed by 2020 : 16 s. 9]
-D a person who can show that he has had an honest belief that he is Bermudian and who, in the Minister’s opinion, has conducted himself in everyday life as Bermudian and has been accepted by the community of Bermuda as possessing Bermudian status. In forming that opinion, the Minister must be of the view that the following conditions are satisfied in relation to that person, that is to say, that—
-(a) although not in law possessing Bermudian status—
-(i) he has worked in Bermuda free of control under Part V of this Act; or
-(ii) he has obtained ostensible title to land without being required to obtain a licence from the Government; or
-(iii) he has voted in a general election in Bermuda without being challenged; and
-(b) there is other evidence indicating generally that he has been accepted as a person possessing Bermudian status by persons dealing with him.
-E a person who is the son or daughter or brother or sister of a person who has been granted Bermudian status under section 20A of this Act;
-F a person who is the son or daughter of a person who has been granted Bermudian status under section 20B(2)(b) of this Act.
-3. The requirements specified in subparagraphs B or D (as the case may be) of paragraph 2 must have been satisfied throughout the period mentioned in paragraph (b) of subsection (1) of section 19 of this Act.
-3A. For the avoidance of doubt, paragraph 3 does not apply to subparagraphs A, E or F of paragraph 2.
-4. In considering an application under section 19 of this Act, the Minister shall apply the law in force at the time he is considering the application, whether or not that law is different from the law in force at the time when any event or circumstance forming part of the facts underlying the application occurred.
-[First Schedule A inserted by 1994 : 23 effective 13 July 1994; amended by 1997 : 33 effective 1 May 1998; note to para. 2A deleted by 2002 : 36 Sch. para. 3(i) effective 19 January 2004; First Schedule A amended by 2020 : 16 s. 9 effective 1 September 2020]
+## FIRST SCHEDULE
+(Section 59)
+## SPECIAL CATEGORY PERSONS
+## PART I
+## PERSONS IN GOVERNMENT EMPLOYMENT
+1 Any person who is a public officer within the meaning of section 102 of the Constitution or who is a judge of the Supreme Court or of the Court of Appeal within the meaning of the Constitution.
+2 Any person who is employed in Bermuda by Her Majesty’s Government in the United Kingdom or who arrives in Bermuda as required by any branch or department of that Government for the purpose of taking up any such employment.
+3 Any person who is a member of Her Majesty’s Regular Forces or of any Reserve Force while embodied or mobilized, or the armed forces of any foreign country recognized by Her Majesty who is in, or who arrives in, Bermuda in the course of his duty as such.
+4 Any person who is the accredited representative or agent of any part of Her Majesty’s dominions.
+5 Any person who is an officer or servant of an international organization upon whom any immunities or privileges are granted under section 1(2) of the International Organizations Etc. (Immunities and Privileges) Act 1948, and who is in, or who arrives in, Bermuda for the purposes of any such organization.
+6 Any person who is a consular officer of any foreign country, who is in, or who arrives in, Bermuda solely for the purpose of discharging his duties as such.
+## PART II
+## PERSONS NOT IN GOVERNMENT EMPLOYMENT
+1 Any person who is a member of the crew of any ship ordinarily engaged in ocean-going voyages to places outside Bermuda.
+1A Any person (not falling within paragraph 1) who is a member of the crew of a superyacht, as defined in section 1 of the Passenger Ships and Other Vessels Act 1972, which is providing chartering services in Bermuda in accordance with a charter permit granted under section 3C of that Act.
+2 Any person who is employed as a member of the crew of aircraft ordinarily engaged in flights to places outside Bermuda.
+3 Any person who is engaged as a member of the scientific or technical staff of the Biological Station maintained under the Biological Station Act 1927.
+[First Schedule Part II amended by 2019 : 27 s. 7A (see also by 2019 : 53 s. 3) effective 1 January 2020]
