@@ -22,6 +22,7 @@ TABLE OF CONTENTS
 11 Conditions of payments out of Consolidated Fund
 11A Virements
 12 Payments out of Consolidated Fund for salaries, special allowance, overtime and pensions
+12A Payments out of Consolidated Fund for rebate of taxes, fees or duty
 13 Payment out of Consolidated Fund of sums due on death
 14 Administration of payments due to deceased persons where payee is under legal disability
 15 Minister may appoint bank in which Government account may be maintained

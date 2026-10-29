@@ -23,6 +23,7 @@ section-10G.md
 section-11.md
 section-11A.md
 section-12.md
+section-12A.md
 section-13.md
 section-14.md
 section-15.md
