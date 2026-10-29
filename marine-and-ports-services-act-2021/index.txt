@@ -58,6 +58,7 @@ section-48.md
 section-49.md
 section-50.md
 section-51.md
+section-52.md
 section-53.md
 section-54.md
 section-55.md

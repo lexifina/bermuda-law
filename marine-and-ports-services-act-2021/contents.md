@@ -75,6 +75,7 @@ ISLAND BOATS
 49 Minister may require repairs to Island boat
 50 Prohibition of running Island boat in disrepair
 51 Inspection of Government boats
+52 Crews of Island boats plying for hire; certification
 53 Crews of Island boats; examination of applicants for licence
 54 Crews of Island boats; suspension or cancellation of licence
 55 Crews of Island boats; Minister may make regulations
