@@ -1,0 +1,6 @@
+# Examination of trade licence motor car
+37 (1) Except where a motor car is being used—
+(a) for the purpose of driving it from the place where it was disembarked in Bermuda to a place of business of a dealer; or
+(b) for any purpose connected with the examination, maintenance or repair of the motor car, no motor car shall be used under the authority of a trade licence unless the motor car has been examined by an examiner and has been certified by the examiner in such form as the Minister may from time to time determine to be fit for the purposes set out in section 57(2)(c), (d) and (e) of the Motor Car Act 1951.
+(2) A certificate mentioned in paragraph (1) must have been given by an examiner in respect of the motor car within the period of twelve months last preceding the date of the use of the motor car under the authority of a trade licence.
+(3) Without prejudice to anything hereinbefore contained, the Minister may require any vehicle to be weighed or measured prior to its use for the purpose mentioned in section 57(2)(c), (d) and (e) of the Motor Car Act 1951, and for the purposes of this paragraph, any journey to or from a place where such weighing or measurement takes place shall be deemed to be a journey for the purposes of the examination of the motor car.

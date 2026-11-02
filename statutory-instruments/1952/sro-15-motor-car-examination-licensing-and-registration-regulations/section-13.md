@@ -1,0 +1,7 @@
+# Re-issue
+13 (1) Without prejudice to section 19 of the Motor Car Act 1951 (which section imposes restrictions on the licensing of second-hand private motor cars), and subject to this regulation, a motor car licence in respect of the use of a duly registered motor car shall be re-issued by the Minister in respect of any licence period subsequent to the initial licence period—
+(a) upon surrender of the licence to the Minister for the necessary alterations; and
+(b) upon payment of the appropriate licence duty (if any) calculated in accordance with the Motor Car Act 1951.
+(2) The Minister, where he thinks it expedient to do so, may fix a date on or before which applications for the issue of motor car licences should be forwarded to him, being a day not earlier than fourteen days before the first day of the appropriate licence period.
+(3) The Minister shall cause notice to be given of any such date by public advertisement or otherwise, and if any person fails comply with any such requirements of the Minister his application shall be dealt with as time allows, and no remedy shall lie against the Minister if a motor car licence is issued in respect of such application after the first day of the appropriate licence period.
+(4) In this regulation, “licence period” has the meaning assigned to it in section 59 of the Motor Car Act 1951, and “the appropriate licence period” means the licence period appropriate to the class of motor car in respect of which a licence has been, or is to be, issued.
