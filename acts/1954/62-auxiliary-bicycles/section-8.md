@@ -1,0 +1,3 @@
+# Electrical propulsion
+8 (1) Where the Minister is satisfied that any auxiliary bicycle of a particular class, make or model, which is propelled solely by electrical power, is incapable of exceeding 30 miles per hour when driven on a level surface, he may declare by notice published in the Gazette, auxiliary bicycles of that class, make or model to be approved electrical auxiliary bicycles.
+(2) Where an auxiliary bicycle is declared under subsection (1) to be an approved electrical auxiliary bicycle, the rate of import duty payable under Division 73 of the First Schedule to the Customs Tariff Act 1970 [title 14 item 12] in respect of the importation of any such auxiliary bicycle shall be reduced by one half.

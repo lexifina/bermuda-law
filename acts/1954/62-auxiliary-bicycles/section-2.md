@@ -1,0 +1,3 @@
+# Application of Act
+2 (1) Nothing in the succeeding provisions of this Act shall apply or have effect in relation to an auxiliary bicycle which is, by reason of a declaration made by the Minister in pursuance of the Motor-Cycles and Auxiliary Bicycles (Special Measures of Control) Act 1953 [title 21 item 6], to be treated as a motor-cycle; and accordingly any reference to an auxiliary bicycle in such succeeding provisions shall be construed accordingly.
+(2) Except where otherwise expressly provided, nothing in this Act or in any regulations made thereunder shall apply in relation to the use or driving of an auxiliary bicycle elsewhere than on a road.

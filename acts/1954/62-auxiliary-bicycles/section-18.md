@@ -1,0 +1,17 @@
+# Examination of auxiliary bicycle
+18 (1) Subject to subsections (6) and (7), an auxiliary bicycle licence shall not be issued in respect of an auxiliary bicycle unless the auxiliary bicycle, at a date within four months before the date on which the licence is to come into force, has been examined by an examiner or inspector and has been certified by the examiner or inspector to be fit for use on the roads of Bermuda.
+(2) The Minister may before issuing an auxiliary bicycle licence in respect of any auxiliary bicycle require the auxiliary bicycle to be measured at a specified time and place.
+(3) If the Minister has reason to suspect that a licensed auxiliary bicycle has ceased to be fit for use on the roads of Bermuda, then the Minister may order the owner or the person in charge of the auxiliary bicycle to produce it for examination by an examiner or inspector at a specified time and place, and thereupon—
+(a) if the order is not obeyed, then, without prejudice to any proceedings that may be taken in respect of the disobedience, the Minister may in his discretion order that the auxiliary bicycle shall not be used until the order is obeyed;
+(b) if on examination the auxiliary bicycle is found by an examiner or inspector to be unfit for use on the roads of Bermuda the Minister shall order that the auxiliary bicycle shall not be used until the examiner or inspector is satisfied that all necessary repairs, adjustments or alterations have been made.
+(4) Where there has been a change of ownership of an auxiliary bicycle, otherwise than by reason of the death of the owner, the Minister before issuing or reissuing an auxiliary licence in respect of the auxiliary bicycle, may require the new owner to produce the auxiliary bicycle for examination by an examiner or inspector at a specified time and place; and if on examination the auxiliary bicycle is found by the examiner or inspector to be unfit for use on the roads of Bermuda the Minister shall refuse to issue or reissue an auxiliary bicycle licence in respect of the auxiliary bicycle until the examiner or inspector certifies that the auxiliary bicycle is fit for use as aforesaid.
+(5) In determining whether an auxiliary bicycle is fit or unfit for use on the roads of Bermuda, the appearance and general condition of the auxiliary bicycle, as well as matters affecting its mechanical fitness or safety, shall be taken into consideration, and an auxiliary bicycle shall be deemed to be unfit for such purpose as aforesaid if its paintwork, fittings and other parts are not in reasonably good order and condition.
+(6) The Minister may, in the case of a new auxiliary bicycle, other than an auxiliary bicycle purchased otherwise than through a dealer, authorize a dealer to examine the auxiliary bicycle.
+(7) Where, pursuant to subsection (6), a dealer examines an auxiliary bicycle and the dealer certifies—
+(a) that the auxiliary bicycle is not an auxiliary bicycle purchased otherwise than through a dealer;
+(b) that the auxiliary bicycle is new;
+(c) that the auxiliary bicycle has been examined by him; and
+(d) that the auxiliary bicycle is fit for use on the roads of Bermuda,
+that auxiliary bicycle shall be deemed to have been examined pursuant to subsection (1).
+(8) In this section “dealer” means a dealer in auxiliary bicycles.
+[Section 18 amended by 1995:30 effective 30 June 1995; amended by 2008:44 s.13 effective 23 December 2008]
