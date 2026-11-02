@@ -1,0 +1,2 @@
+# HM Forces and United States Forces
+3 Nothing in these Regulations shall apply in relation to a driver’s licence or learner’s permit issued to a member of Her Majesty’s Forces or the United States Forces in respect of the driving of any motor car in the service of Her Majesty’s Forces or the United States Forces and being the property of Her Majesty or of the Government of the United States of America, as the case may be.

@@ -1,0 +1,3 @@
+# Duty of disabled driver
+20 Where any person who has a disability which impairs his control of a motor car is able, by means of glasses, artificial limbs or other devices, as the case may be, to correct that disability to such an extent that a driver’s licence or a learner’s permit is issued under these Regulations, it shall be deemed to be a condition of the licence or permit, as the case may be, that the holder thereof, when driving a motor car, wears such glasses, artificial limb or other device as may be necessary to correct his disability; and if while driving a motor car he fails to do so, the licence or permit shall be deemed to be invalid during the period he so drives the motor car.
+21 [Section 21 deleted by 1976:58]
