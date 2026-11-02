@@ -1,10 +1,11 @@
 # Duration and renewal of drivers’ licences
 86 (1) Subject to the subsections (1A) to (5) and the provisions of this Part, unless suspended or cancelled under any Act—
-(a) a driver’s licence issued to a person who was at the time of such issue eighteen years of age or over—
-(i) shall remain in force for the period of ten years next succeeding the date of the issue of the licence; and
-(ii) may be renewed every ten years—
-(A) with the applicant for renewal being required to produce a certificate of physical fitness as is required by section 80;
-(B) without the applicant for renewal being required to pass a further driving examination and to obtain a further certificate of competence; and
+(a) a driver’s licence issued to a person who was at the time of issue 18 years of age or over—
+(i) shall remain in effect for a period of 10 years after the date of issue;
+(ii) may be renewed every 10 years provided that the applicant in the case of the renewal of a driver’s licence—
+(A) for a private motor car or motor cycle submits a completed personal medical declaration, in such form as the Director determines, or a certificate of physical fitness from a registered medical practitioner where required by the Director;
+(B) for a class of motor car not specified in clause (A), submits a certificate of physical fitness from a registered medical practitioner;
+(C) for any class of motor car, where the applicant has attained the age of 70 years or older at the date of application for the renewal, submits a certificate of physical fitness from a registered medical practitioner; and
 (b) a driver’s licence issued to a person who was at the time of such issue seventy years of age or over shall remain in force for a period of five years next succeeding the date of the issue of the licence;
 (c) a driver’s licence issued to a person who was at the time of such issue seventy-five years of age or over shall remain in force for a period of two years next succeeding the date of the issue of the licence;
 (d) a driver’s licence valid for the driving of a funeral home limousine, public service vehicle, heavy truck, tractor trailer, tank wagon, community service vehicle or a self-propelled constructional machine shall remain in force for a period of three years next succeeding the date of the issue of the licence; and
@@ -30,4 +31,6 @@ then in either such case at the end of the period for which the licence is issue
 and in each case produces the like certificate of physical fitness as is required by section 80.
 (4) For the purposes of this section the date of the issue of a driver’s licence shall be deemed to be the day following the anniversary of the birth of the driver immediately preceding the actual date of issue.
 (5) In calculating the fee payable for a driver’s licence a proportionate allowance will be made to the driver in respect of any period before the actual date of issue by reason of the operation of subsection (4), a part of a month being treated as a whole month for the purpose of making such calculation.
-[Section 86 amended by 1994:13 effective 23 March 1994; subsection (1)(d) amended by 1999:38 s.8 effective 14 September 1999; Section 86 amended by 2021 : 13 s. 2 effective 6 April 2021]
+(6) A person shall not provide false or misleading information on a personal medical declaration form.
+(7) A person who contravenes subsection (6) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.00.
+[Section 86 amended by 1994:13 effective 23 March 1994; subsection (1)(d) amended by 1999:38 s.8 effective 14 September 1999; Section 86 amended by 2021 : 13 s. 2 effective 6 April 2021; Section 86 subsection (1)(a) deleted and substituted, and subsections (6) and (7) inserted by 2026 : 38 s. 2 effective 19 October 2026]

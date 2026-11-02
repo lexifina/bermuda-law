@@ -103,7 +103,7 @@ MOTOR CAR LICENCES AND REGISTRATION
 53A Satisfaction of emissions standards in connection with motor car licences
 53B Licensing during a national emergency
 54 Examination of motor cars in connection with motor car licences
-55 Special provision for quarterly examination of public service vehicles
+55 Special provision for the examination of public service vehicles
 55A No motor car licence issued if traffic fine is unpaid
 56 Minister may exempt cars in service of Forces from inspection
 57 Trade licences
