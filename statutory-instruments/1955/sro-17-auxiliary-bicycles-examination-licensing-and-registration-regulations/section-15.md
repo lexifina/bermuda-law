@@ -1,0 +1,2 @@
+# Defacement etc of identification plates
+15 Any person who alters, defaces or mutilates any identification plate or validation sticker or who exhibits or causes to be exhibited on any auxiliary bicycle any identification plate or validation sticker other than such plate or sticker as is lawfully issued in respect of that auxiliary bicycle by the Minister commits an offence against these Regulations.

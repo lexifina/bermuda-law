@@ -1,0 +1,2 @@
+# Alteration of particulars in auxiliary bicycle licence
+11 If any alteration is made to an auxiliary bicycle after it has been registered and licensed, or any alteration occurs in respect of the name or address of the owner, being in either case an alteration which affects the registration particulars set out in the auxiliary bicycle licence, then the owner shall forthwith, in writing, notify such alteration to the Minister, and at the same time deliver up the licence for amendment.
