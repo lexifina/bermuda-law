@@ -46,6 +46,30 @@ one line per printed row, with ` | ` between cells. Each law's `title.md` has it
 printed table of contents, `end.md` the assent date, the operative date where printed, and the "Amended by" list, and
 `index.txt` lists the files in printed order.
 
+## Known date and current-text limitations
+
+The original `In-force` trailers and the date reader use PDF production dates. The official PDFs state earlier
+effective dates for the latest amendments. Those source dates are listed below as known limitations;
+they have not been applied to the historical commits or the date reader.
+
+| Act | Published In-force | Source latest effective amendment |
+| --- | --- | --- |
+| bermuda-immigration-and-protection-act-1956 | 2026-07-21 | 2026-07-09 (2026 : 19 effective 2026-07-09 (source PDF amendment note)) |
+| constitution | 2026-10-19 | 2020-08-21 (BR 122 / 2017 effective 2020-08-21 (source PDF amendment note)) |
+| employment-act-2000 | 2026-06-09 | 2026-06-01 (2026 : 3 effective 2026-06-01 (source PDF amendment note)) |
+| human-rights-act-1981 | 2023-06-30 | 2022-02-07 (2021 : 36 effective 2022-02-07 (source PDF amendment note)) |
+| interpretation-act-1951 | 2022-06-29 | 2021-02-01 (2018 : 57 s. 3 effective 2021-02-01 (source PDF amendment note)) |
+| motor-car-act-1951 | 2026-07-16 | 2026-04-24 (2026 : 16 effective 2026-04-24 (source PDF amendment note)) |
+
+The Motor Car Act's published text also omits amendments by 2026 : 38 s. 2 effective 19 October 2026.
+The official PDF produced on 2 November 2026 contains those amendments. Seven published files are affected:
+`contents.md`, `end.md`, `section-54.md`, `section-55.md`, `section-59.md`, `section-80.md` and `section-86.md`,
+all in `motor-car-act-1951/`. That text therefore does not fully reflect the law in force on 28 October 2026.
+
+The source-date repairs and the Motor Car text correction are held pending resolution of the existing validation
+contract: its consolidated-only, single-version assumptions reject labelled corrections and earlier source-date
+answers. This documentation records the defects. The published law files, date records and tools remain unchanged.
+
 ## The dates, and which one we use
 
 Each consolidated PDF carries the date it was produced (its CreationDate, for example `D:20260716145002-04'00'` for
