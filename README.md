@@ -1,5 +1,7 @@
 # The laws of Bermuda, as a git repository
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bermuda's national law, which global-law reads at `bermuda/national/acts/`.
+
 Six Bermuda laws, as consolidated by the Attorney-General's Chambers on [Bermuda Laws Online](https://www.bermudalaws.bm):
 the Bermuda Constitution Order 1968 (with the Constitution of Bermuda, its Schedule 2), the Interpretation Act 1951,
 and four often-amended Acts. There is one file per section or schedule (725 files), with one paragraph per line,
