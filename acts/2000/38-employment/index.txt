@@ -63,7 +63,9 @@ section-43.md
 section-44.md
 section-44A.md
 section-44B.md
+section-44BA.md
 section-44C.md
+section-44CA.md
 section-44D.md
 section-44E.md
 section-44F.md
@@ -73,6 +75,10 @@ section-44I.md
 section-44J.md
 section-44K.md
 section-44L.md
+section-44LA.md
+section-44LB.md
+section-44LC.md
+section-44LD.md
 section-44M.md
 section-44N.md
 section-44O.md

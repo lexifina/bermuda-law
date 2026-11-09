@@ -5,4 +5,9 @@
 (4) An employer shall be deemed to have waived his right to terminate under subsection (2) or (3) if he does not do so within 14 days after having knowledge of—
 (a) the second further occasion of misconduct referred to in subsection (2); or
 (b) the fourth further occasion of misconduct referred to in subsection (3).
-[Section 26 repealed and replaced by 2021 : 2 s. 16 effective 1 June 2021]
+(5) A written warning shall not be issued or employee’s contract of employment terminated, under this section, while an employee is—
+(a) on vacation leave, maternity leave, paternity leave, parental leave or bereavement leave;
+(b) on sick leave, unless the period of sick leave extends beyond six weeks;
+(c) on any other leave that an employee is entitled to under any agreement or contract of employment; or
+(d) off duty.
+[Section 26 repealed and replaced by 2021 : 2 s. 16 effective 1 June 2021; Section 26 subsection (5) inserted by 2026 : 36 s. 6 effective 1 November 2026]

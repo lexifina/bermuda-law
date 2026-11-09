@@ -81,20 +81,26 @@ EMPLOYMENT AND LABOUR RELATIONS TRIBUNAL
 Application, establishment and powers
 44A Interpretation and application of Part
 44B Employment and Labour Relations Tribunal
+44BA Immunity from suit
 44C General powers
+44CA Case management powers of the Tribunal
 44D Power to obtain information
 44E Power to exclude public
 Decisions and Awards
 44F Notification and publication of award
 44G Award to require concurrence
 44H Award of Tribunal not to conflict with any Act
-44I Tribunal award binding
+44I Enforcement of Tribunal awards
 44J Award may be retrospective
 44K Question as to interpretation of an award
 44L Non-compliance with award
+44LA Notice of continuing non-compliance
+44LB Naming Register for Unpaid Tribunal Awards
+44LC Objection to entry on Naming Register
+44LD Correction, annotation or removal from Naming Register
 Other functions of the Tribunal and appeals
 44M Power of Tribunal to impose civil penalties
-44N Tribunal to submit reports
+44N Submission of reports to the Minister
 44O Appeals
 PART VI
 SUPPLEMENTARY

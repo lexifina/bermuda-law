@@ -10,9 +10,11 @@
 (d) where the giving of longer periods of notice is customary given the nature and functions of the work performed by the employee.
 (3) A notice of termination shall not be given by an employer during an employee’s absence—
 (a) on vacation leave, maternity leave, paternity leave, parental leave or bereavement leave;
-(b) on sick leave, unless the period of sick leave extends beyond six weeks.
+(b) on sick leave, unless the period of sick leave extends beyond six weeks;
+(c) on any other leave that an employee is entitled to under any agreement or contract of employment; or
+(d) while off duty.
 (4) An employee shall give his employer the statutory notice period to terminate his contract of employment unless—
 (a) the employer waives his right to notice;
 (b) a longer notice period applies by contract, by collective agreement or otherwise by agreement between the employer and employee; or
 (c) the giving of longer periods of notice is customary given the nature and functions of the work performed by the employee.
-[Section 20 subsection (3)(a) amended by 2019 : 39 s. 5 effective 1 January 2020; Section 20 subsection (3)(b) amended by 2021 : 2 s. 13 effective 1 June 2021; Section 20 subsection (3)(a) amended by 2026 : 3 s. 4 effective 1 June 2026]
+[Section 20 subsection (3)(a) amended by 2019 : 39 s. 5 effective 1 January 2020; Section 20 subsection (3)(b) amended by 2021 : 2 s. 13 effective 1 June 2021; Section 20 subsection (3)(a) amended by 2026 : 3 s. 4 effective 1 June 2026; Section 20 subsection (3) amended by 2026 : 36 s. 3 effective 1 November 2026]

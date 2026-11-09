@@ -37,9 +37,9 @@
 ## TRIBUNAL AUTONOMOUS
 15 In the exercise of the powers conferred on it by this Act, the Tribunal shall not be subject to the direction or control of any other person or authority.
 ## PROCEEDINGS
-16 As soon as practicable after a matter is referred to the Tribunal, it shall hold a hearing and give all parties, or their representatives, full opportunity to present evidence on oath and make submissions.
+16 As soon as practicable after a matter is referred to the Tribunal, it shall hold a case management hearing to give all parties orders and directions and to set hearing dates to allow parties or their representatives full opportunity to present evidence on oath and make submissions.
 17 Parties to any proceedings before the Tribunal may appear personally or be represented, by counsel or otherwise.
 18 Notwithstanding section 44E, the Tribunal may impose reporting restrictions where it considers it necessary or desirable to protect the privacy of parties to a hearing.
 19 The Arbitration Act 1986 shall not apply to any proceedings of the Tribunal or to any award made by it.
 20 Save as otherwise provided by any provision of this Act or in regulations made by the Minister regulating the procedure to be followed by the Tribunal, the Tribunal shall regulate its own proceedings as it thinks fit.
-[Schedule 2 heading amended by 2021 : 2 s. 23 effective 1 June 2021; Schedule 2 repealed and replaced by 2021 : 7 s. 99 & Sch. 7 effective 1 June 2021]
+[Schedule 2 heading amended by 2021 : 2 s. 23 effective 1 June 2021; Schedule 2 repealed and replaced by 2021 : 7 s. 99 & Sch. 7 effective 1 June 2021; Schedule 2 paragraph 16 repealed and substituted by 2026 : 36 s. 16 effective 1 November 2026]
