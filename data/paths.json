@@ -1,0 +1,13 @@
+{
+"layout": "<kind>/<year>/<number>",
+"since": "2026-11-10",
+"note": "Act folders before the layout move were named by the act id (slug); paths maps each id to its folder. Ids not placed by the rule keep their folder.",
+"paths": {
+"bermuda-immigration-and-protection-act-1956": "act/1956/bermuda-immigration-and-protection",
+"constitution": "constitution/constitution",
+"employment-act-2000": "act/2000/employment",
+"human-rights-act-1981": "act/1981/human-rights",
+"interpretation-act-1951": "act/1951/interpretation",
+"motor-car-act-1951": "act/1951/motor-car"
+}
+}
