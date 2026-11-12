@@ -1,0 +1,2 @@
+# Part XII of Convention, to apply to territorial waters and EEZ
+2 The area of sea defined as the territorial sea, in the Bermuda (Territorial Sea) Order in Council 1988 and the exclusive economic zone, in the Proclamation Establishing the Exclusive Economic Zone for Bermuda 1996, are prescribed as areas within which the jurisdiction and rights of Bermuda are exercisable in accordance with Part XII of the United Nations Convention on the Law of the Sea 1982, for the protection and preservation of the marine environment.
