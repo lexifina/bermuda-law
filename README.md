@@ -1,146 +1,87 @@
-# The laws of Bermuda, as a git repository
+# Bermuda: law history in git
+
+
+The law of Bermuda as a git history: one file per section or schedule, one commit per consolidation of a law, and the publisher of that consolidation as the commit's author. Bermuda Laws Online keeps only each law's current consolidation, so each law here has one version for now; later consolidations are added as new commits, and `git log` and `git blame` will then show what each one changed. Picking a date gives the text this record holds that day.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Bermuda's national law, which global-law reads at `bermuda/national/acts/`.
 
-Six Bermuda laws, as consolidated by the Attorney-General's Chambers on [Bermuda Laws Online](https://www.bermudalaws.bm):
-the Bermuda Constitution Order 1968 (with the Constitution of Bermuda, its Schedule 2), the Interpretation Act 1951,
-and four often-amended Acts. There is one file per section or schedule (725 files), with one paragraph per line,
-so `git blame` and `git diff` work line by line. It follows the shared design of
-[lexifina/global-law](https://github.com/lexifina/global-law), which places it at `bm/national/acts`.
+**What is in it now:** six laws, each in its current consolidation, produced between 29 June 2022 and 19 October 2026: the Bermuda Constitution Order 1968, with the Constitution of Bermuda as its Schedule 2; the Interpretation Act 1951; the Motor Car Act 1951; the Bermuda Immigration and Protection Act 1956; the Human Rights Act 1981; and the Employment Act 2000. They make 725 section and schedule files, with the history notes printed under the sections (772 rows naming 174 amending laws, in [`data/amendments.csv`](data/amendments.csv)) and the laws' "Amended by" lists (299 entries, in [`data/amended-by.csv`](data/amended-by.csv)). [`laws.csv`](laws.csv) lists the six laws with their numbers and consolidation days.
 
-**What this repository is not, yet: a history.** Bermuda Laws Online publishes only the current consolidated text of
-each law and keeps no earlier consolidations. So each law is a single commit holding its whole current text
-(`Kind: consolidated`). There is no line-by-line history before the consolidation date. Later consolidations will be
-added from now on as new commits, so the history grows forward from here. The amendment history the site prints is
-kept: every history note under a section (`[Section 7A inserted by 2008:44 s.4 effective 23 December 2008]`) and each
-law's "Amended by" list are in the files, and both are listed in [`data/amendments.csv`](data/amendments.csv).
+Each Act is in `act/<year>/<short title>/`, one file per section or schedule (`act/2000/employment/section-12.md` is section 12, vacation leave, of the Employment Act 2000, 2000 : 38); the Constitution's sections are in `constitution/constitution/` and the Order's own in `constitution/constitution/order/`. Each law's `end.md` holds its "Amended by" list; `data/paths.json` maps each law's id (`employment-act-2000`, its folder before 10 November 2026) to its folder.
 
-| Law | Number | Folder | Consolidated | Files | History notes | "Amended by" entries |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bermuda Immigration and Protection Act 1956 | 1956 : 30 | `bermuda-immigration-and-protection-act-1956/` | 2026-07-21 | 203 | 120 | 78 |
-| Bermuda Constitution Order 1968 | BX 182 / 1968 | `constitution/` | 2026-10-19 | 127 | 33 | 10 |
-| Employment Act 2000 | 2000 : 38 | `employment-act-2000/` | 2026-06-09 | 83 | 66 | 21 |
-| Human Rights Act 1981 | 1981 : 41 | `human-rights-act-1981/` | 2023-06-30 | 62 | 51 | 22 |
-| Interpretation Act 1951 | 1951 : 68 | `interpretation-act-1951/` | 2022-06-29 | 50 | 13 | 28 |
-| Motor Car Act 1951 | 1951 : 89 | `motor-car-act-1951/` | 2026-07-16 | 200 | 117 | 140 |
+The text is in English, as the consolidated PDFs print it, one paragraph per line; each history note (`[Section 12 amended by 2019 : 39 s. 2 effective 1 January 2020]`) is a line of its own.
 
-The record holds 6 laws, consolidated between 2022-06-29 and 2026-10-19, in 7 commits.
-
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What does section 7A of the Motor Car Act 1951 say? | `python tools/in_force_on.py 2026-10-28 motor-car-act-1951 section-7A` |
-| The whole of a law, in printed order | `python tools/in_force_on.py 2026-10-28 human-rights-act-1981` |
-| Section 1 of the Constitution of Bermuda | `cat constitution/section-1.md` |
-| Section 4 of the Constitution Order itself | `cat constitution/order/section-4.md` |
-| Which laws amended an Act ("Amended by") | `cat employment-act-2000/end.md` |
-| What a section's history notes say | `grep -h '^\[' motor-car-act-1951/section-2.md` |
-| Every section an amending law touched, by its notes | `grep '2008:44' data/amendments.csv` |
-| What changed in a law since this build (after later builds) | `git log -p -- motor-car-act-1951` |
-| The list of laws, with their dates | [`laws.csv`](laws.csv) |
+| Every change to section 12 of the Employment Act | `git log --follow -p --word-diff -- act/2000/employment/section-12.md` |
+| Which consolidation each line of section 12 comes from | `git blame act/2000/employment/section-12.md` |
+| Every version of section 12, with its consolidation day | `git log --follow --diff-filter=AM --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- act/2000/employment/section-12.md` |
+| Section 12 as it stood on 14 November 2026 | `python tools/in_force_on.py 2026-11-14 act/2000/employment section-12` |
 
-Each file starts with any Part or Chapter headings above it (`## PART II`), then the section heading as printed
-(`# Interpretation`), then its paragraphs, one per line. The section number comes first on the first paragraph, as
-in the margin of the PDF (`2 (1) In this Act ...`). Labels come before their text (`(a) ...`). A history note is a
-paragraph of its own, copied as printed. Schedules are one file each (`schedule-1B.md`); their tables are flattened to
-one line per printed row, with ` | ` between cells. Each law's `title.md` has its title and number, `contents.md` the
-printed table of contents, `end.md` the assent date, the operative date where printed, and the "Amended by" list, and
-`index.txt` lists the files in printed order.
+**Outside git**, we also host this record publicly, for free:
 
-## Known date and current-text limitations
+- **[Ask Claude about Bermuda law](https://global-law.lexifina.com/v1/try_claude?country=bermuda)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=bermuda)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=vacation+leave&jurisdictions=bermuda)**: a search of Bermuda law for "vacation leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-The original `In-force` trailers and the date reader use PDF production dates. The official PDFs state earlier
-effective dates for the latest amendments. Those source dates are listed below as known limitations;
-they have not been applied to the historical commits or the date reader.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
 
-| Act | Published In-force | Source latest effective amendment |
-| --- | --- | --- |
-| bermuda-immigration-and-protection-act-1956 | 2026-07-21 | 2026-07-09 (2026 : 19 effective 2026-07-09 (source PDF amendment note)) |
-| constitution | 2026-10-19 | 2020-08-21 (BR 122 / 2017 effective 2020-08-21 (source PDF amendment note)) |
-| employment-act-2000 | 2026-06-09 | 2026-06-01 (2026 : 3 effective 2026-06-01 (source PDF amendment note)) |
-| human-rights-act-1981 | 2023-06-30 | 2022-02-07 (2021 : 36 effective 2022-02-07 (source PDF amendment note)) |
-| interpretation-act-1951 | 2022-06-29 | 2021-02-01 (2018 : 57 s. 3 effective 2021-02-01 (source PDF amendment note)) |
-| motor-car-act-1951 | 2026-07-16 | 2026-04-24 (2026 : 16 effective 2026-04-24 (source PDF amendment note)) |
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-The Motor Car Act's published text also omits amendments by 2026 : 38 s. 2 effective 19 October 2026.
-The official PDF produced on 2 November 2026 contains those amendments. Seven published files are affected:
-`contents.md`, `end.md`, `section-54.md`, `section-55.md`, `section-59.md`, `section-80.md` and `section-86.md`,
-all in `motor-car-act-1951/`. That text therefore does not fully reflect the law in force on 28 October 2026.
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add bermuda/national/acts
+python3 tools/law.py show 2026-11-14 bermuda/national/acts/act/2000/employment/section-12.md
+```
 
-The source-date repairs and the Motor Car text correction are held pending resolution of the existing validation
-contract: its consolidated-only, single-version assumptions reject labelled corrections and earlier source-date
-answers. This documentation records the defects. The published law files, date records and tools remain unchanged.
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-## The dates, and which one we use
+## Dates
 
-Each consolidated PDF carries the date it was produced (its CreationDate, for example `D:20260716145002-04'00'` for
-the Motor Car Act 1951). **Each commit is dated by that day**, at noon Bermuda time (UTC-4, or UTC-3 in daylight
-time), and the day is in the `In-force:` and `Consolidated:` trailers (`Date-source: pdf-created`). It is the day of
-the consolidation, so the text is the law as amended up to then. It is not the day any amendment took effect. Those
-days are in the history notes (`effective 23 December 2008`) and in [`data/amendments.csv`](data/amendments.csv),
-which does not turn one kind of date into the other. The latest effective day in each law's notes is in its
-`Latest-note-effective:` trailer. None of them is after the consolidation day. The site says it is "updated
-regularly" and gave "Laws amended up to: Friday, 16th October 2026" on the day of retrieval (2026-10-28).
+Each commit is dated at noon, Bermuda time, on the day its consolidated PDF was produced, and carries that day in its `In-force:` and `Consolidated:` trailers (`Date-source: pdf-created`):
 
-The site prints text that is not yet in force in green. None of these six PDFs has any (every character is black),
-so there is no `future` branch. If a later PDF has green text, the build stops, so it cannot slip into `main`.
+- it is the day of the consolidation, the law as amended up to then, not the day any amendment took effect;
+- the days amendments took effect are in the history notes and `data/amendments.csv`, and each law's latest is in its `Latest-note-effective:` trailer; for all six it is earlier than the commit's day (the Constitution's latest change, by BR 122 / 2017, took effect on 21 August 2020; its PDF was produced on 19 October 2026), and these days are not applied to the commits or to `tools/in_force_on.py`;
+- for a day before a law's consolidation, `tools/in_force_on.py` says there is no version, because the source keeps none;
+- the site prints text not yet in force in green; none of these six PDFs has any, and the build stops if a later one does.
 
-`tools/in_force_on.py` answers for any day on or after a law's consolidation day. For an earlier day it says there is
-no version, because the source has none.
-
-## What "author" means
-
-Every law commit has the same author: `Attorney-General's Chambers, Bermuda (Bermuda Laws Online)
-<bermuda-laws-online@bermudalaws-bm.invalid>`, with `Kind: consolidated`. The address cannot exist. The author is the
-publisher of the consolidation, not a lawmaker. No line is credited to an amending law, because without the earlier
-text nobody can tell which words an amendment wrote. In this design, a change is credited to an amending law only when
-the source shows the text before and after it. When later consolidations are added, a change will be credited to an
-amending law only where a new history note names one. Otherwise it is labelled `Kind: unexplained` and authored by the
-publisher. The history notes name 174 distinct amending laws in 772 rows, and
-the "Amended by" lists hold 299 entries.
-
-## What it does not show
-
-- Any text before the current consolidation. Bermuda Laws Online has none. The "Annual Laws" (Acts and statutory
-  instruments as made, from 1993) are on the site but are not used here, and no amendment is replayed.
-- The rest of Bermuda's law. These six laws are a sample: the site lists consolidated laws only through its
-  interactive search, which needs a browser session, so each law here was asked for by its address.
-- Text formatting: italics, bold and the PDF's layout. Tables in the schedules are flattened to one line per printed
-  row, so a cell that wraps onto a second line can come after the next cell.
-- The crest, the running header and the page numbers.
-
-This is a research aid. The site says its consolidations "are provided for informational purposes only and do not yet
-have official sanction"; the authoritative text is the 1989 Revised Laws with replacement pages, the Annual Laws and
-the Gazette. The same is true of this repository.
+Every law commit is credited to the publisher, `Attorney-General's Chambers, Bermuda (Bermuda Laws Online)`, with `Kind: consolidated`: no line is credited to an amending law, because without the earlier text nobody can tell which words an amendment wrote. When later consolidations arrive, a change will be credited to an amending law only where a new history note names one.
 
 ## How it is checked
 
-`tools/build/` holds the build as it was run, and [`data/source-sha256.tsv`](data/source-sha256.tsv) the sha256 of
-every PDF it read. Before publishing, the build was checked for these things:
-- an independent word check (`tools/build/check_text.py`). The PDFs are read again with poppler's `pdftotext`, not
-  with the PyMuPDF reader the build uses, and the letters and digits of each law's files, in `index.txt` order, equal
-  those of its PDF, word for word and in order (the crest, the running header and the page numbers excepted);
-- `tools/build/check_repo.py`: every trailer parses, `In-force` is on every commit, there are no merges, dates never
-  go backwards, no date is after the build day, there are no carriage returns, and the on-date tool prints the
-  stored text;
-- two builds from the same retrieved PDFs give the same HEAD;
-- global-law's `check_corpus.py` passes.
+- `tools/build/check_text.py` reads every PDF again with poppler's `pdftotext`, not the PyMuPDF reader the build uses: the letters and digits of each law's files, in `index.txt` order, equal those of its PDF, word for word (the crest, running header and page numbers excepted).
+- `tools/build/check_repo.py` checks that every trailer parses, every commit carries `In-force:`, there are no merges or carriage returns, dates never go backwards and none is after the build day, and the date tool prints the stored text.
+- Two builds from the same PDFs gave the same HEAD, and global-law's `check_corpus.py` passes. [`data/source-sha256.tsv`](data/source-sha256.tsv) lists each PDF's sha256 and address, and [`REPRODUCE.md`](REPRODUCE.md) the steps.
 
-## How it is built
+## What it does not show
 
-Each PDF comes from its own address, `/Laws/Consolidated Law/<year>/<title>`, 6 in all. `parse_pdf.py` reads each PDF's lines with their position and
-font. It finds headings (bold), section numbers (in the margin), labels and paragraphs (by the gap above a line), and
-history notes (italic 8pt). `build.py` writes one commit per law with `git fast-import`. The agent that wrote these
-scripts was Claude Opus 5.5 (claude-opus-5-5), run as a Claude Code agent. No AI model takes part in building or checking, and no model wrote any legal text.
+- **Earlier text.** Bermuda Laws Online keeps no earlier consolidations, so each history starts at the current one. The Annual Laws (Acts and statutory instruments as made, from 1993) are on the site but not used, and no amendment is replayed.
+- **The rest of Bermuda's law.** These six laws are a sample: the site lists its consolidated laws only through an interactive search, so each was asked for by its address. No other law and no case law.
+- **The Motor Car Act's latest change.** Its text, produced on 16 July 2026, lacks what 2026 : 38 s. 2 changed from 19 October 2026 in seven files: `contents.md`, `end.md` and sections 54, 55, 59, 80 and 86.
+- **Formatting.** Italics, bold and the PDF layout are lost; schedule tables are flattened to one line per printed row, so a cell that wraps can come after the next cell.
+- **The authoritative text.** The site says its consolidations "are provided for informational purposes only and do not yet have official sanction"; the authoritative text is the 1989 Revised Laws with replacement pages, the Annual Laws and the Gazette.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Bermuda Laws Online](https://www.bermudalaws.bm) (Attorney-General's Chambers) | Consolidated laws, as PDFs | no, only the current consolidation | Each PDF from its own address (`/Laws/Consolidated Law/<year>/<title>`); the history notes and "Amended by" lists name each amending law and the day it took effect |
 
 ## Licence
 
-Source: Bermuda Laws Online (https://www.bermudalaws.bm), Attorney-General's Chambers, Government of Bermuda. The site
-says: "This website and its contents are Crown Copyright The Government of Bermuda - All Rights Reserved". Bermuda law
-has no exclusion for official texts. The Copyright and Designs Act 2004, s. 199(1), says "Her Majesty is entitled to
-copyright in every Act of the Legislature", and s. 199(2) says the copyright lasts for 50 years from the end of the
-year of Assent. The site sets no terms of use. The wording was
-not changed; it was only split into files and lines. **This repository is private, and it must stay private unless
-the Government of Bermuda gives permission.** Lexifina's own contributions (the tools, the arrangement and the commit
-messages) are CC0. See [`LICENSE`](LICENSE) and [`SOURCES.md`](SOURCES.md).
+See [`LICENSE`](LICENSE). The legal text is Crown copyright (Copyright and Designs Act 2004, s. 199(1): "Her Majesty is entitled to copyright in every Act of the Legislature"); the site says "This website and its contents are Crown Copyright The Government of Bermuda - All Rights Reserved", sets no terms of use, and has given no licence to reuse it. Lexifina's own contributions (the tools, the arrangement into files, the commit messages and the data tables) are CC0 1.0.
+
+No AI model wrote or changed legal text, and none runs at build time; the scripts were written by an AI model, Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
