@@ -33,6 +33,10 @@ and the consolidations "are provided for informational purposes only and do not 
 no bulk download. The list of consolidated laws is in the site's interactive search, which was not
 used. Each PDF comes from its own address.
 
+On 2026-11-26 the repository's owner confirmed that this repository stays public, with the legal text under the
+site's own terms ("Crown Copyright ... All Rights Reserved"; Copyright and Designs Act 2004, s. 199) as LICENSE
+states, and Lexifina's own contributions under CC0 1.0.
+
 ## What the build produced
 
 - 6 laws, 725 section and schedule files, 400 history notes, 299 "Amended by" entries.
