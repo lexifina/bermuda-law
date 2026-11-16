@@ -59,6 +59,7 @@ Every law commit is credited to the publisher, `Attorney-General's Chambers, Ber
 - `tools/build/check_text.py` reads every PDF again with poppler's `pdftotext`, not the PyMuPDF reader the build uses: the letters and digits of each law's files, in `index.txt` order, equal those of its PDF, word for word (the crest, running header and page numbers excepted).
 - `tools/build/check_repo.py` checks that every trailer parses, every commit carries `In-force:`, there are no merges or carriage returns, dates never go backwards and none is after the build day, and the date tool prints the stored text.
 - Two builds from the same PDFs gave the same HEAD, and global-law's `check_corpus.py` passes. [`data/source-sha256.tsv`](data/source-sha256.tsv) lists each PDF's sha256 and address, and [`REPRODUCE.md`](REPRODUCE.md) the steps.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -79,6 +80,10 @@ Every law commit is credited to the publisher, `Attorney-General's Chambers, Ber
 See [`LICENSE`](LICENSE). The legal text is Crown copyright (Copyright and Designs Act 2004, s. 199(1): "Her Majesty is entitled to copyright in every Act of the Legislature"); the site says "This website and its contents are Crown Copyright The Government of Bermuda - All Rights Reserved", sets no terms of use, and has given no licence to reuse it. Lexifina's own contributions (the tools, the arrangement into files, the commit messages and the data tables) are CC0 1.0.
 
 No AI model wrote or changed legal text, and none runs at build time; the scripts were written by an AI model, Claude Opus 5.5 (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
