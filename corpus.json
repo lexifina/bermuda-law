@@ -1,12 +1,12 @@
 {
   "corpus": "bm/national/acts",
-  "name": "Laws of Bermuda (six consolidated laws from Bermuda Laws Online)",
+  "name": "Laws of Bermuda (consolidated laws from Bermuda Laws Online)",
   "label": "Bermuda",
   "language": "en",
-  "acts": 6,
+  "acts": 35,
   "history": "current-only",
-  "history_from": "2022-06-29",
-  "record_to": "2026-10-19",
+  "history_from": "2008-05-08",
+  "record_to": "2026-11-09",
   "record_note": "Bermuda Laws Online publishes only the current consolidation, so each law has one version here: the text as of the day its PDF was produced. Earlier text is not available; history notes and \"Amended by\" lists are kept as text and in data/amendments.csv.",
   "checked_on": "2026-10-28",
   "built": "2026-10-28",
@@ -22,7 +22,7 @@
     "before_1970": "clamped to 1970-01-01"
   },
   "author": {
-    "consolidated": "Attorney-General's Chambers, Bermuda (Bermuda Laws Online)",
+    "consolidated": "the last amending law in the law's \"Amended by\" list (else the law itself)",
     "amendment": "none yet",
     "unexplained": "Attorney-General's Chambers, Bermuda (Bermuda Laws Online)"
   },
@@ -37,7 +37,7 @@
     }
   },
   "citation": {
-    "file": "^([a-z0-9-]+)/section-([0-9]+[A-Z]*)\\.md$",
+    "file": "^((?:acts|statutory-instruments)/[^/]+/[a-z0-9-]+|constitution)/section-([0-9]+[A-Z]*)\\.md$",
     "cites": "[Ss]ections? {n}([^0-9A-Za-z]|$)"
   },
   "tool": "tools/in_force_on.py"
