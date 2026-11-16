@@ -25,6 +25,9 @@ gives the same hashes (`--verify-rebuild` builds twice into temporary folders an
 import argparse
 import datetime as dt
 import io
+import json
+from concurrent.futures import ProcessPoolExecutor
+from concurrent.futures.process import BrokenProcessPool
 import re
 import shutil
 import subprocess
@@ -38,7 +41,7 @@ HERE = Path(__file__).parent
 CACHE = HERE / '.cache'
 sys.path.insert(0, str(HERE))
 from acts import ACTS  # noqa: E402
-from parse_pdf import parse  # noqa: E402
+from parse_pdf import green, parse  # noqa: E402
 
 COMMITTER = 'Lexifina <bermuda-law@lexifina.com>'
 PUBLISHER = "Attorney-General's Chambers, Bermuda (Bermuda Laws Online) <bermuda-laws-online@bermudalaws-bm.invalid>"
@@ -141,9 +144,11 @@ def note_rows(act_id: str, path: str, note: str) -> list[list[str]]:
 def build_act(act: dict, today: str) -> dict:
     pdf = CACHE / f"{act['id']}.pdf"
     info = pdf_info(pdf)
-    if info['colours'] != [0]:
-        sys.exit(f"{act['id']}: non-black text {info['colours']} (green = not yet in force); handle it before building")
-    res = parse(str(pdf), act)
+    coloured = any(green(c) for c in info['colours'])
+    res = parse(str(pdf), act, black_only=coloured)
+    if not res['files']:
+        raise ValueError(f"no text layer (a scanned image, {info['pages']} pages; producer {info['producer'] or 'unknown'})")
+    future = parse(str(pdf), act) if coloured else None
     files = {f"{act['id']}/{p}": t for p, t in res['files'].items()}
     files[f"{act['id']}/index.txt"] = '\n'.join(res['order']) + '\n'
     amend = []
@@ -165,7 +170,16 @@ def build_act(act: dict, today: str) -> dict:
     if effective and effective[-1] > day:
         print(f"note: {act['id']} has a history note effective {effective[-1]}, after its consolidation {day}")
     units = [p for p in res['order'] if p.rsplit('/', 1)[-1].startswith(('section-', 'schedule'))]
-    return {'act': act, 'files': files, 'amend': amend, 'listed': listed, 'day': day, 'info': info,
+    kind = info['subject'] or 'unknown'
+    kind_label = {'Statute': 'Act (Statute)', 'Regulation - Statutory Instruments': 'Statutory instrument'}.get(kind, kind)
+    future_files = None
+    if future is not None:
+        future_files = {f"{act['id']}/{p}": t for p, t in future['files'].items()}
+        future_files[f"{act['id']}/index.txt"] = '\n'.join(future['order']) + '\n'
+        if future_files == files:
+            future_files = None
+    return {'act': act, 'files': files, 'amend': amend, 'kind': kind, 'kind_label': kind_label,
+            'future_files': future_files, 'listed': listed, 'day': day, 'info': info,
             'number': number, 'units': len(units), 'notes': len(res['notes']), 'latest_effective':
             effective[-1] if effective else '', 'url': f"{SITE}/Laws/Consolidated%20Law/{act['year']}/"
             + act['path_title'].replace(' ', '%20')}
@@ -205,16 +219,77 @@ def fast_import(repo: Path, built: list[dict], docs: dict[str, bytes], doc_day: 
     msg = (f'Documentation: README, REPRODUCE, SOURCES, corpus.json, tools and data\n\n'
            f'Built from the bermudalaws.bm PDFs retrieved on {retrieved}.\n\n'
            f'Kind: documentation\nIn-force: {doc_day}\n').encode('utf-8')
-    w(b'commit refs/heads/main\n')
+    w(b'commit refs/heads/main\nmark :1\n')
     w(f'author {COMMITTER} {when}\ncommitter {COMMITTER} {when}\n'.encode())
     w(f'data {len(msg)}\n'.encode() + msg + b'\n')
     for path, data in sorted(docs.items()):
         w(f'M 100644 inline {path}\ndata {len(data)}\n'.encode('utf-8') + data + b'\n')
     w(b'\n')
+    # text printed in colour (not yet in force): a never-merged `future` branch, one commit per law, on top of main
+    w(b'reset refs/heads/future\nfrom :1\n\n')
+    for b in sorted((b for b in built if b.get('future_files')), key=lambda b: b['act']['id']):
+        seq += 1
+        when = git_date(doc_day, seq)
+        a = b['act']
+        msg = (f"{a['title']}: with the text printed in colour (not yet in force)\n\n"
+               f"The whole of the consolidated PDF of {b['day']}, including the parts Bermuda Laws Online prints in\n"
+               f"colour, its mark for provisions not yet in force. main leaves those parts out. The PDF gives no day\n"
+               f"on which they take effect, so this branch is never merged.\n\n"
+               f"Kind: not-yet-in-force\nIn-force: unknown\nConsolidated: {b['day']}\nLaw: {a['title']}\n"
+               f"Source: {b['url']}\n").encode('utf-8')
+        w(b'commit refs/heads/future\n')
+        w(f'author {PUBLISHER} {when}\ncommitter {COMMITTER} {when}\n'.encode('utf-8'))
+        w(f'data {len(msg)}\n'.encode() + msg + b'\n')
+        for path in sorted(set(b['files']) - set(b['future_files'])):
+            w(f'D {path}\n'.encode('utf-8'))
+        for path, text in sorted(b['future_files'].items()):
+            if b['files'].get(path) != text:
+                t = text.encode('utf-8')
+                w(f'M 100644 inline {path}\ndata {len(t)}\n'.encode('utf-8') + t + b'\n')
+        w(b'\n')
     r = subprocess.run(['git', '-C', str(repo), 'fast-import', '--quiet', '--force'], input=buf.getvalue(),
                        capture_output=True)
     if r.returncode:
         sys.exit(r.stderr.decode('utf-8', 'replace')[-3000:])
+
+
+def _one(args):
+    act, today = args
+    try:
+        return build_act(act, today), None
+    except SystemExit as e:
+        return None, [act['id'], act['url'], str(e)]
+    except Exception as e:  # noqa: BLE001 - recorded in data/unreadable.csv, not fatal
+        return None, [act['id'], act['url'], f'{type(e).__name__}: {e}']
+
+
+def build_all(today: str) -> tuple[list[dict], list[list[str]]]:
+    """Parse every law whose PDF is cached (4 worker processes; the result does not depend on their order)."""
+    status = json.loads((CACHE / 'status.json').read_text('utf-8'))
+    built, skipped, todo = [], [], []
+    for a in ACTS:
+        st = status.get(a['id'])
+        if not st:
+            skipped.append([a['id'], a['url'], 'not fetched'])
+        elif not st.get('ok'):
+            skipped.append([a['id'], a['url'], f"http {st.get('http')} {st.get('content_type')}: no PDF"])
+        else:
+            todo.append((a, today))
+    try:
+        with ProcessPoolExecutor(4) as ex:
+            results = list(ex.map(_one, todo, chunksize=8))
+    except BrokenProcessPool:  # a worker died (e.g. it read status.json while fetch.py was writing it): go serial
+        print('worker pool broke; parsing serially', flush=True)
+        results = [_one(t) for t in todo]
+    for b, s in results:
+        if b:
+            built.append(b)
+        else:
+            skipped.append(s)
+    skipped.sort()
+    for s in skipped:
+        print('skipped:', *s, flush=True)
+    return built, skipped
 
 
 def build(repo: Path, today: str) -> str:
@@ -222,10 +297,11 @@ def build(repo: Path, today: str) -> str:
     retrieved = fo.read_text('utf-8').strip()
     if retrieved > today:
         sys.exit(f'retrieval date {retrieved} is after --today {today}')
-    built = [build_act(a, today) for a in ACTS]
+    built, skipped = build_all(today)
     built.sort(key=lambda b: (b['day'], b['act']['id']))
     import docs as docmod
-    docs = docmod.render(built, today, retrieved)
+    cat = json.loads((CACHE / 'catalogue.json').read_text('utf-8'))
+    docs = docmod.render(built, today, retrieved, skipped, cat['expected'], ACTS)
     remote = None
     if (repo / '.git').exists():
         r = subprocess.run(['git', '-C', str(repo), 'remote', 'get-url', 'origin'], capture_output=True, text=True)

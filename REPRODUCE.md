@@ -46,3 +46,22 @@ git rev-list --merges --count main                      # 0
 git log --format=%B main | tr -cd '\r' | wc -c          # 0
 python tools/in_force_on.py 2026-10-28 motor-car-act-1951 section-7A
 ```
+
+## 2026-11-26: every consolidated law, appended to main
+
+main is append-only, so the expansion is added on top of the published history, not rebuilt:
+
+```sh
+# the catalogue of an earlier full search (data/catalogue.csv, 1,555 addresses), then each PDF
+python fetch_fast.py --seed catalogue_seed.csv     # 1 request in flight ~1 s apart, +1 per 30 clean answers, max 5
+python build.py ../bermuda-law-build --today 2026-11-26   # the whole build, flat <id>/ folders, in a scratch repo
+python append.py ../bermuda-law-build ../bermuda-law --push
+python catalogue.py                                # the site's search, for laws added since; then fetch and append
+```
+
+`append.py` (in `tools/build/` with the other scripts) adds to origin/main by one `git fast-import`, fast-forward only:
+one pure-rename commit to the layout of [STRUCTURE.md](STRUCTURE.md) (`Kind: layout`), then one commit for each law
+whose files differ from what main holds, in consolidation-day order (dated noon Bermuda time on the PDF's production
+day, `In-force-basis:` saying so), then a data commit (laws.csv, data/paths.json, corpus.json, data tables). A law
+whose PDF is unchanged makes no commit. The runner (`runner.py`, detached, below-normal priority) repeats this every
+15 minutes while PDFs arrive. No OCR: a PDF with no text layer is listed in data/unreadable.csv.

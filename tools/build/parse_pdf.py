@@ -39,11 +39,18 @@ def norm(s: str) -> str:
     return SPACES.sub(' ', SOFT.sub('', unicodedata.normalize('NFC', s))).strip()
 
 
+def green(colour: int) -> bool:
+    """The site's colour for provisions not yet in force (#339966). Other colours (blue e-mail links, the near-black
+    of an embedded emblem, white) are ordinary text."""
+    r, g, b = colour >> 16 & 255, colour >> 8 & 255, colour & 255
+    return g > r + 40 and g > b + 20
+
+
 class Frag:
     __slots__ = ('x0', 'x1', 'y', 'text', 'size', 'bold', 'italic', 'font')
 
-    def __init__(self, line: dict):
-        spans = [s for s in line['spans'] if s['text']]
+    def __init__(self, line: dict, black_only: bool = False):
+        spans = [s for s in line['spans'] if s['text'] and not (black_only and green(s['color']) and s['text'].strip())]
         self.x0, _, self.x1, _ = line['bbox']
         self.y = spans[0]['origin'][1] if spans else line['bbox'][3]
         self.text = ''.join(s['text'] for s in spans)
@@ -67,6 +74,7 @@ class Row:
         self.size = max(f.size for f in ink) if ink else 0
         self.bold = bool(ink) and all(f.bold for f in ink)
         self.italic = bool(ink) and all(f.italic for f in ink)
+        self.L, self.R = 108, 504  # the page's left margin and right edge (set by rows_of)
 
     @property
     def text(self) -> str:
@@ -92,36 +100,87 @@ class Row:
 
     @property
     def centred(self) -> bool:
-        return self.x0 > 112 and abs((self.x0 + self.x1) / 2 - 306) < 16 and self.label() is None
+        return self.x0 > self.L + 4 and abs((self.x0 + self.x1) / 2 - (self.L + self.R) / 2) < 16 \
+            and self.label() is None
 
 
-def rows_of(pdf_path: str, title: str) -> list[Row]:
+HEADER = re.compile(r'^(?:Title \d+[A-Z]?|Laws of Bermuda|Item \d+[0-9A-Za-z().]*|Laws of Bermuda Item \d+[0-9A-Za-z().]*)$',
+                    re.I)
+FOOTER = re.compile(r'^(?:\d{1,4}|\d{0,4}1989Revision\d{0,4})$', re.I)  # matched with the spaces taken out
+
+
+def _mode(values: list[float]) -> float:
+    counts: dict[int, int] = {}
+    for v in values:
+        counts[round(v)] = counts.get(round(v), 0) + 1
+    return max(sorted(counts), key=lambda k: counts[k]) if counts else 0
+
+
+def rows_of(pdf_path: str, title: str, black_only: bool = False) -> list[Row]:
+    """The printed rows of the PDF, without the crest, running headers and footers.
+    Two layouts: the XSL-formatted PDFs (margin x 108, running title header, bold page number) and the older
+    Word-made "1989 Revision" PDFs (mirrored margins, "Title 5 / Laws of Bermuda / Item 16(a)" header on odd pages,
+    the title on even pages, "1989 Revision" and the page number at the foot)."""
     doc = fitz.open(pdf_path)
     out: list[Row] = []
     tnorm = norm(title).upper()
+    pages: list[list[Frag]] = []
     for pno, page in enumerate(doc):
         frags = []
+        rev_y: list[float] = []
+        height = page.rect.height
         for b in page.get_text('dict', flags=fitz.TEXT_PRESERVE_WHITESPACE)['blocks']:
             for line in b.get('lines', []):
-                f = Frag(line)
-                if not f.text.strip():
+                f = Frag(line, black_only)
+                t = norm(f.text)
+                if not t:
                     continue
                 if pno == 0 and f.size <= 7.5 and f.y < 220:
                     continue  # the crest's letters ("QUO FATA FERUNT")
-                if pno > 0 and f.y < 125 and f.bold and norm(f.text).upper() == tnorm:
-                    continue  # running header: the title
-                if f.y > 670 and f.bold and re.fullmatch(r'\d{1,4}', norm(f.text)):
-                    continue  # page number
+                if f.y < 160 and (HEADER.match(t) or (pno > 0 and f.bold and t.upper().replace(' ', '') == tnorm.replace(' ', ''))):
+                    continue  # running header: the title, or "Title 5 / Laws of Bermuda / Item 16(a)"
+                if f.y > height * 0.75 and FOOTER.match(t.replace(' ', '')) and f.size >= 9.5 and (f.bold or f.italic or f.size >= 10.5):
+                    if 'revision' in t.lower().replace(' ', ''):
+                        rev_y.append(f.y)
+                    continue  # page number, "1989 Revision"
                 frags.append(f)
+        # a "1989 Revisio" + "n" footer split in two
+        split = [g for g in frags if g.y > height * 0.75 and g.italic and g.size >= 10.5
+                 and re.fullmatch(r'1989 ?Revisi?o?', norm(g.text))]
+        rev_y += [g.y for g in split]
+        if split:
+            frags = [g for g in frags if g not in split and not (
+                g.y > height * 0.75 and g.italic and g.size >= 10.5 and norm(g.text) in ('n', 'on', 'ion'))]
+        # a page number in body type just above the "1989 Revision" footer, away from the section-number margin
+        rev = sorted(rev_y)
+        if rev:
+            frags = [g for g in frags if not (re.fullmatch(r'\d{1,4}', norm(g.text)) and rev[0] - 22 <= g.y < rev[0]
+                                              and g.size >= 9 and all(abs(g.x0 - x) > 4 for x in (108, 180)))]
+        # a running title wrapped onto two printed rows ("... (RESTRICTED ZONES) ORDER" / "2010")
+        top = [g for g in frags if pno > 0 and g.y < 160 and g.bold and g.size >= 10]
+        if len(top) >= 2 and ''.join(norm(g.text) for g in top[:2]).upper().replace(' ', '') == tnorm.replace(' ', ''):
+            frags = [g for g in frags if g is not top[0] and g is not top[1]]
+        pages.append(frags)
+    geo = {}
+    for parity in (0, 1):
+        ps = [fr for k, fr in enumerate(pages) if k % 2 == parity and fr]
+        lefts = [min(f.x0 for f in fr if f.size >= 8.5) for fr in ps if any(f.size >= 8.5 for f in fr)]
+        rights = [max(f.x1 for f in fr if f.size >= 8.5) for fr in ps if any(f.size >= 8.5 for f in fr)]
+        geo[parity] = (_mode(lefts) or 108, _mode(rights) or 504)
+    for pno, frags in enumerate(pages):
         frags.sort(key=lambda f: (round(f.y, 1), f.x0))
         group: list[Frag] = []
+        rows = []
         for f in frags:
             if group and abs(f.y - group[0].y) > 2.0:
-                out.append(Row(pno, group))
+                rows.append(Row(pno, group))
                 group = []
             group.append(f)
         if group:
-            out.append(Row(pno, group))
+            rows.append(Row(pno, group))
+        for r in rows:
+            r.L, r.R = geo[pno % 2]
+        out += rows
     return out
 
 
@@ -190,9 +249,10 @@ class Unit:
         self.para = []
 
 
-def parse(pdf_path: str, act: dict) -> dict:
-    """{'files': {relative path: text}, 'order': [relative paths in printed order], 'notes': [(file, note)]}."""
-    rows = rows_of(pdf_path, act['title'])
+def parse(pdf_path: str, act: dict, black_only: bool = False) -> dict:
+    """{'files': {relative path: text}, 'order': [relative paths in printed order], 'notes': [(file, note)]}.
+    black_only: leave out text printed in green, the site's mark for provisions not yet in force."""
+    rows = rows_of(pdf_path, act['title'], black_only)
     learn(rows)
     sub_acts = act.get('sub_acts', {})          # centred heading -> folder, e.g. constitution: Schedule 2
     not_schedules = set(act.get('not_schedules', []))
@@ -222,6 +282,20 @@ def parse(pdf_path: str, act: dict) -> dict:
         units.append(cur)
         return cur
 
+    def section_start(k: int) -> bool:
+        """Row k is a bold heading at the left margin whose next row starts with a section number at the margin."""
+        r = rows[k]
+        if not (r.bold and r.size >= 9 and r.x0 < r.L + 7):
+            return False
+        j = k + 1
+        while j < len(rows) and rows[j].bold and rows[j].x0 < rows[j].L + 7 and rows[j].page == rows[j - 1].page \
+                and rows[j].y - rows[j - 1].y < 13:
+            j += 1
+        if j >= len(rows):
+            return False
+        n = rows[j]
+        return bool(SECNUM.match(norm(n.frags[0].text))) and abs(n.frags[0].x0 - n.L) < 4
+
     front = start('title.md')
     i = 0
     prev: Row | None = None
@@ -229,7 +303,13 @@ def parse(pdf_path: str, act: dict) -> dict:
         r = rows[i]
         t = r.text
         if mode == 'front':
-            if t == 'TABLE OF CONTENTS':
+            if section_start(i):
+                cur.flush()
+                cur = None
+                folder = base
+                mode = 'body'
+                continue  # a section heading with no table of contents before it: reread in body mode
+            if t == 'TABLE OF CONTENTS' or (t.startswith('ARRANGEMENT OF ') and t.upper() == t):
                 mode = 'toc'
                 folder = base
                 start('contents.md')
@@ -304,17 +384,17 @@ def parse(pdf_path: str, act: dict) -> dict:
             prev = r
             i += 1
             continue
-        if r.bold and r.size >= 9 and r.x0 < 115 and not in_schedule:
+        if r.bold and r.size >= 9 and r.x0 < r.L + 7 and not in_schedule:
             # a section heading: one or more bold rows, then the section number on the next row
             head = [r]
             j = i + 1
-            while j < len(rows) and rows[j].bold and rows[j].x0 < 115 and rows[j].page == head[-1].page \
+            while j < len(rows) and rows[j].bold and rows[j].x0 < rows[j].L + 7 and rows[j].page == head[-1].page \
                     and rows[j].y - head[-1].y < 13:
                 head.append(rows[j])
                 j += 1
             nxt = rows[j] if j < len(rows) else None
             num = norm(nxt.frags[0].text) if nxt is not None else ''
-            if nxt is not None and SECNUM.match(num) and abs(nxt.frags[0].x0 - 108) < 4:
+            if nxt is not None and SECNUM.match(num) and abs(nxt.frags[0].x0 - nxt.L) < 4:
                 start(f'section-{num}.md')
                 cur.lines.append('# ' + ' '.join(h.text for h in head))
                 prev = head[-1]
@@ -337,7 +417,7 @@ def parse(pdf_path: str, act: dict) -> dict:
             continue
         new_para = (not cur.para or r.label() is not None or r.size != prev.size or r.italic != prev.italic
                     or (r.page == prev.page and r.y - prev.y > (11.8 if in_schedule else 13))
-                    or (r.page != prev.page and (prev.x1 < 495 or t.startswith('“')))
+                    or (r.page != prev.page and (prev.x1 < prev.R - 9 or t.startswith('“')))
                     or prev.centred)
         if new_para:
             cur.flush()
