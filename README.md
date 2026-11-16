@@ -1,5 +1,9 @@
 # Bermuda: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Bermudian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of Bermuda as a git history: one file per section or schedule, one commit per consolidation of a law, and the publisher of that consolidation as the commit's author. Bermuda Laws Online keeps only each law's current consolidation, so each law here has one version for now; later consolidations are added as new commits, and `git log` and `git blame` will then show what each one changed. Picking a date gives the text this record holds that day.
 
