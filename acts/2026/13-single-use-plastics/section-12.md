@@ -1,0 +1,7 @@
+## PART 3
+## ENFORCEMENT
+# Powers of entry, search and seizure
+12 (1) The Director may, for the purposes of enforcement and compliance with the provisions of this Act authorize a public officer of the Pollution Control section of the Department of Environment and Natural Resources to act on his behalf in accordance with this section, and the Director shall furnish each authorized officer with a Certificate of Designation signed by the Director and the public officer so designated.
+(2) The Director or an authorized officer may proceed to enter and search premises under this section where there is reasonable cause to believe that an offence has been or is being committed under this Act.
+(3) The Director or an authorized officer shall not make an entry under this section except with the consent of the owner, occupier or person in charge of the business or specified place, or under the authority of a warrant.
+(4) The Director or an authorized officer who has reason to believe that an offence has been or is being committed under this Act shall, for the purposes of enforcing and ensuring compliance at all reasonable times and on production of a Certificate of Designation (if an authorized officer), enter any business (other than premises or parts of premises used as a dwelling house) or specified place and while there may inspect, seize and detain any single-use plastic or documents that the Director or authorized officer believes may be required as evidence in proceedings under this Act.
